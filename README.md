@@ -10,3 +10,6 @@ Baby name frequency data adapted from https://www.ssa.gov/oact/babynames/limits.
 
 ## wbcd
 Wisconsin Breast Cancer Dataset adapted from https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+## word_search
+Word search puzzle adapted from https://www.puzzles.ca/
