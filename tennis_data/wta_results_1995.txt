@@ -1,0 +1,2529 @@
+Arantxa Sanchez Vicario, Fang Li
+Tami Whitlinger Jones, Petra Begerow
+Christina Singer, Marketa Kochta
+Zina Garrison, Kerry Anne Guse
+Meike Babel, Mana Endo
+Chanda Rubin, Kristine Kunce
+Karina Habsudova, Natalia Baudone
+Natalia Medvedeva, Magdalena Maleeva
+Mary Joe Fernandez, Els Callens
+Linda Wild, Pam Shriver
+Ruxandra Dragomir Ilie, Sandra Dopfer
+Amanda Coetzer, Angeles Montolio
+Naoko Sawamatsu, Ai Sugiyama
+Laurence Courtois, Katerina Kroupova
+Patty Fendick, Ann Grossman
+Kimiko Date Krumm, Elena Likhovtseva
+Jana Novotna, Patricia Hy Boulais
+Helena Sukova, Meredith Mcgrath
+Lisa Raymond, Yuka Yoshida
+Kristin Godridge, Nana Smith
+Angelica Gavaldon, Yvette Basting
+Joannette Kruger, Mariaan De Swardt
+Silke Meier, Jane Taylor
+Lori Mcneil, Alexia Dechaume Balleret
+Audra Keller, Sabine Hack
+Barbara Paulus, Emanuela Zardo
+Sabine Appelmans, Laura Golarsa
+Radka Bobkova, Petra Schwarz
+Elena Makarova, Tatiana Ignatieva
+Radomira Zrubakova, Nicole Arendt
+Sung Hee Park, Leila Meskhi
+Marianne Werdel Witmeyer, Gabriela Sabatini
+Natalia Zvereva, Alexandra Fusai
+Silvia Farina Elia, Gigi Fernandez
+Judith Wiesner, Rika Hiraki
+Shaun Stafford, Anne Miller
+Kyoko Nagatsuka, Barbara Schett
+Martina Hingis, Jolene Watanabe
+Sandra Cacic, Asa Carlsson
+Amy Frazier, Annabel Ellwood
+Anke Huber, Ludmila Richterova
+Siobhan Drake Brockman, Naoko Kijimuta
+Nicole Bradtke, Katarina Studenikova
+Yayuk Basuki, Ginger Helgeson
+Patricia Tarabini, Nicole Pratt
+Dally Randriantefy, Florencia Labat
+Elna Reinach, Rachel Mcquillan
+Mary Pierce, Tina Krizan
+Lindsay Davenport, Debbie Graham
+Wiltrud Probst, Elly Hakami
+Miriam Oremans, Shi Ting Wang
+Sandrine Testud, Caroline Vis
+Anna Smashnova, Elena Pampoulova
+Sarah Pitkowski Malcor, Hiromi Nagano
+Bettina Fulco, Noelle Van Lottum
+Brenda Schultz Mccarthy, Karin Kschwendt
+Irina Spirlea, Julie Halard Decugis
+Eugenia Maniokova, Mercedes Paz
+Beate Reinstadler, Petra Langrova
+Yone Kamio, Katerina Maleeva
+Kristie Boogert, Linda Ferrando
+Manon Bollegraf, Stephanie Rottier
+Veronika Martinek, Larisa Savchenko
+Conchita Martinez, Barbara Rittner
+Arantxa Sanchez Vicario, Tami Whitlinger Jones
+Zina Garrison, Christina Singer
+Meike Babel, Chanda Rubin
+Karina Habsudova, Natalia Medvedeva
+Mary Joe Fernandez, Linda Wild
+Amanda Coetzer, Ruxandra Dragomir Ilie
+Naoko Sawamatsu, Laurence Courtois
+Kimiko Date Krumm, Patty Fendick
+Jana Novotna, Helena Sukova
+Lisa Raymond, Kristin Godridge
+Angelica Gavaldon, Joannette Kruger
+Lori Mcneil, Silke Meier
+Barbara Paulus, Audra Keller
+Sabine Appelmans, Radka Bobkova
+Elena Makarova, Radomira Zrubakova
+Marianne Werdel Witmeyer, Sung Hee Park
+Natalia Zvereva, Silvia Farina Elia
+Judith Wiesner, Shaun Stafford
+Kyoko Nagatsuka, Martina Hingis
+Amy Frazier, Sandra Cacic
+Anke Huber, Siobhan Drake Brockman
+Yayuk Basuki, Nicole Bradtke
+Dally Randriantefy, Patricia Tarabini
+Mary Pierce, Elna Reinach
+Lindsay Davenport, Wiltrud Probst
+Sandrine Testud, Miriam Oremans
+Anna Smashnova, Sarah Pitkowski Malcor
+Brenda Schultz Mccarthy, Bettina Fulco
+Irina Spirlea, Eugenia Maniokova
+Yone Kamio, Beate Reinstadler
+Kristie Boogert, Manon Bollegraf
+Conchita Martinez, Veronika Martinek
+Arantxa Sanchez Vicario, Zina Garrison
+Karina Habsudova, Meike Babel
+Mary Joe Fernandez, Amanda Coetzer
+Naoko Sawamatsu, Kimiko Date Krumm
+Jana Novotna, Lisa Raymond
+Angelica Gavaldon, Lori Mcneil
+Barbara Paulus, Sabine Appelmans
+Marianne Werdel Witmeyer, Elena Makarova
+Natalia Zvereva, Judith Wiesner
+Kyoko Nagatsuka, Amy Frazier
+Anke Huber, Yayuk Basuki
+Mary Pierce, Dally Randriantefy
+Lindsay Davenport, Sandrine Testud
+Brenda Schultz Mccarthy, Anna Smashnova
+Irina Spirlea, Yone Kamio
+Conchita Martinez, Kristie Boogert
+Arantxa Sanchez Vicario, Karina Habsudova
+Naoko Sawamatsu, Mary Joe Fernandez
+Angelica Gavaldon, Jana Novotna
+Marianne Werdel Witmeyer, Barbara Paulus
+Natalia Zvereva, Kyoko Nagatsuka
+Mary Pierce, Anke Huber
+Lindsay Davenport, Brenda Schultz Mccarthy
+Conchita Martinez, Irina Spirlea
+Arantxa Sanchez Vicario, Naoko Sawamatsu
+Marianne Werdel Witmeyer, Angelica Gavaldon
+Mary Pierce, Natalia Zvereva
+Conchita Martinez, Lindsay Davenport
+Arantxa Sanchez Vicario, Marianne Werdel Witmeyer
+Mary Pierce, Conchita Martinez
+Mary Pierce, Arantxa Sanchez Vicario
+Arantxa Sanchez Vicario, Sung Hee Park
+Sarah Pitkowski Malcor, Tatiana Ignatieva
+Silke Meier, Sandra Cacic
+Beate Reinstadler, Zina Garrison
+Debbie Graham, Barbara Paulus
+Anna Smashnova, Marketa Kochta
+Karina Habsudova, Maria Strandlund Tomsvik
+Amy Frazier, Natalia Medvedeva
+Ai Sugiyama, Helena Sukova
+Laurence Courtois, Shaun Stafford
+Jolene Watanabe, Audrey Sidot
+Lea Ghirardi, Mercedes Paz
+Chanda Rubin, Elena Makarova
+Meike Babel, Stephanie Rottier
+Petra Schwarz, Radomira Zrubakova
+Jana Novotna, Sandra Dopfer
+Mary Pierce, Nicole Bradtke
+Christina Singer, Kristine Kunce
+Dominique Monami, Alexia Dechaume Balleret
+Florencia Labat, Wiltrud Probst
+Shi Ting Wang, Katerina Maleeva
+Elena Likhovtseva, Asa Carlsson
+Maria Jose Gaidano, Elena Pampoulova
+Iva Majoli, Mana Endo
+Kimiko Date Krumm, Ludmila Richterova
+Virginie Buisson, Noelle Van Lottum
+Meredith Mcgrath, Andrea Temesvari
+Katarzyna Nowak, Kimberly Po Messerli
+Mariaan De Swardt, Nathalie Dechy
+Martina Hingis, Judith Wiesner
+Sandrine Testud, Erika De Lone
+Lindsay Davenport, Min Tang
+Magdalena Maleeva, Nicole Arendt
+Nathalie Tauziat, Yone Kamio
+Virginia Ruano Pascual, Isabelle Demongeot
+Patty Fendick, Silvia Farina Elia
+Ruxandra Dragomir Ilie, Petra Thoren
+Linda Wild, Amelie Cocheteux
+Nancy Feber, Tina Krizan
+Naoko Sawamatsu, Nathalie Herreman
+Paola Suarez, Mary Joe Fernandez
+Adriana Serra Zanetti, Barbara Rittner
+Veronika Martinek, Angelica Gavaldon
+Patricia Hy Boulais, Katarina Studenikova
+Ann Grossman, Neus Avila Bonastre
+Julie Halard Decugis, Alexandra Fusai
+Miriam Oremans, Caroline Dhenin
+Conchita Martinez, Sabine Hack
+Gabriela Sabatini, Radka Bobkova
+Amanda Coetzer, Silke Frankl
+Irina Spirlea, Audra Keller
+Catherine Mothes Jobkel, Marianne Werdel Witmeyer
+Kyoko Nagatsuka, Elna Reinach
+Els Callens, Yayuk Basuki
+Joannette Kruger, Karin Kschwendt
+Catalina Cristea, Natalia Zvereva
+Anke Huber, Barbara Schett
+Brenda Schultz Mccarthy, Larisa Savchenko
+Sabine Appelmans, Sandra Cecchini
+Tami Whitlinger Jones, Rachel Mcquillan
+Natalia Baudone, Amelie Mauresmo
+Kristie Boogert, Patricia Tarabini
+Petra Begerow, Lori Mcneil
+Steffi Graf, Ines Gorrochategui
+Arantxa Sanchez Vicario, Sarah Pitkowski Malcor
+Beate Reinstadler, Silke Meier
+Anna Smashnova, Debbie Graham
+Amy Frazier, Karina Habsudova
+Ai Sugiyama, Laurence Courtois
+Jolene Watanabe, Lea Ghirardi
+Chanda Rubin, Meike Babel
+Jana Novotna, Petra Schwarz
+Mary Pierce, Christina Singer
+Florencia Labat, Dominique Monami
+Shi Ting Wang, Elena Likhovtseva
+Iva Majoli, Maria Jose Gaidano
+Kimiko Date Krumm, Virginie Buisson
+Katarzyna Nowak, Meredith Mcgrath
+Martina Hingis, Mariaan De Swardt
+Lindsay Davenport, Sandrine Testud
+Nathalie Tauziat, Magdalena Maleeva
+Virginia Ruano Pascual, Patty Fendick
+Ruxandra Dragomir Ilie, Linda Wild
+Naoko Sawamatsu, Nancy Feber
+Adriana Serra Zanetti, Paola Suarez
+Veronika Martinek, Patricia Hy Boulais
+Julie Halard Decugis, Ann Grossman
+Conchita Martinez, Miriam Oremans
+Gabriela Sabatini, Amanda Coetzer
+Irina Spirlea, Catherine Mothes Jobkel
+Kyoko Nagatsuka, Els Callens
+Catalina Cristea, Joannette Kruger
+Anke Huber, Brenda Schultz Mccarthy
+Sabine Appelmans, Tami Whitlinger Jones
+Natalia Baudone, Kristie Boogert
+Steffi Graf, Petra Begerow
+Arantxa Sanchez Vicario, Beate Reinstadler
+Anna Smashnova, Amy Frazier
+Ai Sugiyama, Jolene Watanabe
+Chanda Rubin, Jana Novotna
+Mary Pierce, Florencia Labat
+Iva Majoli, Shi Ting Wang
+Kimiko Date Krumm, Katarzyna Nowak
+Lindsay Davenport, Martina Hingis
+Virginia Ruano Pascual, Nathalie Tauziat
+Ruxandra Dragomir Ilie, Naoko Sawamatsu
+Adriana Serra Zanetti, Veronika Martinek
+Conchita Martinez, Julie Halard Decugis
+Gabriela Sabatini, Irina Spirlea
+Kyoko Nagatsuka, Catalina Cristea
+Anke Huber, Sabine Appelmans
+Steffi Graf, Natalia Baudone
+Arantxa Sanchez Vicario, Anna Smashnova
+Chanda Rubin, Ai Sugiyama
+Iva Majoli, Mary Pierce
+Kimiko Date Krumm, Lindsay Davenport
+Virginia Ruano Pascual, Ruxandra Dragomir Ilie
+Conchita Martinez, Adriana Serra Zanetti
+Gabriela Sabatini, Kyoko Nagatsuka
+Steffi Graf, Anke Huber
+Arantxa Sanchez Vicario, Chanda Rubin
+Kimiko Date Krumm, Iva Majoli
+Conchita Martinez, Virginia Ruano Pascual
+Steffi Graf, Gabriela Sabatini
+Arantxa Sanchez Vicario, Kimiko Date Krumm
+Steffi Graf, Conchita Martinez
+Steffi Graf, Arantxa Sanchez Vicario
+Steffi Graf, Martina Hingis
+Amanda Coetzer, Petra Schwarz
+Kristie Boogert, Virginia Ruano Pascual
+Elena Makarova, Marianne Werdel Witmeyer
+Rennae Stubbs, Tatiana Ignatieva
+Ines Gorrochategui, Wiltrud Probst
+Lindsay Lee Waters, Pam Shriver
+Natalia Zvereva, Megan Miller
+Mary Joe Fernandez, Karina Habsudova
+Sung Hee Park, Alexandra Fusai
+Melanie Schnell, Katerina Maleeva
+Miriam Oremans, Ruxandra Dragomir Ilie
+Barbara Paulus, Kristine Kunce
+Christina Singer, Lizzy Jelfs
+Florencia Labat, Shirli Ann Siddall
+Lindsay Davenport, Gigi Fernandez
+Jana Novotna, Karin Kschwendt
+Jo Durie, Alexia Dechaume Balleret
+Judith Wiesner, Claudia Porwik
+Sandrine Testud, Nana Smith
+Nicole Bradtke, Elena Pampoulova
+Jana Nejedly, Julie Halard Decugis
+Rosalyn Fairbank, Petra Begerow
+Angelica Gavaldon, Iva Majoli
+Helena Sukova, Sandra Cecchini
+Yone Kamio, Jolene Watanabe
+Mariaan De Swardt, Laura Golarsa
+Isabelle Demongeot, Clare Wood
+Ann Grossman, Audra Keller
+Tami Whitlinger Jones, Kimberly Po Messerli
+Meike Babel, Flora Perfetti
+Kimiko Date Krumm, Sabine Appelmans
+Gabriela Sabatini, Lea Ghirardi
+Silvia Farina Elia, Elena Likhovtseva
+Dominique Monami, Patty Fendick
+Nancy Feber, Nicole Arendt
+Lisa Raymond, Julie Pullin
+Rachel Mcquillan, Linda Wild
+Irina Spirlea, Joannette Kruger
+Amy Frazier, Stephanie Rottier
+Naoko Sawamatsu, Lori Mcneil
+Maria Strandlund Tomsvik, Silke Meier
+Sandra Cacic, Katrina Adams
+Petra Kamstra, Sarah Pitkowski Malcor
+Andrea Temesvari, Gloria Pizzichini
+Shaun Stafford, Veronika Martinek
+Jana Kandarr, Karen Cross
+Conchita Martinez, Asa Carlsson
+Mary Pierce, Sandra Dopfer
+Nathalie Tauziat, Maria Vento Kabchi
+Yayuk Basuki, Natalia Medvedeva
+Kyoko Nagatsuka, Debbie Graham
+Radomira Zrubakova, Anna Smashnova
+Laurence Courtois, Meredith Mcgrath
+Larisa Savchenko, Neus Avila Bonastre
+Brenda Schultz Mccarthy, Radka Bobkova
+Anke Huber, Tina Krizan
+Beate Reinstadler, Ai Sugiyama
+Patricia Hy Boulais, Silke Frankl
+Chanda Rubin, Ludmila Richterova
+Zina Garrison, Amanda Wainwright
+Elna Reinach, Marketa Kochta
+Mana Endo, Natalia Baudone
+Arantxa Sanchez Vicario, Katarina Studenikova
+Steffi Graf, Amanda Coetzer
+Kristie Boogert, Elena Makarova
+Ines Gorrochategui, Rennae Stubbs
+Natalia Zvereva, Lindsay Lee Waters
+Mary Joe Fernandez, Sung Hee Park
+Miriam Oremans, Melanie Schnell
+Christina Singer, Barbara Paulus
+Lindsay Davenport, Florencia Labat
+Jana Novotna, Jo Durie
+Judith Wiesner, Sandrine Testud
+Nicole Bradtke, Jana Nejedly
+Angelica Gavaldon, Rosalyn Fairbank
+Yone Kamio, Helena Sukova
+Mariaan De Swardt, Isabelle Demongeot
+Tami Whitlinger Jones, Ann Grossman
+Kimiko Date Krumm, Meike Babel
+Gabriela Sabatini, Silvia Farina Elia
+Nancy Feber, Dominique Monami
+Lisa Raymond, Rachel Mcquillan
+Irina Spirlea, Amy Frazier
+Naoko Sawamatsu, Maria Strandlund Tomsvik
+Petra Kamstra, Sandra Cacic
+Shaun Stafford, Andrea Temesvari
+Conchita Martinez, Jana Kandarr
+Nathalie Tauziat, Mary Pierce
+Yayuk Basuki, Kyoko Nagatsuka
+Radomira Zrubakova, Laurence Courtois
+Brenda Schultz Mccarthy, Larisa Savchenko
+Anke Huber, Beate Reinstadler
+Chanda Rubin, Patricia Hy Boulais
+Zina Garrison, Elna Reinach
+Arantxa Sanchez Vicario, Mana Endo
+Steffi Graf, Kristie Boogert
+Ines Gorrochategui, Natalia Zvereva
+Mary Joe Fernandez, Miriam Oremans
+Lindsay Davenport, Christina Singer
+Jana Novotna, Judith Wiesner
+Nicole Bradtke, Angelica Gavaldon
+Mariaan De Swardt, Yone Kamio
+Kimiko Date Krumm, Tami Whitlinger Jones
+Gabriela Sabatini, Nancy Feber
+Lisa Raymond, Irina Spirlea
+Petra Kamstra, Naoko Sawamatsu
+Conchita Martinez, Shaun Stafford
+Yayuk Basuki, Nathalie Tauziat
+Brenda Schultz Mccarthy, Radomira Zrubakova
+Anke Huber, Chanda Rubin
+Arantxa Sanchez Vicario, Zina Garrison
+Steffi Graf, Ines Gorrochategui
+Mary Joe Fernandez, Lindsay Davenport
+Jana Novotna, Nicole Bradtke
+Kimiko Date Krumm, Mariaan De Swardt
+Gabriela Sabatini, Lisa Raymond
+Conchita Martinez, Petra Kamstra
+Brenda Schultz Mccarthy, Yayuk Basuki
+Arantxa Sanchez Vicario, Anke Huber
+Steffi Graf, Mary Joe Fernandez
+Jana Novotna, Kimiko Date Krumm
+Conchita Martinez, Gabriela Sabatini
+Arantxa Sanchez Vicario, Brenda Schultz Mccarthy
+Steffi Graf, Jana Novotna
+Arantxa Sanchez Vicario, Conchita Martinez
+Steffi Graf, Arantxa Sanchez Vicario
+Steffi Graf, Amanda Coetzer
+Rita Grande, Anna Smashnova
+Nathalie Tauziat, Nicole Bradtke
+Pam Shriver, Rennae Stubbs
+Gigi Fernandez, Irina Spirlea
+Julie Halard Decugis, Alexia Dechaume Balleret
+Chanda Rubin, Flora Perfetti
+Helena Sukova, Isabelle Demongeot
+Natalia Zvereva, Jana Kandarr
+Mana Endo, Fang Li
+Larisa Savchenko, Beate Reinstadler
+Ann Grossman, Dally Randriantefy
+Amy Frazier, Stephanie Rottier
+Keri Phebus, Brie Rippner
+Tatjana Jecmenica, Natalia Medvedeva
+Mary Pierce, Mariaan De Swardt
+Arantxa Sanchez Vicario, Catalina Cristea
+Joannette Kruger, Shaun Stafford
+Maria Jose Gaidano, Barbara Rittner
+Ines Gorrochategui, Linda Wild
+Karin Kschwendt, Sarah Pitkowski Malcor
+Katrina Adams, Miriam Oremans
+Sabine Hack, Elna Reinach
+Mary Joe Fernandez, Judith Wiesner
+Gabriela Sabatini, Adriana Serra Zanetti
+Naoko Kijimuta, Els Callens
+Melanie Schnell, Maria Strandlund Tomsvik
+Sabine Appelmans, Elena Likhovtseva
+Patricia Hy Boulais, Virginia Ruano Pascual
+Christina Singer, Lea Ghirardi
+Martina Hingis, Nancy Feber
+Magdalena Maleeva, Jana Nejedly
+Kimiko Date Krumm, Silke Meier
+Lisa Raymond, Maria Vento Kabchi
+Florencia Labat, Elena Pampoulova
+Manon Bollegraf, Andrea Temesvari
+Jolene Watanabe, Katarzyna Nowak
+Angelica Gavaldon, Silvia Farina Elia
+Lindsay Lee Waters, Tami Whitlinger Jones
+Brenda Schultz Mccarthy, Audra Keller
+Lindsay Davenport, Petra Kamstra
+Zina Garrison, Kristie Boogert
+Radomira Zrubakova, Laxmi Poruri
+Nicole Arendt, Nana Smith
+Janet Lee, Barbara Schett
+Naoko Sawamatsu, Rachel Mcquillan
+Kimberly Po Messerli, Radka Bobkova
+Conchita Martinez, Kathy Rinaldi Stunkel
+Jana Novotna, Sandra Cecchini
+Asa Carlsson, Sandra Cacic
+Dominique Monami, Veronika Martinek
+Sandrine Testud, Paola Suarez
+Katarina Studenikova, Laurence Courtois
+Ai Sugiyama, Tatiana Ignatieva
+Natalia Baudone, Kyoko Nagatsuka
+Barbara Paulus, Iva Majoli
+Anke Huber, Yayuk Basuki
+Anne Miller, Karina Habsudova
+Elena Makarova, Meredith Mcgrath
+Lori Mcneil, Ludmila Richterova
+Marianne Werdel Witmeyer, Sung Hee Park
+Yone Kamio, Min Tang
+Erika De Lone, Petra Schwarz
+Monica Seles, Ruxandra Dragomir Ilie
+Steffi Graf, Rita Grande
+Nathalie Tauziat, Pam Shriver
+Gigi Fernandez, Julie Halard Decugis
+Chanda Rubin, Helena Sukova
+Natalia Zvereva, Mana Endo
+Ann Grossman, Larisa Savchenko
+Amy Frazier, Keri Phebus
+Mary Pierce, Tatjana Jecmenica
+Arantxa Sanchez Vicario, Joannette Kruger
+Maria Jose Gaidano, Ines Gorrochategui
+Katrina Adams, Karin Kschwendt
+Mary Joe Fernandez, Sabine Hack
+Gabriela Sabatini, Naoko Kijimuta
+Sabine Appelmans, Melanie Schnell
+Patricia Hy Boulais, Christina Singer
+Martina Hingis, Magdalena Maleeva
+Kimiko Date Krumm, Lisa Raymond
+Florencia Labat, Manon Bollegraf
+Angelica Gavaldon, Jolene Watanabe
+Brenda Schultz Mccarthy, Lindsay Lee Waters
+Zina Garrison, Lindsay Davenport
+Nicole Arendt, Radomira Zrubakova
+Naoko Sawamatsu, Janet Lee
+Conchita Martinez, Kimberly Po Messerli
+Jana Novotna, Asa Carlsson
+Sandrine Testud, Dominique Monami
+Katarina Studenikova, Ai Sugiyama
+Natalia Baudone, Barbara Paulus
+Anke Huber, Anne Miller
+Elena Makarova, Lori Mcneil
+Yone Kamio, Marianne Werdel Witmeyer
+Monica Seles, Erika De Lone
+Steffi Graf, Nathalie Tauziat
+Chanda Rubin, Gigi Fernandez
+Natalia Zvereva, Ann Grossman
+Amy Frazier, Mary Pierce
+Arantxa Sanchez Vicario, Maria Jose Gaidano
+Mary Joe Fernandez, Katrina Adams
+Gabriela Sabatini, Sabine Appelmans
+Martina Hingis, Patricia Hy Boulais
+Kimiko Date Krumm, Florencia Labat
+Brenda Schultz Mccarthy, Angelica Gavaldon
+Zina Garrison, Nicole Arendt
+Conchita Martinez, Naoko Sawamatsu
+Jana Novotna, Sandrine Testud
+Katarina Studenikova, Natalia Baudone
+Anke Huber, Elena Makarova
+Monica Seles, Yone Kamio
+Steffi Graf, Chanda Rubin
+Amy Frazier, Natalia Zvereva
+Mary Joe Fernandez, Arantxa Sanchez Vicario
+Gabriela Sabatini, Martina Hingis
+Brenda Schultz Mccarthy, Kimiko Date Krumm
+Conchita Martinez, Zina Garrison
+Jana Novotna, Katarina Studenikova
+Monica Seles, Anke Huber
+Steffi Graf, Amy Frazier
+Gabriela Sabatini, Mary Joe Fernandez
+Conchita Martinez, Brenda Schultz Mccarthy
+Monica Seles, Jana Novotna
+Steffi Graf, Gabriela Sabatini
+Monica Seles, Conchita Martinez
+Steffi Graf, Monica Seles
+Asa Carlsson, Petra Begerow
+Neus Avila Bonastre, Joannette Kruger
+Irina Spirlea, Sarah Pitkowski Malcor
+Virginia Ruano Pascual, Larisa Savchenko
+Eugenia Maniokova, Patricia Hy Boulais
+Ginger Helgeson, Mercedes Paz
+Ruxandra Dragomir Ilie, Alexandra Fusai
+Adriana Serra Zanetti, Rachel Viollet
+Chanda Rubin, Cristina Torrens Valero
+Laurence Courtois, Ann Grossman
+Nicole Arendt, Rachel Mcquillan
+Radka Bobkova, Audra Keller
+Katerina Kroupova, Manon Bollegraf
+Silvia Ramon Cortes, Debbie Graham
+Miriam Oremans, Petra Langrova
+Meike Babel, Anna Smashnova
+Elena Makarova, Patricia Tarabini
+Katarzyna Nowak, Silke Meier
+Tami Whitlinger Jones, Rene Simpson
+Wiltrud Probst, Maria Strandlund Tomsvik
+Silvia Farina Elia, Sabine Appelmans
+Sandra Cecchini, Petra Schwarz
+Bettina Fulco, Shaun Stafford
+Maria Jose Gaidano, Anne Miller
+Conchita Martinez, Asa Carlsson
+Irina Spirlea, Neus Avila Bonastre
+Virginia Ruano Pascual, Eugenia Maniokova
+Amanda Coetzer, Ginger Helgeson
+Magdalena Maleeva, Ruxandra Dragomir Ilie
+Chanda Rubin, Adriana Serra Zanetti
+Laurence Courtois, Nicole Arendt
+Zina Garrison, Radka Bobkova
+Sabine Hack, Katerina Kroupova
+Silvia Ramon Cortes, Miriam Oremans
+Meike Babel, Elena Makarova
+Katarzyna Nowak, Judith Wiesner
+Ines Gorrochategui, Tami Whitlinger Jones
+Wiltrud Probst, Silvia Farina Elia
+Bettina Fulco, Sandra Cecchini
+Gabriela Sabatini, Maria Jose Gaidano
+Conchita Martinez, Irina Spirlea
+Amanda Coetzer, Virginia Ruano Pascual
+Magdalena Maleeva, Chanda Rubin
+Laurence Courtois, Zina Garrison
+Sabine Hack, Silvia Ramon Cortes
+Katarzyna Nowak, Meike Babel
+Ines Gorrochategui, Wiltrud Probst
+Gabriela Sabatini, Bettina Fulco
+Conchita Martinez, Amanda Coetzer
+Magdalena Maleeva, Laurence Courtois
+Sabine Hack, Katarzyna Nowak
+Gabriela Sabatini, Ines Gorrochategui
+Conchita Martinez, Magdalena Maleeva
+Gabriela Sabatini, Sabine Hack
+Conchita Martinez, Gabriela Sabatini
+Julie Halard Decugis, Kristin Godridge
+Alexia Dechaume Balleret, Annabel Ellwood
+Karin Kschwendt, Sarah Pitkowski Malcor
+Nicole Bradtke, Patricia Hy Boulais
+Linda Wild, Rita Grande
+Kim De Weille, Bettina Fulco
+Virag Csurgo, Laura Golarsa
+Silvia Farina Elia, Emanuela Zardo
+Natalia Medvedeva, Sandrine Testud
+Ludmila Richterova, Alexandra Fusai
+Rachel Mcquillan, Noelle Van Lottum
+Mariaan De Swardt, Ann Grossman
+Fang Li, Nancy Feber
+Els Callens, Francesca Lubiani
+Elna Reinach, Silke Meier
+Ginger Helgeson, Caroline Vis
+Julie Halard Decugis, Alexia Dechaume Balleret
+Nicole Bradtke, Karin Kschwendt
+Kim De Weille, Linda Wild
+Silvia Farina Elia, Virag Csurgo
+Natalia Medvedeva, Ludmila Richterova
+Rachel Mcquillan, Mariaan De Swardt
+Fang Li, Els Callens
+Ginger Helgeson, Elna Reinach
+Nicole Bradtke, Julie Halard Decugis
+Silvia Farina Elia, Kim De Weille
+Natalia Medvedeva, Rachel Mcquillan
+Ginger Helgeson, Fang Li
+Nicole Bradtke, Silvia Farina Elia
+Ginger Helgeson, Natalia Medvedeva
+Nicole Bradtke, Ginger Helgeson
+Yayuk Basuki, Min Tang
+Linda Wild, Laxmi Poruri
+Mi Ra Jeon, Meilen Tu
+Lea Ghirardi, Claudia Porwik
+Jing Jing Chen, Karin Kschwendt
+Kristin Godridge, Elena Brioukhovets
+Ann Grossman, Eun Ha Kim
+Stephanie Rottier, Jing Qian Yi
+Petra Kamstra, Catalina Cristea
+Jolene Watanabe, Li Ling Chen
+Tessa Price, Ju Yeon Choi
+Shi Ting Wang, Sarah Pitkowski Malcor
+Shaun Stafford, Petra Winzenholler
+Fang Li, Eleni Rossides
+Li Li, Kim De Weille
+Elena Tatarkova, Dominique Monami
+Linda Wild, Yayuk Basuki
+Mi Ra Jeon, Lea Ghirardi
+Kristin Godridge, Jing Jing Chen
+Ann Grossman, Stephanie Rottier
+Petra Kamstra, Jolene Watanabe
+Shi Ting Wang, Tessa Price
+Shaun Stafford, Fang Li
+Elena Tatarkova, Li Li
+Linda Wild, Mi Ra Jeon
+Kristin Godridge, Ann Grossman
+Shi Ting Wang, Petra Kamstra
+Shaun Stafford, Elena Tatarkova
+Linda Wild, Kristin Godridge
+Shi Ting Wang, Shaun Stafford
+Linda Wild, Shi Ting Wang
+Nathalie Tauziat, Isabelle Demongeot
+Tatiana Ignatieva, Neus Avila Bonastre
+Ann Grossman, Marianne Werdel Witmeyer
+Julie Halard Decugis, Linda Wild
+Radomira Zrubakova, Anna Smashnova
+Silke Meier, Svetlana Komleva
+Andrea Temesvari, Eugenia Maniokova
+Petra Begerow, Larisa Savchenko
+Jana Kandarr, Helena Sukova
+Amanda Coetzer, Elna Reinach
+Irina Spirlea, Noelle Van Lottum
+Barbara Rittner, Janette Husarova
+Sandra Waechtershauser, Elena Likhovtseva
+Sabine Hack, Katerina Maleeva
+Martina Hingis, Maria Sanchez Lorenzo
+Ines Gorrochategui, Elena Pampoulova
+Nicole Bradtke, Sandra Cecchini
+Angelica Gavaldon, Elena Makarova
+Meike Babel, Virginia Ruano Pascual
+Tami Whitlinger Jones, Marzia Grossi
+Tatiana Panova, Lori Mcneil
+Naoko Sawamatsu, Kimberly Po Messerli
+Florencia Labat, Federica Fortuni
+Karina Habsudova, Nanne Dahlman
+Arantxa Sanchez Vicario, Nathalie Tauziat
+Tatiana Ignatieva, Ann Grossman
+Julie Halard Decugis, Radomira Zrubakova
+Kimiko Date Krumm, Silke Meier
+Andrea Temesvari, Meilen Tu
+Petra Begerow, Jana Kandarr
+Irina Spirlea, Amanda Coetzer
+Mary Joe Fernandez, Barbara Rittner
+Natalia Zvereva, Sandra Waechtershauser
+Sabine Hack, Martina Hingis
+Nicole Bradtke, Ines Gorrochategui
+Gabriela Sabatini, Angelica Gavaldon
+Magdalena Maleeva, Meike Babel
+Tami Whitlinger Jones, Tatiana Panova
+Florencia Labat, Naoko Sawamatsu
+Mary Pierce, Karina Habsudova
+Arantxa Sanchez Vicario, Tatiana Ignatieva
+Kimiko Date Krumm, Julie Halard Decugis
+Petra Begerow, Andrea Temesvari
+Irina Spirlea, Mary Joe Fernandez
+Natalia Zvereva, Sabine Hack
+Nicole Bradtke, Gabriela Sabatini
+Magdalena Maleeva, Tami Whitlinger Jones
+Mary Pierce, Florencia Labat
+Arantxa Sanchez Vicario, Kimiko Date Krumm
+Irina Spirlea, Petra Begerow
+Natalia Zvereva, Nicole Bradtke
+Magdalena Maleeva, Mary Pierce
+Arantxa Sanchez Vicario, Irina Spirlea
+Magdalena Maleeva, Natalia Zvereva
+Arantxa Sanchez Vicario, Magdalena Maleeva
+Tina Krizan, Lindsay Lee Waters
+Rosalyn Fairbank, Silke Frankl
+Kristin Godridge, Hye Jin Park
+Laurence Courtois, Clare Wood
+Erika De Lone, Katrina Adams
+Meilen Tu, Jolene Watanabe
+Hiromi Nagano, Veronica Stele
+Nino Louarsabishvili, Karen Cross
+Nicole Arendt, Manon Bollegraf
+Elna Reinach, Siobhan Drake Brockman
+Isabelle Demongeot, Joanne Moore
+Rika Hiraki, Claudia Porwik
+Rennae Stubbs, Min Tang
+Petra Kamstra, Kim De Weille
+Pam Shriver, Tatiana Panova
+Laura Golarsa, Rachel Mcquillan
+Mercedes Paz, Kerry Anne Guse
+Caroline Vis, Yvette Basting
+Tatjana Jecmenica, Dally Randriantefy
+Nancy Feber, Rita Grande
+Kristine Kunce, Janet Lee
+Els Callens, Ai Sugiyama
+Laxmi Poruri, Maria Strandlund Tomsvik
+Melanie Schnell, Jo Durie
+Lori Mcneil, Tina Krizan
+Kristin Godridge, Rosalyn Fairbank
+Laurence Courtois, Erika De Lone
+Meilen Tu, Meredith Mcgrath
+Miriam Oremans, Hiromi Nagano
+Nicole Arendt, Nino Louarsabishvili
+Elna Reinach, Isabelle Demongeot
+Larisa Savchenko, Rika Hiraki
+Christina Singer, Rennae Stubbs
+Pam Shriver, Petra Kamstra
+Laura Golarsa, Mercedes Paz
+Zina Garrison, Caroline Vis
+Nathalie Tauziat, Tatjana Jecmenica
+Kristine Kunce, Nancy Feber
+Els Callens, Laxmi Poruri
+Gigi Fernandez, Melanie Schnell
+Lori Mcneil, Kristin Godridge
+Laurence Courtois, Meilen Tu
+Nicole Arendt, Miriam Oremans
+Elna Reinach, Larisa Savchenko
+Christina Singer, Pam Shriver
+Zina Garrison, Laura Golarsa
+Kristine Kunce, Nathalie Tauziat
+Els Callens, Gigi Fernandez
+Lori Mcneil, Laurence Courtois
+Elna Reinach, Nicole Arendt
+Zina Garrison, Christina Singer
+Els Callens, Kristine Kunce
+Lori Mcneil, Elna Reinach
+Zina Garrison, Els Callens
+Zina Garrison, Lori Mcneil
+Debbie Graham, Mana Endo
+Patricia Hy Boulais, Min Tang
+Petra Langrova, Patricia Tarabini
+Maria Strandlund Tomsvik, Katarzyna Nowak
+Ruxandra Dragomir Ilie, Beate Reinstadler
+Radka Bobkova, Barbara Schett
+Megan Miller, Silke Frankl
+Lindsay Lee Waters, Annabel Ellwood
+Asa Carlsson, Kerry Anne Guse
+Ai Sugiyama, Magdalena Grzybowska
+Karen Cross, Maria Jose Gaidano
+Els Callens, Lizzy Jelfs
+Patty Fendick, Sandra Dopfer
+Ludmila Richterova, Kirrily Sharpe
+Clare Wood, Alexandra Fusai
+Chanda Rubin, Tina Krizan
+Patricia Hy Boulais, Debbie Graham
+Petra Langrova, Maria Strandlund Tomsvik
+Radka Bobkova, Ruxandra Dragomir Ilie
+Lindsay Lee Waters, Megan Miller
+Asa Carlsson, Ai Sugiyama
+Els Callens, Karen Cross
+Ludmila Richterova, Patty Fendick
+Chanda Rubin, Clare Wood
+Patricia Hy Boulais, Petra Langrova
+Lindsay Lee Waters, Radka Bobkova
+Asa Carlsson, Els Callens
+Ludmila Richterova, Chanda Rubin
+Patricia Hy Boulais, Lindsay Lee Waters
+Ludmila Richterova, Asa Carlsson
+Ludmila Richterova, Patricia Hy Boulais
+Mariaan De Swardt, Katrina Adams
+Kristie Boogert, Julie Halard Decugis
+Sabine Appelmans, Nathalie Tauziat
+Katarzyna Nowak, Jana Kandarr
+Barbara Paulus, Joannette Kruger
+Irina Spirlea, Elena Likhovtseva
+Helena Sukova, Lori Mcneil
+Clare Wood, Karina Habsudova
+Barbara Rittner, Ruxandra Dragomir Ilie
+Amanda Coetzer, Nicole Arendt
+Asa Carlsson, Samantha Smith
+Miriam Oremans, Katerina Maleeva
+Mariaan De Swardt, Steffi Graf
+Kristie Boogert, Sabine Appelmans
+Mary Joe Fernandez, Katarzyna Nowak
+Barbara Paulus, Irina Spirlea
+Helena Sukova, Clare Wood
+Magdalena Maleeva, Barbara Rittner
+Amanda Coetzer, Asa Carlsson
+Miriam Oremans, Jana Novotna
+Kristie Boogert, Mariaan De Swardt
+Mary Joe Fernandez, Barbara Paulus
+Magdalena Maleeva, Helena Sukova
+Amanda Coetzer, Miriam Oremans
+Mary Joe Fernandez, Kristie Boogert
+Amanda Coetzer, Magdalena Maleeva
+Mary Joe Fernandez, Amanda Coetzer
+Amanda Coetzer, Vanessa Webb
+Dally Randriantefy, Anna Smashnova
+Sabine Appelmans, Venus Williams
+Martina Hingis, Sandrine Testud
+Florencia Labat, Larisa Savchenko
+Angelica Gavaldon, Mana Endo
+Alexia Dechaume Balleret, Nanne Dahlman
+Julie Halard Decugis, Elna Reinach
+Judith Wiesner, Elena Likhovtseva
+Amy Frazier, Paola Suarez
+Ruxandra Dragomir Ilie, Silvia Farina Elia
+Patty Fendick, Elena Makarova
+Lea Ghirardi, Virginia Ruano Pascual
+Yone Kamio, Barbara Rittner
+Asa Carlsson, Karina Habsudova
+Helena Sukova, Shaun Stafford
+Kyoko Nagatsuka, Joannette Kruger
+Patricia Hy Boulais, Natalia Baudone
+Nicole Bradtke, Meredith Mcgrath
+Jana Nejedly, Tami Whitlinger Jones
+Irina Spirlea, Miriam Oremans
+Nathalie Tauziat, Meilen Tu
+Lori Mcneil, Yayuk Basuki
+Kimberly Po Messerli, Rennae Stubbs
+Amanda Coetzer, Steffi Graf
+Sabine Appelmans, Dally Randriantefy
+Martina Hingis, Florencia Labat
+Mary Pierce, Angelica Gavaldon
+Jana Novotna, Alexia Dechaume Balleret
+Judith Wiesner, Julie Halard Decugis
+Amy Frazier, Ruxandra Dragomir Ilie
+Iva Majoli, Patty Fendick
+Gabriela Sabatini, Lea Ghirardi
+Yone Kamio, Asa Carlsson
+Helena Sukova, Kyoko Nagatsuka
+Arantxa Sanchez Vicario, Patricia Hy Boulais
+Anke Huber, Nicole Bradtke
+Irina Spirlea, Jana Nejedly
+Nathalie Tauziat, Lori Mcneil
+Monica Seles, Kimberly Po Messerli
+Amanda Coetzer, Sabine Appelmans
+Mary Pierce, Martina Hingis
+Jana Novotna, Judith Wiesner
+Iva Majoli, Amy Frazier
+Gabriela Sabatini, Yone Kamio
+Helena Sukova, Arantxa Sanchez Vicario
+Anke Huber, Irina Spirlea
+Monica Seles, Nathalie Tauziat
+Amanda Coetzer, Mary Pierce
+Jana Novotna, Iva Majoli
+Gabriela Sabatini, Helena Sukova
+Monica Seles, Anke Huber
+Amanda Coetzer, Jana Novotna
+Monica Seles, Gabriela Sabatini
+Monica Seles, Amanda Coetzer
+Brenda Schultz Mccarthy, Jana Nejedly
+Meilen Tu, Els Callens
+Virginia Ruano Pascual, Petra Begerow
+Sandrine Testud, Katerina Maleeva
+Nathalie Tauziat, Erika De Lone
+Lindsay Lee Waters, Katarzyna Nowak
+Anne Miller, Magdalena Grzybowska
+Julie Halard Decugis, Larisa Savchenko
+Laurence Courtois, Angelica Gavaldon
+Rene Simpson, Patricia Hy Boulais
+Rennae Stubbs, Maria Jose Gaidano
+Lisa Raymond, Nicole Arendt
+Ines Gorrochategui, Sonya Jeyaseelan
+Dominique Monami, Adriana Serra Zanetti
+Shaun Stafford, Janette Husarova
+Amanda Coetzer, Katarina Studenikova
+Brenda Schultz Mccarthy, Meilen Tu
+Sandrine Testud, Virginia Ruano Pascual
+Lindsay Lee Waters, Nathalie Tauziat
+Julie Halard Decugis, Anne Miller
+Laurence Courtois, Rene Simpson
+Rennae Stubbs, Lisa Raymond
+Dominique Monami, Ines Gorrochategui
+Amanda Coetzer, Shaun Stafford
+Brenda Schultz Mccarthy, Sandrine Testud
+Lindsay Lee Waters, Julie Halard Decugis
+Rennae Stubbs, Laurence Courtois
+Dominique Monami, Amanda Coetzer
+Brenda Schultz Mccarthy, Lindsay Lee Waters
+Dominique Monami, Rennae Stubbs
+Brenda Schultz Mccarthy, Dominique Monami
+Lisa Raymond, Caroline Kuhlman
+Marianne Werdel Witmeyer, Yvette Basting
+Amy Frazier, Tami Whitlinger Jones
+Debbie Graham, Elna Reinach
+Maria Vento Kabchi, Beate Reinstadler
+Zina Garrison, Audra Keller
+Lori Mcneil, Rosalyn Fairbank
+Laurence Courtois, Kimberly Po Messerli
+Elena Likhovtseva, Sonya Jeyaseelan
+Chanda Rubin, Sophie Amiach
+Pam Shriver, Linda Wild
+Marketa Kochta, Katrina Adams
+Lisa Raymond, Natalia Zvereva
+Amy Frazier, Marianne Werdel Witmeyer
+Brenda Schultz Mccarthy, Debbie Graham
+Zina Garrison, Maria Vento Kabchi
+Laurence Courtois, Lori Mcneil
+Magdalena Maleeva, Elena Likhovtseva
+Chanda Rubin, Pam Shriver
+Gabriela Sabatini, Marketa Kochta
+Lisa Raymond, Amy Frazier
+Zina Garrison, Brenda Schultz Mccarthy
+Magdalena Maleeva, Laurence Courtois
+Gabriela Sabatini, Chanda Rubin
+Lisa Raymond, Zina Garrison
+Magdalena Maleeva, Gabriela Sabatini
+Magdalena Maleeva, Lisa Raymond
+Maria Sanchez Lorenzo, Patricia Hy Boulais
+Kristine Kunce, Caroline Vis
+Nicole Bradtke, Shi Ting Wang
+Barbara Rittner, Elena Savoldi
+Nicole Arendt, Clare Wood
+Christina Singer, Nino Louarsabishvili
+Radka Bobkova, Radomira Zrubakova
+Janet Lee, Barbara Schett
+Angelica Gavaldon, Tatiana Ignatieva
+Marianne Werdel Witmeyer, Natalia Medvedeva
+Elena Likhovtseva, Elna Reinach
+Maria Vento Kabchi, Natalia Baudone
+Ruxandra Dragomir Ilie, Manon Bollegraf
+Rachel Mcquillan, Meilen Tu
+Florencia Labat, Tatiana Panova
+Gigi Fernandez, Adriana Serra Zanetti
+Stephanie Rottier, Katarina Studenikova
+Ai Sugiyama, Nana Smith
+Kristie Boogert, Kyoko Nagatsuka
+Karin Kschwendt, Jolene Watanabe
+Nathalie Tauziat, Rita Grande
+Laura Garrone, Linda Wild
+Jana Nejedly, Sandrine Testud
+Catalina Cristea, Cristina Torrens Valero
+Steffi Graf, Maria Sanchez Lorenzo
+Nicole Bradtke, Kristine Kunce
+Barbara Rittner, Nicole Arendt
+Federica Fortuni, Christina Singer
+Anke Huber, Radka Bobkova
+Angelica Gavaldon, Janet Lee
+Elena Likhovtseva, Marianne Werdel Witmeyer
+Maria Vento Kabchi, Tamarine Tanasugarn
+Ruxandra Dragomir Ilie, Irina Spirlea
+Florencia Labat, Rachel Mcquillan
+Stephanie Rottier, Gigi Fernandez
+Brenda Schultz Mccarthy, Ai Sugiyama
+Kristie Boogert, Sabine Hack
+Nathalie Tauziat, Karin Kschwendt
+Jana Nejedly, Laura Garrone
+Conchita Martinez, Catalina Cristea
+Steffi Graf, Nicole Bradtke
+Barbara Rittner, Federica Fortuni
+Anke Huber, Angelica Gavaldon
+Elena Likhovtseva, Maria Vento Kabchi
+Florencia Labat, Ruxandra Dragomir Ilie
+Brenda Schultz Mccarthy, Stephanie Rottier
+Kristie Boogert, Nathalie Tauziat
+Conchita Martinez, Jana Nejedly
+Steffi Graf, Barbara Rittner
+Anke Huber, Elena Likhovtseva
+Brenda Schultz Mccarthy, Florencia Labat
+Conchita Martinez, Kristie Boogert
+Steffi Graf, Anke Huber
+Conchita Martinez, Brenda Schultz Mccarthy
+Steffi Graf, Conchita Martinez
+Nana Smith, Lizzy Jelfs
+Pam Shriver, Sophie Amiach
+Silvia Farina Elia, Irina Spirlea
+Chanda Rubin, Kristie Boogert
+Laura Golarsa, Natalia Medvedeva
+Linda Wild, Shaun Stafford
+Karin Kschwendt, Rosalyn Fairbank
+Christina Singer, Sonya Jeyaseelan
+Miriam Oremans, Maria Strandlund Tomsvik
+Zina Garrison, Wiltrud Probst
+Karen Cross, Kristine Kunce
+Nancy Feber, Megan Miller
+Elna Reinach, Tatjana Jecmenica
+Nicole Bradtke, Clare Wood
+Nathalie Tauziat, Tina Krizan
+Lori Mcneil, Rachel Mcquillan
+Tami Whitlinger Jones, Amelie Castera
+Sung Hee Park, Lea Ghirardi
+Isabelle Demongeot, Angelica Gavaldon
+Ines Gorrochategui, Silke Frankl
+Larisa Savchenko, Vanessa Webb
+Mana Endo, Julie Steven
+Patty Fendick, Jo Durie
+Nicole Arendt, Kimberly Po Messerli
+Kimiko Date Krumm, Nana Smith
+Pam Shriver, Silvia Farina Elia
+Chanda Rubin, Laura Golarsa
+Gigi Fernandez, Linda Wild
+Brenda Schultz Mccarthy, Karin Kschwendt
+Christina Singer, Miriam Oremans
+Zina Garrison, Karen Cross
+Yayuk Basuki, Nancy Feber
+Lisa Raymond, Elna Reinach
+Nathalie Tauziat, Nicole Bradtke
+Lori Mcneil, Tami Whitlinger Jones
+Helena Sukova, Sung Hee Park
+Marianne Werdel Witmeyer, Isabelle Demongeot
+Ines Gorrochategui, Larisa Savchenko
+Mana Endo, Patty Fendick
+Natalia Zvereva, Nicole Arendt
+Kimiko Date Krumm, Pam Shriver
+Chanda Rubin, Gigi Fernandez
+Christina Singer, Brenda Schultz Mccarthy
+Yayuk Basuki, Zina Garrison
+Nathalie Tauziat, Lisa Raymond
+Lori Mcneil, Helena Sukova
+Ines Gorrochategui, Marianne Werdel Witmeyer
+Natalia Zvereva, Mana Endo
+Chanda Rubin, Kimiko Date Krumm
+Christina Singer, Yayuk Basuki
+Nathalie Tauziat, Lori Mcneil
+Natalia Zvereva, Ines Gorrochategui
+Chanda Rubin, Christina Singer
+Nathalie Tauziat, Natalia Zvereva
+Nathalie Tauziat, Chanda Rubin
+Petra Begerow, Nanne Dahlman
+Ann Grossman, Elena Makarova
+Anke Huber, Katerina Maleeva
+Martina Hingis, Sandrine Testud
+Wiltrud Probst, Dally Randriantefy
+Judith Wiesner, Nadin Ercegovic
+Barbara Rittner, Elena Pampoulova
+Angelica Gavaldon, Meredith Mcgrath
+Alexia Dechaume Balleret, Christina Singer
+Brenda Schultz Mccarthy, Eugenia Maniokova
+Jana Kandarr, Silke Frankl
+Radomira Zrubakova, Caroline Dhenin
+Petra Begerow, Mary Pierce
+Anke Huber, Ann Grossman
+Martina Hingis, Jana Novotna
+Judith Wiesner, Wiltrud Probst
+Barbara Rittner, Angelica Gavaldon
+Magdalena Maleeva, Alexia Dechaume Balleret
+Jana Kandarr, Brenda Schultz Mccarthy
+Conchita Martinez, Radomira Zrubakova
+Anke Huber, Petra Begerow
+Martina Hingis, Judith Wiesner
+Magdalena Maleeva, Barbara Rittner
+Conchita Martinez, Jana Kandarr
+Martina Hingis, Anke Huber
+Conchita Martinez, Magdalena Maleeva
+Conchita Martinez, Martina Hingis
+Ruxandra Dragomir Ilie, Ludmila Richterova
+Katarzyna Nowak, Alexandra Fusai
+Amanda Coetzer, Tatiana Ignatieva
+Anna Smashnova, Zina Garrison
+Chanda Rubin, Radomira Zrubakova
+Rachel Mcquillan, Neus Avila Bonastre
+Lea Ghirardi, Debbie Graham
+Sarah Pitkowski Malcor, Radka Bobkova
+Lindsay Lee Waters, Sandra Cecchini
+Petra Schwarz, Sabine Appelmans
+Miriam Oremans, Adriana Serra Zanetti
+Silvia Farina Elia, Veronika Martinek
+Ginger Helgeson, Rosalyn Fairbank
+Larisa Savchenko, Asa Carlsson
+Joannette Kruger, Ines Gorrochategui
+Lisa Raymond, Nicole Arendt
+Sandra Cacic, Patricia Hy Boulais
+Meike Babel, Laurence Courtois
+Virginia Ruano Pascual, Sandra Dopfer
+Shaun Stafford, Elena Pampoulova
+Irina Spirlea, Meilen Tu
+Judith Wiesner, Julie Steven
+Kristie Boogert, Bettina Fulco
+Elena Makarova, Ann Grossman
+Arantxa Sanchez Vicario, Ruxandra Dragomir Ilie
+Amanda Coetzer, Katarzyna Nowak
+Chanda Rubin, Anna Smashnova
+Magdalena Maleeva, Rachel Mcquillan
+Lea Ghirardi, Gabriela Sabatini
+Sarah Pitkowski Malcor, Lindsay Lee Waters
+Petra Schwarz, Miriam Oremans
+Silvia Farina Elia, Lori Mcneil
+Ginger Helgeson, Sabine Hack
+Larisa Savchenko, Joannette Kruger
+Sandra Cacic, Lisa Raymond
+Natalia Zvereva, Meike Babel
+Iva Majoli, Virginia Ruano Pascual
+Irina Spirlea, Shaun Stafford
+Kristie Boogert, Judith Wiesner
+Conchita Martinez, Elena Makarova
+Arantxa Sanchez Vicario, Amanda Coetzer
+Magdalena Maleeva, Chanda Rubin
+Lea Ghirardi, Sarah Pitkowski Malcor
+Silvia Farina Elia, Petra Schwarz
+Larisa Savchenko, Ginger Helgeson
+Natalia Zvereva, Sandra Cacic
+Iva Majoli, Irina Spirlea
+Conchita Martinez, Kristie Boogert
+Magdalena Maleeva, Arantxa Sanchez Vicario
+Silvia Farina Elia, Lea Ghirardi
+Natalia Zvereva, Larisa Savchenko
+Conchita Martinez, Iva Majoli
+Magdalena Maleeva, Silvia Farina Elia
+Conchita Martinez, Natalia Zvereva
+Conchita Martinez, Magdalena Maleeva
+Nicole Arendt, Maria Vento Kabchi
+Fang Li, Alexia Dechaume Balleret
+Jolene Watanabe, Petra Schwarz
+Kyoko Nagatsuka, Irina Spirlea
+Judith Wiesner, Christina Singer
+Patricia Hy Boulais, Anne Miller
+Kristie Boogert, Linda Wild
+Meike Babel, Larisa Savchenko
+Lisa Raymond, Siobhan Drake Brockman
+Tami Whitlinger Jones, Silvia Farina Elia
+Yone Kamio, Rachel Mcquillan
+Annabel Ellwood, Ginger Helgeson
+Leila Meskhi, Sandra Cacic
+Elena Makarova, Ai Sugiyama
+Elena Likhovtseva, Asa Carlsson
+Chanda Rubin, Audra Keller
+Fang Li, Nicole Arendt
+Jolene Watanabe, Kyoko Nagatsuka
+Judith Wiesner, Patricia Hy Boulais
+Meike Babel, Kristie Boogert
+Tami Whitlinger Jones, Lisa Raymond
+Yone Kamio, Annabel Ellwood
+Leila Meskhi, Elena Makarova
+Elena Likhovtseva, Chanda Rubin
+Fang Li, Jolene Watanabe
+Judith Wiesner, Meike Babel
+Yone Kamio, Tami Whitlinger Jones
+Leila Meskhi, Elena Likhovtseva
+Fang Li, Judith Wiesner
+Leila Meskhi, Yone Kamio
+Leila Meskhi, Fang Li
+Maria Strandlund Tomsvik, Kimberly Po Messerli
+Tami Whitlinger Jones, Katarzyna Nowak
+Ann Grossman, Alexandra Fusai
+Nino Louarsabishvili, Virginia Ruano Pascual
+Erika De Lone, Anna Smashnova
+Sabine Hack, Silke Frankl
+Chanda Rubin, Nicole Arendt
+Asa Carlsson, Bettina Fulco
+Joannette Kruger, Shaun Stafford
+Sandra Cecchini, Stephanie Halsell
+Maria Sanchez Lorenzo, Debbie Graham
+Meike Babel, Sandra Cacic
+Steffi Graf, Maria Strandlund Tomsvik
+Tami Whitlinger Jones, Ann Grossman
+Nino Louarsabishvili, Iva Majoli
+Sabine Hack, Erika De Lone
+Asa Carlsson, Chanda Rubin
+Joannette Kruger, Zina Garrison
+Sandra Cecchini, Maria Sanchez Lorenzo
+Wiltrud Probst, Meike Babel
+Steffi Graf, Tami Whitlinger Jones
+Sabine Hack, Nino Louarsabishvili
+Asa Carlsson, Joannette Kruger
+Wiltrud Probst, Sandra Cecchini
+Steffi Graf, Sabine Hack
+Asa Carlsson, Wiltrud Probst
+Steffi Graf, Asa Carlsson
+Angeles Montolio, Neus Avila Bonastre
+Virginia Ruano Pascual, Alexia Dechaume Balleret
+Ann Grossman, Patricia Tarabini
+Mariam Ramon Climent, Dally Randriantefy
+Bettina Fulco, Radka Bobkova
+Nathalie Tauziat, Mariaan De Swardt
+Ruxandra Dragomir Ilie, Silke Frankl
+Maria Sanchez Lorenzo, Natalia Baudone
+Katarzyna Nowak, Sandrine Testud
+Ines Gorrochategui, Paola Suarez
+Wiltrud Probst, Rosa Maria Perez
+Veronika Martinek, Andrea Vieira
+Arantxa Sanchez Vicario, Angeles Montolio
+Ann Grossman, Virginia Ruano Pascual
+Amanda Coetzer, Mariam Ramon Climent
+Nathalie Tauziat, Bettina Fulco
+Ruxandra Dragomir Ilie, Maria Sanchez Lorenzo
+Katarzyna Nowak, Julie Halard Decugis
+Ines Gorrochategui, Wiltrud Probst
+Iva Majoli, Veronika Martinek
+Arantxa Sanchez Vicario, Ann Grossman
+Amanda Coetzer, Nathalie Tauziat
+Katarzyna Nowak, Ruxandra Dragomir Ilie
+Iva Majoli, Ines Gorrochategui
+Arantxa Sanchez Vicario, Amanda Coetzer
+Iva Majoli, Katarzyna Nowak
+Arantxa Sanchez Vicario, Iva Majoli
+Yayuk Basuki, Ann Grossman
+Chanda Rubin, Yvette Basting
+Amanda Coetzer, Sabine Hack
+Lisa Raymond, Zina Garrison
+Rachel Mcquillan, Marianne Werdel Witmeyer
+Elena Likhovtseva, Amy Frazier
+Naoko Sawamatsu, Shaun Stafford
+Tami Whitlinger Jones, Nana Smith
+Angelica Gavaldon, Kristine Kunce
+Mary Joe Fernandez, Sandra Cacic
+Patty Fendick, Ginger Helgeson
+Katerina Maleeva, Meilen Tu
+Arantxa Sanchez Vicario, Yayuk Basuki
+Chanda Rubin, Amanda Coetzer
+Natalia Zvereva, Lisa Raymond
+Elena Likhovtseva, Rachel Mcquillan
+Naoko Sawamatsu, Tami Whitlinger Jones
+Lindsay Davenport, Angelica Gavaldon
+Mary Joe Fernandez, Patty Fendick
+Conchita Martinez, Katerina Maleeva
+Arantxa Sanchez Vicario, Chanda Rubin
+Natalia Zvereva, Elena Likhovtseva
+Naoko Sawamatsu, Lindsay Davenport
+Mary Joe Fernandez, Conchita Martinez
+Natalia Zvereva, Arantxa Sanchez Vicario
+Mary Joe Fernandez, Naoko Sawamatsu
+Mary Joe Fernandez, Natalia Zvereva
+Maja Zivec Skulj, Maria Vento Kabchi
+Julie Steven, Eny Sulistyowati
+Alexandra Fusai, Olga Lugina
+Karin Kschwendt, Il Soon Kim
+Ludmilla Varmuza, Hiromi Nagano
+Jana Nejedly, Jenny Byrne
+Nicole Bradtke, Hiroko Mochizuki
+Marzia Grossi, Yvette Basting
+Maria Strandlund Tomsvik, Laurence Courtois
+Stephanie Rottier, Maaike Koutstaal
+Kristina Brandi, Mimma Chernovita
+Tamarine Tanasugarn, Laura Golarsa
+Rika Hiraki, Reka Vidats
+Dominique Monami, Ludmila Richterova
+Sung Hee Park, Natalia Soetrisno
+Mercedes Paz, Petra Begerow
+Anne Miller, Nancy Feber
+Tina Krizan, Dianne Van Rensburg
+Petra Kamstra, Yuka Yoshida
+Claudia Porwik, Misumi Miyauchi
+Noelle Van Lottum, Tessa Price
+Ei Iida, Elena Tatarkova
+Romana Tedjakusuma, Kim De Weille
+Catalina Cristea, Laxmi Poruri
+Sabine Hack, Maja Zivec Skulj
+Julie Steven, Alexandra Fusai
+Karin Kschwendt, Ludmilla Varmuza
+Jana Nejedly, Elena Pampoulova
+Florencia Labat, Nicole Bradtke
+Maria Strandlund Tomsvik, Marzia Grossi
+Stephanie Rottier, Kristina Brandi
+Shi Ting Wang, Tamarine Tanasugarn
+Irina Spirlea, Rika Hiraki
+Dominique Monami, Sung Hee Park
+Mercedes Paz, Anne Miller
+Tina Krizan, Ann Grossman
+Nana Smith, Petra Kamstra
+Claudia Porwik, Noelle Van Lottum
+Ei Iida, Romana Tedjakusuma
+Yayuk Basuki, Catalina Cristea
+Sabine Hack, Julie Steven
+Jana Nejedly, Karin Kschwendt
+Maria Strandlund Tomsvik, Florencia Labat
+Shi Ting Wang, Stephanie Rottier
+Irina Spirlea, Dominique Monami
+Tina Krizan, Mercedes Paz
+Nana Smith, Claudia Porwik
+Yayuk Basuki, Ei Iida
+Sabine Hack, Jana Nejedly
+Maria Strandlund Tomsvik, Shi Ting Wang
+Irina Spirlea, Tina Krizan
+Yayuk Basuki, Nana Smith
+Sabine Hack, Maria Strandlund Tomsvik
+Irina Spirlea, Yayuk Basuki
+Sabine Hack, Irina Spirlea
+Tatjana Jecmenica, Jolene Watanabe
+Yone Kamio, Elly Hakami
+Clare Wood, Manon Bollegraf
+Natalia Medvedeva, Natalia Baudone
+Audra Keller, Angeles Montolio
+Kristie Boogert, Ai Sugiyama
+Asa Carlsson, Stephanie Halsell
+Laxmi Poruri, Kimberly Po Messerli
+Stephanie Rottier, Nana Smith
+Claudia Porwik, Els Callens
+Silvia Farina Elia, Emanuela Zardo
+Rachel Mcquillan, Patty Fendick
+Ruxandra Dragomir Ilie, Adriana Serra Zanetti
+Sandra Cacic, Kristine Kunce
+Christina Singer, Petra Schwarz
+Elna Reinach, Rita Grande
+Janet Lee, Mariaan De Swardt
+Sandrine Testud, Lindsay Lee Waters
+Nicole Arendt, Elena Likhovtseva
+Eugenia Maniokova, Maria Strandlund Tomsvik
+Barbara Schett, Nicole Bradtke
+Ludmila Richterova, Nancy Feber
+Dominique Monami, Paola Suarez
+Petra Langrova, Joannette Kruger
+Nicole Jagerman, Alexia Dechaume Balleret
+Debbie Graham, Radomira Zrubakova
+Tami Whitlinger Jones, Elena Pampoulova
+Katarina Studenikova, Tina Krizan
+Meredith Mcgrath, Jana Nejedly
+Isabelle Demongeot, Rosalyn Fairbank
+Maureen Drake, Tatiana Ignatieva
+Ginger Helgeson, Radka Bobkova
+Arantxa Sanchez Vicario, Tatjana Jecmenica
+Marianne Werdel Witmeyer, Yone Kamio
+Angelica Gavaldon, Clare Wood
+Ines Gorrochategui, Natalia Medvedeva
+Tamarine Tanasugarn, Audra Keller
+Kristie Boogert, Nathalie Tauziat
+Miriam Oremans, Asa Carlsson
+Kimiko Date Krumm, Laxmi Poruri
+Lindsay Davenport, Stephanie Rottier
+Yayuk Basuki, Claudia Porwik
+Anna Smashnova, Silvia Farina Elia
+Rachel Mcquillan, Amy Frazier
+Amanda Coetzer, Ruxandra Dragomir Ilie
+Shi Ting Wang, Sandra Cacic
+Irina Spirlea, Christina Singer
+Gabriela Sabatini, Elna Reinach
+Anke Huber, Janet Lee
+Sandrine Testud, Barbara Rittner
+Lisa Raymond, Nicole Arendt
+Zina Garrison, Eugenia Maniokova
+Barbara Schett, Lori Mcneil
+Larisa Savchenko, Ludmila Richterova
+Dominique Monami, Sabine Appelmans
+Jana Novotna, Petra Langrova
+Natalia Zvereva, Nicole Jagerman
+Karina Habsudova, Debbie Graham
+Tami Whitlinger Jones, Katerina Maleeva
+Naoko Sawamatsu, Katarina Studenikova
+Judith Wiesner, Meredith Mcgrath
+Isabelle Demongeot, Kyoko Nagatsuka
+Maureen Drake, Gigi Fernandez
+Steffi Graf, Ginger Helgeson
+Marianne Werdel Witmeyer, Arantxa Sanchez Vicario
+Ines Gorrochategui, Angelica Gavaldon
+Kristie Boogert, Tamarine Tanasugarn
+Kimiko Date Krumm, Miriam Oremans
+Lindsay Davenport, Yayuk Basuki
+Rachel Mcquillan, Anna Smashnova
+Amanda Coetzer, Shi Ting Wang
+Gabriela Sabatini, Irina Spirlea
+Anke Huber, Sandrine Testud
+Lisa Raymond, Zina Garrison
+Larisa Savchenko, Barbara Schett
+Jana Novotna, Dominique Monami
+Natalia Zvereva, Karina Habsudova
+Naoko Sawamatsu, Tami Whitlinger Jones
+Judith Wiesner, Isabelle Demongeot
+Steffi Graf, Maureen Drake
+Marianne Werdel Witmeyer, Ines Gorrochategui
+Kimiko Date Krumm, Kristie Boogert
+Rachel Mcquillan, Lindsay Davenport
+Gabriela Sabatini, Amanda Coetzer
+Anke Huber, Lisa Raymond
+Jana Novotna, Larisa Savchenko
+Natalia Zvereva, Naoko Sawamatsu
+Steffi Graf, Judith Wiesner
+Kimiko Date Krumm, Marianne Werdel Witmeyer
+Gabriela Sabatini, Rachel Mcquillan
+Jana Novotna, Anke Huber
+Steffi Graf, Natalia Zvereva
+Kimiko Date Krumm, Gabriela Sabatini
+Steffi Graf, Jana Novotna
+Steffi Graf, Kimiko Date Krumm
+Beate Reinstadler, Ruxandra Dragomir Ilie
+Judith Wiesner, Asa Carlsson
+Miriam Oremans, Sabine Appelmans
+Barbara Rittner, Rennae Stubbs
+Elena Likhovtseva, Manon Bollegraf
+Helena Sukova, Ludmila Richterova
+Marianne Werdel Witmeyer, Laurence Courtois
+Kristie Boogert, Christina Singer
+Joannette Kruger, Marlene Weingartner
+Brenda Schultz Mccarthy, Marketa Kochta
+Lindsay Lee Waters, Els Callens
+Larisa Savchenko, Petra Begerow
+Jana Novotna, Beate Reinstadler
+Judith Wiesner, Miriam Oremans
+Anke Huber, Barbara Rittner
+Elena Likhovtseva, Helena Sukova
+Marianne Werdel Witmeyer, Kristie Boogert
+Joannette Kruger, Lindsay Davenport
+Lindsay Lee Waters, Brenda Schultz Mccarthy
+Magdalena Maleeva, Larisa Savchenko
+Judith Wiesner, Jana Novotna
+Anke Huber, Elena Likhovtseva
+Marianne Werdel Witmeyer, Joannette Kruger
+Magdalena Maleeva, Lindsay Lee Waters
+Anke Huber, Judith Wiesner
+Magdalena Maleeva, Marianne Werdel Witmeyer
+Anke Huber, Magdalena Maleeva
+Jana Novotna, Maja Muric
+Barbara Schett, Ruxandra Dragomir Ilie
+Petra Schwarz, Eva Melicharova
+Meredith Mcgrath, Els Callens
+Karina Habsudova, Petra Langrova
+Meike Babel, Katarzyna Nowak
+Elena Makarova, Eugenia Maniokova
+Sandra Cecchini, Ludmila Richterova
+Sabine Appelmans, Miriam Oremans
+Melanie Schnell, Radka Bobkova
+Beate Reinstadler, Wiltrud Probst
+Katharina Buche, Sandra Reichel
+Nanne Dahlman, Nathalie Tauziat
+Asa Carlsson, Lea Ghirardi
+Barbara Rittner, Flora Perfetti
+Iva Majoli, Christina Singer
+Jana Novotna, Barbara Schett
+Petra Schwarz, Meredith Mcgrath
+Meike Babel, Karina Habsudova
+Sandra Cecchini, Elena Makarova
+Sabine Appelmans, Melanie Schnell
+Beate Reinstadler, Katharina Buche
+Nanne Dahlman, Asa Carlsson
+Barbara Rittner, Iva Majoli
+Jana Novotna, Petra Schwarz
+Meike Babel, Sandra Cecchini
+Beate Reinstadler, Sabine Appelmans
+Barbara Rittner, Nanne Dahlman
+Jana Novotna, Meike Babel
+Barbara Rittner, Beate Reinstadler
+Jana Novotna, Barbara Rittner
+Kathy Rinaldi Stunkel, Lori Mcneil
+Mana Endo, Tami Whitlinger Jones
+Asa Carlsson, Venus Williams
+Florencia Labat, Sandrine Testud
+Kristie Boogert, Lindsay Lee Waters
+Anne Kremer, Anna Smashnova
+Gigi Fernandez, Erika De Lone
+Natalia Baudone, Joannette Kruger
+Yayuk Basuki, Shaun Stafford
+Ann Grossman, Larisa Savchenko
+Francesca Lubiani, Sonya Jeyaseelan
+Elena Makarova, Nicole Bradtke
+Jana Nejedly, Angelica Gavaldon
+Rita Grande, Nanne Dahlman
+Barbara Rittner, Elena Likhovtseva
+Christina Singer, Natalia Medvedeva
+Arantxa Sanchez Vicario, Kathy Rinaldi Stunkel
+Sabine Appelmans, Mana Endo
+Asa Carlsson, Lisa Raymond
+Natalia Zvereva, Florencia Labat
+Gabriela Sabatini, Kristie Boogert
+Karina Habsudova, Anne Kremer
+Chanda Rubin, Gigi Fernandez
+Natalia Baudone, Naoko Sawamatsu
+Yayuk Basuki, Mary Joe Fernandez
+Nathalie Tauziat, Ann Grossman
+Amanda Coetzer, Francesca Lubiani
+Lindsay Davenport, Elena Makarova
+Anke Huber, Jana Nejedly
+Rita Grande, Adriana Serra Zanetti
+Julie Halard Decugis, Barbara Rittner
+Conchita Martinez, Christina Singer
+Arantxa Sanchez Vicario, Sabine Appelmans
+Natalia Zvereva, Asa Carlsson
+Gabriela Sabatini, Karina Habsudova
+Chanda Rubin, Natalia Baudone
+Yayuk Basuki, Nathalie Tauziat
+Lindsay Davenport, Amanda Coetzer
+Anke Huber, Rita Grande
+Conchita Martinez, Julie Halard Decugis
+Arantxa Sanchez Vicario, Natalia Zvereva
+Chanda Rubin, Gabriela Sabatini
+Yayuk Basuki, Lindsay Davenport
+Conchita Martinez, Anke Huber
+Chanda Rubin, Arantxa Sanchez Vicario
+Conchita Martinez, Yayuk Basuki
+Conchita Martinez, Chanda Rubin
+Magdalena Maleeva, Elena Tatarkova
+Larisa Savchenko, Erika De Lone
+Laurence Courtois, Tatjana Jecmenica
+Asa Carlsson, Eugenia Kulikovskaya
+Meredith Mcgrath, Kristie Boogert
+Nancy Feber, Beate Reinstadler
+Julia Lutrova, Els Callens
+Elena Likhovtseva, Maria Strandlund Tomsvik
+Elena Makarova, Eugenia Maniokova
+Aleksandra Olsza, Sofia Prazeres
+Anna Kournikova, Marketa Kochta
+Sabine Appelmans, Isabelle Demongeot
+Nanne Dahlman, Silvia Farina Elia
+Olga Ivanova, Tatiana Poutchek
+Adriana Serra Zanetti, Tatiana Panova
+Helena Sukova, Clare Wood
+Magdalena Maleeva, Larisa Savchenko
+Asa Carlsson, Laurence Courtois
+Meredith Mcgrath, Nancy Feber
+Elena Likhovtseva, Julia Lutrova
+Elena Makarova, Aleksandra Olsza
+Sabine Appelmans, Anna Kournikova
+Nanne Dahlman, Olga Ivanova
+Adriana Serra Zanetti, Helena Sukova
+Magdalena Maleeva, Asa Carlsson
+Meredith Mcgrath, Elena Likhovtseva
+Elena Makarova, Sabine Appelmans
+Adriana Serra Zanetti, Nanne Dahlman
+Magdalena Maleeva, Meredith Mcgrath
+Elena Makarova, Adriana Serra Zanetti
+Magdalena Maleeva, Elena Makarova
+Yone Kamio, Miho Saeki
+Claudia Porwik, Emmanuelle Gagliardi
+Louise Pleming, Iwalani Mccalla
+Rika Hiraki, Shaun Stafford
+Mana Endo, Kristine Kunce
+Sandra Kleinova, Yuko Hosoki
+Misumi Miyauchi, Patricia Rogulski
+Sung Hee Park, Hiroko Mochizuki
+Jolene Watanabe, Yuka Yoshida
+Linda Wild, Kaoru Shibata
+Laxmi Poruri, Naoko Kijimuta
+Ai Sugiyama, Keiko Ishida
+Jana Nejedly, Kazue Takuma
+Kerry Anne Guse, Angela Lettiere
+Eleni Rossides, Anori Fukuda
+Kristin Godridge, Kyoko Nagatsuka
+Yone Kamio, Claudia Porwik
+Rika Hiraki, Louise Pleming
+Sandra Kleinova, Mana Endo
+Sung Hee Park, Misumi Miyauchi
+Linda Wild, Jolene Watanabe
+Laxmi Poruri, Ai Sugiyama
+Kerry Anne Guse, Jana Nejedly
+Kristin Godridge, Eleni Rossides
+Yone Kamio, Rika Hiraki
+Sandra Kleinova, Sung Hee Park
+Linda Wild, Laxmi Poruri
+Kristin Godridge, Kerry Anne Guse
+Sandra Kleinova, Yone Kamio
+Linda Wild, Kristin Godridge
+Linda Wild, Sandra Kleinova
+Steffi Graf, Amanda Coetzer
+Mary Joe Fernandez, Chanda Rubin
+Natalia Zvereva, Arantxa Sanchez Vicario
+Gabriela Sabatini, Lindsay Davenport
+Kimiko Date Krumm, Jana Novotna
+Anke Huber, Mary Pierce
+Brenda Schultz Mccarthy, Magdalena Maleeva
+Conchita Martinez, Iva Majoli
+Steffi Graf, Mary Joe Fernandez
+Natalia Zvereva, Gabriela Sabatini
+Anke Huber, Kimiko Date Krumm
+Brenda Schultz Mccarthy, Conchita Martinez
+Steffi Graf, Natalia Zvereva
+Anke Huber, Brenda Schultz Mccarthy
+Steffi Graf, Anke Huber
+Zina Garrison, Maria Vento Kabchi
+Ai Sugiyama, Catalina Cristea
+Irina Spirlea, Kyoko Nagatsuka
+Tami Whitlinger Jones, Sabine Hack
+Kimberly Po Messerli, Andrea Temesvari
+Helena Sukova, Jolene Watanabe
+Pam Shriver, Yone Kamio
+Linda Wild, Rita Grande
+Christina Singer, Pam Nelson
+Amy Frazier, Florencia Labat
+Venus Williams, Rosalyn Fairbank
+Lori Mcneil, Maria Strandlund Tomsvik
+Zina Garrison, Katrina Adams
+Ai Sugiyama, Irina Spirlea
+Lindsay Davenport, Tami Whitlinger Jones
+Helena Sukova, Kimberly Po Messerli
+Linda Wild, Pam Shriver
+Mary Joe Fernandez, Christina Singer
+Venus Williams, Amy Frazier
+Magdalena Maleeva, Lori Mcneil
+Ai Sugiyama, Zina Garrison
+Lindsay Davenport, Helena Sukova
+Mary Joe Fernandez, Linda Wild
+Magdalena Maleeva, Venus Williams
+Ai Sugiyama, Lindsay Davenport
+Magdalena Maleeva, Mary Joe Fernandez
+Magdalena Maleeva, Ai Sugiyama
+Brenda Schultz Mccarthy, Beate Reinstadler
+Nicole Arendt, Julie Steven
+Audra Keller, Maja Zivec Skulj
+Nicole Bradtke, Tatiana Panova
+Katrina Adams, Amanda Coetzer
+Laxmi Poruri, Patricia Hy Boulais
+Elna Reinach, Catalina Cristea
+Patty Fendick, Misumi Miyauchi
+Elena Likhovtseva, Lindsay Lee Waters
+Karin Miller, Elly Hakami
+Dominique Monami, Laura Golarsa
+Lisa Raymond, Sonya Jeyaseelan
+Tami Whitlinger Jones, Laurence Courtois
+Andrea Temesvari, Jolene Watanabe
+Yvette Basting, Kristine Kunce
+Amy Frazier, Erika De Lone
+Brenda Schultz Mccarthy, Nicole Arendt
+Audra Keller, Nicole Bradtke
+Laxmi Poruri, Katrina Adams
+Patty Fendick, Elna Reinach
+Elena Likhovtseva, Karin Miller
+Lisa Raymond, Dominique Monami
+Tami Whitlinger Jones, Andrea Temesvari
+Amy Frazier, Yvette Basting
+Brenda Schultz Mccarthy, Audra Keller
+Patty Fendick, Laxmi Poruri
+Elena Likhovtseva, Lisa Raymond
+Amy Frazier, Tami Whitlinger Jones
+Brenda Schultz Mccarthy, Patty Fendick
+Elena Likhovtseva, Amy Frazier
+Brenda Schultz Mccarthy, Elena Likhovtseva
+Karina Habsudova, Sandra Dopfer
+Jana Kandarr, Kim De Weille
+Petra Langrova, Nanne Dahlman
+Natalia Medvedeva, Karin Kschwendt
+Janet Lee, Barbara Rittner
+Flora Perfetti, Laura Garrone
+Alice Canepa, Marlene Weingartner
+Sabine Hack, Silvia Ramon Cortes
+Veronika Martinek, Virginia Ruano Pascual
+Radka Bobkova, Giulia Casoni
+Petra Schwarz, Geraldine Dondit
+Barbara Schett, Sandra Cecchini
+Silvia Farina Elia, Neus Avila Bonastre
+Francesca Lubiani, Katarina Studenikova
+Barbara Paulus, Silvija Talaja
+Irina Spirlea, Silke Meier
+Karina Habsudova, Jana Kandarr
+Natalia Medvedeva, Petra Langrova
+Flora Perfetti, Janet Lee
+Sabine Hack, Alice Canepa
+Veronika Martinek, Radka Bobkova
+Barbara Schett, Petra Schwarz
+Silvia Farina Elia, Francesca Lubiani
+Irina Spirlea, Barbara Paulus
+Natalia Medvedeva, Karina Habsudova
+Sabine Hack, Flora Perfetti
+Barbara Schett, Veronika Martinek
+Irina Spirlea, Silvia Farina Elia
+Sabine Hack, Natalia Medvedeva
+Irina Spirlea, Barbara Schett
+Irina Spirlea, Sabine Hack
+Elena Makarova, Larisa Savchenko
+Martina Hingis, Katerina Maleeva
+Julie Halard Decugis, Sarah Pitkowski Malcor
+Alexia Dechaume Balleret, Leila Meskhi
+Petra Langrova, Nanne Dahlman
+Karina Habsudova, Stephanie Rottier
+Sabine Appelmans, Asa Carlsson
+Nathalie Tauziat, Meredith Mcgrath
+Barbara Rittner, Noelle Van Lottum
+Judith Wiesner, Meike Babel
+Miriam Oremans, Wiltrud Probst
+Rennae Stubbs, Sandra Cecchini
+Steffi Graf, Elena Makarova
+Martina Hingis, Julie Halard Decugis
+Jana Novotna, Alexia Dechaume Balleret
+Karina Habsudova, Petra Langrova
+Sabine Appelmans, Nathalie Tauziat
+Iva Majoli, Barbara Rittner
+Judith Wiesner, Miriam Oremans
+Mary Pierce, Rennae Stubbs
+Steffi Graf, Martina Hingis
+Jana Novotna, Karina Habsudova
+Iva Majoli, Sabine Appelmans
+Mary Pierce, Judith Wiesner
+Steffi Graf, Jana Novotna
+Mary Pierce, Iva Majoli
+Steffi Graf, Mary Pierce
+Barbara Paulus, Claudia Porwik
+Nana Smith, Fang Li
+Silke Meier, Petra Schwarz
+Aleksandra Olsza, Ludmila Richterova
+Rita Grande, Tamarine Tanasugarn
+Janette Husarova, Tina Krizan
+Nancy Feber, Kristin Godridge
+Maria Vento Kabchi, Rachel Mcquillan
+Jing Qian Yi, Iwalani Mccalla
+Olga Lugina, Kaoru Shibata
+Min Tang, Jolene Watanabe
+Li Ling Chen, Sabine Hack
+Sung Hee Park, Suvimol Duangchan
+Naoko Kijimuta, Mi Ra Jeon
+Catalina Cristea, Benjamas Sangaram
+Shi Ting Wang, Hiroko Mochizuki
+Barbara Paulus, Nana Smith
+Aleksandra Olsza, Silke Meier
+Rita Grande, Janette Husarova
+Maria Vento Kabchi, Nancy Feber
+Jing Qian Yi, Olga Lugina
+Min Tang, Li Ling Chen
+Naoko Kijimuta, Sung Hee Park
+Shi Ting Wang, Catalina Cristea
+Barbara Paulus, Aleksandra Olsza
+Rita Grande, Maria Vento Kabchi
+Jing Qian Yi, Min Tang
+Naoko Kijimuta, Shi Ting Wang
+Barbara Paulus, Rita Grande
+Jing Qian Yi, Naoko Kijimuta
+Barbara Paulus, Jing Qian Yi
+Amy Frazier, Nicole Pratt
+Meredith Mcgrath, Pam Shriver
+Chanda Rubin, Larisa Savchenko
+Zina Garrison, Fabiola Zuluaga
+Irina Spirlea, Gigi Fernandez
+Natalia Zvereva, Amanda Coetzer
+Anke Huber, Anne Miller
+Martina Hingis, Meilen Tu
+Brenda Schultz Mccarthy, Caroline Vis
+Lori Mcneil, Shaun Stafford
+Lisa Raymond, Helena Sukova
+Nathalie Tauziat, Julie Halard Decugis
+Steffi Graf, Amy Frazier
+Meredith Mcgrath, Chanda Rubin
+Zina Garrison, Mary Pierce
+Irina Spirlea, Natalia Zvereva
+Anke Huber, Martina Hingis
+Gabriela Sabatini, Brenda Schultz Mccarthy
+Lori Mcneil, Lisa Raymond
+Conchita Martinez, Nathalie Tauziat
+Steffi Graf, Meredith Mcgrath
+Zina Garrison, Irina Spirlea
+Anke Huber, Gabriela Sabatini
+Lori Mcneil, Conchita Martinez
+Steffi Graf, Zina Garrison
+Lori Mcneil, Anke Huber
+Steffi Graf, Lori Mcneil
+Julie Halard Decugis, Eva Martincova
+Maria Strandlund Tomsvik, Marketa Kochta
+Denisa Chladkova, Lenka Nemeckova
+Asa Carlsson, Kristin Godridge
+Radka Pelikanova, Linda Wild
+Sandra Kleinova, Sarah Pitkowski Malcor
+Paola Suarez, Jana Lubasova
+Katarina Studenikova, Lea Ghirardi
+Silke Meier, Petra Thoren
+Andrea Temesvari, Noelle Van Lottum
+Petra Langrova, Alexandra Fusai
+Ludmila Richterova, Chanda Rubin
+Stephanie Rottier, Janet Lee
+Neus Avila Bonastre, Nanne Dahlman
+Barbara Schett, Kimberly Po Messerli
+Veronika Martinek, Katerina Maleeva
+Julie Halard Decugis, Maria Strandlund Tomsvik
+Asa Carlsson, Denisa Chladkova
+Sandra Kleinova, Radka Pelikanova
+Katarina Studenikova, Paola Suarez
+Andrea Temesvari, Silke Meier
+Ludmila Richterova, Petra Langrova
+Stephanie Rottier, Neus Avila Bonastre
+Barbara Schett, Veronika Martinek
+Julie Halard Decugis, Asa Carlsson
+Katarina Studenikova, Sandra Kleinova
+Ludmila Richterova, Andrea Temesvari
+Stephanie Rottier, Barbara Schett
+Julie Halard Decugis, Katarina Studenikova
+Ludmila Richterova, Stephanie Rottier
+Julie Halard Decugis, Ludmila Richterova
+Virginia Ruano Pascual, Isabelle Demongeot
+Radomira Zrubakova, Ann Grossman
+Amanda Coetzer, Francesca Lubiani
+Nathalie Tauziat, Florencia Labat
+Silvia Ramon Cortes, Mariaan De Swardt
+Shaun Stafford, Debbie Graham
+Flora Perfetti, Alexia Dechaume Balleret
+Sandra Cecchini, Elna Reinach
+Helena Sukova, Nicole Bradtke
+Barbara Mulej, Ines Gorrochategui
+Joannette Kruger, Ruxandra Dragomir Ilie
+Sabine Hack, Jolene Watanabe
+Radka Bobkova, Patricia Tarabini
+Meredith Mcgrath, Silke Frankl
+Naoko Sawamatsu, Elena Pampoulova
+Karina Habsudova, Sandrine Testud
+Natalia Baudone, Federica Bonsignori
+Adriana Serra Zanetti, Laurence Courtois
+Gabriella Boschiero, Mercedes Paz
+Angelica Gavaldon, Sandra Cacic
+Judith Wiesner, Bettina Fulco
+Irina Spirlea, Laura Golarsa
+Maria Jose Gaidano, Petra Schwarz
+Sonya Jeyaseelan, Silvia Farina Elia
+Arantxa Sanchez Vicario, Virginia Ruano Pascual
+Amanda Coetzer, Radomira Zrubakova
+Nathalie Tauziat, Silvia Ramon Cortes
+Shaun Stafford, Brenda Schultz Mccarthy
+Gabriela Sabatini, Flora Perfetti
+Helena Sukova, Sandra Cecchini
+Joannette Kruger, Barbara Mulej
+Anke Huber, Sabine Hack
+Mary Joe Fernandez, Radka Bobkova
+Meredith Mcgrath, Naoko Sawamatsu
+Karina Habsudova, Natalia Baudone
+Conchita Martinez, Adriana Serra Zanetti
+Iva Majoli, Gabriella Boschiero
+Judith Wiesner, Angelica Gavaldon
+Irina Spirlea, Maria Jose Gaidano
+Mary Pierce, Sonya Jeyaseelan
+Arantxa Sanchez Vicario, Amanda Coetzer
+Shaun Stafford, Nathalie Tauziat
+Helena Sukova, Gabriela Sabatini
+Joannette Kruger, Anke Huber
+Mary Joe Fernandez, Meredith Mcgrath
+Conchita Martinez, Karina Habsudova
+Iva Majoli, Judith Wiesner
+Mary Pierce, Irina Spirlea
+Arantxa Sanchez Vicario, Shaun Stafford
+Helena Sukova, Joannette Kruger
+Conchita Martinez, Mary Joe Fernandez
+Mary Pierce, Iva Majoli
+Arantxa Sanchez Vicario, Helena Sukova
+Conchita Martinez, Mary Pierce
+Conchita Martinez, Arantxa Sanchez Vicario
+Patricia Hy Boulais, Ann Grossman
+Jolene Watanabe, Nanne Dahlman
+Rita Grande, Meilen Tu
+Sandrine Testud, Caroline Vis
+Natalia Baudone, Alexia Dechaume Balleret
+Jana Nejedly, Patty Fendick
+Shaun Stafford, Keri Phebus
+Lindsay Lee Waters, Kaoru Shibata
+Rachel Mcquillan, Pam Shriver
+Sandra Cacic, Rennae Stubbs
+Natalia Medvedeva, Rosalyn Fairbank
+Erika De Lone, Adriana Serra Zanetti
+Kristie Boogert, Audra Keller
+Asa Carlsson, Francesca Lubiani
+Ai Sugiyama, Sonya Jeyaseelan
+Beate Reinstadler, Catalina Cristea
+Arantxa Sanchez Vicario, Patricia Hy Boulais
+Marianne Werdel Witmeyer, Jolene Watanabe
+Rita Grande, Elena Likhovtseva
+Sandrine Testud, Natalia Zvereva
+Christina Singer, Natalia Baudone
+Gigi Fernandez, Jana Nejedly
+Lisa Raymond, Shaun Stafford
+Lindsay Lee Waters, Chanda Rubin
+Rachel Mcquillan, Nathalie Tauziat
+Sandra Cacic, Angelica Gavaldon
+Joannette Kruger, Natalia Medvedeva
+Mary Pierce, Erika De Lone
+Kristie Boogert, Maria Jose Gaidano
+Asa Carlsson, Tami Whitlinger Jones
+Ai Sugiyama, Amanda Coetzer
+Conchita Martinez, Beate Reinstadler
+Marianne Werdel Witmeyer, Arantxa Sanchez Vicario
+Sandrine Testud, Rita Grande
+Gigi Fernandez, Christina Singer
+Lisa Raymond, Lindsay Lee Waters
+Rachel Mcquillan, Sandra Cacic
+Mary Pierce, Joannette Kruger
+Asa Carlsson, Kristie Boogert
+Conchita Martinez, Ai Sugiyama
+Sandrine Testud, Marianne Werdel Witmeyer
+Lisa Raymond, Gigi Fernandez
+Mary Pierce, Rachel Mcquillan
+Conchita Martinez, Asa Carlsson
+Lisa Raymond, Sandrine Testud
+Conchita Martinez, Mary Pierce
+Conchita Martinez, Lisa Raymond
+Adriana Serra Zanetti, Helena Sukova
+Nancy Feber, Corina Morariu
+Katarina Studenikova, Radomira Zrubakova
+Kyoko Nagatsuka, Karin Kschwendt
+Gigi Fernandez, Silke Meier
+Christina Singer, Kim De Weille
+Jana Nejedly, Rita Grande
+Silvia Farina Elia, Laura Golarsa
+Linda Wild, Kristina Brandi
+Alexia Dechaume Balleret, Larissa Schaerer
+Joannette Kruger, Cristina Torrens Valero
+Ines Gorrochategui, Maria Sanchez Lorenzo
+Florencia Labat, Stephanie Rottier
+Tina Krizan, Audra Keller
+Sandrine Testud, Tatiana Panova
+Julie Halard Decugis, Paula Cabezas
+Nancy Feber, Adriana Serra Zanetti
+Kyoko Nagatsuka, Katarina Studenikova
+Gigi Fernandez, Christina Singer
+Silvia Farina Elia, Jana Nejedly
+Alexia Dechaume Balleret, Linda Wild
+Joannette Kruger, Ines Gorrochategui
+Florencia Labat, Tina Krizan
+Sandrine Testud, Julie Halard Decugis
+Kyoko Nagatsuka, Nancy Feber
+Gigi Fernandez, Silvia Farina Elia
+Joannette Kruger, Alexia Dechaume Balleret
+Florencia Labat, Sandrine Testud
+Kyoko Nagatsuka, Gigi Fernandez
+Joannette Kruger, Florencia Labat
+Joannette Kruger, Kyoko Nagatsuka
+Lindsay Davenport, Mercedes Paz
+Alexandra Fusai, Laxmi Poruri
+Andrea Vieira, Janet Lee
+Judith Wiesner, Angelica Gavaldon
+Mary Joe Fernandez, Ai Sugiyama
+Sandrine Testud, Luciana Tella
+Stephanie Rottier, Elna Reinach
+Marianne Werdel Witmeyer, Alexia Dechaume Balleret
+Lori Mcneil, Anne Sophie Bittighoffer
+Yone Kamio, Audra Keller
+Mana Endo, Lea Ghirardi
+Sabine Appelmans, Amy Frazier
+Miriam Oremans, Kimberly Po Messerli
+Tami Whitlinger Jones, Nathalie Dechy
+Nicole Bradtke, Melanie Bernard
+Kimiko Date Krumm, Natalia Baudone
+Lindsay Davenport, Alexandra Fusai
+Judith Wiesner, Andrea Vieira
+Sandrine Testud, Mary Joe Fernandez
+Stephanie Rottier, Marianne Werdel Witmeyer
+Yone Kamio, Lori Mcneil
+Sabine Appelmans, Mana Endo
+Miriam Oremans, Tami Whitlinger Jones
+Kimiko Date Krumm, Nicole Bradtke
+Lindsay Davenport, Judith Wiesner
+Sandrine Testud, Stephanie Rottier
+Yone Kamio, Sabine Appelmans
+Kimiko Date Krumm, Miriam Oremans
+Lindsay Davenport, Sandrine Testud
+Kimiko Date Krumm, Yone Kamio
+Lindsay Davenport, Kimiko Date Krumm
+Petra Begerow, Marketa Kochta
+Nathalie Tauziat, Zina Garrison
+Anke Huber, Marianne Werdel Witmeyer
+Julie Halard Decugis, Marlene Weingartner
+Meredith Mcgrath, Lori Mcneil
+Brenda Schultz Mccarthy, Lisa Raymond
+Natalia Zvereva, Martina Hingis
+Miriam Oremans, Amanda Coetzer
+Chanda Rubin, Jana Kandarr
+Iva Majoli, Gigi Fernandez
+Elena Likhovtseva, Larisa Savchenko
+Sabine Appelmans, Sabine Hack
+Petra Begerow, Conchita Martinez
+Anke Huber, Nathalie Tauziat
+Gabriela Sabatini, Julie Halard Decugis
+Brenda Schultz Mccarthy, Meredith Mcgrath
+Natalia Zvereva, Miriam Oremans
+Chanda Rubin, Lindsay Davenport
+Iva Majoli, Elena Likhovtseva
+Mary Pierce, Sabine Appelmans
+Anke Huber, Petra Begerow
+Gabriela Sabatini, Brenda Schultz Mccarthy
+Chanda Rubin, Natalia Zvereva
+Iva Majoli, Mary Pierce
+Gabriela Sabatini, Anke Huber
+Iva Majoli, Chanda Rubin
+Iva Majoli, Gabriela Sabatini
+Judith Wiesner, Katarina Studenikova
+Karin Kschwendt, Tina Krizan
+Angeles Montolio, Melanie Schnell
+Virginia Ruano Pascual, Sandra Reichel
+Silvia Farina Elia, Virag Csurgo
+Bettina Fulco, Radka Bobkova
+Tatjana Jecmenica, Nadin Ercegovic
+Silke Meier, Andrea Temesvari
+Ruxandra Dragomir Ilie, Sandra Dopfer
+Petra Schwarz, Barbara Schett
+Marlene Weingartner, Flora Perfetti
+Sandra Cecchini, Alena Vaskova
+Laura Garrone, Veronika Martinek
+Barbara Paulus, Silvija Talaja
+Silvia Ramon Cortes, Wiltrud Probst
+Ludmila Richterova, Jana Kandarr
+Judith Wiesner, Karin Kschwendt
+Angeles Montolio, Virginia Ruano Pascual
+Silvia Farina Elia, Bettina Fulco
+Tatjana Jecmenica, Silke Meier
+Ruxandra Dragomir Ilie, Petra Schwarz
+Sandra Cecchini, Marlene Weingartner
+Barbara Paulus, Laura Garrone
+Silvia Ramon Cortes, Ludmila Richterova
+Judith Wiesner, Angeles Montolio
+Tatjana Jecmenica, Silvia Farina Elia
+Ruxandra Dragomir Ilie, Sandra Cecchini
+Barbara Paulus, Silvia Ramon Cortes
+Judith Wiesner, Tatjana Jecmenica
+Ruxandra Dragomir Ilie, Barbara Paulus
+Judith Wiesner, Ruxandra Dragomir Ilie
+Sung Hee Park, Tamarine Tanasugarn
+Tina Krizan, Tzu Ting Weng
+Elena Brioukhovets, Rika Hiraki
+Elena Tatarkova, Ann Grossman
+Lea Ghirardi, Stephanie Reece
+Fang Li, Emmanuelle Gagliardi
+Natalia Soetrisno, Maria Veronica Widyadharma
+Jing Qian Yi, Nana Smith
+Li Ling Chen, Catalina Cristea
+Kristin Godridge, Louise Pleming
+Benjamas Sangaram, Eleni Rossides
+Annabel Ellwood, Agustine Limanto
+Sarah Pitkowski Malcor, Anique Snijders
+Min Tang, Ludmilla Varmuza
+Kaoru Shibata, Kristine Kunce
+Shi Ting Wang, Anna Klim
+Tina Krizan, Sung Hee Park
+Elena Brioukhovets, Elena Tatarkova
+Fang Li, Lea Ghirardi
+Jing Qian Yi, Natalia Soetrisno
+Li Ling Chen, Kristin Godridge
+Annabel Ellwood, Benjamas Sangaram
+Sarah Pitkowski Malcor, Min Tang
+Shi Ting Wang, Kaoru Shibata
+Tina Krizan, Elena Brioukhovets
+Jing Qian Yi, Fang Li
+Annabel Ellwood, Li Ling Chen
+Shi Ting Wang, Sarah Pitkowski Malcor
+Jing Qian Yi, Tina Krizan
+Shi Ting Wang, Annabel Ellwood
+Shi Ting Wang, Jing Qian Yi
+Martina Hingis, Meredith Mcgrath
+Barbara Rittner, Natalia Medvedeva
+Ludmila Richterova, Petra Begerow
+Mana Endo, Kristine Kunce
+Miriam Oremans, Pam Shriver
+Amy Frazier, Sabine Appelmans
+Brenda Schultz Mccarthy, Ann Grossman
+Nicole Bradtke, Marianne Werdel Witmeyer
+Shaun Stafford, Clare Wood
+Angelica Gavaldon, Amanda Coetzer
+Patty Fendick, Florencia Labat
+Naoko Sawamatsu, Debbie Graham
+Lindsay Davenport, Martina Hingis
+Ludmila Richterova, Barbara Rittner
+Kimiko Date Krumm, Mana Endo
+Miriam Oremans, Amy Frazier
+Nicole Bradtke, Brenda Schultz Mccarthy
+Mary Joe Fernandez, Shaun Stafford
+Patty Fendick, Angelica Gavaldon
+Gabriela Sabatini, Naoko Sawamatsu
+Lindsay Davenport, Ludmila Richterova
+Kimiko Date Krumm, Miriam Oremans
+Mary Joe Fernandez, Nicole Bradtke
+Gabriela Sabatini, Patty Fendick
+Lindsay Davenport, Kimiko Date Krumm
+Gabriela Sabatini, Mary Joe Fernandez
+Gabriela Sabatini, Lindsay Davenport
+Kimiko Date Krumm, Yuka Yoshida
+Rennae Stubbs, Noelle Van Lottum
+Sung Hee Park, Hiromi Nagano
+Kyoko Nagatsuka, Katerina Kroupova
+Marianne Werdel Witmeyer, Ai Sugiyama
+Rita Grande, Rachel Mcquillan
+Li Ling Chen, Misumi Miyauchi
+Nana Smith, Jing Qian Yi
+Yone Kamio, Janette Husarova
+Laxmi Poruri, Miho Saeki
+Min Tang, Tara Snyder
+Mana Endo, Maureen Drake
+Patty Fendick, Annabel Ellwood
+Jolene Watanabe, Angela Kerek
+Naoko Kijimuta, Kristine Kunce
+Amy Frazier, Rika Hiraki
+Kimiko Date Krumm, Rennae Stubbs
+Kyoko Nagatsuka, Sung Hee Park
+Rita Grande, Marianne Werdel Witmeyer
+Nana Smith, Li Ling Chen
+Yone Kamio, Laxmi Poruri
+Min Tang, Mana Endo
+Patty Fendick, Jolene Watanabe
+Amy Frazier, Naoko Kijimuta
+Kimiko Date Krumm, Kyoko Nagatsuka
+Nana Smith, Rita Grande
+Min Tang, Yone Kamio
+Amy Frazier, Patty Fendick
+Kimiko Date Krumm, Nana Smith
+Amy Frazier, Min Tang
+Amy Frazier, Kimiko Date Krumm
+Kimberly Po Messerli, Lea Ghirardi
+Yuka Yoshida, Fang Li
+Naoko Sawamatsu, Hiroko Mochizuki
+Mana Endo, Haruka Inoue
+Ai Sugiyama, Kazue Takuma
+Lindsay Davenport, Stephanie Reece
+Amanda Coetzer, Marianne Werdel Witmeyer
+Shi Ting Wang, Shaun Stafford
+Sung Hee Park, Jana Nejedly
+Amy Frazier, Stephanie Rottier
+Yone Kamio, Nana Smith
+Naoko Kijimuta, Dominique Monami
+Arantxa Sanchez Vicario, Kimberly Po Messerli
+Naoko Sawamatsu, Yuka Yoshida
+Gabriela Sabatini, Mana Endo
+Lindsay Davenport, Ai Sugiyama
+Amanda Coetzer, Shi Ting Wang
+Sung Hee Park, Kimiko Date Krumm
+Amy Frazier, Yone Kamio
+Mary Pierce, Naoko Kijimuta
+Arantxa Sanchez Vicario, Naoko Sawamatsu
+Gabriela Sabatini, Lindsay Davenport
+Amanda Coetzer, Sung Hee Park
+Mary Pierce, Amy Frazier
+Arantxa Sanchez Vicario, Gabriela Sabatini
+Mary Pierce, Amanda Coetzer
+Mary Pierce, Arantxa Sanchez Vicario
+Yayuk Basuki, Shaun Stafford
+Yone Kamio, Shi Ting Wang
+Kimiko Date Krumm, Patty Fendick
+Naoko Sawamatsu, Zina Garrison
+Kristie Boogert, Larisa Savchenko
+Iva Majoli, Pam Shriver
+Anke Huber, Gigi Fernandez
+Lori Mcneil, Barbara Rittner
+Mana Endo, Rika Hiraki
+Magdalena Maleeva, Ai Sugiyama
+Anna Smashnova, Nana Smith
+Kyoko Nagatsuka, Debbie Graham
+Conchita Martinez, Yayuk Basuki
+Kimiko Date Krumm, Yone Kamio
+Naoko Sawamatsu, Natalia Zvereva
+Iva Majoli, Kristie Boogert
+Anke Huber, Lori Mcneil
+Lindsay Davenport, Mana Endo
+Magdalena Maleeva, Anna Smashnova
+Mary Pierce, Kyoko Nagatsuka
+Kimiko Date Krumm, Conchita Martinez
+Iva Majoli, Naoko Sawamatsu
+Lindsay Davenport, Anke Huber
+Magdalena Maleeva, Mary Pierce
+Kimiko Date Krumm, Iva Majoli
+Lindsay Davenport, Magdalena Maleeva
+Kimiko Date Krumm, Lindsay Davenport
+Sabine Hack, Gala Leon Garcia
+Magdalena Grzybowska, Janette Husarova
+Jana Kandarr, Marketa Kochta
+Veronika Martinek, Aleksandra Olsza
+Katerina Kroupova, Katarzyna Nowak
+Radka Bobkova, Laura Garrone
+Alexandra Fusai, Silvia Ramon Cortes
+Lenka Nemeckova, Alena Vaskova
+Ludmila Richterova, Petra Begerow
+Maria Sanchez Lorenzo, Olga Lugina
+Karin Kschwendt, Petra Langrova
+Bettina Fulco, Beate Reinstadler
+Barbara Paulus, Flora Perfetti
+Henrieta Nagyova, Silke Meier
+Tatiana Ignatieva, Denisa Szabova
+Radomira Zrubakova, Sandra Cecchini
+Magdalena Grzybowska, Sabine Hack
+Jana Kandarr, Veronika Martinek
+Katerina Kroupova, Radka Bobkova
+Alexandra Fusai, Lenka Nemeckova
+Ludmila Richterova, Maria Sanchez Lorenzo
+Karin Kschwendt, Bettina Fulco
+Barbara Paulus, Henrieta Nagyova
+Tatiana Ignatieva, Radomira Zrubakova
+Magdalena Grzybowska, Jana Kandarr
+Alexandra Fusai, Katerina Kroupova
+Karin Kschwendt, Ludmila Richterova
+Barbara Paulus, Tatiana Ignatieva
+Alexandra Fusai, Magdalena Grzybowska
+Barbara Paulus, Karin Kschwendt
+Barbara Paulus, Alexandra Fusai
+Denisa Szabova, Sabine Hack
+Sarah Pitkowski Malcor, Noelle Van Lottum
+Laura Golarsa, Katerina Kroupova
+Cristina Torrens Valero, Lea Ghirardi
+Sandra Cecchini, Nanne Dahlman
+Silke Meier, Silvija Talaja
+Kim De Weille, Maja Palaversic
+Marketa Kochta, Sandra Cacic
+Sabine Appelmans, Barbara Mulej
+Petra Langrova, Yvette Basting
+Tina Krizan, Laura Garrone
+Barbara Rittner, Svetlana Komleva
+Ai Sugiyama, Emmanuelle Gagliardi
+Mercedes Paz, Elena Savoldi
+Ludmila Richterova, Marijana Kovacevic
+Irina Spirlea, Jana Kandarr
+Denisa Szabova, Sarah Pitkowski Malcor
+Laura Golarsa, Cristina Torrens Valero
+Silke Meier, Sandra Cecchini
+Marketa Kochta, Kim De Weille
+Sabine Appelmans, Petra Langrova
+Barbara Rittner, Tina Krizan
+Ai Sugiyama, Mercedes Paz
+Irina Spirlea, Ludmila Richterova
+Denisa Szabova, Laura Golarsa
+Silke Meier, Marketa Kochta
+Sabine Appelmans, Barbara Rittner
+Irina Spirlea, Ai Sugiyama
+Silke Meier, Denisa Szabova
+Sabine Appelmans, Irina Spirlea
+Sabine Appelmans, Silke Meier
+Miriam Oremans, Petra Begerow
+Marianne Werdel Witmeyer, Nathalie Tauziat
+Iva Majoli, Helena Vildova
+Zina Garrison, Marketa Kochta
+Martina Hingis, Amy Frazier
+Chanda Rubin, Katrina Adams
+Helena Sukova, Natalia Zvereva
+Joannette Kruger, Lori Mcneil
+Mariaan De Swardt, Kristie Boogert
+Brenda Schultz Mccarthy, Nancy Feber
+Lisa Raymond, Naoko Sawamatsu
+Patty Schnyder, Irina Spirlea
+Jana Novotna, Miriam Oremans
+Iva Majoli, Marianne Werdel Witmeyer
+Magdalena Maleeva, Zina Garrison
+Chanda Rubin, Martina Hingis
+Joannette Kruger, Helena Sukova
+Mariaan De Swardt, Anke Huber
+Brenda Schultz Mccarthy, Lisa Raymond
+Mary Pierce, Patty Schnyder
+Iva Majoli, Jana Novotna
+Chanda Rubin, Magdalena Maleeva
+Mariaan De Swardt, Joannette Kruger
+Mary Pierce, Brenda Schultz Mccarthy
+Iva Majoli, Chanda Rubin
+Mary Pierce, Mariaan De Swardt
+Iva Majoli, Mary Pierce
+Branislava Ivanovic, Helen Asciak
+Katarina Misic, Lisa Camenzuli
+Kristie Boogert, Asa Carlsson
+Miriam Oremans, Maria Strandlund Tomsvik
+Miriam Oremans, Asa Carlsson
+Kristie Boogert, Maria Strandlund Tomsvik
+Helena Sukova, Maria Strandlund Tomsvik
+Asa Carlsson, Petra Langrova
+Helena Sukova, Asa Carlsson
+Petra Langrova, Maria Strandlund Tomsvik
+Arantxa Sanchez Vicario, Katerina Maleeva
+Conchita Martinez, Magdalena Maleeva
+Magdalena Maleeva, Arantxa Sanchez Vicario
+Conchita Martinez, Katerina Maleeva
+Mary Pierce, Mary Joe Fernandez
+Lindsay Davenport, Julie Halard Decugis
+Lindsay Davenport, Mary Pierce
+Julie Halard Decugis, Mary Joe Fernandez
+Kimiko Date Krumm, Jana Nejedly
+Naoko Sawamatsu, Patricia Hy Boulais
+Kimiko Date Krumm, Patricia Hy Boulais
+Naoko Sawamatsu, Jana Nejedly
+Miriam Oremans, Beate Reinstadler
+Judith Wiesner, Kristie Boogert
+Judith Wiesner, Miriam Oremans
+Beate Reinstadler, Kristie Boogert
+Sung Hee Park, Laurence Courtois
+Sabine Appelmans, Eun Ha Kim
+Sabine Appelmans, Sung Hee Park
+Eun Ha Kim, Laurence Courtois
+Rene Simpson, Sandra Cecchini
+Patricia Hy Boulais, Silvia Farina Elia
+Patricia Hy Boulais, Sandra Cecchini
+Silvia Farina Elia, Rene Simpson
+Florencia Labat, Nicole Bradtke
+Gabriela Sabatini, Rachel Mcquillan
+Gabriela Sabatini, Nicole Bradtke
+Florencia Labat, Rennae Stubbs
+Silvia Farina Elia, Romana Tedjakusuma
+Yayuk Basuki, Adriana Serra Zanetti
+Yayuk Basuki, Silvia Farina Elia
+Adriana Serra Zanetti, Romana Tedjakusuma
+Amanda Coetzer, Julie Halard Decugis
+Mary Pierce, Joannette Kruger
+Amanda Coetzer, Mary Pierce
+Julie Halard Decugis, Joannette Kruger
+Anke Huber, Kyoko Nagatsuka
+Sabine Hack, Mana Endo
+Anke Huber, Mana Endo
+Meike Babel, Kyoko Nagatsuka
+Elena Makarova, Talina Beiko
+Olga Lugina, Elena Likhovtseva
+Catalina Cristea, Maja Palaversic
+Iva Majoli, Ruxandra Dragomir Ilie
+Maja Palaversic, Tzipi Obziler
+Iva Majoli, Anna Smashnova
+Joana Pedroso, Paula Iversen
+Sofia Prazeres, Julia Muir
+Joana Pedroso, Assa Berthe
+Sofia Prazeres, Amy Berthe
+Barbara Mulej, Aleksandra Olsza
+Tina Krizan, Magdalena Grzybowska
+Saranga Sangakkara, Adriana Thaggard
+Upeka Wijeratne, Tagifano Soonalole
+Yi Ching Wu, Marisue Jacutin
+Francesca LaO, Yu Min Fan Chiang
+Conchita Martinez, Chanda Rubin
+Arantxa Sanchez Vicario, Mary Joe Fernandez
+Conchita Martinez, Mary Joe Fernandez
+Chanda Rubin, Arantxa Sanchez Vicario
+Petra Mandula, Oksana Bushevitsa
+Andrea Temesvari, Larisa Savchenko
+Petra Mandula, Talina Beiko
+Andrea Temesvari, Olga Lugina
+Petra Mandula, Elena Makarova
+Andrea Temesvari, Elena Likhovtseva
+Tine Scheuer Larsen, Irena Mihailova
+Karin Ptaszek, Ivona Mihailova
+Tine Scheuer Larsen, Odeta Naujokaite
+Karin Ptaszek, Ruta Deduraite
+Yu Min Fan Chiang, Paulette Moreno
+Lee Chan, Julie Huang
+Paulette Moreno, Marisue Jacutin
+Lee Chan, Francesca LaO
+Eun Ha Kim, Paulette Moreno
+Sung Hee Park, Lee Chan
+Claire Curran, Helen Asciak
+Karen Nugent, Lisa Camenzuli
+Sandra Olsen, Ismet Duygu Aksit Oal
+Karin Ptaszek, Stela Penciu
+Petra Thoren, Tatiana Ignatieva
+Natalia Zvereva, Nanne Dahlman
+Claire Curran, Shaila Ali
+Gina Niland, Phyllis Wilunda
+Chern Yi Chiew, Manisha Malhotra
+Nirupama Vaidyanathan, Chin Bee Khoo
+Helena Sukova, Tatiana Ignatieva
+Jana Novotna, Natalia Zvereva
+Saranga Sangakkara, Manisha Malhotra
+Nirupama Vaidyanathan, Upeka Wijeratne
+Manisha Malhotra, Jil Lin Leong
+Nirupama Vaidyanathan, Lela Zainal
+Janaki Krishnamoorthy, Adriana Thaggard
+Nirupama Vaidyanathan, Tagifano Soonalole
+Karoline Borgersen, Gina Niland
+Amy Jonsson, Karen Nugent
+Shaila Ali, Anna Anastasiou
+Phyllis Wilunda, Nicoletta Pericleous
+Helen Asciak, Eleni Pilava Papanikolaou
+Lisa Camenzuli, Anna Anastasiou
+Laurence Courtois, Catalina Cristea
+Sabine Appelmans, Ruxandra Dragomir Ilie
+Laurence Courtois, Catalina Cristea
+Ruxandra Dragomir Ilie, Sabine Appelmans
+Geraldine Dondit, Hanna Katri Aalto
+Martina Hingis, Nanne Dahlman
+Petra Thoren, Oksana Bushevitsa
+Larisa Savchenko, Nanne Dahlman
+Branislava Ivanovic, Eleni Pilava Papanikolaou
+Dragana Zaric, Anna Anastasiou
+Claire Curran, Anna Anastasiou
+Gina Niland, Nicoletta Pericleous
+Paula Iversen, Liina Suurvarik
+Julia Muir, Helina Lill
+Laurence Courtois, Hila Rosen
+Sabine Appelmans, Anna Smashnova
+Liina Suurvarik, Assa Berthe
+Amy Berthe, Helina Lill
+Joana Pedroso, Liina Suurvarik
+Sofia Prazeres, Helina Lill
+Michele Wagner, Liina Suurvarik
+Rosabel Moyen, Helina Lill
+Alison Vaughan, Assa Berthe
+Julia Muir, Amy Berthe
+Christina Zachariadou, Imen Ben Larbi
+Christina Papadaki, Selima Sfar
+Amy Jonsson, Christina Zachariadou
+Christina Papadaki, Mette Sigmundstad
+Christina Zachariadou, Irena Mihailova
+Christina Papadaki, Ivona Mihailova
+Christina Zachariadou, Bahia Mouhtassine
+Christina Papadaki, Lamia Alami
+Helena Sukova, Shirli Ann Siddall
+Jana Novotna, Clare Wood
+Talina Beiko, Victoria Bakhtadze
+Nino Louarsabishvili, Olga Lugina
+Olga Ivanova, Victoria Bakhtadze
+Eugenia Maniokova, Nino Louarsabishvili
+Barbara Mulej, Julie Pullin
+Tina Krizan, Clare Wood
+Aleksandra Olsza, Shirli Ann Siddall
+Clare Wood, Magdalena Grzybowska
+Helena Sukova, Barbara Mulej
+Jana Novotna, Tina Krizan
+Barbara Mulej, Helena Sukova
+Tina Krizan, Jana Novotna
+Helena Sukova, Magdalena Grzybowska
+Jana Novotna, Katarzyna Nowak
+Irena Mihailova, Ismet Duygu Aksit Oal
+Ivona Mihailova, Stela Penciu
+Tine Scheuer Larsen, Mmaphala Letsatle
+Karin Ptaszek, Gaobolae Seleka
+Chern Yi Chiew, Oksana Yarikova
+Chin Bee Khoo, Svetlana Sinitsyna
+Chern Yi Chiew, Saranga Sangakkara
+Chin Bee Khoo, Upeka Wijeratne
+Shahira Tawfik, Imen Ben Larbi
+Selima Sfar, Mehry Shawki
+Chern Yi Chiew, Adriana Thaggard
+Chin Bee Khoo, Tagifano Soonalole
+Karoline Borgersen, Dalia El Sheikh
+Amy Jonsson, Mehry Shawki
+Habiba Ifrakh, Dalia El Sheikh
+Bahia Mouhtassine, Shahira Tawfik
+Habiba Ifrakh, Imen Ben Larbi
+Bahia Mouhtassine, Selima Sfar
+Karoline Borgersen, Habiba Ifrakh
+Amy Jonsson, Lamia Alami
+Michele Wagner, Paula Iversen
+Rosabel Moyen, Julia Muir
+Li Ling Chen, Marisue Jacutin
+Jing Qian Yi, Francesca LaO
+Oksana Yarikova, Jil Lin Leong
+Svetlana Sinitsyna, Lela Zainal
+Laurence Courtois, Petra Mandula
+Sabine Appelmans, Andrea Temesvari
+Li Li, Yi Ching Wu
+Jing Qian Yi, Yu Min Fan Chiang
+Suvimol Duangchan, Shelley Stephens
+Tamarine Tanasugarn, Claudine Toleafoa
+Suvimol Duangchan, Li Ling Chen
+Jing Qian Yi, Tamarine Tanasugarn
+Yasmin Kaya, Mmaphala Letsatle
+Stela Penciu, Gaobolae Seleka
+Amy Jonsson, Imen Ben Larbi
+Selima Sfar, Mette Sigmundstad
+Irena Mihailova, Mmaphala Letsatle
+Ivona Mihailova, Gaobolae Seleka
+Eun Ha Kim, Li Ling Chen
+Sung Hee Park, Jing Qian Yi
+Odeta Naujokaite, Mmaphala Letsatle
+Ruta Deduraite, Gaobolae Seleka
+Li Ling Chen, Paulette Moreno
+Jing Qian Yi, Lee Chan
+Branislava Ivanovic, Tine Scheuer Larsen
+Dragana Zaric, Karin Ptaszek
+Tatiana Ignatieva, Geraldine Dondit
+Natalia Zvereva, Martina Hingis
+Suvimol Duangchan, Irina Selyutina
+Tamarine Tanasugarn, Tatiana Babina
+Irina Selyutina, Rachel Clark
+Tatiana Babina, Claudine Toleafoa
+Ju Yeon Choi, Irina Selyutina
+Sung Hee Park, Tatiana Babina
+Laurence Courtois, Maja Palaversic
+Sabine Appelmans, Iva Majoli
+Jil Lin Leong, Farah Dayoub
+Lela Zainal, Sara Taweel
+Eugenia Maniokova, Tatiana Ignatieva
+Natalia Zvereva, Elena Likhovtseva
+Catalina Cristea, Hila Rosen
+Ruxandra Dragomir Ilie, Anna Smashnova
+Tatiana Ignatieva, Oksana Bushevitsa
+Natalia Zvereva, Agnese Gustmane
+Dragana Zaric, Lesley OHalloran
+Karen Nugent, Katarina Misic
+Michele Wagner, Assa Berthe
+Rosabel Moyen, Amy Berthe
+Joana Pedroso, Michele Wagner
+Sofia Prazeres, Rosabel Moyen
+Michele Wagner, Joana Pedroso
+Sofia Prazeres, Rosabel Moyen
+Odeta Naujokaite, Ismet Duygu Aksit Oal
+Stela Penciu, Ruta Deduraite
+Odeta Naujokaite, Irena Mihailova
+Ivona Mihailova, Ruta Deduraite
+Oksana Bushevitsa, Joana Manta
+Martina Hingis, Larisa Savchenko
+Christina Zachariadou, Shahira Tawfik
+Christina Papadaki, Mehry Shawki
+Young Ja Choi, Suvimol Duangchan
+Sung Hee Park, Tamarine Tanasugarn
+Eun Ha Kim, Shelley Stephens
+Ju Yeon Choi, Claudine Toleafoa
+Dragana Zaric, Ambreen Rana
+Katarina Misic, Phyllis Wilunda
+Henrieta Nagyova, Larissa Schaerer
+Karina Habsudova, Magali Benitez
+Karina Habsudova, Larissa Schaerer
+Henrieta Nagyova, Magali Benitez
+Conchita Martinez, Anke Huber
+Sabine Hack, Arantxa Sanchez Vicario
+Arantxa Sanchez Vicario, Anke Huber
+Conchita Martinez, Sabine Hack
+Karina Habsudova, Rachel Mcquillan
+Nicole Bradtke, Radomira Zrubakova
+Nicole Bradtke, Karina Habsudova
+Radomira Zrubakova, Rachel Mcquillan
+Sasha Hanna, Carla Jimenez
+Cecilia Ampuero, Joni Van Ryck De Groot
+Carla Jimenez, Natalia Garcia
+Cecilia Ampuero, Monika Pimentel
+Alexandra Guzman, Tari Ann Toro
+Emilie Viqueira, Maria Dolores Campana
+Vanessa Menga, Magali Benitez
+Larissa Schaerer, Patricia Segala
+Magali Benitez, Patricia Segala
+Larissa Schaerer, Miriam Dagostini
+Sasha Hanna, Natalia Garcia
+Joni Van Ryck De Groot, Monika Pimentel
+Claudia Brause, Annette Falkenberg
+Maria Eugenia Fernandez, Ingrid Gonzalez
+Nuria Niemes, Kyla Hunte
+Maria Dolores Campana, Jennifer Carter
+Maria Virginia Francesca, Jessica Fernandez
+Angelica Gavaldon, Ninfa Marra
+Claudia Brause, Carla Jimenez
+Cecilia Ampuero, Maria Eugenia Fernandez
+Barbara Castro, Belkis Rodriguez
+Paula Cabezas, Yoannis Montesino
+Magali Benitez, Belkis Rodriguez
+Larissa Schaerer, Yoannis Montesino
+Karin Palme, Deborah Gaviria
+Angelica Gavaldon, Carla Rodriguez
+Magali Benitez, Jessica Fernandez
+Larissa Schaerer, Angelica Gavaldon
+Magali Benitez, Barbara Castro
+Larissa Schaerer, Paula Cabezas
+Annette Falkenberg, Lily Aguirre
+Ingrid Gonzalez, Florea De Maria Urrea
+Melissa Golfin, Kyla Hunte
+Paula Umana, Jennifer Carter
+Claudia Brause, Lily Aguirre
+Maria Eugenia Fernandez, Florea De Maria Urrea
+Joannette Kruger, Lubomira Bacheva
+Amanda Coetzer, Pavlina Nola
+Amanda Coetzer, Lubomira Bacheva
+Joannette Kruger, Pavlina Nola
+Gabriela Sabatini, Romana Tedjakusuma
+Yayuk Basuki, Florencia Labat
+Yayuk Basuki, Gabriela Sabatini
+Florencia Labat, Romana Tedjakusuma
+Amy Frazier, Judith Wiesner
+Mary Joe Fernandez, Barbara Schett
+Mary Joe Fernandez, Judith Wiesner
+Amy Frazier, Barbara Schett
+Alexandra Guzman, Melissa Golfin
+Maria Dolores Campana, Paula Umana
+Carmina Giraldo, Maria Virginia Francesca
+Fabiola Zuluaga, Ninfa Marra
+Patricia Segala, Barbara Castro
+Miriam Dagostini, Paula Cabezas
+Vilmarie Castellvi, Beverly Corbie
+Emilie Viqueira, Marianne Ward
+Beverly Corbie, Ann Simons
+Kim Cartwright, Marianne Ward
+Karin Palme, Carmina Giraldo
+Angelica Gavaldon, Fabiola Zuluaga
+Carmina Giraldo, Maria Eugenia Rojas
+Carla Rodriguez, Fabiola Zuluaga
+Vilmarie Castellvi, Ann Simons
+Emilie Viqueira, Kim Cartwright
+Jessica Fernandez, Carmina Giraldo
+Fabiola Zuluaga, Angelica Gavaldon
+Maria Virginia Francesca, Maria Eugenia Rojas
+Ninfa Marra, Carla Rodriguez
+Belkis Rodriguez, Patricia Segala
+Miriam Dagostini, Yoannis Montesino

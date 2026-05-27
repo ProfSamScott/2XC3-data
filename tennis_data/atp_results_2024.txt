@@ -1,0 +1,3076 @@
+Grigor Dimitrov, Holger Rune
+Holger Rune, Roman Safiullin
+Grigor Dimitrov, Jordan Thompson
+Holger Rune, James Duckworth
+Roman Safiullin, Matteo Arnaldi
+Jordan Thompson, Rafael Nadal
+Grigor Dimitrov, Rinky Hijikata
+Holger Rune, Alexander Shevchenko
+James Duckworth, Yannick Hanfmann
+Roman Safiullin, Alexei Popyrin
+Matteo Arnaldi, Lukas Klein
+Rafael Nadal, Jason Kubler
+Jordan Thompson, Ugo Humbert
+Rinky Hijikata, Tomas Machac
+Grigor Dimitrov, Daniel Altmaier
+Holger Rune, Max Purcell
+Alexander Shevchenko, Luca Van Assche
+James Duckworth, J J Wolf
+Yannick Hanfmann, Sebastian Korda
+Roman Safiullin, Ben Shelton
+Alexei Popyrin, Christopher Oconnell
+Matteo Arnaldi, Marton Fucsovics
+Lukas Klein, Sebastian Baez
+Jason Kubler, Aslan Karatsev
+Rafael Nadal, Dominic Thiem
+Jordan Thompson, Aleksandar Vukic
+Ugo Humbert, Alex Michelsen
+Tomas Machac, Tomas Martin Etcheverry
+Rinky Hijikata, Thanasi Kokkinakis
+Daniel Altmaier, Li Tu
+Grigor Dimitrov, Andy Murray
+Alexander Zverev, Hubert Hurkacz
+Hubert Hurkacz, Adrian Mannarino
+Alex De Minaur, Alexander Zverev
+Hubert Hurkacz, Zhizhen Zhang
+Casper Ruud, Adrian Mannarino
+Alex De Minaur, Novak Djokovic
+Alexander Zverev, Stefanos Tsitsipas
+Alejandro Davidovich Fokina, Hubert Hurkacz
+Hubert Hurkacz, Thiago Seyboth Wild
+Alejandro Davidovich Fokina, Thiago Seyboth Wild
+Stefanos Tsitsipas, Steven Diez
+Nicolas Jarry, Stefanos Sakellaridis
+Nicolas Jarry, Steven Diez
+Taylor Fritz, Cameron Norrie
+Alex De Minaur, Taylor Fritz
+Cameron Norrie, Alex De Minaur
+Adrian Mannarino, Lorenzo Sonego
+Alexander Zverev, Adrian Mannarino
+Alexander Zverev, Lorenzo Sonego
+Zhizhen Zhang, Jiri Lehecka
+Novak Djokovic, Jiri Lehecka
+Novak Djokovic, Zhizhen Zhang
+Borna Coric, Tallon Griekspoor
+Casper Ruud, Borna Coric
+Casper Ruud, Tallon Griekspoor
+Andrey Rublev, Emil Ruusuvuori
+Andrey Rublev, Juncheng Shang
+Emil Ruusuvuori, Sebastian Ofner
+Andrey Rublev, Arthur Fils
+Juncheng Shang, Frances Tiafoe
+Sebastian Ofner, Roberto Bautista Agut
+Emil Ruusuvuori, Pavel Kotov
+Andrey Rublev, Liam Broady
+Arthur Fils, Marc Andrea Huesler
+Frances Tiafoe, Miomir Kecmanovic
+Juncheng Shang, Botic Van De Zandschulp
+Sebastian Ofner, Jan Lennard Struff
+Roberto Bautista Agut, Francisco Cerundolo
+Pavel Kotov, Lorenzo Musetti
+Emil Ruusuvuori, Karen Khachanov
+Liam Broady, Pedro Cachin
+Marc Andrea Huesler, Vitaliy Sachko
+Arthur Fils, Borna Gojo
+Miomir Kecmanovic, Taro Daniel
+Botic Van De Zandschulp, Shintaro Mochizuki
+Juncheng Shang, Laslo Djere
+Jan Lennard Struff, Marin Cilic
+Sebastian Ofner, Mackenzie Mcdonald
+Roberto Bautista Agut, Fabian Marozsan
+Lorenzo Musetti, Chak Lam Coleman Wong
+Pavel Kotov, Nuno Borges
+Emil Ruusuvuori, Benjamin Bonzi
+Jiri Lehecka, Jack Draper
+Jack Draper, Alexander Bublik
+Jiri Lehecka, Sebastian Korda
+Jack Draper, Tommy Paul
+Alexander Bublik, Lorenzo Musetti
+Sebastian Korda, Christopher Oconnell
+Jiri Lehecka, Nicolas Jarry
+Tommy Paul, Alex Bolt
+Jack Draper, Miomir Kecmanovic
+Lorenzo Musetti, Jordan Thompson
+Alexander Bublik, Daniel Evans
+Christopher Oconnell, Alexander Shevchenko
+Sebastian Korda, Lorenzo Sonego
+Jiri Lehecka, Dusan Lajovic
+Nicolas Jarry, Matteo Arnaldi
+Alex Bolt, Thiago Seyboth Wild
+Miomir Kecmanovic, Mackenzie Mcdonald
+Jack Draper, Sebastian Baez
+Jordan Thompson, Facundo Diaz Acosta
+Daniel Evans, Rinky Hijikata
+Alexander Bublik, James Mccabe
+Alexander Shevchenko, Tomas Martin Etcheverry
+Christopher Oconnell, Arthur Rinderknech
+Lorenzo Sonego, Yannick Hanfmann
+Jiri Lehecka, Adam Walton
+Dusan Lajovic, Thanasi Kokkinakis
+Matteo Arnaldi, Bernabe Zapata Miralles
+Alejandro Tabilo, Taro Daniel
+Taro Daniel, Ben Shelton
+Alejandro Tabilo, Arthur Fils
+Ben Shelton, Roberto Carballes Baena
+Taro Daniel, Alexandre Muller
+Arthur Fils, Daniel Altmaier
+Alejandro Tabilo, Cameron Norrie
+Ben Shelton, Fabian Marozsan
+Roberto Carballes Baena, Sebastian Ofner
+Alexandre Muller, Francisco Cerundolo
+Taro Daniel, Max Purcell
+Arthur Fils, Nuno Borges
+Daniel Altmaier, Felix Auger Aliassime
+Alejandro Tabilo, Botic Van De Zandschulp
+Cameron Norrie, Luca Van Assche
+Fabian Marozsan, Gael Monfils
+Roberto Carballes Baena, Roberto Bautista Agut
+Sebastian Ofner, Denis Shapovalov
+Alexandre Muller, Benjamin Bonzi
+Taro Daniel, Aleksandar Vukic
+Max Purcell, Kiranpal Pannu
+Arthur Fils, Richard Gasquet
+Nuno Borges, Alex Michelsen
+Daniel Altmaier, Marcos Giron
+Botic Van De Zandschulp, Christopher Eubanks
+Alejandro Tabilo, Borna Gojo
+Luca Van Assche, J J Wolf
+Novak Djokovic, Dino Prizmic
+Alexei Popyrin, Marc Polmans
+Gael Monfils, Yannick Hanfmann
+Tomas Martin Etcheverry, Andy Murray
+Adrian Mannarino, Stan Wawrinka
+Jaume Munar, Alexander Shevchenko
+Christopher Oconnell, Cristian Garin
+Ben Shelton, Roberto Bautista Agut
+Taylor Fritz, Facundo Diaz Acosta
+Hugo Gaston, Roberto Carballes Baena
+Fabian Marozsan, Marin Cilic
+Francisco Cerundolo, Dane Sweeny
+Lorenzo Musetti, Benjamin Bonzi
+Luca Van Assche, James Duckworth
+Jordan Thompson, Aleksandar Vukic
+Stefanos Tsitsipas, Zizou Bergs
+Jannik Sinner, Botic Van De Zandschulp
+Jesper De Jong, Pedro Cachin
+Daniel Elahi Galan, Jason Kubler
+Sebastian Baez, J J Wolf
+Frances Tiafoe, Borna Coric
+Tomas Machac, Shintaro Mochizuki
+Aleksandar Kovacevic, Alejandro Tabilo
+Karen Khachanov, Daniel Altmaier
+Alex De Minaur, Milos Raonic
+Matteo Arnaldi, Adam Walton
+Pavel Kotov, Arthur Rinderknech
+Flavio Cobolli, Nicolas Jarry
+Sebastian Korda, Vit Kopriva
+Quentin Halys, Lloyd Harris
+Christopher Eubanks, Taro Daniel
+Andrey Rublev, Thiago Seyboth Wild
+Holger Rune, Yoshihito Nishioka
+Arthur Cazaux, Laslo Djere
+Arthur Fils, Jiri Vesely
+Tallon Griekspoor, Roman Safiullin
+Ugo Humbert, David Goffin
+Zhizhen Zhang, Federico Coria
+Jakub Mensik, Denis Shapovalov
+Hubert Hurkacz, Omar Jasika
+Grigor Dimitrov, Marton Fucsovics
+Thanasi Kokkinakis, Sebastian Ofner
+Nuno Borges, Maximilian Marterer
+Alejandro Davidovich Fokina, Constant Lestienne
+Felix Auger Aliassime, Dominic Thiem
+Hugo Grenier, Alexandre Muller
+Emil Ruusuvuori, Patrick Kypson
+Daniil Medvedev, Terence Atmane
+Alexander Zverev, Dominik Koepfer
+Lukas Klein, Soon Woo Kwon
+Alex Michelsen, James Mccabe
+Jiri Lehecka, Bernabe Zapata Miralles
+Cameron Norrie, Juan Pablo Varillas
+Giulio Zeppieri, Dusan Lajovic
+Max Purcell, Mate Valkusz
+Casper Ruud, Albert Ramos
+Tommy Paul, Gregoire Barrere
+Jack Draper, Marcos Giron
+Miomir Kecmanovic, Yosuke Watanuki
+Jan Lennard Struff, Rinky Hijikata
+Sumit Nagal, Alexander Bublik
+Juncheng Shang, Mackenzie Mcdonald
+Lorenzo Sonego, Daniel Evans
+Carlos Alcaraz, Richard Gasquet
+Novak Djokovic, Alexei Popyrin
+Tomas Martin Etcheverry, Gael Monfils
+Adrian Mannarino, Jaume Munar
+Ben Shelton, Christopher Oconnell
+Taylor Fritz, Hugo Gaston
+Fabian Marozsan, Francisco Cerundolo
+Luca Van Assche, Lorenzo Musetti
+Stefanos Tsitsipas, Jordan Thompson
+Jannik Sinner, Jesper De Jong
+Sebastian Baez, Daniel Elahi Galan
+Tomas Machac, Frances Tiafoe
+Karen Khachanov, Aleksandar Kovacevic
+Alex De Minaur, Matteo Arnaldi
+Flavio Cobolli, Pavel Kotov
+Sebastian Korda, Quentin Halys
+Andrey Rublev, Christopher Eubanks
+Arthur Cazaux, Holger Rune
+Tallon Griekspoor, Arthur Fils
+Ugo Humbert, Zhizhen Zhang
+Hubert Hurkacz, Jakub Mensik
+Grigor Dimitrov, Thanasi Kokkinakis
+Nuno Borges, Alejandro Davidovich Fokina
+Felix Auger Aliassime, Hugo Grenier
+Daniil Medvedev, Emil Ruusuvuori
+Alexander Zverev, Lukas Klein
+Alex Michelsen, Jiri Lehecka
+Cameron Norrie, Giulio Zeppieri
+Casper Ruud, Max Purcell
+Tommy Paul, Jack Draper
+Miomir Kecmanovic, Jan Lennard Struff
+Juncheng Shang, Sumit Nagal
+Carlos Alcaraz, Lorenzo Sonego
+Novak Djokovic, Tomas Martin Etcheverry
+Adrian Mannarino, Ben Shelton
+Taylor Fritz, Fabian Marozsan
+Stefanos Tsitsipas, Luca Van Assche
+Jannik Sinner, Sebastian Baez
+Karen Khachanov, Tomas Machac
+Alex De Minaur, Flavio Cobolli
+Andrey Rublev, Sebastian Korda
+Arthur Cazaux, Tallon Griekspoor
+Hubert Hurkacz, Ugo Humbert
+Nuno Borges, Grigor Dimitrov
+Daniil Medvedev, Felix Auger Aliassime
+Alexander Zverev, Alex Michelsen
+Cameron Norrie, Casper Ruud
+Miomir Kecmanovic, Tommy Paul
+Carlos Alcaraz, Juncheng Shang
+Novak Djokovic, Adrian Mannarino
+Taylor Fritz, Stefanos Tsitsipas
+Jannik Sinner, Karen Khachanov
+Andrey Rublev, Alex De Minaur
+Hubert Hurkacz, Arthur Cazaux
+Daniil Medvedev, Nuno Borges
+Alexander Zverev, Cameron Norrie
+Carlos Alcaraz, Miomir Kecmanovic
+Novak Djokovic, Taylor Fritz
+Jannik Sinner, Andrey Rublev
+Daniil Medvedev, Hubert Hurkacz
+Alexander Zverev, Carlos Alcaraz
+Jannik Sinner, Novak Djokovic
+Daniil Medvedev, Alexander Zverev
+Jannik Sinner, Daniil Medvedev
+Alexander Bublik, Borna Coric
+Borna Coric, Holger Rune
+Alexander Bublik, Felix Auger Aliassime
+Holger Rune, Michael Mmoh
+Borna Coric, Flavio Cobolli
+Felix Auger Aliassime, Harold Mayot
+Alexander Bublik, Alexander Shevchenko
+Holger Rune, Pablo Llamas Ruiz
+Michael Mmoh, Alexandre Muller
+Borna Coric, Pedro Martinez
+Flavio Cobolli, Constant Lestienne
+Harold Mayot, Benoit Paire
+Felix Auger Aliassime, Arthur Cazaux
+Alexander Shevchenko, Gregoire Barrere
+Alexander Bublik, Denis Shapovalov
+Pablo Llamas Ruiz, Richard Gasquet
+Michael Mmoh, Benjamin Bonzi
+Alexandre Muller, Antoine Escoffier
+Pedro Martinez, Jaume Munar
+Constant Lestienne, Bernabe Zapata Miralles
+Flavio Cobolli, Gael Monfils
+Benoit Paire, Andy Murray
+Harold Mayot, Lucas Pouille
+Arthur Cazaux, Maximilian Marterer
+Alexander Shevchenko, Dalibor Svrcina
+Gregoire Barrere, Ugo Blanchet
+Denis Shapovalov, Hugo Gaston
+Luciano Darderi, Facundo Bagnis
+Facundo Bagnis, Federico Coria
+Luciano Darderi, Sebastian Baez
+Facundo Bagnis, Jaume Munar
+Federico Coria, Tomas Martin Etcheverry
+Luciano Darderi, Yannick Hanfmann
+Sebastian Baez, Facundo Diaz Acosta
+Jaume Munar, Francisco Cerundolo
+Facundo Bagnis, Roberto Carballes Baena
+Tomas Martin Etcheverry, Bernabe Zapata Miralles
+Federico Coria, Albert Ramos
+Yannick Hanfmann, Roman Andres Burruchaga
+Luciano Darderi, Sebastian Ofner
+Facundo Diaz Acosta, Thiago Agustin Tirante
+Sebastian Baez, Hugo Dellien
+Jaume Munar, Daniel Elahi Galan
+Facundo Bagnis, Juan Manuel Cerundolo
+Roberto Carballes Baena, Mariano Navone
+Bernabe Zapata Miralles, Cristian Garin
+Albert Ramos, Pedro Cachin
+Federico Coria, Daniel Altmaier
+Yannick Hanfmann, Juan Pablo Varillas
+Roman Andres Burruchaga, Diego Schwartzman
+Luciano Darderi, Tomas Barrios Vera
+Thiago Agustin Tirante, Francisco Comesana
+Facundo Diaz Acosta, Federico Agustin Gomez
+Hugo Dellien, Thiago Seyboth Wild
+Tommy Paul, Marcos Giron
+Marcos Giron, Adrian Mannarino
+Tommy Paul, Ben Shelton
+Marcos Giron, Frances Tiafoe
+Adrian Mannarino, James Duckworth
+Ben Shelton, Jordan Thompson
+Tommy Paul, Dominik Koepfer
+Frances Tiafoe, Alex Michelsen
+Marcos Giron, Max Purcell
+Adrian Mannarino, Yoshihito Nishioka
+James Duckworth, Christopher Eubanks
+Jordan Thompson, Denis Kudla
+Ben Shelton, Michael Mmoh
+Dominik Koepfer, Rinky Hijikata
+Tommy Paul, Taro Daniel
+Alex Michelsen, Tennys Sandgren
+Marcos Giron, Nicolas Moreno De Alboran
+Max Purcell, Mitchell Krueger
+Yoshihito Nishioka, Terence Atmane
+James Duckworth, Zachary Svajda
+Christopher Eubanks, Steve Johnson
+Jordan Thompson, Adam Neff
+Denis Kudla, Radu Albot
+Michael Mmoh, Emilio Nava
+Dominik Koepfer, Aleksandar Kovacevic
+Rinky Hijikata, Ethan Quinn
+Taro Daniel, Constant Lestienne
+Ugo Humbert, Grigor Dimitrov
+Ugo Humbert, Hubert Hurkacz
+Grigor Dimitrov, Karen Khachanov
+Hubert Hurkacz, Tomas Machac
+Ugo Humbert, Alejandro Davidovich Fokina
+Karen Khachanov, Zhizhen Zhang
+Grigor Dimitrov, Arthur Rinderknech
+Hubert Hurkacz, Alexander Shevchenko
+Tomas Machac, Lorenzo Musetti
+Ugo Humbert, Hugo Gaston
+Alejandro Davidovich Fokina, Emil Ruusuvuori
+Zhizhen Zhang, Felix Auger Aliassime
+Karen Khachanov, Roberto Bautista Agut
+Arthur Rinderknech, Jiri Lehecka
+Grigor Dimitrov, Sebastian Korda
+Alexander Shevchenko, Benjamin Bonzi
+Tomas Machac, Andy Murray
+Lorenzo Musetti, Maximilian Marterer
+Hugo Gaston, Denis Shapovalov
+Emil Ruusuvuori, Luca Van Assche
+Alejandro Davidovich Fokina, Gregoire Barrere
+Felix Auger Aliassime, Quentin Halys
+Zhizhen Zhang, Giulio Zeppieri
+Roberto Bautista Agut, Richard Gasquet
+Jiri Lehecka, David Goffin
+Arthur Rinderknech, Maxime Cressy
+Sebastian Korda, Hugo Grenier
+Taylor Fritz, Tommy Paul
+Taylor Fritz, Marcos Giron
+Tommy Paul, Frances Tiafoe
+Taylor Fritz, Rinky Hijikata
+Marcos Giron, Patrick Kypson
+Tommy Paul, Jordan Thompson
+Frances Tiafoe, Flavio Cobolli
+Taylor Fritz, Nuno Borges
+Rinky Hijikata, Matteo Arnaldi
+Marcos Giron, Adrian Mannarino
+Patrick Kypson, Constant Lestienne
+Jordan Thompson, Nicolas Moreno De Alboran
+Tommy Paul, Alex Michelsen
+Flavio Cobolli, Zachary Svajda
+Frances Tiafoe, Radu Albot
+Nuno Borges, Gabriel Diallo
+Rinky Hijikata, Liam Broady
+Matteo Arnaldi, Yoshihito Nishioka
+Marcos Giron, Emilio Nava
+Constant Lestienne, Aleksandar Vukic
+Patrick Kypson, Miomir Kecmanovic
+Jordan Thompson, Daniel Evans
+Nicolas Moreno De Alboran, Aleksandar Kovacevic
+Alex Michelsen, Thanasi Kokkinakis
+Zachary Svajda, Max Purcell
+Flavio Cobolli, Taro Daniel
+Radu Albot, Juncheng Shang
+Facundo Diaz Acosta, Nicolas Jarry
+Nicolas Jarry, Carlos Alcaraz
+Facundo Diaz Acosta, Federico Coria
+Carlos Alcaraz, Andrea Vavassori
+Nicolas Jarry, Tomas Martin Etcheverry
+Facundo Diaz Acosta, Dusan Lajovic
+Federico Coria, Sebastian Baez
+Carlos Alcaraz, Camilo Ugo Carabelli
+Andrea Vavassori, Laslo Djere
+Nicolas Jarry, Stan Wawrinka
+Tomas Martin Etcheverry, Daniel Elahi Galan
+Dusan Lajovic, Alejandro Tabilo
+Facundo Diaz Acosta, Francisco Cerundolo
+Sebastian Baez, Luciano Darderi
+Federico Coria, Cameron Norrie
+Camilo Ugo Carabelli, Juan Pablo Varillas
+Andrea Vavassori, Thiago Seyboth Wild
+Laslo Djere, Marin Cilic
+Stan Wawrinka, Pedro Cachin
+Daniel Elahi Galan, Diego Schwartzman
+Tomas Martin Etcheverry, Roberto Carballes Baena
+Dusan Lajovic, Arthur Fils
+Alejandro Tabilo, Yannick Hanfmann
+Facundo Diaz Acosta, Daniel Altmaier
+Sebastian Baez, Bernabe Zapata Miralles
+Luciano Darderi, Mariano Navone
+Federico Coria, Sebastian Ofner
+Jannik Sinner, Alex De Minaur
+Jannik Sinner, Tallon Griekspoor
+Alex De Minaur, Grigor Dimitrov
+Jannik Sinner, Milos Raonic
+Tallon Griekspoor, Emil Ruusuvuori
+Grigor Dimitrov, Alexander Shevchenko
+Alex De Minaur, Andrey Rublev
+Jannik Sinner, Gael Monfils
+Milos Raonic, Alexander Bublik
+Tallon Griekspoor, Hubert Hurkacz
+Emil Ruusuvuori, Jan Lennard Struff
+Grigor Dimitrov, Marton Fucsovics
+Alexander Shevchenko, Holger Rune
+Alex De Minaur, David Goffin
+Andrey Rublev, Felix Auger Aliassime
+Jannik Sinner, Botic Van De Zandschulp
+Gael Monfils, Denis Shapovalov
+Milos Raonic, Jesper De Jong
+Alexander Bublik, Borna Coric
+Hubert Hurkacz, Jiri Lehecka
+Tallon Griekspoor, Lorenzo Musetti
+Jan Lennard Struff, Alejandro Davidovich Fokina
+Emil Ruusuvuori, Ugo Humbert
+Grigor Dimitrov, Lorenzo Sonego
+Marton Fucsovics, Fabian Marozsan
+Alexander Shevchenko, Zhizhen Zhang
+Holger Rune, Roman Safiullin
+Alex De Minaur, Sebastian Korda
+David Goffin, Dino Prizmic
+Felix Auger Aliassime, Maxime Cressy
+Andrey Rublev, Zizou Bergs
+Karen Khachanov, Jakub Mensik
+Jakub Mensik, Gael Monfils
+Karen Khachanov, Alexei Popyrin
+Jakub Mensik, Andrey Rublev
+Gael Monfils, Ugo Humbert
+Alexei Popyrin, Alexander Bublik
+Karen Khachanov, Emil Ruusuvuori
+Andrey Rublev, Richard Gasquet
+Jakub Mensik, Andy Murray
+Ugo Humbert, Pavel Kotov
+Gael Monfils, Zhizhen Zhang
+Alexei Popyrin, Hugo Grenier
+Alexander Bublik, Marton Fucsovics
+Emil Ruusuvuori, Christopher Oconnell
+Karen Khachanov, Fabian Marozsan
+Richard Gasquet, Alexander Shevchenko
+Andy Murray, Alexandre Muller
+Jakub Mensik, Alejandro Davidovich Fokina
+Pavel Kotov, Lorenzo Sonego
+Gael Monfils, Botic Van De Zandschulp
+Zhizhen Zhang, Lorenzo Musetti
+Hugo Grenier, Maximilian Marterer
+Alexei Popyrin, Abedallah Shelbayh
+Marton Fucsovics, Roberto Bautista Agut
+Christopher Oconnell, Jan Lennard Struff
+Emil Ruusuvuori, Giulio Zeppieri
+Fabian Marozsan, Vit Kopriva
+Jordan Thompson, Casper Ruud
+Jordan Thompson, Alexander Zverev
+Casper Ruud, Stefanos Tsitsipas
+Alexander Zverev, Thanasi Kokkinakis
+Jordan Thompson, Alex Michelsen
+Casper Ruud, Nuno Borges
+Stefanos Tsitsipas, Aleksandar Kovacevic
+Alexander Zverev, Yoshihito Nishioka
+Thanasi Kokkinakis, Daniel Evans
+Alex Michelsen, Alex De Minaur
+Jordan Thompson, Emilio Nava
+Nuno Borges, Max Purcell
+Casper Ruud, Marcos Giron
+Aleksandar Kovacevic, Rinky Hijikata
+Stefanos Tsitsipas, Aleksandar Vukic
+Yoshihito Nishioka, Flavio Cobolli
+Thanasi Kokkinakis, Jack Draper
+Daniel Evans, Roman Safiullin
+Alex Michelsen, Constant Lestienne
+Emilio Nava, Diego Schwartzman
+Jordan Thompson, Ernesto Escobedo
+Max Purcell, Matteo Arnaldi
+Nuno Borges, Dominik Koepfer
+Marcos Giron, Taro Daniel
+Rinky Hijikata, Miomir Kecmanovic
+Aleksandar Kovacevic, Brandon Holt
+Aleksandar Vukic, Rodrigo Pacheco Mendez
+Sebastian Baez, Mariano Navone
+Sebastian Baez, Francisco Cerundolo
+Mariano Navone, Cameron Norrie
+Sebastian Baez, Thiago Monteiro
+Francisco Cerundolo, Dusan Lajovic
+Mariano Navone, Joao Fonseca
+Cameron Norrie, Thiago Seyboth Wild
+Thiago Monteiro, Felipe Meligeni Alves
+Sebastian Baez, Facundo Diaz Acosta
+Francisco Cerundolo, Albert Ramos
+Dusan Lajovic, Laslo Djere
+Joao Fonseca, Cristian Garin
+Mariano Navone, Yannick Hanfmann
+Thiago Seyboth Wild, Jaume Munar
+Cameron Norrie, Tomas Barrios Vera
+Thiago Monteiro, Carlos Alcaraz
+Felipe Meligeni Alves, Pedro Cachin
+Facundo Diaz Acosta, Stan Wawrinka
+Sebastian Baez, Corentin Moutet
+Francisco Cerundolo, Francisco Comesana
+Albert Ramos, Juan Pablo Varillas
+Dusan Lajovic, Daniel Elahi Galan
+Laslo Djere, Bernabe Zapata Miralles
+Joao Fonseca, Arthur Fils
+Cristian Garin, Roberto Carballes Baena
+Mariano Navone, Federico Coria
+Yannick Hanfmann, Nicolas Jarry
+Jaume Munar, Sebastian Ofner
+Thiago Seyboth Wild, Alejandro Tabilo
+Tomas Barrios Vera, Gustavo Heide
+Cameron Norrie, Hugo Dellien
+Alex De Minaur, Casper Ruud
+Alex De Minaur, Jack Draper
+Casper Ruud, Holger Rune
+Jack Draper, Miomir Kecmanovic
+Alex De Minaur, Stefanos Tsitsipas
+Casper Ruud, Ben Shelton
+Holger Rune, Dominik Koepfer
+Miomir Kecmanovic, Daniel Altmaier
+Jack Draper, Yoshihito Nishioka
+Alex De Minaur, Sebastian Ofner
+Stefanos Tsitsipas, Flavio Cobolli
+Casper Ruud, Dusan Lajovic
+Ben Shelton, Matteo Arnaldi
+Dominik Koepfer, Frances Tiafoe
+Holger Rune, Aleksandar Kovacevic
+Daniel Altmaier, Alexander Zverev
+Miomir Kecmanovic, Diego Schwartzman
+Yoshihito Nishioka, Nuno Borges
+Jack Draper, Tommy Paul
+Alex De Minaur, Taro Daniel
+Sebastian Ofner, Ernesto Escobedo
+Flavio Cobolli, Felix Auger Aliassime
+Stefanos Tsitsipas, Roman Safiullin
+Casper Ruud, Christopher Eubanks
+Dusan Lajovic, Rodrigo Pacheco Mendez
+Ben Shelton, Daniel Evans
+Matteo Arnaldi, Taylor Fritz
+Frances Tiafoe, Max Purcell
+Dominik Koepfer, Terence Atmane
+Aleksandar Kovacevic, Jordan Thompson
+Holger Rune, Michael Mmoh
+Ugo Humbert, Alexander Bublik
+Ugo Humbert, Daniil Medvedev
+Alexander Bublik, Andrey Rublev
+Daniil Medvedev, Alejandro Davidovich Fokina
+Ugo Humbert, Hubert Hurkacz
+Alexander Bublik, Jiri Lehecka
+Andrey Rublev, Sebastian Korda
+Daniil Medvedev, Lorenzo Sonego
+Alejandro Davidovich Fokina, Jakub Mensik
+Hubert Hurkacz, Christopher Oconnell
+Ugo Humbert, Andy Murray
+Alexander Bublik, Tallon Griekspoor
+Jiri Lehecka, Karen Khachanov
+Sebastian Korda, Botic Van De Zandschulp
+Andrey Rublev, Arthur Cazaux
+Daniil Medvedev, Alexander Shevchenko
+Lorenzo Sonego, Sumit Nagal
+Jakub Mensik, Borna Coric
+Alejandro Davidovich Fokina, Fabian Marozsan
+Hubert Hurkacz, Jan Lennard Struff
+Christopher Oconnell, Maximilian Marterer
+Andy Murray, Denis Shapovalov
+Ugo Humbert, Gael Monfils
+Alexander Bublik, Tomas Machac
+Tallon Griekspoor, Abedallah Shelbayh
+Jiri Lehecka, Marton Fucsovics
+Karen Khachanov, Luca Van Assche
+Botic Van De Zandschulp, Adrian Mannarino
+Sebastian Korda, Pavel Kotov
+Arthur Cazaux, Lorenzo Musetti
+Andrey Rublev, Zhizhen Zhang
+Sebastian Baez, Alejandro Tabilo
+Alejandro Tabilo, Corentin Moutet
+Sebastian Baez, Pedro Martinez
+Corentin Moutet, Nicolas Jarry
+Alejandro Tabilo, Luciano Darderi
+Pedro Martinez, Arthur Fils
+Sebastian Baez, Jaume Munar
+Nicolas Jarry, Federico Coria
+Corentin Moutet, Thiago Agustin Tirante
+Alejandro Tabilo, Tomas Barrios Vera
+Luciano Darderi, Juan Manuel Cerundolo
+Pedro Martinez, Facundo Diaz Acosta
+Arthur Fils, Thiago Seyboth Wild
+Jaume Munar, Albert Ramos
+Sebastian Baez, Juan Pablo Varillas
+Federico Coria, Alex Molcan
+Thiago Agustin Tirante, Joao Fonseca
+Corentin Moutet, Roberto Carballes Baena
+Tomas Barrios Vera, Cristian Garin
+Luciano Darderi, Facundo Bagnis
+Juan Manuel Cerundolo, Yannick Hanfmann
+Facundo Diaz Acosta, Pedro Cachin
+Pedro Martinez, Francesco Passaro
+Thiago Seyboth Wild, Roman Andres Burruchaga
+Jaume Munar, Bernabe Zapata Miralles
+Albert Ramos, Hugo Dellien
+Juan Pablo Varillas, Francisco Comesana
+Carlos Alcaraz, Daniil Medvedev
+Daniil Medvedev, Tommy Paul
+Carlos Alcaraz, Jannik Sinner
+Tommy Paul, Casper Ruud
+Daniil Medvedev, Holger Rune
+Jannik Sinner, Jiri Lehecka
+Carlos Alcaraz, Alexander Zverev
+Tommy Paul, Luca Nardi
+Casper Ruud, Gael Monfils
+Daniil Medvedev, Grigor Dimitrov
+Holger Rune, Taylor Fritz
+Jiri Lehecka, Stefanos Tsitsipas
+Jannik Sinner, Ben Shelton
+Alexander Zverev, Alex De Minaur
+Carlos Alcaraz, Fabian Marozsan
+Luca Nardi, Novak Djokovic
+Tommy Paul, Ugo Humbert
+Casper Ruud, Arthur Fils
+Gael Monfils, Cameron Norrie
+Daniil Medvedev, Sebastian Korda
+Grigor Dimitrov, Adrian Mannarino
+Taylor Fritz, Sebastian Baez
+Holger Rune, Lorenzo Musetti
+Jiri Lehecka, Andrey Rublev
+Stefanos Tsitsipas, Frances Tiafoe
+Ben Shelton, Francisco Cerundolo
+Jannik Sinner, Jan Lennard Struff
+Alexander Zverev, Tallon Griekspoor
+Alex De Minaur, Alexander Bublik
+Fabian Marozsan, Thiago Seyboth Wild
+Carlos Alcaraz, Felix Auger Aliassime
+Novak Djokovic, Aleksandar Vukic
+Luca Nardi, Zhizhen Zhang
+Tommy Paul, Alex Michelsen
+Ugo Humbert, Patrick Kypson
+Casper Ruud, Lukas Klein
+Arthur Fils, Alejandro Davidovich Fokina
+Cameron Norrie, Lorenzo Sonego
+Gael Monfils, Hubert Hurkacz
+Daniil Medvedev, Roberto Carballes Baena
+Sebastian Korda, Roman Safiullin
+Adrian Mannarino, Tomas Machac
+Grigor Dimitrov, Alexandre Muller
+Taylor Fritz, Alejandro Tabilo
+Sebastian Baez, Fabio Fognini
+Lorenzo Musetti, Denis Shapovalov
+Holger Rune, Milos Raonic
+Andrey Rublev, Andy Murray
+Jiri Lehecka, Brandon Nakashima
+Frances Tiafoe, Dusan Lajovic
+Stefanos Tsitsipas, Lucas Pouille
+Ben Shelton, Jakub Mensik
+Francisco Cerundolo, Alexander Shevchenko
+Jan Lennard Struff, Borna Coric
+Jannik Sinner, Thanasi Kokkinakis
+Alexander Zverev, Christopher Oconnell
+Tallon Griekspoor, Yannick Hanfmann
+Alexander Bublik, Juncheng Shang
+Alex De Minaur, Taro Daniel
+Thiago Seyboth Wild, Karen Khachanov
+Fabian Marozsan, Nicolas Jarry
+Felix Auger Aliassime, Constant Lestienne
+Carlos Alcaraz, Matteo Arnaldi
+Aleksandar Vukic, Shintaro Mochizuki
+Zhizhen Zhang, Aleksandar Kovacevic
+Alex Michelsen, Jaume Munar
+Patrick Kypson, Ethan Quinn
+Lukas Klein, Nicolas Moreno De Alboran
+Arthur Fils, Nuno Borges
+Lorenzo Sonego, Miomir Kecmanovic
+Gael Monfils, Max Purcell
+Roberto Carballes Baena, Flavio Cobolli
+Roman Safiullin, Daniel Evans
+Tomas Machac, Stan Wawrinka
+Alexandre Muller, Hugo Grenier
+Alejandro Tabilo, Pavel Kotov
+Fabio Fognini, Bernabe Zapata Miralles
+Denis Shapovalov, Botic Van De Zandschulp
+Milos Raonic, Sumit Nagal
+Andy Murray, David Goffin
+Brandon Nakashima, Christopher Eubanks
+Dusan Lajovic, Emil Ruusuvuori
+Lucas Pouille, Daniel Altmaier
+Jakub Mensik, Seong Chan Hong
+Alexander Shevchenko, Dominik Koepfer
+Borna Coric, Sebastian Ofner
+Thanasi Kokkinakis, Marcos Giron
+Christopher Oconnell, Jack Draper
+Yannick Hanfmann, Pedro Cachin
+Juncheng Shang, Jordan Thompson
+Taro Daniel, Daniel Elahi Galan
+Thiago Seyboth Wild, J J Wolf
+Fabian Marozsan, Jurij Rodionov
+Constant Lestienne, Denis Kudla
+Matteo Arnaldi, Luca Van Assche
+Jannik Sinner, Grigor Dimitrov
+Grigor Dimitrov, Alexander Zverev
+Jannik Sinner, Daniil Medvedev
+Grigor Dimitrov, Carlos Alcaraz
+Alexander Zverev, Fabian Marozsan
+Daniil Medvedev, Nicolas Jarry
+Jannik Sinner, Tomas Machac
+Carlos Alcaraz, Lorenzo Musetti
+Grigor Dimitrov, Hubert Hurkacz
+Alexander Zverev, Karen Khachanov
+Fabian Marozsan, Alex De Minaur
+Nicolas Jarry, Casper Ruud
+Daniil Medvedev, Dominik Koepfer
+Tomas Machac, Matteo Arnaldi
+Jannik Sinner, Christopher Oconnell
+Carlos Alcaraz, Gael Monfils
+Lorenzo Musetti, Ben Shelton
+Grigor Dimitrov, Yannick Hanfmann
+Hubert Hurkacz, Sebastian Korda
+Alexander Zverev, Christopher Eubanks
+Karen Khachanov, Francisco Cerundolo
+Alex De Minaur, Jan Lennard Struff
+Fabian Marozsan, Alexei Popyrin
+Casper Ruud, Alejandro Davidovich Fokina
+Nicolas Jarry, Thiago Seyboth Wild
+Dominik Koepfer, Ugo Humbert
+Daniil Medvedev, Cameron Norrie
+Tomas Machac, Andy Murray
+Matteo Arnaldi, Denis Shapovalov
+Christopher Oconnell, Martin Damm
+Jannik Sinner, Tallon Griekspoor
+Carlos Alcaraz, Roberto Carballes Baena
+Gael Monfils, Jordan Thompson
+Lorenzo Musetti, Roman Safiullin
+Ben Shelton, Martin Landaluce
+Grigor Dimitrov, Alejandro Tabilo
+Yannick Hanfmann, Adrian Mannarino
+Sebastian Korda, Roberto Bautista Agut
+Hubert Hurkacz, Alexander Shevchenko
+Alexander Zverev, Felix Auger Aliassime
+Christopher Eubanks, Daniel Evans
+Francisco Cerundolo, Sebastian Ofner
+Karen Khachanov, Laslo Djere
+Alex De Minaur, Soon Woo Kwon
+Jan Lennard Struff, Daniel Altmaier
+Alexei Popyrin, Jiri Lehecka
+Fabian Marozsan, Holger Rune
+Casper Ruud, Luca Van Assche
+Alejandro Davidovich Fokina, Juncheng Shang
+Nicolas Jarry, Jack Draper
+Thiago Seyboth Wild, Taylor Fritz
+Ugo Humbert, Botic Van De Zandschulp
+Dominik Koepfer, Sebastian Baez
+Cameron Norrie, Flavio Cobolli
+Daniil Medvedev, Marton Fucsovics
+Tomas Machac, Andrey Rublev
+Andy Murray, Tomas Martin Etcheverry
+Matteo Arnaldi, Alexander Bublik
+Denis Shapovalov, Stefanos Tsitsipas
+Martin Damm, Tommy Paul
+Christopher Oconnell, Frances Tiafoe
+Tallon Griekspoor, Alex Michelsen
+Jannik Sinner, Andrea Vavassori
+Roberto Carballes Baena, Aleksandar Vukic
+Gael Monfils, Dusan Lajovic
+Roman Safiullin, Diego Schwartzman
+Martin Landaluce, Jaume Munar
+Alejandro Tabilo, Brandon Nakashima
+Yannick Hanfmann, Emil Ruusuvuori
+Roberto Bautista Agut, Emilio Nava
+Alexander Shevchenko, Daniel Elahi Galan
+Felix Auger Aliassime, Adam Walton
+Daniel Evans, Lorenzo Sonego
+Sebastian Ofner, Kei Nishikori
+Laslo Djere, Coleman Wong
+Soon Woo Kwon, Alexandre Muller
+Daniel Altmaier, Harold Mayot
+Alexei Popyrin, Facundo Diaz Acosta
+Fabian Marozsan, Aleksandar Kovacevic
+Luca Van Assche, Pavel Kotov
+Juncheng Shang, Miomir Kecmanovic
+Jack Draper, Taro Daniel
+Thiago Seyboth Wild, Nuno Borges
+Botic Van De Zandschulp, Rinky Hijikata
+Dominik Koepfer, Marcos Giron
+Flavio Cobolli, Yoshihito Nishioka
+Marton Fucsovics, Max Purcell
+Tomas Machac, Darwin Blanch
+Andy Murray, Matteo Berrettini
+Matteo Arnaldi, Arthur Fils
+Denis Shapovalov, Luciano Darderi
+Martin Damm, Zhizhen Zhang
+Christopher Oconnell, Vit Kopriva
+Alex Michelsen, Lukas Klein
+Andrea Vavassori, Pedro Cachin
+Hubert Hurkacz, Pedro Martinez
+Pedro Martinez, Casper Ruud
+Hubert Hurkacz, Cristian Garin
+Casper Ruud, Marton Fucsovics
+Pedro Martinez, Richard Gasquet
+Cristian Garin, Nuno Borges
+Hubert Hurkacz, Pablo Llamas Ruiz
+Casper Ruud, Botic Van De Zandschulp
+Marton Fucsovics, Gael Monfils
+Richard Gasquet, Dominic Thiem
+Pedro Martinez, Roberto Bautista Agut
+Cristian Garin, Arthur Fils
+Nuno Borges, Lorenzo Musetti
+Pablo Llamas Ruiz, David Jorda Sanchis
+Hubert Hurkacz, Jan Choinski
+Botic Van De Zandschulp, Federico Coria
+Marton Fucsovics, Pedro Cachin
+Gael Monfils, Henrique Rocha
+Dominic Thiem, Maximilian Marterer
+Pedro Martinez, Daniel Altmaier
+Roberto Bautista Agut, Miomir Kecmanovic
+Arthur Fils, Joao Sousa
+Cristian Garin, Jurij Rodionov
+Nuno Borges, Lucas Pouille
+Pablo Llamas Ruiz, Dominik Koepfer
+David Jorda Sanchis, Jaime Faria
+Jan Choinski, Joao Fonseca
+Ben Shelton, Frances Tiafoe
+Ben Shelton, Tomas Martin Etcheverry
+Frances Tiafoe, Luciano Darderi
+Ben Shelton, Brandon Nakashima
+Tomas Martin Etcheverry, Michael Mmoh
+Frances Tiafoe, Jordan Thompson
+Luciano Darderi, Marcos Giron
+Ben Shelton, Zizou Bergs
+Brandon Nakashima, Rinky Hijikata
+Tomas Martin Etcheverry, Daniel Elahi Galan
+Michael Mmoh, Max Purcell
+Jordan Thompson, Aleksandar Kovacevic
+Frances Tiafoe, James Duckworth
+Marcos Giron, J J Wolf
+Luciano Darderi, Francisco Cerundolo
+Zizou Bergs, Patrick Kypson
+Brandon Nakashima, Duje Ajdukovic
+Rinky Hijikata, Christopher Eubanks
+Daniel Elahi Galan, Benoit Paire
+Michael Mmoh, Juan Pablo Varillas
+Max Purcell, Alex Michelsen
+Jordan Thompson, Yibing Wu
+Aleksandar Kovacevic, Thanasi Kokkinakis
+James Duckworth, Gijs Brouwer
+Marcos Giron, Denis Shapovalov
+J J Wolf, Alexander Ritschard
+Luciano Darderi, Denis Kudla
+Matteo Berrettini, Roberto Carballes Baena
+Roberto Carballes Baena, Pavel Kotov
+Matteo Berrettini, Mariano Navone
+Pavel Kotov, Fabio Fognini
+Roberto Carballes Baena, Nicolas Moreno De Alboran
+Matteo Berrettini, Lorenzo Sonego
+Mariano Navone, Aleksandar Vukic
+Fabio Fognini, Laslo Djere
+Pavel Kotov, Flavio Cobolli
+Roberto Carballes Baena, Daniel Evans
+Nicolas Moreno De Alboran, David Goffin
+Matteo Berrettini, Jaume Munar
+Lorenzo Sonego, Sumit Nagal
+Mariano Navone, Stan Wawrinka
+Aleksandar Vukic, Sebastian Ofner
+Fabio Fognini, Hugo Gaston
+Pavel Kotov, Elliot Benchetrit
+Flavio Cobolli, Abedallah Shelbayh
+Roberto Carballes Baena, Matteo Gigante
+David Goffin, Arthur Rinderknech
+Nicolas Moreno De Alboran, Facundo Diaz Acosta
+Matteo Berrettini, Alexander Shevchenko
+Jaume Munar, Luca Van Assche
+Sumit Nagal, Corentin Moutet
+Mariano Navone, Aziz Dougaz
+Stan Wawrinka, Albert Ramos
+Aleksandar Vukic, Alexandre Muller
+Stefanos Tsitsipas, Casper Ruud
+Casper Ruud, Novak Djokovic
+Stefanos Tsitsipas, Jannik Sinner
+Novak Djokovic, Alex De Minaur
+Casper Ruud, Ugo Humbert
+Stefanos Tsitsipas, Karen Khachanov
+Jannik Sinner, Holger Rune
+Novak Djokovic, Lorenzo Musetti
+Alex De Minaur, Alexei Popyrin
+Ugo Humbert, Lorenzo Sonego
+Casper Ruud, Hubert Hurkacz
+Stefanos Tsitsipas, Alexander Zverev
+Karen Khachanov, Daniil Medvedev
+Holger Rune, Grigor Dimitrov
+Jannik Sinner, Jan Lennard Struff
+Novak Djokovic, Roman Safiullin
+Lorenzo Musetti, Arthur Fils
+Alex De Minaur, Tallon Griekspoor
+Alexei Popyrin, Andrey Rublev
+Lorenzo Sonego, Felix Auger Aliassime
+Ugo Humbert, Zhizhen Zhang
+Hubert Hurkacz, Roberto Bautista Agut
+Casper Ruud, Alejandro Tabilo
+Alexander Zverev, Sebastian Ofner
+Stefanos Tsitsipas, Tomas Martin Etcheverry
+Karen Khachanov, Francisco Cerundolo
+Daniil Medvedev, Gael Monfils
+Holger Rune, Sumit Nagal
+Grigor Dimitrov, Miomir Kecmanovic
+Jan Lennard Struff, Borna Coric
+Jannik Sinner, Sebastian Korda
+Roman Safiullin, Jaume Munar
+Arthur Fils, Yannick Hanfmann
+Lorenzo Musetti, Taylor Fritz
+Alex De Minaur, Stan Wawrinka
+Tallon Griekspoor, Dominik Koepfer
+Alexei Popyrin, Corentin Moutet
+Felix Auger Aliassime, Luca Nardi
+Zhizhen Zhang, Marcos Giron
+Ugo Humbert, Federico Coria
+Hubert Hurkacz, Jack Draper
+Roberto Bautista Agut, Facundo Diaz Acosta
+Alejandro Tabilo, Christopher Oconnell
+Sebastian Ofner, Daniel Evans
+Tomas Martin Etcheverry, Nicolas Jarry
+Stefanos Tsitsipas, Laslo Djere
+Karen Khachanov, Cameron Norrie
+Francisco Cerundolo, Daniel Altmaier
+Gael Monfils, Aleksandar Vukic
+Sumit Nagal, Matteo Arnaldi
+Miomir Kecmanovic, Matteo Berrettini
+Grigor Dimitrov, Valentin Vacherot
+Borna Coric, Alexander Bublik
+Jan Lennard Struff, Sebastian Baez
+Sebastian Korda, Alejandro Davidovich Fokina
+Casper Ruud, Stefanos Tsitsipas
+Stefanos Tsitsipas, Dusan Lajovic
+Casper Ruud, Tomas Martin Etcheverry
+Stefanos Tsitsipas, Facundo Diaz Acosta
+Dusan Lajovic, Arthur Fils
+Casper Ruud, Matteo Arnaldi
+Tomas Martin Etcheverry, Cameron Norrie
+Facundo Diaz Acosta, Fabian Marozsan
+Stefanos Tsitsipas, Roberto Carballes Baena
+Arthur Fils, Alex De Minaur
+Dusan Lajovic, Alejandro Davidovich Fokina
+Matteo Arnaldi, Marco Trungelliti
+Casper Ruud, Jordan Thompson
+Cameron Norrie, Roberto Bautista Agut
+Tomas Martin Etcheverry, Brandon Nakashima
+Fabian Marozsan, Luca Van Assche
+Facundo Diaz Acosta, Borna Coric
+Roberto Carballes Baena, Lorenzo Musetti
+Stefanos Tsitsipas, Sebastian Ofner
+Alex De Minaur, Rafael Nadal
+Arthur Fils, Daniel Altmaier
+Alejandro Davidovich Fokina, Tomas Machac
+Dusan Lajovic, Ugo Humbert
+Matteo Arnaldi, Sebastian Baez
+Marco Trungelliti, Nicolas Jarry
+Jordan Thompson, Jaume Munar
+Casper Ruud, Alexandre Muller
+Roberto Bautista Agut, Andrea Vavassori
+Cameron Norrie, Harold Mayot
+Tomas Martin Etcheverry, Nick Hardt
+Brandon Nakashima, Andrey Rublev
+Luca Van Assche, Zhizhen Zhang
+Facundo Diaz Acosta, Daniel Rincon
+Roberto Carballes Baena, Hugo Grenier
+Sebastian Ofner, Pavel Kotov
+Rafael Nadal, Flavio Cobolli
+Daniel Altmaier, Alexei Popyrin
+Tomas Machac, Juncheng Shang
+Dusan Lajovic, Diego Schwartzman
+Matteo Arnaldi, Arthur Cazaux
+Marco Trungelliti, Duje Ajdukovic
+Jaume Munar, Yoshihito Nishioka
+Alexandre Muller, Albert Ramos
+Roberto Bautista Agut, Roman Safiullin
+Harold Mayot, Pedro Cachin
+Nick Hardt, Martin Landaluce
+Brandon Nakashima, Daniel Evans
+Jan Lennard Struff, Taylor Fritz
+Taylor Fritz, Cristian Garin
+Jan Lennard Struff, Holger Rune
+Cristian Garin, Alexander Zverev
+Taylor Fritz, Jack Draper
+Jan Lennard Struff, Felix Auger Aliassime
+Holger Rune, Marc Andrea Huesler
+Alexander Zverev, Jurij Rodionov
+Cristian Garin, Alex Michelsen
+Taylor Fritz, Alejandro Moro Canas
+Jack Draper, Rudolf Molleker
+Felix Auger Aliassime, Taro Daniel
+Jan Lennard Struff, Botic Van De Zandschulp
+Marc Andrea Huesler, Yannick Hanfmann
+Holger Rune, Daniel Elahi Galan
+Jurij Rodionov, Aleksandar Vukic
+Alex Michelsen, Max Hans Rehberg
+Cristian Garin, Dominik Koepfer
+Alejandro Moro Canas, Dominic Thiem
+Rudolf Molleker, Francesco Passaro
+Jack Draper, Vit Kopriva
+Felix Auger Aliassime, Maximilian Marterer
+Taro Daniel, Christopher Oconnell
+Botic Van De Zandschulp, Ivan Gakhov
+Yannick Hanfmann, Alexander Shevchenko
+Marc Andrea Huesler, Marko Topo
+Daniel Elahi Galan, Camilo Ugo Carabelli
+Marton Fucsovics, Mariano Navone
+Mariano Navone, Gregoire Barrere
+Marton Fucsovics, Alejandro Tabilo
+Mariano Navone, Francisco Cerundolo
+Gregoire Barrere, Pedro Martinez
+Alejandro Tabilo, Joao Fonseca
+Marton Fucsovics, Corentin Moutet
+Francisco Cerundolo, Federico Coria
+Mariano Navone, Thiago Seyboth Wild
+Gregoire Barrere, Sebastian Korda
+Pedro Martinez, Miomir Kecmanovic
+Joao Fonseca, Radu Albot
+Alejandro Tabilo, Arthur Rinderknech
+Corentin Moutet, Nuno Borges
+Marton Fucsovics, Tallon Griekspoor
+Federico Coria, Benjamin Bonzi
+Thiago Seyboth Wild, Luca Nardi
+Mariano Navone, Luciano Darderi
+Gregoire Barrere, Thanasi Kokkinakis
+Miomir Kecmanovic, David Goffin
+Pedro Martinez, Carlos Taberner
+Joao Fonseca, Lorenzo Sonego
+Radu Albot, Aleksandar Kovacevic
+Arthur Rinderknech, Hugo Gaston
+Nuno Borges, Stan Wawrinka
+Corentin Moutet, Denis Shapovalov
+Marton Fucsovics, Valentin Vacherot
+Andrey Rublev, Felix Auger Aliassime
+Felix Auger Aliassime, Jiri Lehecka
+Andrey Rublev, Taylor Fritz
+Felix Auger Aliassime, Jannik Sinner
+Jiri Lehecka, Daniil Medvedev
+Taylor Fritz, Francisco Cerundolo
+Andrey Rublev, Carlos Alcaraz
+Jannik Sinner, Karen Khachanov
+Felix Auger Aliassime, Casper Ruud
+Daniil Medvedev, Alexander Bublik
+Jiri Lehecka, Rafael Nadal
+Taylor Fritz, Hubert Hurkacz
+Francisco Cerundolo, Alexander Zverev
+Andrey Rublev, Tallon Griekspoor
+Carlos Alcaraz, Jan Lennard Struff
+Jannik Sinner, Pavel Kotov
+Karen Khachanov, Flavio Cobolli
+Felix Auger Aliassime, Jakub Mensik
+Casper Ruud, Cameron Norrie
+Daniil Medvedev, Sebastian Korda
+Alexander Bublik, Ben Shelton
+Rafael Nadal, Pedro Cachin
+Jiri Lehecka, Thiago Monteiro
+Hubert Hurkacz, Daniel Altmaier
+Taylor Fritz, Sebastian Baez
+Francisco Cerundolo, Tommy Paul
+Alexander Zverev, Denis Shapovalov
+Andrey Rublev, Alejandro Davidovich Fokina
+Tallon Griekspoor, Holger Rune
+Jan Lennard Struff, Ugo Humbert
+Carlos Alcaraz, Thiago Seyboth Wild
+Jannik Sinner, Lorenzo Sonego
+Pavel Kotov, Jordan Thompson
+Flavio Cobolli, Nicolas Jarry
+Karen Khachanov, Roberto Bautista Agut
+Jakub Mensik, Grigor Dimitrov
+Felix Auger Aliassime, Adrian Mannarino
+Cameron Norrie, Joao Fonseca
+Casper Ruud, Miomir Kecmanovic
+Daniil Medvedev, Matteo Arnaldi
+Sebastian Korda, Max Purcell
+Alexander Bublik, Roberto Carballes Baena
+Ben Shelton, Tomas Machac
+Rafael Nadal, Alex De Minaur
+Pedro Cachin, Frances Tiafoe
+Jiri Lehecka, Hamad Medjedovic
+Thiago Monteiro, Stefanos Tsitsipas
+Hubert Hurkacz, Jack Draper
+Daniel Altmaier, Arthur Fils
+Sebastian Baez, Luca Van Assche
+Taylor Fritz, Luciano Darderi
+Tommy Paul, Lukas Klein
+Francisco Cerundolo, Fabian Marozsan
+Denis Shapovalov, Tomas Martin Etcheverry
+Alexander Zverev, Borna Coric
+Andrey Rublev, Facundo Bagnis
+Alejandro Davidovich Fokina, Juncheng Shang
+Tallon Griekspoor, Taro Daniel
+Holger Rune, Mariano Navone
+Ugo Humbert, Botic Van De Zandschulp
+Jan Lennard Struff, Jaume Munar
+Thiago Seyboth Wild, Lorenzo Musetti
+Carlos Alcaraz, Alexander Shevchenko
+Lorenzo Sonego, Richard Gasquet
+Pavel Kotov, Albert Ramos
+Flavio Cobolli, Alejandro Tabilo
+Roberto Bautista Agut, Daniel Elahi Galan
+Jakub Mensik, Yannick Hanfmann
+Felix Auger Aliassime, Yoshihito Nishioka
+Joao Fonseca, Alex Michelsen
+Miomir Kecmanovic, Zhizhen Zhang
+Matteo Arnaldi, Christopher Oconnell
+Max Purcell, Marcos Giron
+Roberto Carballes Baena, Dominik Koepfer
+Tomas Machac, Emil Ruusuvuori
+Rafael Nadal, Darwin Blanch
+Pedro Cachin, Sebastian Ofner
+Hamad Medjedovic, Aleksandar Kovacevic
+Thiago Monteiro, Dusan Lajovic
+Jack Draper, Thanasi Kokkinakis
+Daniel Altmaier, Martin Landaluce
+Luca Van Assche, Zizou Bergs
+Luciano Darderi, Gael Monfils
+Lukas Klein, Pablo Llamas Ruiz
+Fabian Marozsan, Aslan Karatsev
+Denis Shapovalov, Facundo Diaz Acosta
+Borna Coric, Benjamin Hassan
+Facundo Bagnis, Brandon Nakashima
+Juncheng Shang, Corentin Moutet
+Taro Daniel, Aleksandar Vukic
+Mariano Navone, Alexei Popyrin
+Botic Van De Zandschulp, Christopher Eubanks
+Jaume Munar, Nuno Borges
+Thiago Seyboth Wild, Roman Safiullin
+Alexander Shevchenko, Arthur Rinderknech
+Alexander Zverev, Nicolas Jarry
+Alexander Zverev, Alejandro Tabilo
+Nicolas Jarry, Tommy Paul
+Alejandro Tabilo, Zhizhen Zhang
+Alexander Zverev, Taylor Fritz
+Nicolas Jarry, Stefanos Tsitsipas
+Tommy Paul, Hubert Hurkacz
+Alejandro Tabilo, Karen Khachanov
+Zhizhen Zhang, Thiago Monteiro
+Alexander Zverev, Nuno Borges
+Taylor Fritz, Grigor Dimitrov
+Stefanos Tsitsipas, Alex De Minaur
+Nicolas Jarry, Alexandre Muller
+Hubert Hurkacz, Sebastian Baez
+Tommy Paul, Daniil Medvedev
+Alejandro Tabilo, Novak Djokovic
+Karen Khachanov, Francisco Cerundolo
+Zhizhen Zhang, Ben Shelton
+Thiago Monteiro, Miomir Kecmanovic
+Alexander Zverev, Luciano Darderi
+Nuno Borges, Francesco Passaro
+Taylor Fritz, Sebastian Korda
+Grigor Dimitrov, Terence Atmane
+Stefanos Tsitsipas, Cameron Norrie
+Alex De Minaur, Felix Auger Aliassime
+Nicolas Jarry, Stefano Napolitano
+Alexandre Muller, Andrey Rublev
+Hubert Hurkacz, Tomas Martin Etcheverry
+Sebastian Baez, Holger Rune
+Tommy Paul, Dominik Koepfer
+Daniil Medvedev, Hamad Medjedovic
+Novak Djokovic, Corentin Moutet
+Alejandro Tabilo, Yannick Hanfmann
+Francisco Cerundolo, Matteo Gigante
+Karen Khachanov, Alexander Shevchenko
+Ben Shelton, Pavel Kotov
+Zhizhen Zhang, Adrian Mannarino
+Thiago Monteiro, Jordan Thompson
+Miomir Kecmanovic, Casper Ruud
+Alexander Zverev, Aleksandar Vukic
+Luciano Darderi, Mariano Navone
+Francesco Passaro, Tallon Griekspoor
+Nuno Borges, Alexander Bublik
+Taylor Fritz, Fabio Fognini
+Sebastian Korda, Flavio Cobolli
+Terence Atmane, Lorenzo Musetti
+Grigor Dimitrov, Yoshihito Nishioka
+Stefanos Tsitsipas, Jan Lennard Struff
+Cameron Norrie, Jaume Munar
+Felix Auger Aliassime, Botic Van De Zandschulp
+Alex De Minaur, Roberto Carballes Baena
+Stefano Napolitano, Juncheng Shang
+Nicolas Jarry, Matteo Arnaldi
+Alexandre Muller, Arthur Fils
+Andrey Rublev, Marcos Giron
+Hubert Hurkacz, Rafael Nadal
+Tomas Martin Etcheverry, Thiago Seyboth Wild
+Sebastian Baez, Dusan Lajovic
+Holger Rune, Luca Nardi
+Tommy Paul, Aslan Karatsev
+Dominik Koepfer, Frances Tiafoe
+Hamad Medjedovic, Alejandro Davidovich Fokina
+Daniil Medvedev, Jack Draper
+Corentin Moutet, Roman Safiullin
+Yannick Hanfmann, Jakub Mensik
+Matteo Gigante, Giulio Zeppieri
+Alexander Shevchenko, Fabian Marozsan
+Pavel Kotov, Alex Michelsen
+Zhizhen Zhang, Daniel Elahi Galan
+Thiago Monteiro, Gael Monfils
+Miomir Kecmanovic, Brandon Nakashima
+Aleksandar Vukic, Diego Schwartzman
+Luciano Darderi, Denis Shapovalov
+Francesco Passaro, Arthur Rinderknech
+Nuno Borges, Pedro Martinez
+Fabio Fognini, Daniel Evans
+Flavio Cobolli, Maximilian Marterer
+Terence Atmane, Christopher Eubanks
+Yoshihito Nishioka, Sebastian Ofner
+Jan Lennard Struff, Pedro Cachin
+Jaume Munar, Rinky Hijikata
+Botic Van De Zandschulp, Nicolas Moreno De Alboran
+Roberto Carballes Baena, Christopher Oconnell
+Stefano Napolitano, J J Wolf
+Matteo Arnaldi, Harold Mayot
+Alexandre Muller, Marton Fucsovics
+Marcos Giron, Emil Ruusuvuori
+Rafael Nadal, Zizou Bergs
+Thiago Seyboth Wild, Gregoire Barrere
+Dusan Lajovic, Lorenzo Sonego
+Luca Nardi, Daniel Altmaier
+Aslan Karatsev, Mackenzie Mcdonald
+Dominik Koepfer, Andrea Vavassori
+Hamad Medjedovic, Alexei Popyrin
+Jack Draper, Borna Coric
+Casper Ruud, Tomas Machac
+Tomas Machac, Novak Djokovic
+Casper Ruud, Flavio Cobolli
+Novak Djokovic, Tallon Griekspoor
+Tomas Machac, Alex Michelsen
+Flavio Cobolli, Alexander Shevchenko
+Casper Ruud, Sebastian Baez
+Novak Djokovic, Yannick Hanfmann
+Tallon Griekspoor, Denis Shapovalov
+Alex Michelsen, Taylor Fritz
+Tomas Machac, Nicolas Moreno De Alboran
+Alexander Shevchenko, Emil Ruusuvuori
+Flavio Cobolli, Ben Shelton
+Sebastian Baez, Roberto Carballes Baena
+Casper Ruud, Sebastian Ofner
+Yannick Hanfmann, Andy Murray
+Denis Shapovalov, Federico Coria
+Tallon Griekspoor, Christopher Eubanks
+Alex Michelsen, Aleksandar Kovacevic
+Nicolas Moreno De Alboran, David Goffin
+Tomas Machac, Jack Draper
+Alexander Shevchenko, Fabian Marozsan
+Emil Ruusuvuori, Marcos Giron
+Flavio Cobolli, Aslan Karatsev
+Sebastian Baez, Sumit Nagal
+Roberto Carballes Baena, Daniel Altmaier
+Sebastian Ofner, Rinky Hijikata
+Giovanni Mpetshi Perricard, Tomas Martin Etcheverry
+Tomas Martin Etcheverry, Luciano Darderi
+Giovanni Mpetshi Perricard, Alexander Bublik
+Tomas Martin Etcheverry, Dominik Koepfer
+Luciano Darderi, Arthur Rinderknech
+Giovanni Mpetshi Perricard, Hugo Gaston
+Alexander Bublik, Pavel Kotov
+Dominik Koepfer, Ugo Humbert
+Tomas Martin Etcheverry, Thiago Seyboth Wild
+Luciano Darderi, Adrian Mannarino
+Arthur Rinderknech, Frances Tiafoe
+Giovanni Mpetshi Perricard, Yoshihito Nishioka
+Hugo Gaston, Francisco Cerundolo
+Pavel Kotov, Alexandre Muller
+Alexander Bublik, Aleksandar Vukic
+Dominik Koepfer, Javier Barranco Cosano
+Thiago Seyboth Wild, Pedro Martinez
+Tomas Martin Etcheverry, Nikolas Sanchez Izquierdo
+Luciano Darderi, Taro Daniel
+Arthur Rinderknech, Daniel Evans
+Frances Tiafoe, Jaume Munar
+Yoshihito Nishioka, Sebastian Fanselow
+Giovanni Mpetshi Perricard, Lorenzo Sonego
+Hugo Gaston, Daniel Elahi Galan
+Pavel Kotov, Pedro Cachin
+Alexandre Muller, Richard Gasquet
+Aleksandar Vukic, Mackenzie Mcdonald
+Carlos Alcaraz, Alexander Zverev
+Carlos Alcaraz, Jannik Sinner
+Alexander Zverev, Casper Ruud
+Casper Ruud, Novak Djokovic
+Jannik Sinner, Grigor Dimitrov
+Carlos Alcaraz, Stefanos Tsitsipas
+Alexander Zverev, Alex De Minaur
+Novak Djokovic, Francisco Cerundolo
+Jannik Sinner, Corentin Moutet
+Carlos Alcaraz, Felix Auger Aliassime
+Alexander Zverev, Holger Rune
+Alex De Minaur, Daniil Medvedev
+Casper Ruud, Taylor Fritz
+Grigor Dimitrov, Hubert Hurkacz
+Stefanos Tsitsipas, Matteo Arnaldi
+Novak Djokovic, Lorenzo Musetti
+Jannik Sinner, Pavel Kotov
+Carlos Alcaraz, Sebastian Korda
+Alexander Zverev, Tallon Griekspoor
+Daniil Medvedev, Tomas Machac
+Matteo Arnaldi, Andrey Rublev
+Casper Ruud, Tomas Martin Etcheverry
+Hubert Hurkacz, Denis Shapovalov
+Stefanos Tsitsipas, Zhizhen Zhang
+Grigor Dimitrov, Zizou Bergs
+Alex De Minaur, Jan Lennard Struff
+Taylor Fritz, Thanasi Kokkinakis
+Holger Rune, Jozef Kovalik
+Francisco Cerundolo, Tommy Paul
+Felix Auger Aliassime, Ben Shelton
+Corentin Moutet, Sebastian Ofner
+Novak Djokovic, Roberto Carballes Baena
+Jannik Sinner, Richard Gasquet
+Carlos Alcaraz, Jesper De Jong
+Alexander Zverev, David Goffin
+Daniil Medvedev, Miomir Kecmanovic
+Andrey Rublev, Pedro Martinez
+Casper Ruud, Alejandro Davidovich Fokina
+Hubert Hurkacz, Brandon Nakashima
+Stefanos Tsitsipas, Daniel Altmaier
+Grigor Dimitrov, Fabian Marozsan
+Alex De Minaur, Jaume Munar
+Taylor Fritz, Dusan Lajovic
+Holger Rune, Flavio Cobolli
+Tommy Paul, Fabio Fognini
+Ben Shelton, Kei Nishikori
+Jozef Kovalik, Karen Khachanov
+Jan Lennard Struff, Alexander Bublik
+Sebastian Ofner, Sebastian Baez
+Felix Auger Aliassime, Henri Squire
+Francisco Cerundolo, Filip Misolic
+Denis Shapovalov, Frances Tiafoe
+Tallon Griekspoor, Luciano Darderi
+Sebastian Korda, Soon Woo Kwon
+Tomas Martin Etcheverry, Arthur Rinderknech
+Lorenzo Musetti, Gael Monfils
+Tomas Machac, Mariano Navone
+Matteo Arnaldi, Alexandre Muller
+Zizou Bergs, Maximilian Marterer
+Thanasi Kokkinakis, Giulio Zeppieri
+Pavel Kotov, Stan Wawrinka
+Corentin Moutet, Alexander Shevchenko
+Zhizhen Zhang, Lorenzo Sonego
+Novak Djokovic, Pierre Hugues Herbert
+Jannik Sinner, Christopher Eubanks
+Carlos Alcaraz, J J Wolf
+Alexander Zverev, Rafael Nadal
+Daniil Medvedev, Dominik Koepfer
+Andrey Rublev, Taro Daniel
+Casper Ruud, Felipe Meligeni Alves
+Hubert Hurkacz, Shintaro Mochizuki
+Stefanos Tsitsipas, Marton Fucsovics
+Grigor Dimitrov, Aleksandar Kovacevic
+Alex De Minaur, Alex Michelsen
+Taylor Fritz, Federico Coria
+Holger Rune, Daniel Evans
+Tommy Paul, Pedro Cachin
+Ben Shelton, Hugo Gaston
+Corentin Moutet, Nicolas Jarry
+Lorenzo Sonego, Ugo Humbert
+Karen Khachanov, Sumit Nagal
+Alexander Bublik, Gregoire Barrere
+Sebastian Baez, Gustavo Heide
+Felix Auger Aliassime, Yoshihito Nishioka
+Giulio Zeppieri, Adrian Mannarino
+Francisco Cerundolo, Yannick Hanfmann
+Zizou Bergs, Alejandro Tabilo
+Frances Tiafoe, Mattia Bellucci
+Tallon Griekspoor, Mackenzie Mcdonald
+Sebastian Korda, Harold Mayot
+Tomas Martin Etcheverry, Arthur Cazaux
+Matteo Arnaldi, Arthur Fils
+Lorenzo Musetti, Daniel Elahi Galan
+Mariano Navone, Pablo Carreno Busta
+Pavel Kotov, Cameron Norrie
+Daniel Altmaier, Laslo Djere
+Roberto Carballes Baena, Constant Lestienne
+Flavio Cobolli, Hamad Medjedovic
+Luciano Darderi, Rinky Hijikata
+Alejandro Davidovich Fokina, Valentin Vacherot
+Jesper De Jong, Jack Draper
+Fabio Fognini, Botic Van De Zandschulp
+Richard Gasquet, Borna Coric
+David Goffin, Giovanni Mpetshi Perricard
+Miomir Kecmanovic, Thiago Monteiro
+Thanasi Kokkinakis, Alexei Popyrin
+Jozef Kovalik, Marcos Giron
+Soon Woo Kwon, Emil Ruusuvuori
+Dusan Lajovic, Roman Safiullin
+Tomas Machac, Nuno Borges
+Fabian Marozsan, Mikhail Kukushkin
+Maximilian Marterer, Jordan Thompson
+Pedro Martinez, Thiago Agustin Tirante
+Filip Misolic, Otto Virtanen
+Gael Monfils, Thiago Seyboth Wild
+Alexandre Muller, Luca Nardi
+Jaume Munar, Roberto Bautista Agut
+Brandon Nakashima, Nicolas Moreno De Alboran
+Kei Nishikori, Gabriel Diallo
+Sebastian Ofner, Terence Atmane
+Arthur Rinderknech, Adam Walton
+Denis Shapovalov, Luca Van Assche
+Alexander Shevchenko, Aslan Karatsev
+Henri Squire, Max Purcell
+Jan Lennard Struff, Roman Andres Burruchaga
+Stan Wawrinka, Andy Murray
+Zhizhen Zhang, Aleksandar Vukic
+Alex De Minaur, Sebastian Korda
+Alex De Minaur, Ugo Humbert
+Sebastian Korda, Tallon Griekspoor
+Alex De Minaur, Milos Raonic
+Ugo Humbert, Gijs Brouwer
+Tallon Griekspoor, Aleksandar Vukic
+Sebastian Korda, Tommy Paul
+Alex De Minaur, Zizou Bergs
+Milos Raonic, Roberto Bautista Agut
+Ugo Humbert, Arthur Fils
+Gijs Brouwer, Adrian Mannarino
+Tallon Griekspoor, Mackenzie Mcdonald
+Aleksandar Vukic, Karen Khachanov
+Sebastian Korda, Luca Nardi
+Tommy Paul, Alexei Popyrin
+Zizou Bergs, Tim Van Rijthoven
+Roberto Bautista Agut, Marc Andrea Huesler
+Milos Raonic, Jordan Thompson
+Arthur Fils, Arthur Cazaux
+Gijs Brouwer, Jakub Mensik
+Adrian Mannarino, Stefano Napolitano
+Tallon Griekspoor, Miomir Kecmanovic
+Mackenzie Mcdonald, Botic Van De Zandschulp
+Aleksandar Vukic, Max Purcell
+Sebastian Korda, Tristan Schoolkate
+Luca Nardi, David Goffin
+Alexei Popyrin, Rinky Hijikata
+Jack Draper, Matteo Berrettini
+Jack Draper, Brandon Nakashima
+Matteo Berrettini, Lorenzo Musetti
+Brandon Nakashima, Jan Lennard Struff
+Jack Draper, Frances Tiafoe
+Lorenzo Musetti, Alexander Bublik
+Matteo Berrettini, James Duckworth
+Brandon Nakashima, Richard Gasquet
+Jan Lennard Struff, Arthur Rinderknech
+Frances Tiafoe, Yannick Hanfmann
+Jack Draper, Marcos Giron
+Lorenzo Musetti, Dominik Koepfer
+Alexander Bublik, Hamad Medjedovic
+Matteo Berrettini, Denis Shapovalov
+James Duckworth, Ben Shelton
+Brandon Nakashima, Christopher Eubanks
+Arthur Rinderknech, Alex Michelsen
+Jan Lennard Struff, Flavio Cobolli
+Yannick Hanfmann, Henri Squire
+Marcos Giron, Andy Murray
+Jack Draper, Sebastian Ofner
+Lorenzo Musetti, Giovanni Mpetshi Perricard
+Dominik Koepfer, Zhizhen Zhang
+Hamad Medjedovic, Fabian Marozsan
+Matteo Berrettini, Roman Safiullin
+Denis Shapovalov, Matteo Martineau
+James Duckworth, Pierre Hugues Herbert
+Jannik Sinner, Hubert Hurkacz
+Jannik Sinner, Zhizhen Zhang
+Hubert Hurkacz, Alexander Zverev
+Jannik Sinner, Jan Lennard Struff
+Zhizhen Zhang, Christopher Eubanks
+Hubert Hurkacz, Marcos Giron
+Alexander Zverev, Arthur Fils
+Jannik Sinner, Fabian Marozsan
+Jan Lennard Struff, Stefanos Tsitsipas
+Zhizhen Zhang, Daniil Medvedev
+Christopher Eubanks, Alexander Bublik
+Hubert Hurkacz, James Duckworth
+Marcos Giron, Matteo Berrettini
+Arthur Fils, Dominik Koepfer
+Alexander Zverev, Lorenzo Sonego
+Jannik Sinner, Tallon Griekspoor
+Fabian Marozsan, Roman Safiullin
+Jan Lennard Struff, Luciano Darderi
+Stefanos Tsitsipas, Henri Squire
+Daniil Medvedev, Nuno Borges
+Zhizhen Zhang, Sebastian Ofner
+Christopher Eubanks, Pedro Martinez
+Alexander Bublik, Max Purcell
+Hubert Hurkacz, Flavio Cobolli
+James Duckworth, Joao Fonseca
+Matteo Berrettini, Alex Michelsen
+Marcos Giron, Andrey Rublev
+Dominik Koepfer, Felix Auger Aliassime
+Arthur Fils, Tomas Machac
+Lorenzo Sonego, Miomir Kecmanovic
+Alexander Zverev, Oscar Otte
+Tommy Paul, Lorenzo Musetti
+Tommy Paul, Sebastian Korda
+Lorenzo Musetti, Jordan Thompson
+Tommy Paul, Jack Draper
+Sebastian Korda, Rinky Hijikata
+Jordan Thompson, Taylor Fritz
+Lorenzo Musetti, Billy Harris
+Jack Draper, Carlos Alcaraz
+Tommy Paul, Alejandro Tabilo
+Sebastian Korda, Grigor Dimitrov
+Rinky Hijikata, Matteo Arnaldi
+Jordan Thompson, Andy Murray
+Taylor Fritz, Milos Raonic
+Billy Harris, Giovanni Mpetshi Perricard
+Lorenzo Musetti, Brandon Nakashima
+Carlos Alcaraz, Francisco Cerundolo
+Jack Draper, Mariano Navone
+Alejandro Tabilo, Alejandro Davidovich Fokina
+Tommy Paul, Sebastian Baez
+Grigor Dimitrov, Adrian Mannarino
+Sebastian Korda, Karen Khachanov
+Rinky Hijikata, Frances Tiafoe
+Matteo Arnaldi, Ugo Humbert
+Jordan Thompson, Holger Rune
+Andy Murray, Alexei Popyrin
+Milos Raonic, Cameron Norrie
+Taylor Fritz, Taro Daniel
+Giovanni Mpetshi Perricard, Ben Shelton
+Billy Harris, Tomas Martin Etcheverry
+Brandon Nakashima, Daniel Evans
+Lorenzo Musetti, Alex De Minaur
+Alejandro Tabilo, Sebastian Ofner
+Sebastian Ofner, Paul Jubb
+Alejandro Tabilo, Gael Monfils
+Paul Jubb, Ben Shelton
+Sebastian Ofner, Alex Michelsen
+Alejandro Tabilo, Jakub Mensik
+Gael Monfils, Roberto Bautista Agut
+Ben Shelton, Rinky Hijikata
+Paul Jubb, Adam Walton
+Alex Michelsen, Adrian Mannarino
+Sebastian Ofner, Luciano Darderi
+Jakub Mensik, Fabio Fognini
+Alejandro Tabilo, Alexander Shevchenko
+Gael Monfils, Roberto Carballes Baena
+Roberto Bautista Agut, Ugo Humbert
+Rinky Hijikata, Luca Nardi
+Paul Jubb, Maximilian Marterer
+Adam Walton, Yannick Hanfmann
+Alex Michelsen, Nuno Borges
+Sebastian Ofner, Jaume Munar
+Luciano Darderi, Pedro Martinez
+Jakub Mensik, Christopher Eubanks
+Fabio Fognini, Gijs Brouwer
+Alexander Shevchenko, Constant Lestienne
+Gael Monfils, Dominic Thiem
+Roberto Carballes Baena, Pablo Carreno Busta
+Roberto Bautista Agut, Taro Daniel
+Taylor Fritz, Max Purcell
+Taylor Fritz, Aleksandar Vukic
+Max Purcell, Billy Harris
+Taylor Fritz, Juncheng Shang
+Billy Harris, Flavio Cobolli
+Max Purcell, Miomir Kecmanovic
+Aleksandar Vukic, Yoshihito Nishioka
+Taylor Fritz, Thiago Seyboth Wild
+Aleksandar Vukic, Alexander Bublik
+Miomir Kecmanovic, Sebastian Baez
+Flavio Cobolli, Giles Hussey
+Billy Harris, Charles Broom
+Yoshihito Nishioka, Marcos Giron
+Max Purcell, Lorenzo Sonego
+Juncheng Shang, Emil Ruusuvuori
+Marcos Giron, Francisco Cerundolo
+Giles Hussey, Mariano Navone
+Juncheng Shang, Tomas Martin Etcheverry
+Flavio Cobolli, Arthur Rinderknech
+Billy Harris, Jacob Fearnley
+Miomir Kecmanovic, Zhizhen Zhang
+Yoshihito Nishioka, Liam Broady
+Max Purcell, Laslo Djere
+Emil Ruusuvuori, Cameron Norrie
+Thiago Seyboth Wild, James Mccabe
+Lorenzo Sonego, Henry Searle
+Aleksandar Vukic, Fabian Marozsan
+Jannik Sinner, Yannick Hanfmann
+Matteo Berrettini, Marton Fucsovics
+Miomir Kecmanovic, Sumit Nagal
+Tallon Griekspoor, Daniel Elahi Galan
+Denis Shapovalov, Nicolas Jarry
+Daniel Altmaier, Arthur Fery
+Lloyd Harris, Alex Michelsen
+Ben Shelton, Mattia Bellucci
+Grigor Dimitrov, Dusan Lajovic
+Juncheng Shang, Cristian Garin
+Stan Wawrinka, Charles Broom
+Gael Monfils, Adrian Mannarino
+Zhizhen Zhang, Maxime Janvier
+Jan Lennard Struff, Fabian Marozsan
+Alexandre Muller, Hugo Gaston
+Daniil Medvedev, Aleksandar Kovacevic
+Carlos Alcaraz, Mark Lajal
+Aleksandar Vukic, Sebastian Ofner
+Borna Coric, Felipe Meligeni Alves
+Frances Tiafoe, Matteo Arnaldi
+Brandon Nakashima, Sebastian Baez
+Jordan Thompson, Pavel Kotov
+Botic Van De Zandschulp, Liam Broady
+Ugo Humbert, Alexander Shevchenko
+Tommy Paul, Pedro Martinez
+Otto Virtanen, Max Purcell
+Arthur Cazaux, Zizou Bergs
+Alexander Bublik, Jakub Mensik
+Lorenzo Sonego, Mariano Navone
+Roberto Bautista Agut, Maximilian Marterer
+Fabio Fognini, Luca Van Assche
+Casper Ruud, Alex Bolt
+Francisco Comesana, Andrey Rublev
+Adam Walton, Federico Coria
+Luciano Darderi, Jan Choinski
+Lorenzo Musetti, Constant Lestienne
+Giovanni Mpetshi Perricard, Sebastian Korda
+Yoshihito Nishioka, Nuno Borges
+Emil Ruusuvuori, Mackenzie Mcdonald
+Stefanos Tsitsipas, Taro Daniel
+Taylor Fritz, Christopher Oconnell
+Arthur Rinderknech, Kei Nishikori
+Flavio Cobolli, Rinky Hijikata
+Alejandro Tabilo, Daniel Evans
+Jack Draper, Elias Ymer
+Cameron Norrie, Facundo Diaz Acosta
+Marcos Giron, Henry Searle
+Alexander Zverev, Roberto Carballes Baena
+Hubert Hurkacz, Radu Albot
+Arthur Fils, Dominic Stricker
+Tomas Machac, David Goffin
+Roman Safiullin, Francisco Cerundolo
+Thanasi Kokkinakis, Felix Auger Aliassime
+Lucas Pouille, Laslo Djere
+Jaume Munar, Billy Harris
+Alex De Minaur, James Duckworth
+Holger Rune, Soon Woo Kwon
+Thiago Seyboth Wild, Paul Jubb
+Quentin Halys, Christopher Eubanks
+Karen Khachanov, Aslan Karatsev
+Tomas Martin Etcheverry, Luca Nardi
+Alexei Popyrin, Thiago Monteiro
+Jacob Fearnley, Alejandro Moro Canas
+Novak Djokovic, Vit Kopriva
+Jannik Sinner, Matteo Berrettini
+Miomir Kecmanovic, Tallon Griekspoor
+Denis Shapovalov, Daniel Altmaier
+Ben Shelton, Lloyd Harris
+Grigor Dimitrov, Juncheng Shang
+Gael Monfils, Stan Wawrinka
+Jan Lennard Struff, Zhizhen Zhang
+Daniil Medvedev, Alexandre Muller
+Carlos Alcaraz, Aleksandar Vukic
+Frances Tiafoe, Borna Coric
+Brandon Nakashima, Jordan Thompson
+Ugo Humbert, Botic Van De Zandschulp
+Tommy Paul, Otto Virtanen
+Alexander Bublik, Arthur Cazaux
+Roberto Bautista Agut, Lorenzo Sonego
+Fabio Fognini, Casper Ruud
+Francisco Comesana, Adam Walton
+Lorenzo Musetti, Luciano Darderi
+Giovanni Mpetshi Perricard, Yoshihito Nishioka
+Emil Ruusuvuori, Stefanos Tsitsipas
+Taylor Fritz, Arthur Rinderknech
+Alejandro Tabilo, Flavio Cobolli
+Cameron Norrie, Jack Draper
+Alexander Zverev, Marcos Giron
+Arthur Fils, Hubert Hurkacz
+Roman Safiullin, Tomas Machac
+Lucas Pouille, Thanasi Kokkinakis
+Alex De Minaur, Jaume Munar
+Holger Rune, Thiago Seyboth Wild
+Quentin Halys, Karen Khachanov
+Alexei Popyrin, Tomas Martin Etcheverry
+Novak Djokovic, Jacob Fearnley
+Jannik Sinner, Miomir Kecmanovic
+Ben Shelton, Denis Shapovalov
+Grigor Dimitrov, Gael Monfils
+Daniil Medvedev, Jan Lennard Struff
+Carlos Alcaraz, Frances Tiafoe
+Ugo Humbert, Brandon Nakashima
+Tommy Paul, Alexander Bublik
+Roberto Bautista Agut, Fabio Fognini
+Lorenzo Musetti, Francisco Comesana
+Giovanni Mpetshi Perricard, Emil Ruusuvuori
+Taylor Fritz, Alejandro Tabilo
+Alexander Zverev, Cameron Norrie
+Arthur Fils, Roman Safiullin
+Alex De Minaur, Lucas Pouille
+Holger Rune, Quentin Halys
+Novak Djokovic, Alexei Popyrin
+Jannik Sinner, Ben Shelton
+Daniil Medvedev, Grigor Dimitrov
+Carlos Alcaraz, Ugo Humbert
+Tommy Paul, Roberto Bautista Agut
+Lorenzo Musetti, Giovanni Mpetshi Perricard
+Taylor Fritz, Alexander Zverev
+Alex De Minaur, Arthur Fils
+Novak Djokovic, Holger Rune
+Daniil Medvedev, Jannik Sinner
+Carlos Alcaraz, Tommy Paul
+Lorenzo Musetti, Taylor Fritz
+Novak Djokovic, Alex De Minaur
+Carlos Alcaraz, Daniil Medvedev
+Novak Djokovic, Lorenzo Musetti
+Carlos Alcaraz, Novak Djokovic
+Matteo Berrettini, Quentin Halys
+Matteo Berrettini, Stefanos Tsitsipas
+Quentin Halys, Jan Lennard Struff
+Stefanos Tsitsipas, Fabio Fognini
+Matteo Berrettini, Felix Auger Aliassime
+Jan Lennard Struff, Tomas Martin Etcheverry
+Quentin Halys, Gustavo Heide
+Stefanos Tsitsipas, Hamad Medjedovic
+Fabio Fognini, Juan Pablo Varillas
+Felix Auger Aliassime, Yannick Hanfmann
+Matteo Berrettini, Daniel Elahi Galan
+Jan Lennard Struff, Leandro Riedi
+Tomas Martin Etcheverry, Botic Van De Zandschulp
+Quentin Halys, Lukas Klein
+Gustavo Heide, Ugo Humbert
+Hamad Medjedovic, Marc Andrea Huesler
+Juan Pablo Varillas, Dominic Thiem
+Fabio Fognini, Titouan Droguet
+Yannick Hanfmann, Nicolas Moreno De Alboran
+Daniel Elahi Galan, Vit Kopriva
+Matteo Berrettini, Pedro Cachin
+Jan Lennard Struff, Albert Ramos
+Leandro Riedi, Gregoire Barrere
+Botic Van De Zandschulp, Dominic Stricker
+Lukas Klein, Stan Wawrinka
+Quentin Halys, Richard Gasquet
+Gustavo Heide, Stefano Napolitano
+Arthur Fils, Alexander Zverev
+Alexander Zverev, Pedro Martinez
+Arthur Fils, Sebastian Baez
+Alexander Zverev, Zhizhen Zhang
+Pedro Martinez, Francisco Cerundolo
+Sebastian Baez, Luciano Darderi
+Arthur Fils, Holger Rune
+Alexander Zverev, Hugo Gaston
+Zhizhen Zhang, Flavio Cobolli
+Francisco Cerundolo, Maximilian Marterer
+Pedro Martinez, Ugo Blanchet
+Luciano Darderi, Alexander Shevchenko
+Sebastian Baez, Dusan Lajovic
+Arthur Fils, Laslo Djere
+Holger Rune, Marco Trungelliti
+Alexander Zverev, Jesper De Jong
+Hugo Gaston, Facundo Diaz Acosta
+Flavio Cobolli, Daniel Altmaier
+Zhizhen Zhang, Thiago Seyboth Wild
+Francisco Cerundolo, Francisco Comesana
+Maximilian Marterer, Soon Woo Kwon
+Ugo Blanchet, Alexei Popyrin
+Pedro Martinez, Matteo Arnaldi
+Luciano Darderi, Nick Hardt
+Alexander Shevchenko, Rudolf Molleker
+Dusan Lajovic, Felipe Meligeni Alves
+Sebastian Baez, Dominik Koepfer
+Arthur Fils, Jaume Munar
+Laslo Djere, Zizou Bergs
+Marco Trungelliti, Sebastian Ofner
+Holger Rune, Fabian Marozsan
+Nuno Borges, Rafael Nadal
+Nuno Borges, Thiago Agustin Tirante
+Rafael Nadal, Duje Ajdukovic
+Thiago Agustin Tirante, Roberto Carballes Baena
+Nuno Borges, Timofey Skatov
+Rafael Nadal, Mariano Navone
+Duje Ajdukovic, Thiago Monteiro
+Thiago Agustin Tirante, Andrey Rublev
+Roberto Carballes Baena, Denis Yevseyev
+Timofey Skatov, Tallon Griekspoor
+Nuno Borges, Henrique Rocha
+Rafael Nadal, Cameron Norrie
+Mariano Navone, Sumit Nagal
+Duje Ajdukovic, Pavel Kotov
+Thiago Monteiro, Casper Ruud
+Thiago Agustin Tirante, Jaime Faria
+Denis Yevseyev, Alexandre Muller
+Roberto Carballes Baena, Roman Safiullin
+Timofey Skatov, Taro Daniel
+Henrique Rocha, Camilo Ugo Carabelli
+Nuno Borges, Andrea Pellegrino
+Cameron Norrie, Jozef Kovalik
+Rafael Nadal, Leo Borg
+Sumit Nagal, Elias Ymer
+Pavel Kotov, Cristian Garin
+Duje Ajdukovic, Luca Van Assche
+Thiago Monteiro, Federico Coria
+Marcos Giron, Alex Michelsen
+Alex Michelsen, Reilly Opelka
+Marcos Giron, Christopher Eubanks
+Reilly Opelka, Mackenzie Mcdonald
+Alex Michelsen, Aleksandar Kovacevic
+Christopher Eubanks, Aleksandar Vukic
+Marcos Giron, Alex Bolt
+Reilly Opelka, Adrian Mannarino
+Mackenzie Mcdonald, Billy Harris
+Alex Michelsen, Maxime Cressy
+Aleksandar Kovacevic, Arthur Rinderknech
+Aleksandar Vukic, Eliot Spizzirri
+Christopher Eubanks, Ethan Quinn
+Alex Bolt, Brandon Nakashima
+Marcos Giron, Benoit Paire
+Reilly Opelka, Constant Lestienne
+Billy Harris, Gabriel Diallo
+Mackenzie Mcdonald, Rinky Hijikata
+Maxime Cressy, Radu Albot
+Aleksandar Kovacevic, Harold Mayot
+Arthur Rinderknech, Shintaro Mochizuki
+Aleksandar Vukic, Coleman Wong
+Eliot Spizzirri, Li Tu
+Ethan Quinn, Marc Polmans
+Brandon Nakashima, Emilio Nava
+Alex Bolt, Jakub Mensik
+Benoit Paire, Zachary Svajda
+Yoshihito Nishioka, Jordan Thompson
+Jordan Thompson, Juncheng Shang
+Yoshihito Nishioka, Arthur Rinderknech
+Juncheng Shang, Max Purcell
+Jordan Thompson, Alejandro Davidovich Fokina
+Yoshihito Nishioka, Frances Tiafoe
+Arthur Rinderknech, Mattia Bellucci
+Juncheng Shang, Ben Shelton
+Max Purcell, David Goffin
+Jordan Thompson, Harold Mayot
+Alejandro Davidovich Fokina, Reilly Opelka
+Yoshihito Nishioka, Mackenzie Mcdonald
+Frances Tiafoe, Aslan Karatsev
+Arthur Rinderknech, Adam Walton
+Mattia Bellucci, Adrian Mannarino
+Juncheng Shang, Andres Martin
+David Goffin, Denis Shapovalov
+Max Purcell, Christopher Oconnell
+Harold Mayot, Borna Coric
+Reilly Opelka, Aleksandar Kovacevic
+Alejandro Davidovich Fokina, Arthur Cazaux
+Mackenzie Mcdonald, Brandon Nakashima
+Yoshihito Nishioka, Zachary Svajda
+Aslan Karatsev, Billy Harris
+Adam Walton, Miomir Kecmanovic
+Arthur Rinderknech, J J Wolf
+Mattia Bellucci, Aleksandar Vukic
+Matteo Berrettini, Hugo Gaston
+Hugo Gaston, Facundo Diaz Acosta
+Matteo Berrettini, Yannick Hanfmann
+Hugo Gaston, Sebastian Baez
+Facundo Diaz Acosta, Pedro Martinez
+Yannick Hanfmann, Thiago Seyboth Wild
+Matteo Berrettini, Nicolas Moreno De Alboran
+Sebastian Baez, Thiago Agustin Tirante
+Hugo Gaston, Roberto Carballes Baena
+Pedro Martinez, Sumit Nagal
+Facundo Diaz Acosta, Daniel Elahi Galan
+Thiago Seyboth Wild, Laslo Djere
+Yannick Hanfmann, Gustavo Heide
+Nicolas Moreno De Alboran, Lukas Neumayer
+Matteo Berrettini, Alejandro Tabilo
+Thiago Agustin Tirante, Dominic Thiem
+Hugo Gaston, Daniel Altmaier
+Roberto Carballes Baena, Marton Fucsovics
+Sumit Nagal, Lukas Klein
+Facundo Diaz Acosta, Federico Coria
+Daniel Elahi Galan, Hamad Medjedovic
+Laslo Djere, Vit Kopriva
+Thiago Seyboth Wild, Joel Schwaerzler
+Yannick Hanfmann, Jaume Munar
+Lukas Neumayer, Sebastian Ofner
+Nicolas Moreno De Alboran, Andrea Collarini
+Matteo Berrettini, Pavel Kotov
+Francisco Cerundolo, Lorenzo Musetti
+Francisco Cerundolo, Andrey Rublev
+Lorenzo Musetti, Jakub Mensik
+Andrey Rublev, Fabian Marozsan
+Francisco Cerundolo, Lorenzo Sonego
+Jakub Mensik, Chun Hsin Tseng
+Lorenzo Musetti, Dusan Lajovic
+Andrey Rublev, Camilo Ugo Carabelli
+Fabian Marozsan, Thiago Monteiro
+Francisco Cerundolo, Matej Dodig
+Lorenzo Sonego, Alexandre Muller
+Jakub Mensik, Luciano Darderi
+Chun Hsin Tseng, Fabio Fognini
+Dusan Lajovic, Flavio Cobolli
+Lorenzo Musetti, Marco Trungelliti
+Camilo Ugo Carabelli, Luka Mikrut
+Fabian Marozsan, Alexander Shevchenko
+Thiago Monteiro, Tomas Machac
+Matej Dodig, Enzo Couacaud
+Lorenzo Sonego, Mili Poljicak
+Alexandre Muller, Matteo Arnaldi
+Luciano Darderi, Duje Ajdukovic
+Jakub Mensik, Alexei Popyrin
+Fabio Fognini, Luca Van Assche
+Flavio Cobolli, Mariano Navone
+Dusan Lajovic, Filip Misolic
+Marco Trungelliti, Guido Andreozzi
+Sebastian Korda, Flavio Cobolli
+Sebastian Korda, Frances Tiafoe
+Flavio Cobolli, Ben Shelton
+Frances Tiafoe, Andrey Rublev
+Sebastian Korda, Jordan Thompson
+Flavio Cobolli, Alex Michelsen
+Ben Shelton, Denis Shapovalov
+Andrey Rublev, Arthur Rinderknech
+Frances Tiafoe, Aleksandar Kovacevic
+Sebastian Korda, Thanasi Kokkinakis
+Jordan Thompson, Giovanni Mpetshi Perricard
+Flavio Cobolli, Alejandro Davidovich Fokina
+Alex Michelsen, Seong Chan Hong
+Denis Shapovalov, Miomir Kecmanovic
+Ben Shelton, Brandon Nakashima
+Andrey Rublev, Luca Van Assche
+Arthur Rinderknech, Juncheng Shang
+Aleksandar Kovacevic, Roberto Carballes Baena
+Frances Tiafoe, Daniel Elahi Galan
+Sebastian Korda, Cristian Garin
+Thanasi Kokkinakis, Aleksandar Vukic
+Giovanni Mpetshi Perricard, Emil Ruusuvuori
+Jordan Thompson, Reilly Opelka
+Alejandro Davidovich Fokina, Mitchell Krueger
+Flavio Cobolli, David Goffin
+Alex Michelsen, Mattia Bellucci
+Seong Chan Hong, Karen Khachanov
+Denis Shapovalov, Adrian Mannarino
+Miomir Kecmanovic, J J Wolf
+Brandon Nakashima, Christopher Oconnell
+Ben Shelton, Radu Albot
+Luca Van Assche, Arthur Cazaux
+Juncheng Shang, Elias Ymer
+Aleksandar Kovacevic, Yoshihito Nishioka
+Daniel Elahi Galan, Maxime Cressy
+Cristian Garin, Aslan Karatsev
+Thanasi Kokkinakis, Max Purcell
+Emil Ruusuvuori, Borna Coric
+Reilly Opelka, James Duckworth
+Mitchell Krueger, Luca Nardi
+David Goffin, Camilo Ugo Carabelli
+Mattia Bellucci, Mackenzie Mcdonald
+Seong Chan Hong, Adam Walton
+Denis Shapovalov, Roberto Bautista Agut
+J J Wolf, Zachary Svajda
+Christopher Oconnell, Harold Mayot
+Radu Albot, Facundo Diaz Acosta
+Novak Djokovic, Matthew Ebden
+Rafael Nadal, Marton Fucsovics
+Dominik Koepfer, Milos Raonic
+Matteo Arnaldi, Arthur Fils
+Sebastian Baez, Thiago Monteiro
+Benjamin Hassan, Christopher Eubanks
+Daniel Evans, Moez Echargui
+Stefanos Tsitsipas, Zizou Bergs
+Alexander Zverev, Jaume Munar
+Tomas Machac, Zhizhen Zhang
+Stan Wawrinka, Pavel Kotov
+Alexei Popyrin, Nicolas Jarry
+Lorenzo Musetti, Gael Monfils
+Mariano Navone, Nuno Borges
+Jack Draper, Kei Nishikori
+Taylor Fritz, Alexander Bublik
+Casper Ruud, Taro Daniel
+Andrea Vavassori, Pedro Martinez
+Francisco Cerundolo, Tomas Barrios Vera
+Ugo Humbert, Fabian Marozsan
+Felix Auger Aliassime, Marcos Giron
+Maximilian Marterer, Dusan Lajovic
+Sebastian Ofner, Robin Haase
+Daniil Medvedev, Rinky Hijikata
+Jan Lennard Struff, Francisco Cabral
+Corentin Moutet, Sumit Nagal
+Jakub Mensik, Alexander Shevchenko
+Tommy Paul, Luciano Darderi
+Roman Safiullin, Alejandro Tabilo
+Tomas Martin Etcheverry, Thiago Seyboth Wild
+Tallon Griekspoor, Petros Tsitsipas
+Carlos Alcaraz, Hady Habib
+Novak Djokovic, Rafael Nadal
+Dominik Koepfer, Matteo Arnaldi
+Sebastian Baez, Benjamin Hassan
+Stefanos Tsitsipas, Daniel Evans
+Alexander Zverev, Tomas Machac
+Alexei Popyrin, Stan Wawrinka
+Lorenzo Musetti, Mariano Navone
+Taylor Fritz, Jack Draper
+Casper Ruud, Andrea Vavassori
+Francisco Cerundolo, Ugo Humbert
+Felix Auger Aliassime, Maximilian Marterer
+Daniil Medvedev, Sebastian Ofner
+Jan Lennard Struff, Corentin Moutet
+Tommy Paul, Jakub Mensik
+Roman Safiullin, Tomas Martin Etcheverry
+Carlos Alcaraz, Tallon Griekspoor
+Novak Djokovic, Dominik Koepfer
+Stefanos Tsitsipas, Sebastian Baez
+Alexander Zverev, Alexei Popyrin
+Lorenzo Musetti, Taylor Fritz
+Casper Ruud, Francisco Cerundolo
+Felix Auger Aliassime, Daniil Medvedev
+Tommy Paul, Corentin Moutet
+Carlos Alcaraz, Roman Safiullin
+Novak Djokovic, Stefanos Tsitsipas
+Lorenzo Musetti, Alexander Zverev
+Felix Auger Aliassime, Casper Ruud
+Carlos Alcaraz, Tommy Paul
+Novak Djokovic, Lorenzo Musetti
+Carlos Alcaraz, Felix Auger Aliassime
+Novak Djokovic, Carlos Alcaraz
+Lorenzo Musetti, Felix Auger Aliassime
+Alexei Popyrin, Andrey Rublev
+Andrey Rublev, Matteo Arnaldi
+Alexei Popyrin, Sebastian Korda
+Andrey Rublev, Jannik Sinner
+Matteo Arnaldi, Kei Nishikori
+Alexei Popyrin, Hubert Hurkacz
+Sebastian Korda, Alexander Zverev
+Jannik Sinner, Alejandro Tabilo
+Andrey Rublev, Brandon Nakashima
+Matteo Arnaldi, Alejandro Davidovich Fokina
+Kei Nishikori, Nuno Borges
+Alexei Popyrin, Grigor Dimitrov
+Hubert Hurkacz, Arthur Rinderknech
+Sebastian Korda, Casper Ruud
+Alexander Zverev, Holger Rune
+Jannik Sinner, Borna Coric
+Alejandro Tabilo, Lorenzo Sonego
+Brandon Nakashima, Tommy Paul
+Andrey Rublev, Tomas Martin Etcheverry
+Alejandro Davidovich Fokina, Daniil Medvedev
+Matteo Arnaldi, Karen Khachanov
+Nuno Borges, Ugo Humbert
+Kei Nishikori, Stefanos Tsitsipas
+Grigor Dimitrov, Rinky Hijikata
+Alexei Popyrin, Ben Shelton
+Arthur Rinderknech, Flavio Cobolli
+Hubert Hurkacz, Thanasi Kokkinakis
+Casper Ruud, James Duckworth
+Sebastian Korda, Taylor Fritz
+Holger Rune, Pablo Carreno Busta
+Alexander Zverev, Jordan Thompson
+Borna Coric, Pedro Martinez
+Lorenzo Sonego, Tallon Griekspoor
+Alejandro Tabilo, Frances Tiafoe
+Tommy Paul, Luciano Darderi
+Brandon Nakashima, Denis Shapovalov
+Tomas Martin Etcheverry, Nicolas Jarry
+Alejandro Davidovich Fokina, Roman Safiullin
+Matteo Arnaldi, Mackenzie Mcdonald
+Karen Khachanov, Gabriel Diallo
+Ugo Humbert, Arthur Fils
+Nuno Borges, Miomir Kecmanovic
+Kei Nishikori, Alex Michelsen
+Rinky Hijikata, Taro Daniel
+Alexei Popyrin, Tomas Machac
+Ben Shelton, Alexander Bublik
+Flavio Cobolli, Felix Auger Aliassime
+Arthur Rinderknech, Adrian Mannarino
+Thanasi Kokkinakis, Gael Monfils
+James Duckworth, Marcos Giron
+Sebastian Korda, Vasek Pospisil
+Taylor Fritz, Mariano Navone
+Holger Rune, Roberto Bautista Agut
+Pablo Carreno Busta, Fabian Marozsan
+Jordan Thompson, Jack Draper
+Jannik Sinner, Frances Tiafoe
+Jannik Sinner, Alexander Zverev
+Frances Tiafoe, Holger Rune
+Jannik Sinner, Andrey Rublev
+Alexander Zverev, Ben Shelton
+Frances Tiafoe, Hubert Hurkacz
+Holger Rune, Jack Draper
+Jannik Sinner, Jordan Thompson
+Andrey Rublev, Brandon Nakashima
+Alexander Zverev, Pablo Carreno Busta
+Ben Shelton, Fabian Marozsan
+Hubert Hurkacz, Flavio Cobolli
+Frances Tiafoe, Jiri Lehecka
+Jack Draper, Felix Auger Aliassime
+Holger Rune, Gael Monfils
+Jannik Sinner, Alex Michelsen
+Jordan Thompson, Sebastian Baez
+Brandon Nakashima, Arthur Fils
+Andrey Rublev, Zhizhen Zhang
+Alexander Zverev, Karen Khachanov
+Pablo Carreno Busta, Max Purcell
+Ben Shelton, Tomas Martin Etcheverry
+Fabian Marozsan, Grigor Dimitrov
+Hubert Hurkacz, Yoshihito Nishioka
+Flavio Cobolli, Luciano Darderi
+Frances Tiafoe, Lorenzo Musetti
+Jiri Lehecka, Daniil Medvedev
+Felix Auger Aliassime, Casper Ruud
+Jack Draper, Stefanos Tsitsipas
+Holger Rune, Nuno Borges
+Gael Monfils, Carlos Alcaraz
+Alex Michelsen, Tallon Griekspoor
+Sebastian Baez, Marcos Giron
+Jordan Thompson, Ugo Humbert
+Brandon Nakashima, Taylor Fritz
+Arthur Fils, Brandon Holt
+Zhizhen Zhang, Giovanni Mpetshi Perricard
+Karen Khachanov, Francisco Cerundolo
+Max Purcell, Tomas Machac
+Pablo Carreno Busta, Sebastian Korda
+Ben Shelton, Reilly Opelka
+Tomas Martin Etcheverry, Matteo Arnaldi
+Fabian Marozsan, Corentin Moutet
+Yoshihito Nishioka, Miomir Kecmanovic
+Luciano Darderi, Alejandro Tabilo
+Flavio Cobolli, Tommy Paul
+Lorenzo Musetti, Nicolas Jarry
+Frances Tiafoe, Alejandro Davidovich Fokina
+Jiri Lehecka, Mariano Navone
+Felix Auger Aliassime, Aleksandar Kovacevic
+Jack Draper, Jaume Munar
+Stefanos Tsitsipas, Jan Lennard Struff
+Holger Rune, Matteo Berrettini
+Nuno Borges, Adrian Mannarino
+Gael Monfils, Alexei Popyrin
+Lorenzo Sonego, Alex Michelsen
+Lorenzo Sonego, David Goffin
+Alex Michelsen, Pablo Carreno Busta
+David Goffin, Rinky Hijikata
+Lorenzo Sonego, Pavel Kotov
+Pablo Carreno Busta, Learner Tien
+Alex Michelsen, Christopher Eubanks
+Rinky Hijikata, Borna Coric
+David Goffin, Arthur Rinderknech
+Pavel Kotov, Zachary Svajda
+Lorenzo Sonego, Juncheng Shang
+Learner Tien, Thiago Seyboth Wild
+Pablo Carreno Busta, Aleksandar Vukic
+Alex Michelsen, Zizou Bergs
+Christopher Eubanks, Roman Safiullin
+Borna Coric, Sebastian Baez
+Rinky Hijikata, Arthur Cazaux
+Arthur Rinderknech, Christopher Oconnell
+David Goffin, Luciano Darderi
+Zachary Svajda, Francisco Cerundolo
+Pavel Kotov, Alexandre Muller
+Lorenzo Sonego, Dominic Stricker
+Juncheng Shang, Mariano Navone
+Thiago Seyboth Wild, Nuno Borges
+Learner Tien, Fabian Marozsan
+Pablo Carreno Busta, Alexander Shevchenko
+Aleksandar Vukic, Adrian Mannarino
+Zizou Bergs, Tomas Martin Etcheverry
+Alex Michelsen, Marton Fucsovics
+Christopher Eubanks, Hugo Gaston
+Roman Safiullin, Corentin Moutet
+Borna Coric, Sumit Nagal
+Arthur Cazaux, Botic Van De Zandschulp
+Christopher Oconnell, Strong Kirchheimer
+David Goffin, Jaume Munar
+Zachary Svajda, Laslo Djere
+Alexandre Muller, Constant Lestienne
+Dominic Stricker, Federico Coria
+Juncheng Shang, Francisco Comesana
+Thiago Seyboth Wild, James Duckworth
+Learner Tien, Tristan Schoolkate
+Pablo Carreno Busta, Omni Kumar
+Aleksandar Vukic, Daniel Evans
+Zizou Bergs, Reilly Opelka
+Marton Fucsovics, Taro Daniel
+Christopher Eubanks, Adam Walton
+Corentin Moutet, Nicolas Mejia
+Jannik Sinner, Mackenzie Mcdonald
+Alex Michelsen, Eliot Spizzirri
+Mattia Bellucci, Stan Wawrinka
+Christopher Oconnell, Nicolas Jarry
+Arthur Fils, Learner Tien
+Gabriel Diallo, Jaume Munar
+Max Purcell, Aleksandar Vukic
+Tommy Paul, Lorenzo Sonego
+Thanasi Kokkinakis, Stefanos Tsitsipas
+Nuno Borges, Federico Coria
+Tristan Schoolkate, Taro Daniel
+Jakub Mensik, Felix Auger Aliassime
+Flavio Cobolli, James Duckworth
+Zizou Bergs, Pavel Kotov
+Fabian Marozsan, Hamad Medjedovic
+Daniil Medvedev, Dusan Lajovic
+Carlos Alcaraz, Li Tu
+Botic Van De Zandschulp, Denis Shapovalov
+Facundo Diaz Acosta, Hugo Gaston
+Jack Draper, Zhizhen Zhang
+David Goffin, Alejandro Tabilo
+Adrian Mannarino, Borna Coric
+Tomas Machac, Fabio Fognini
+Sebastian Korda, Corentin Moutet
+Alex De Minaur, Marcos Giron
+Otto Virtanen, Quentin Halys
+Mariano Navone, Daniel Altmaier
+Daniel Evans, Karen Khachanov
+Matteo Arnaldi, Zachary Svajda
+Roman Safiullin, Matthew Forbes
+Jordan Thompson, Constant Lestienne
+Hubert Hurkacz, Timofey Skatov
+Casper Ruud, Bu Yunchaokete
+Gael Monfils, Diego Schwartzman
+Roberto Carballes Baena, Jan Choinski
+Juncheng Shang, Alexander Bublik
+Ugo Humbert, Thiago Monteiro
+Francisco Comesana, Dominic Stricker
+Matteo Berrettini, Albert Ramos
+Taylor Fritz, Camilo Ugo Carabelli
+Brandon Nakashima, Holger Rune
+Arthur Cazaux, Pablo Carreno Busta
+Miomir Kecmanovic, Yoshihito Nishioka
+Lorenzo Musetti, Reilly Opelka
+Francisco Cerundolo, Sebastian Ofner
+Tomas Martin Etcheverry, Giovanni Mpetshi Perricard
+Alexandre Muller, Adam Walton
+Alexander Zverev, Maximilian Marterer
+Andrey Rublev, Thiago Seyboth Wild
+Arthur Rinderknech, Christopher Eubanks
+Mitchell Krueger, Hugo Grenier
+Jiri Lehecka, Marton Fucsovics
+Sebastian Baez, Luciano Darderi
+Tallon Griekspoor, Sumit Nagal
+Rinky Hijikata, Alejandro Davidovich Fokina
+Grigor Dimitrov, Kyrian Jacquet
+Ben Shelton, Dominic Thiem
+Roberto Bautista Agut, Luca Nardi
+Alexander Shevchenko, Dominik Koepfer
+Frances Tiafoe, Aleksandar Kovacevic
+Alexei Popyrin, Soon Woo Kwon
+Pedro Martinez, Maks Kasnikowski
+Laslo Djere, Jan Lennard Struff
+Novak Djokovic, Radu Albot
+Jannik Sinner, Alex Michelsen
+Christopher Oconnell, Mattia Bellucci
+Gabriel Diallo, Arthur Fils
+Tommy Paul, Max Purcell
+Nuno Borges, Thanasi Kokkinakis
+Jakub Mensik, Tristan Schoolkate
+Flavio Cobolli, Zizou Bergs
+Daniil Medvedev, Fabian Marozsan
+Botic Van De Zandschulp, Carlos Alcaraz
+Jack Draper, Facundo Diaz Acosta
+David Goffin, Adrian Mannarino
+Tomas Machac, Sebastian Korda
+Alex De Minaur, Otto Virtanen
+Daniel Evans, Mariano Navone
+Matteo Arnaldi, Roman Safiullin
+Jordan Thompson, Hubert Hurkacz
+Casper Ruud, Gael Monfils
+Juncheng Shang, Roberto Carballes Baena
+Francisco Comesana, Ugo Humbert
+Taylor Fritz, Matteo Berrettini
+Brandon Nakashima, Arthur Cazaux
+Lorenzo Musetti, Miomir Kecmanovic
+Tomas Martin Etcheverry, Francisco Cerundolo
+Alexander Zverev, Alexandre Muller
+Andrey Rublev, Arthur Rinderknech
+Jiri Lehecka, Mitchell Krueger
+Tallon Griekspoor, Sebastian Baez
+Grigor Dimitrov, Rinky Hijikata
+Ben Shelton, Roberto Bautista Agut
+Frances Tiafoe, Alexander Shevchenko
+Alexei Popyrin, Pedro Martinez
+Novak Djokovic, Laslo Djere
+Jannik Sinner, Christopher Oconnell
+Tommy Paul, Gabriel Diallo
+Nuno Borges, Jakub Mensik
+Daniil Medvedev, Flavio Cobolli
+Jack Draper, Botic Van De Zandschulp
+Tomas Machac, David Goffin
+Alex De Minaur, Daniel Evans
+Jordan Thompson, Matteo Arnaldi
+Casper Ruud, Juncheng Shang
+Taylor Fritz, Francisco Comesana
+Brandon Nakashima, Lorenzo Musetti
+Alexander Zverev, Tomas Martin Etcheverry
+Andrey Rublev, Jiri Lehecka
+Grigor Dimitrov, Tallon Griekspoor
+Frances Tiafoe, Ben Shelton
+Alexei Popyrin, Novak Djokovic
+Jannik Sinner, Tommy Paul
+Daniil Medvedev, Nuno Borges
+Jack Draper, Tomas Machac
+Alex De Minaur, Jordan Thompson
+Taylor Fritz, Casper Ruud
+Alexander Zverev, Brandon Nakashima
+Grigor Dimitrov, Andrey Rublev
+Frances Tiafoe, Alexei Popyrin
+Jannik Sinner, Daniil Medvedev
+Jack Draper, Alex De Minaur
+Taylor Fritz, Alexander Zverev
+Frances Tiafoe, Grigor Dimitrov
+Jannik Sinner, Jack Draper
+Taylor Fritz, Frances Tiafoe
+Jannik Sinner, Taylor Fritz
+Juncheng Shang, Lorenzo Musetti
+Lorenzo Musetti, Alibek Kachmazov
+Juncheng Shang, Yannick Hanfmann
+Lorenzo Musetti, Adrian Mannarino
+Juncheng Shang, Alexander Bublik
+Alibek Kachmazov, Nicolas Jarry
+Yannick Hanfmann, Pedro Martinez
+Lorenzo Musetti, Christopher Oconnell
+Alexander Bublik, Federico Agustin Gomez
+Nicolas Jarry, Lukas Klein
+Pedro Martinez, Aleksandar Vukic
+Adrian Mannarino, Yi Zhou
+Yannick Hanfmann, Giovanni Mpetshi Perricard
+Juncheng Shang, Roman Safiullin
+Alibek Kachmazov, Taro Daniel
+Adrian Mannarino, Terence Atmane
+Taro Daniel, Lorenzo Sonego
+Giovanni Mpetshi Perricard, Fajing Sun
+Roman Safiullin, Fabio Fognini
+Federico Agustin Gomez, Alexandre Muller
+Yannick Hanfmann, Shintaro Mochizuki
+Alibek Kachmazov, Aleksandar Kovacevic
+Lukas Klein, Adam Walton
+Christopher Oconnell, Pavel Kotov
+Juncheng Shang, Kei Nishikori
+Aleksandar Vukic, Borna Coric
+Yi Zhou, Chun Hsin Tseng
+Marin Cilic, Zhizhen Zhang
+Marin Cilic, Brandon Nakashima
+Zhizhen Zhang, Bu Yunchaokete
+Brandon Nakashima, Rinky Hijikata
+Zhizhen Zhang, Roberto Carballes Baena
+Bu Yunchaokete, Mikhail Kukushkin
+Marin Cilic, Yasutaka Uchiyama
+Yasutaka Uchiyama, Holger Rune
+Bu Yunchaokete, Karen Khachanov
+Brandon Nakashima, Coleman Wong
+Zhizhen Zhang, Mattia Bellucci
+Rinky Hijikata, Fabian Marozsan
+Marin Cilic, Yoshihito Nishioka
+Roberto Carballes Baena, Mitchell Krueger
+Mikhail Kukushkin, Alexander Shevchenko
+Mikhail Kukushkin, Luciano Darderi
+Zhizhen Zhang, Denis Yevseyev
+Fabian Marozsan, Luca Nardi
+Yoshihito Nishioka, Maximilian Marterer
+Mattia Bellucci, Aslan Karatsev
+Bu Yunchaokete, Hugo Gaston
+Roberto Carballes Baena, Corentin Moutet
+Marin Cilic, Zachary Svajda
+Rinky Hijikata, Damir Dzumhur
+Alexander Shevchenko, Marco Trungelliti
+Yasutaka Uchiyama, James Mccabe
+Coleman Wong, Yibing Wu
+Carlos Alcaraz, Taylor Fritz
+Ben Shelton, Daniil Medvedev
+Alexander Zverev, Frances Tiafoe
+Carlos Alcaraz, Ben Shelton
+Taylor Fritz, Alexander Zverev
+Frances Tiafoe, Daniil Medvedev
+Francisco Cerundolo, Casper Ruud
+Grigor Dimitrov, Alejandro Tabilo
+Stefanos Tsitsipas, Thanasi Kokkinakis
+Arthur Fils, Ugo Humbert
+Arthur Fils, Holger Rune
+Ugo Humbert, Tomas Machac
+Holger Rune, Kei Nishikori
+Arthur Fils, Ben Shelton
+Ugo Humbert, Jack Draper
+Tomas Machac, Alex Michelsen
+Jack Draper, Hubert Hurkacz
+Tomas Machac, Tommy Paul
+Holger Rune, Yoshihito Nishioka
+Ben Shelton, Mariano Navone
+Arthur Fils, Matteo Berrettini
+Ugo Humbert, Brandon Nakashima
+Alex Michelsen, Christopher Oconnell
+Kei Nishikori, Jordan Thompson
+Arthur Fils, Taylor Fritz
+Hubert Hurkacz, Marcos Giron
+Jordan Thompson, Casper Ruud
+Alex Michelsen, Stefanos Tsitsipas
+Tommy Paul, Matteo Arnaldi
+Holger Rune, Alejandro Tabilo
+Brandon Nakashima, Frances Tiafoe
+Ben Shelton, Reilly Opelka
+Matteo Berrettini, Botic Van De Zandschulp
+Jack Draper, Mattia Bellucci
+Ugo Humbert, Shintaro Mochizuki
+Tomas Machac, Alexei Popyrin
+Mariano Navone, Luciano Darderi
+Kei Nishikori, Marin Cilic
+Yoshihito Nishioka, Felix Auger Aliassime
+Christopher Oconnell, Tomas Martin Etcheverry
+Carlos Alcaraz, Jannik Sinner
+Jannik Sinner, Bu Yunchaokete
+Carlos Alcaraz, Daniil Medvedev
+Jannik Sinner, Jiri Lehecka
+Carlos Alcaraz, Karen Khachanov
+Daniil Medvedev, Flavio Cobolli
+Bu Yunchaokete, Andrey Rublev
+Jannik Sinner, Roman Safiullin
+Carlos Alcaraz, Tallon Griekspoor
+Daniil Medvedev, Adrian Mannarino
+Andrey Rublev, Alejandro Davidovich Fokina
+Bu Yunchaokete, Lorenzo Musetti
+Karen Khachanov, Francisco Cerundolo
+Flavio Cobolli, Pavel Kotov
+Jiri Lehecka, Roberto Bautista Agut
+Jannik Sinner, Nicolas Jarry
+Carlos Alcaraz, Giovanni Mpetshi Perricard
+Daniil Medvedev, Gael Monfils
+Andrey Rublev, Pablo Carreno Busta
+Lorenzo Musetti, Zizou Bergs
+Karen Khachanov, Roberto Carballes Baena
+Flavio Cobolli, Alexander Bublik
+Roberto Bautista Agut, Arthur Rinderknech
+Bu Yunchaokete, Juncheng Shang
+Francisco Cerundolo, Jakub Mensik
+Alejandro Davidovich Fokina, Zhizhen Zhang
+Tallon Griekspoor, Miomir Kecmanovic
+Pavel Kotov, Yi Zhou
+Jiri Lehecka, Pedro Martinez
+Adrian Mannarino, Lorenzo Sonego
+Roman Safiullin, Stan Wawrinka
+Jannik Sinner, Novak Djokovic
+Jannik Sinner, Tomas Machac
+Novak Djokovic, Taylor Fritz
+Jannik Sinner, Daniil Medvedev
+Tomas Machac, Carlos Alcaraz
+Novak Djokovic, Jakub Mensik
+Taylor Fritz, David Goffin
+Jannik Sinner, Ben Shelton
+Daniil Medvedev, Stefanos Tsitsipas
+Carlos Alcaraz, Gael Monfils
+Tomas Machac, Tommy Paul
+Jakub Mensik, Grigor Dimitrov
+Novak Djokovic, Roman Safiullin
+Taylor Fritz, Holger Rune
+David Goffin, Alexander Zverev
+Jannik Sinner, Tomas Martin Etcheverry
+Ben Shelton, Roberto Carballes Baena
+Stefanos Tsitsipas, Alexandre Muller
+Daniil Medvedev, Matteo Arnaldi
+Carlos Alcaraz, Yibing Wu
+Gael Monfils, Ugo Humbert
+Tommy Paul, Alejandro Tabilo
+Tomas Machac, Aleksandar Vukic
+Jakub Mensik, Alexander Shevchenko
+Grigor Dimitrov, Alexei Popyrin
+Roman Safiullin, Frances Tiafoe
+Novak Djokovic, Flavio Cobolli
+Taylor Fritz, Yosuke Watanuki
+Holger Rune, Jiri Lehecka
+David Goffin, Marcos Giron
+Alexander Zverev, Tallon Griekspoor
+Jannik Sinner, Taro Daniel
+Tomas Martin Etcheverry, Botic Van De Zandschulp
+Roberto Carballes Baena, Arthur Fils
+Ben Shelton, Denis Shapovalov
+Stefanos Tsitsipas, Kei Nishikori
+Alexandre Muller, Felix Auger Aliassime
+Matteo Arnaldi, Zachary Svajda
+Daniil Medvedev, Thiago Seyboth Wild
+Carlos Alcaraz, Juncheng Shang
+Yibing Wu, Nicolas Jarry
+Gael Monfils, Sebastian Baez
+Ugo Humbert, Arthur Cazaux
+Tommy Paul, Fabio Fognini
+Alejandro Tabilo, Arthur Rinderknech
+Tomas Machac, Alejandro Davidovich Fokina
+Aleksandar Vukic, Casper Ruud
+Jakub Mensik, Andrey Rublev
+Alexander Shevchenko, Francisco Cerundolo
+Alexei Popyrin, Miomir Kecmanovic
+Grigor Dimitrov, Zizou Bergs
+Frances Tiafoe, Yi Zhou
+Roman Safiullin, Alexander Bublik
+Flavio Cobolli, Stan Wawrinka
+Novak Djokovic, Alex Michelsen
+Taylor Fritz, Terence Atmane
+Yosuke Watanuki, Brandon Nakashima
+Jiri Lehecka, Jaume Munar
+Holger Rune, Matteo Berrettini
+David Goffin, Lorenzo Musetti
+Marcos Giron, Karen Khachanov
+Tallon Griekspoor, Jordan Thompson
+Alexander Zverev, Mattia Bellucci
+Taro Daniel, Egor Gerasimov
+Botic Van De Zandschulp, Pablo Carreno Busta
+Roberto Carballes Baena, Roberto Bautista Agut
+Denis Shapovalov, Lorenzo Sonego
+Kei Nishikori, Mariano Navone
+Alexandre Muller, Luca Nardi
+Zachary Svajda, Adrian Mannarino
+Thiago Seyboth Wild, Daniel Evans
+Juncheng Shang, Coleman Wong
+Yibing Wu, Sumit Nagal
+Gael Monfils, Damir Dzumhur
+Arthur Cazaux, Marin Cilic
+Fabio Fognini, Luciano Darderi
+Arthur Rinderknech, Reilly Opelka
+Alejandro Davidovich Fokina, Gabriel Diallo
+Aleksandar Vukic, Corentin Moutet
+Jakub Mensik, Pedro Martinez
+Alexander Shevchenko, Ramkumar Ramanathan
+Miomir Kecmanovic, Rinky Hijikata
+Zizou Bergs, Zhizhen Zhang
+Yi Zhou, Yoshihito Nishioka
+Roman Safiullin, Beibit Zhukayev
+Stan Wawrinka, Giovanni Mpetshi Perricard
+Alex Michelsen, Bu Yunchaokete
+Terence Atmane, Aleksandar Kovacevic
+Yosuke Watanuki, Pavel Kotov
+Jaume Munar, Hugo Gaston
+Matteo Berrettini, Christopher Oconnell
+David Goffin, James Duckworth
+Marcos Giron, Li Tu
+Tallon Griekspoor, Facundo Diaz Acosta
+Mattia Bellucci, Billy Harris
+Karen Khachanov, Gabriel Diallo
+Karen Khachanov, Aleksandar Vukic
+Gabriel Diallo, Francisco Cerundolo
+Aleksandar Vukic, Frances Tiafoe
+Karen Khachanov, Beibit Zhukayev
+Francisco Cerundolo, Alexander Shevchenko
+Gabriel Diallo, Alejandro Tabilo
+Frances Tiafoe, Daniel Evans
+Aleksandar Vukic, Adrian Mannarino
+Karen Khachanov, Otto Virtanen
+Beibit Zhukayev, Tomas Machac
+Alexander Shevchenko, Aslan Karatsev
+Francisco Cerundolo, Justin Engel
+Gabriel Diallo, Borna Coric
+Alejandro Tabilo, Maximilian Marterer
+Daniel Evans, Taro Daniel
+Aleksandar Vukic, James Duckworth
+Adrian Mannarino, Roman Safiullin
+Otto Virtanen, Fabio Fognini
+Beibit Zhukayev, Benjamin Hassan
+Tomas Machac, Timofey Skatov
+Aslan Karatsev, Zhizhen Zhang
+Alexander Shevchenko, Mikhail Kukushkin
+Justin Engel, Coleman Wong
+Borna Coric, Fabian Marozsan
+Gabriel Diallo, Christopher Oconnell
+Maximilian Marterer, Damir Dzumhur
+Roberto Bautista Agut, Jiri Lehecka
+Roberto Bautista Agut, Hugo Gaston
+Jiri Lehecka, Marcos Giron
+Hugo Gaston, Alex De Minaur
+Roberto Bautista Agut, Felix Auger Aliassime
+Marcos Giron, Zizou Bergs
+Jiri Lehecka, Stefanos Tsitsipas
+Alex De Minaur, Roberto Carballes Baena
+Hugo Gaston, Mariano Navone
+Felix Auger Aliassime, Marton Fucsovics
+Roberto Bautista Agut, Tomas Martin Etcheverry
+Marcos Giron, Arthur Rinderknech
+Zizou Bergs, Sebastian Baez
+Jiri Lehecka, Daniel Altmaier
+Stefanos Tsitsipas, Thiago Seyboth Wild
+Roberto Carballes Baena, Dominik Koepfer
+Hugo Gaston, Alexey Vatutin
+Mariano Navone, Thiago Monteiro
+Marton Fucsovics, Raphael Collignon
+Roberto Bautista Agut, Luca Van Assche
+Tomas Martin Etcheverry, Richard Gasquet
+Marcos Giron, Botic Van De Zandschulp
+Arthur Rinderknech, Alexander Blockx
+Zizou Bergs, Facundo Diaz Acosta
+Jiri Lehecka, Jaume Munar
+Daniel Altmaier, Gilles Arnaud Bailly
+Thiago Seyboth Wild, Giovanni Mpetshi Perricard
+Tommy Paul, Grigor Dimitrov
+Tommy Paul, Stan Wawrinka
+Grigor Dimitrov, Tallon Griekspoor
+Stan Wawrinka, Andrey Rublev
+Tommy Paul, Miomir Kecmanovic
+Grigor Dimitrov, Dominic Stricker
+Tallon Griekspoor, Casper Ruud
+Andrey Rublev, Alexandre Muller
+Stan Wawrinka, Alejandro Davidovich Fokina
+Tommy Paul, Laslo Djere
+Miomir Kecmanovic, Nicolas Jarry
+Dominic Stricker, Matteo Berrettini
+Grigor Dimitrov, Quentin Halys
+Tallon Griekspoor, Jacob Fearnley
+Casper Ruud, Lorenzo Sonego
+Alexandre Muller, Leo Borg
+Alejandro Davidovich Fokina, Thiago Agustin Tirante
+Stan Wawrinka, Brandon Nakashima
+Laslo Djere, Pedro Martinez
+Miomir Kecmanovic, Cameron Norrie
+Nicolas Jarry, Elias Ymer
+Matteo Berrettini, Luciano Darderi
+Dominic Stricker, Aleksandar Kovacevic
+Quentin Halys, Sumit Nagal
+Tallon Griekspoor, Pavel Kotov
+Jacob Fearnley, Corentin Moutet
+Lorenzo Sonego, Marc Andrea Huesler
+Giovanni Mpetshi Perricard, Ben Shelton
+Ben Shelton, Arthur Fils
+Giovanni Mpetshi Perricard, Holger Rune
+Ben Shelton, Andrey Rublev
+Arthur Fils, Stefanos Tsitsipas
+Holger Rune, David Goffin
+Giovanni Mpetshi Perricard, Denis Shapovalov
+Andrey Rublev, Alejandro Tabilo
+Ben Shelton, Stan Wawrinka
+Stefanos Tsitsipas, Botic Van De Zandschulp
+Arthur Fils, Pedro Martinez
+David Goffin, Ugo Humbert
+Holger Rune, Dominic Stricker
+Giovanni Mpetshi Perricard, Felix Auger Aliassime
+Denis Shapovalov, Roberto Bautista Agut
+Andrey Rublev, Nuno Borges
+Alejandro Tabilo, Marin Cilic
+Stan Wawrinka, Adrian Mannarino
+Ben Shelton, Tomas Martin Etcheverry
+Stefanos Tsitsipas, Francisco Cerundolo
+Botic Van De Zandschulp, Alexander Bublik
+Pedro Martinez, Jiri Lehecka
+Arthur Fils, Daniel Altmaier
+Ugo Humbert, Jerome Kym
+David Goffin, Matteo Arnaldi
+Dominic Stricker, Tallon Griekspoor
+Holger Rune, Nicolas Jarry
+Felix Auger Aliassime, Sebastian Baez
+Giovanni Mpetshi Perricard, James Duckworth
+Denis Shapovalov, Juncheng Shang
+Roberto Bautista Agut, Casper Ruud
+Jack Draper, Karen Khachanov
+Jack Draper, Lorenzo Musetti
+Karen Khachanov, Alex De Minaur
+Lorenzo Musetti, Alexander Zverev
+Jack Draper, Tomas Machac
+Karen Khachanov, Matteo Berrettini
+Alex De Minaur, Jakub Mensik
+Alexander Zverev, Marcos Giron
+Lorenzo Musetti, Gael Monfils
+Tomas Machac, Grigor Dimitrov
+Jack Draper, Luciano Darderi
+Matteo Berrettini, Frances Tiafoe
+Karen Khachanov, Brandon Nakashima
+Jakub Mensik, Miomir Kecmanovic
+Alex De Minaur, Flavio Cobolli
+Alexander Zverev, Joel Schwaerzler
+Marcos Giron, Alex Michelsen
+Gael Monfils, Quentin Halys
+Lorenzo Musetti, Lorenzo Sonego
+Grigor Dimitrov, Zhizhen Zhang
+Tomas Machac, Fabian Marozsan
+Luciano Darderi, Dominic Thiem
+Jack Draper, Kei Nishikori
+Frances Tiafoe, Cameron Norrie
+Matteo Berrettini, Marton Fucsovics
+Karen Khachanov, Thiago Seyboth Wild
+Brandon Nakashima, Tommy Paul
+Jakub Mensik, Alexei Popyrin
+Miomir Kecmanovic, Mariano Navone
+Flavio Cobolli, Alejandro Davidovich Fokina
+Alex De Minaur, Jan Lennard Struff
+Alexander Zverev, Ugo Humbert
+Alexander Zverev, Holger Rune
+Ugo Humbert, Karen Khachanov
+Holger Rune, Alex De Minaur
+Alexander Zverev, Stefanos Tsitsipas
+Karen Khachanov, Grigor Dimitrov
+Ugo Humbert, Jordan Thompson
+Holger Rune, Arthur Cazaux
+Alex De Minaur, Jack Draper
+Alexander Zverev, Arthur Fils
+Stefanos Tsitsipas, Francisco Cerundolo
+Grigor Dimitrov, Arthur Rinderknech
+Karen Khachanov, Alexei Popyrin
+Jordan Thompson, Adrian Mannarino
+Ugo Humbert, Carlos Alcaraz
+Arthur Cazaux, Ben Shelton
+Holger Rune, Alexander Bublik
+Alex De Minaur, Miomir Kecmanovic
+Jack Draper, Taylor Fritz
+Alexander Zverev, Tallon Griekspoor
+Arthur Fils, Jan Lennard Struff
+Stefanos Tsitsipas, Alejandro Tabilo
+Francisco Cerundolo, Andrey Rublev
+Grigor Dimitrov, Tomas Martin Etcheverry
+Arthur Rinderknech, Alex Michelsen
+Karen Khachanov, Giovanni Mpetshi Perricard
+Alexei Popyrin, Daniil Medvedev
+Jordan Thompson, Casper Ruud
+Adrian Mannarino, Zizou Bergs
+Ugo Humbert, Marcos Giron
+Carlos Alcaraz, Nicolas Jarry
+Ben Shelton, Corentin Moutet
+Alexander Bublik, Fabio Fognini
+Holger Rune, Matteo Arnaldi
+Alex De Minaur, Mariano Navone
+Miomir Kecmanovic, Sebastian Baez
+Jack Draper, Jiri Lehecka
+Tallon Griekspoor, Luciano Darderi
+Arthur Fils, Marin Cilic
+Jan Lennard Struff, Lorenzo Musetti
+Stefanos Tsitsipas, Roberto Carballes Baena
+Alejandro Tabilo, Nuno Borges
+Francisco Cerundolo, Quentin Halys
+Tomas Martin Etcheverry, Zhizhen Zhang
+Arthur Rinderknech, Tomas Machac
+Alex Michelsen, Hubert Hurkacz
+Giovanni Mpetshi Perricard, Frances Tiafoe
+Karen Khachanov, Christopher Oconnell
+Alexei Popyrin, Matteo Berrettini
+Jordan Thompson, Pedro Martinez
+Zizou Bergs, Richard Gasquet
+Adrian Mannarino, Tommy Paul
+Ugo Humbert, Brandon Nakashima
+Marcos Giron, Juncheng Shang
+Nicolas Jarry, Lorenzo Sonego
+Denis Shapovalov, Hamad Medjedovic
+Hamad Medjedovic, Laslo Djere
+Denis Shapovalov, Jiri Lehecka
+Laslo Djere, Fabian Marozsan
+Hamad Medjedovic, Francisco Cerundolo
+Jiri Lehecka, Lukas Klein
+Denis Shapovalov, Christopher Oconnell
+Laslo Djere, Duje Ajdukovic
+Fabian Marozsan, Dusan Lajovic
+Francisco Cerundolo, Roman Safiullin
+Hamad Medjedovic, Aleksandar Kovacevic
+Lukas Klein, Tomas Martin Etcheverry
+Jiri Lehecka, Marin Cilic
+Christopher Oconnell, Daniel Altmaier
+Denis Shapovalov, Nuno Borges
+Laslo Djere, Stan Wawrinka
+Fabian Marozsan, Juncheng Shang
+Dusan Lajovic, Mariano Navone
+Roman Safiullin, Fabio Fognini
+Aleksandar Kovacevic, Branko Djuric
+Hamad Medjedovic, Brandon Nakashima
+Tomas Martin Etcheverry, Pavel Kotov
+Lukas Klein, James Duckworth
+Marin Cilic, Alexandre Muller
+Daniel Altmaier, Luciano Darderi
+Christopher Oconnell, Miomir Kecmanovic
+Denis Shapovalov, Marton Fucsovics
+Benjamin Bonzi, Cameron Norrie
+Cameron Norrie, Corentin Moutet
+Benjamin Bonzi, Alex Michelsen
+Corentin Moutet, Andrey Rublev
+Cameron Norrie, Zizou Bergs
+Alex Michelsen, Bu Yunchaokete
+Benjamin Bonzi, Quentin Halys
+Andrey Rublev, Lorenzo Sonego
+Corentin Moutet, Jan Lennard Struff
+Cameron Norrie, Luca Van Assche
+Zizou Bergs, Hugo Gaston
+Alex Michelsen, Richard Gasquet
+Bu Yunchaokete, Jesper De Jong
+Quentin Halys, Pierre Hugues Herbert
+Benjamin Bonzi, Casper Ruud
+Lorenzo Sonego, Gregoire Barrere
+Corentin Moutet, Sumit Nagal
+Jan Lennard Struff, Alexander Shevchenko
+Cameron Norrie, Roberto Carballes Baena
+Zizou Bergs, Manuel Guinard
+Hugo Gaston, Titouan Droguet
+Alex Michelsen, Harold Mayot
+Richard Gasquet, Thiago Monteiro
+Bu Yunchaokete, Adrian Mannarino
+Pierre Hugues Herbert, Pedro Martinez
+Quentin Halys, Theo Papamalamis
+Benjamin Bonzi, Roberto Bautista Agut
+Jannik Sinner, Taylor Fritz
+Jannik Sinner, Casper Ruud
+Taylor Fritz, Alexander Zverev
+Jannik Sinner, Daniil Medvedev
+Jannik Sinner, Taylor Fritz
+Jannik Sinner, Alex De Minaur
+Taylor Fritz, Daniil Medvedev
+Daniil Medvedev, Alex De Minaur
+Taylor Fritz, Alex De Minaur
+Alexander Zverev, Carlos Alcaraz
+Alexander Zverev, Casper Ruud
+Alexander Zverev, Andrey Rublev
+Casper Ruud, Carlos Alcaraz
+Carlos Alcaraz, Andrey Rublev
+Casper Ruud, Andrey Rublev
+Joao Fonseca, Learner Tien
+Joao Fonseca, Luca Van Assche
+Learner Tien, Alex Michelsen
+Arthur Fils, Jakub Mensik
+Learner Tien, Arthur Fils
+Joao Fonseca, Arthur Fils
+Learner Tien, Jakub Mensik
+Joao Fonseca, Jakub Mensik
+Joao Fonseca, Learner Tien
+Alex Michelsen, Juncheng Shang
+Alex Michelsen, Luca Van Assche
+Alex Michelsen, Nishesh Basavareddy
+Luca Van Assche, Juncheng Shang
+Nishesh Basavareddy, Juncheng Shang
+Luca Van Assche, Nishesh Basavareddy
+Joao Fonseca, Raphael Collignon
+Thiago Monteiro, Zizou Bergs
+Matteo Berrettini, Alexander Blockx
+Zizou Bergs, Flavio Cobolli
+Matteo Berrettini, Joao Fonseca
+Matteo Arnaldi, Thiago Monteiro
+Matteo Berrettini, Botic Van De Zandschulp
+Flavio Cobolli, Tallon Griekspoor
+Botic Van De Zandschulp, Raphael Collignon
+Zizou Bergs, Tallon Griekspoor
+Joao Fonseca, Botic Van De Zandschulp
+Tallon Griekspoor, Thiago Monteiro
+Thanasi Kokkinakis, Jakub Mensik
+Alexei Popyrin, Tomas Machac
+Pablo Carreno Busta, Jordan Thompson
+Alexei Popyrin, Pedro Martinez
+Thanasi Kokkinakis, Arthur Fils
+Ugo Humbert, Alexei Popyrin
+Roberto Bautista Agut, Jiri Lehecka
+Carlos Alcaraz, Tomas Machac
+Jakub Mensik, Arthur Rinderknech
+Arthur Fils, Jiri Lehecka
+Roberto Bautista Agut, Arthur Fils
+Carlos Alcaraz, Ugo Humbert
+Maximilian Marterer, Tomas Barrios Vera
+Yannick Hanfmann, Alejandro Tabilo
+Maximilian Marterer, Lukas Klein
+Yannick Hanfmann, Jozef Kovalik
+Reilly Opelka, Henri Squire
+Brandon Nakashima, Maximilian Marterer
+Cristian Garin, Norbert Gombos
+Jozef Kovalik, Alejandro Tabilo
+Reilly Opelka, Cristian Garin
+Brandon Nakashima, Alejandro Tabilo
+Mackenzie Mcdonald, Lukas Klein
+Brandon Nakashima, Jozef Kovalik
+Denis Shapovalov, Francisco Cerundolo
+Felix Auger Aliassime, Sebastian Baez
+Denis Shapovalov, Eero Vasa
+Felix Auger Aliassime, Otto Virtanen
+Denis Shapovalov, Daniel Evans
+Felix Auger Aliassime, Jack Draper
+Tomas Martin Etcheverry, Eero Vasa
+Francisco Cerundolo, Otto Virtanen
+Daniel Evans, Eero Vasa
+Billy Harris, Otto Virtanen
+Tomas Martin Etcheverry, Daniel Evans
+Francisco Cerundolo, Jack Draper
+Daniel Altmaier, Gabriel Diallo
+Jan Lennard Struff, Denis Shapovalov
+Botic Van De Zandschulp, Daniel Altmaier
+Tallon Griekspoor, Jan Lennard Struff
+Francisco Cerundolo, Lorenzo Musetti
+Jannik Sinner, Sebastian Baez
+Matteo Berrettini, Thanasi Kokkinakis
+Jannik Sinner, Alex De Minaur
+Matteo Berrettini, Botic Van De Zandschulp
+Jannik Sinner, Tallon Griekspoor
+Botic Van De Zandschulp, Rafael Nadal
+Carlos Alcaraz, Tallon Griekspoor
+Thanasi Kokkinakis, Ben Shelton
+Taylor Fritz, Alex De Minaur
+Francisco Cerundolo, Dmitry Popko
+Timofey Skatov, Tomas Martin Etcheverry
+Timofey Skatov, Francisco Cerundolo
+Sebastian Baez, Dmitry Popko
+Gabriel Diallo, Soon Woo Kwon
+Vasek Pospisil, Seong Chan Hong
+Gabriel Diallo, Seong Chan Hong
+Alejandro Tabilo, Juan Pablo Varillas
+Ignacio Buse, Nicolas Jarry
+Nicolas Jarry, Juan Pablo Varillas
+Alejandro Tabilo, Ignacio Buse
+Zizou Bergs, Marin Cilic
+Duje Ajdukovic, Joris De Loore
+Zizou Bergs, Duje Ajdukovic
+Jakub Mensik, Yshai Oliel
+Jiri Lehecka, Daniel Cukierman
+Vit Kopriva, Orel Kimhi
+Otto Virtanen, Nuno Borges
+Emil Ruusuvuori, Joao Sousa
+Henrique Rocha, Eero Vasa
+Dominik Koepfer, Fabian Marozsan
+Marton Fucsovics, Jan Lennard Struff
+Jan Lennard Struff, Mate Valkusz
+Zsombor Piros, Kevin Krawietz
+Tallon Griekspoor, Marc Andrea Huesler
+Leandro Riedi, Botic Van De Zandschulp
+Tallon Griekspoor, Leandro Riedi
+Botic Van De Zandschulp, Marc Andrea Huesler
+Lukas Klein, Miomir Kecmanovic
+Alex Molcan, Dusan Lajovic
+Lukas Pokorny, Laslo Djere
+Thiago Monteiro, Karl Friberg
+Elias Ymer, Gustavo Heide
+Thiago Monteiro, Elias Ymer
+Luca Van Assche, Yu Hsiou Hsu
+Adrian Mannarino, Tung Lin Wu
+Quentin Halys, Chun Hsin Tseng
+Sebastian Korda, Oleksii Krutykh
+Christopher Eubanks, Viacheslav Bielinskyi
+Taylor Fritz, Vladyslav Orlov
+Jurij Rodionov, Yanki Erel
+Lukas Neumayer, Cem Ilkel
+Lukas Neumayer, Cem Ilkel
+Borna Gojo, Vilius Gaubas
+Duje Ajdukovic, Edas Butvilas
+Matej Dodig, Vilius Gaubas
+Zsombor Piros, Amr Elsayed Abdou Ahmed Mohamed
+Mohamed Safwat, Mate Valkusz
+Zsombor Piros, Mohamed Safwat
+Mate Valkusz, Faris Zakaryia
+Yshai Oliel, Oleksandr Ovcharenko
+Daniel Cukierman, Vitaliy Sachko
+Yshai Oliel, Oleksii Krutykh
+Yoshihito Nishioka, Adria Soriano Barrera
+Kei Nishikori, Nicolas Mejia
+Yoshihito Nishioka, Nicolas Mejia
+Elmer Moller, Alexander Bublik
+August Holmgren, Alexander Shevchenko
+Beibit Zhukayev, Philip Hjorth
+Nicolai Budkov Kjaer, Jaime Faria
+Henrique Rocha, Casper Ruud
+Casper Ruud, Jaime Faria
+Seong Chan Hong, Maks Kasnikowski
+Soon Woo Kwon, Kamil Majchrzak
+Martyn Pawelski, Min Kyu Song
+Miomir Kecmanovic, Aristotelis Thanos
+Novak Djokovic, Ioannis Xilas
+Demetris Azoides, Dusan Lajovic
+Jerome Kym, Ignacio Buse
+Marc Andrea Huesler, Juan Pablo Varillas
+Remy Bertola, Gonzalo Bueno
+Elias Ymer, N Sriram Balaji
+Leo Borg, Ramkumar Ramanathan
+Elias Ymer, Siddharth Vishwakarma
+Mirza Basic, Chun Hsin Tseng
+Tung Lin Wu, Damir Dzumhur
+Damir Dzumhur, Chun Hsin Tseng
+Tung Lin Wu, Mirza Basic
+Nerman Fatic, Dimitar Kuzmanov
+Damir Dzumhur, Yanaki Milev
+Petr Nesterov, Andrej Nedic
+Chris Rodesch, Nicolas Mejia
+Alex Knaff, Adria Soriano Barrera
+Nicolas Mejia, Alex Knaff
+Adria Soriano Barrera, Chris Rodesch
+Mohamed Safwat, Alvaro Guillen Meza
+Amr Elsayed Abdou Ahmed Mohamed, Emilio Gomez
+Andres Andrade, Michael Bassem Sobhy
+Stefanos Tsitsipas, Marius Copil
+Aristotelis Thanos, Nicholas David Ionel
+Ioannis Xilas, Luca Preda
+Dominic Thiem, Michael Agwi
+Sebastian Ofner, Osgar Ohoisin
+Lucas Miedler, Michael Agwi
+Yoshihito Nishioka, Hady Habib
+Benjamin Hassan, Yosuke Watanuki
+Yoshihito Nishioka, Benjamin Hassan
+Saba Purtseladze, Vilius Gaubas
+Ricardas Berankis, Zura Tkemaladze
+Ricardas Berankis, Saba Purtseladze
+Vilius Gaubas, Zura Tkemaladze
+Elmer Moller, Ernesto Escobedo
+Rodrigo Pacheco Mendez, August Holmgren
+August Holmgren, Ernesto Escobedo
+Viktor Durasovic, Robert Strombachs
+Casper Ruud, Martins Rocens
+Nicolai Budkov Kjaer, Davis Rolis
+Kiranpal Pannu, Cem Ilkel
+Yanki Erel, Ajeet Rai
+Altug Celikbilek, Ajeet Rai
+Ramkumar Ramanathan, Aisam Ul Haq Qureshi
+N Sriram Balaji, Aqeel Khan
+Niki Kaliyanda Poonacha, Muhammad Shoaib
+Hubert Hurkacz, Sergey Fomin
+Maks Kasnikowski, Khumoun Sultanov
+Kamil Majchrzak, Maxim Shin
+Darian King, Muhammad Shoaib
+Aqeel Khan, Kaipo Marshall
+Darian King, Yousaf Khalil
+Hugo Dellien, Joaquin  Aguilar Cardozo 
+Franco Roncadelli, Murkel Alejandro Dellien Velasco
+Franco Roncadelli, Hugo Dellien
+Marcelo Arevalo, Petr Nesterov
+Yanaki Milev, Cesar Cruz
+Iliyan Radulov, Juan Carlos Fuentes Vasquez
+Yanaki Milev, Marcelo Arevalo
+Alan Fernando Rubio Fierros, Saba Purtseladze
+Aleksandre Bakshi, Rodrigo Pacheco Mendez
+Rodrigo Pacheco Mendez, Saba Purtseladze
+Aleksandre Bakshi, Alan Fernando Rubio Fierros
+Andres Andrade, Jack Cheng
+Coleman Wong, Marcos Lee Chan Baratau
+Coleman Wong, Andres Andrade
+Gonzalo Escobar, Ki Lung Ng
+Benjamin Hassan, Alec Beckley
+Hady Habib, Philip Henning
+Benjamin Hassan, Philip Henning
+Hugo Nys, Yassine Dlimi
+Romain Arneodo, Elliot Benchetrit
+Benjamin Balleret, Younes Lalami Laaroussi
+Alex Knaff, Kiranpal Pannu
+Chris Rodesch, Ajeet Rai
+Jack Loutit, Chris Rodesch
+Alex Knaff, Jose Rubin Statham
+Cezar Cretu, Bu Yunchaokete
+Gabi Adrian Boitan, Yi Zhou
+Bu Yunchaokete, Gabi Adrian Boitan
+Cezar Cretu, Rigele Te
+Thomas Yaka Kofi Setodji, Davis Rolis
+Liova Ayite Ajavon, Daniels Tens
+Thomas Yaka Kofi Setodji, Daniels Tens
+Michael Agwi, Skander Mansouri
+Aziz Dougaz, Conor Gannon
+Michael Agwi, Aziz Dougaz
+Skander Mansouri, Conor Gannon
+Mark Lajal, Sergey Fomin
+Khumoun Sultanov, Kristjan Tamm
+Khumoun Sultanov, Mark Lajal
+Juan Carlos Prado Angelo, Maximus Jones
+Murkel Alejandro Dellien Velasco, Wishaya Trongcharoenchaikul
+Boris Arias, Thanapet Chanta
+Zhizhen Zhang, Matic Kriznik
+Yi Zhou, Sebastian Dominko
+Sebastian Dominko, Zhizhen Zhang
+Yi Zhou, Matic Kriznik
+Yassine Dlimi, Petros Chrysochos
+Elliot Benchetrit, Menelaos Efstathiou
+Stylianos Christodoulou, Hamza Karmoussi
+Diego Duran, Gillian Osmont
+Marcelo Arevalo, Heve Kelley
+Juan Carlos Fuentes Vasquez, Matavao Fanguna
+Hong Kit Jack Wong, Benjamin Lock
+Coleman Wong, Courtney John Lock
+Benedict Badza, Kwok Shun Dasson Chan
+Oliver Ojakaar, Hamid Reza Nadaf
+Sina Moghimi, Kristjan Tamm
+Oliver Ojakaar, Sina Moghimi
+Blaise Bicknell, Kaipo Marshall
+Darian King, Rowland Phillips
+Blaise Bicknell, Darian King
+Kaipo Marshall, Rowland Phillips
+Daniel Vallejo, Benjamin Balleret
+Valentin Vacherot, Martin Antonio Vergara Del Puerto
+Valentin Vacherot, Daniel Vallejo
+Fitriadi M Rifqi, Komlavi Loglo
+Thomas Yaka Kofi Setodji, Anthony Susanto
+Fitriadi M Rifqi, Thomas Yaka Kofi Setodji
+Komlavi Loglo, Anthony Susanto
+Moez Echargui, Jesse Flores
+Aziz Dougaz, Rodrigo Crespo Piedra
+Franco Roncadelli, Ilya Snitari
+Radu Albot, Joaquin  Aguilar Cardozo 
+Radu Albot, Franco Roncadelli
+Joaquin  Aguilar Cardozo , Ilya Snitari
+Nam Hoang Ly, Philip Henning
+Kris Van Wyk, Linh Giang Trinh
+Nam Hoang Ly, Kris Van Wyk
+Philip Henning, Linh Giang Trinh

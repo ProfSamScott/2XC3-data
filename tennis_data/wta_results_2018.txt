@@ -1,0 +1,2756 @@
+Garbine Muguruza, Stefanie Voegele
+Dayana Yastremska, Varvara Lepchenko
+Dalila Jakupovic, Kateryna Baindl
+Margarita Gasparyan, Maria Sakkari
+Kirsten Flipkens, Mandy Minella
+Belinda Bencic, Arantxa Rus
+Vera Lapko, Carina Witthoeft
+Pauline Parmentier, Viktorija Golubic
+Katerina Siniakova, Johanna Larsson
+Andrea Petkovic, Alison Van Uytvanck
+Eugenie Bouchard, Timea Babos
+Carla Suarez Navarro, Kristyna Pliskova
+Donna Vekic, Anna Karolina Schmiedlova
+Fiona Ferro, Monica Niculescu
+Anna Blinkova, Tatjana Maria
+Julia Goerges, Viktoria Hruncakova
+Dayana Yastremska, Garbine Muguruza
+Margarita Gasparyan, Dalila Jakupovic
+Belinda Bencic, Kirsten Flipkens
+Vera Lapko, Pauline Parmentier
+Andrea Petkovic, Katerina Siniakova
+Eugenie Bouchard, Carla Suarez Navarro
+Donna Vekic, Fiona Ferro
+Julia Goerges, Anna Blinkova
+Dayana Yastremska, Margarita Gasparyan
+Belinda Bencic, Vera Lapko
+Eugenie Bouchard, Andrea Petkovic
+Julia Goerges, Donna Vekic
+Belinda Bencic, Dayana Yastremska
+Julia Goerges, Eugenie Bouchard
+Julia Goerges, Belinda Bencic
+Su Wei Hsieh, Polona Hercog
+Mandy Minella, Kurumi Nara
+Lin Zhu, Miyu Kato
+Ajla Tomljanovic, Fiona Ferro
+Qiang Wang, Priscilla Hon
+Luksika Kumkhum, Ying Ying Duan
+Tamara Zidansek, Arina Rodionova
+Magda Linette, Johanna Larsson
+Saisai Zheng, Alison Riske Amritraj
+Amanda Anisimova, Jana Fett
+Viktorija Golubic, Misaki Doi
+Anna Karolina Schmiedlova, Yulia Putintseva
+Zarina Diyas, Sara Sorribes Tormo
+Kateryna Baindl, Yuxuan Zhang
+Nao Hibino, Eugenie Bouchard
+Shuai Zhang, Magdalena Frech
+Su Wei Hsieh, Mandy Minella
+Ajla Tomljanovic, Lin Zhu
+Qiang Wang, Luksika Kumkhum
+Magda Linette, Tamara Zidansek
+Amanda Anisimova, Saisai Zheng
+Anna Karolina Schmiedlova, Viktorija Golubic
+Zarina Diyas, Kateryna Baindl
+Shuai Zhang, Nao Hibino
+Su Wei Hsieh, Ajla Tomljanovic
+Qiang Wang, Magda Linette
+Amanda Anisimova, Anna Karolina Schmiedlova
+Shuai Zhang, Zarina Diyas
+Su Wei Hsieh, Qiang Wang
+Amanda Anisimova, Shuai Zhang
+Su Wei Hsieh, Amanda Anisimova
+Daria Saville, Jennifer Brady
+Samantha Stosur, Sofia Kenin
+Reka Luca Jani, Sachia Vickery
+Dominika Cibulkova, Chloe Paquet
+Mihaela Buzarnescu, Magda Linette
+Elena Rybakina, Andrea Gamiz
+Lucie Safarova, Marina Melnikova
+Su Wei Hsieh, Kaia Kanepi
+Timea Babos, Fiona Ferro
+Zarina Diyas, Katarzyna Piter
+Natalia Vikhlyantseva, Tereza Mrdeza
+Anastasia Pavlyuchenkova, Tatjana Maria
+Danielle Collins, Amandine Hesse
+Qiang Wang, Camilla Rosatello
+Pauline Parmentier, Yafan Wang
+Ashleigh Barty, Luksika Kumkhum
+Samantha Stosur, Daria Saville
+Dominika Cibulkova, Reka Luca Jani
+Mihaela Buzarnescu, Elena Rybakina
+Su Wei Hsieh, Lucie Safarova
+Zarina Diyas, Timea Babos
+Anastasia Pavlyuchenkova, Natalia Vikhlyantseva
+Qiang Wang, Danielle Collins
+Ashleigh Barty, Pauline Parmentier
+Dominika Cibulkova, Samantha Stosur
+Mihaela Buzarnescu, Su Wei Hsieh
+Anastasia Pavlyuchenkova, Zarina Diyas
+Ashleigh Barty, Qiang Wang
+Dominika Cibulkova, Mihaela Buzarnescu
+Anastasia Pavlyuchenkova, Ashleigh Barty
+Anastasia Pavlyuchenkova, Dominika Cibulkova
+Kiki Bertens, Barbara Haas
+Margarita Gasparyan, Monica Puig
+Jil Teichmann, Sorana Cirstea
+Camila Giorgi, Pauline Parmentier
+Barbora Strycova, Kirsten Flipkens
+Kristyna Pliskova, Valentini Grammatikopoulou
+Anna Karolina Schmiedlova, Fiona Ferro
+Alison Van Uytvanck, Magdalena Rybarikova
+Anastasia Pavlyuchenkova, Viktoria Hruncakova
+Vera Lapko, Belinda Bencic
+Johanna Larsson, Stefanie Voegele
+Ekaterina Alexandrova, Katerina Siniakova
+Timea Babos, Donna Vekic
+Kristina Mladenovic, Harriet Dart
+Tatjana Maria, Anna Blinkova
+Andrea Petkovic, Julia Goerges
+Margarita Gasparyan, Kiki Bertens
+Camila Giorgi, Jil Teichmann
+Barbora Strycova, Kristyna Pliskova
+Alison Van Uytvanck, Anna Karolina Schmiedlova
+Anastasia Pavlyuchenkova, Vera Lapko
+Ekaterina Alexandrova, Johanna Larsson
+Kristina Mladenovic, Timea Babos
+Andrea Petkovic, Tatjana Maria
+Camila Giorgi, Margarita Gasparyan
+Alison Van Uytvanck, Barbora Strycova
+Ekaterina Alexandrova, Anastasia Pavlyuchenkova
+Andrea Petkovic, Kristina Mladenovic
+Camila Giorgi, Alison Van Uytvanck
+Ekaterina Alexandrova, Andrea Petkovic
+Camila Giorgi, Ekaterina Alexandrova
+Aliaksandra Sasnovich, Kristina Mladenovic
+Monica Puig, Timea Bacsinszky
+Anett Kontaveit, Pauline Parmentier
+Petra Kvitova, Agnieszka Radwanska
+Zarina Diyas, Maria Sakkari
+Johanna Konta, Laura Siegemund
+Carla Suarez Navarro, Barbora Strycova
+Julia Goerges, Dominika Cibulkova
+Dayana Yastremska, Danielle Collins
+Magdalena Rybarikova, Coco Vandeweghe
+Kate Makarova, Karolina Pliskova
+Daria Saville, Irina Camelia Begu
+Aryna Sabalenka, Samantha Stosur
+Camila Giorgi, Ana Bogdan
+Caroline Garcia, Aliaksandra Sasnovich
+Monica Puig, Anett Kontaveit
+Petra Kvitova, Zarina Diyas
+Carla Suarez Navarro, Johanna Konta
+Julia Goerges, Dayana Yastremska
+Kate Makarova, Magdalena Rybarikova
+Aryna Sabalenka, Daria Saville
+Belinda Bencic, Camila Giorgi
+Monica Puig, Caroline Garcia
+Carla Suarez Navarro, Petra Kvitova
+Julia Goerges, Kate Makarova
+Aryna Sabalenka, Belinda Bencic
+Carla Suarez Navarro, Monica Puig
+Aryna Sabalenka, Julia Goerges
+Aryna Sabalenka, Carla Suarez Navarro
+Petra Martic, Naomi Broady
+Olga Govortsova, Kristie Ahn
+Jessica Pegula, Kristyna Pliskova
+Ons Jabeur, Lucie Safarova
+Monica Puig, Beatriz Haddad Maia
+Madison Brengle, Victoria Duval
+Francoise Abanda, Tereza Martincova
+Sofia Kenin, Mona Barthel
+Rebecca Marino, Tatjana Maria
+Georgina Garcia Perez, Evgeniya Rodina
+Leylah Fernandez, Gabriela Dabrowski
+Heather Watson, Monica Niculescu
+Pauline Parmentier, Veronika Kudermetova
+Christina Mchale, Dayana Yastremska
+Marie Bouzkova, Sesil Karatantcheva
+Varvara Lepchenko, Aryna Sabalenka
+Petra Martic, Olga Govortsova
+Jessica Pegula, Ons Jabeur
+Monica Puig, Madison Brengle
+Sofia Kenin, Francoise Abanda
+Rebecca Marino, Georgina Garcia Perez
+Heather Watson, Leylah Fernandez
+Pauline Parmentier, Christina Mchale
+Varvara Lepchenko, Marie Bouzkova
+Jessica Pegula, Petra Martic
+Sofia Kenin, Monica Puig
+Heather Watson, Rebecca Marino
+Pauline Parmentier, Varvara Lepchenko
+Jessica Pegula, Sofia Kenin
+Pauline Parmentier, Heather Watson
+Pauline Parmentier, Jessica Pegula
+Ajla Tomljanovic, Georgina Garcia Perez
+Amanda Anisimova, Qiang Wang
+Mihaela Buzarnescu, Sachia Vickery
+Ashley Kratzer, Alison Riske Amritraj
+Sofia Kenin, Veronica Cepede Royg
+Johanna Konta, Serena Williams
+Timea Babos, Kristina Mladenovic
+Maria Sakkari, Christina Mchale
+Heather Watson, Claire Liu
+Vera Lapko, Shuai Zhang
+Danielle Collins, Danielle Lao
+Victoria Azarenka, Kateryna Bondarenko
+Ajla Tomljanovic, Magdalena Frech
+Mihaela Buzarnescu, Amanda Anisimova
+Elise Mertens, Ashley Kratzer
+Johanna Konta, Sofia Kenin
+Maria Sakkari, Timea Babos
+Venus Williams, Heather Watson
+Danielle Collins, Vera Lapko
+Victoria Azarenka, Anna Blinkova
+Mihaela Buzarnescu, Ajla Tomljanovic
+Elise Mertens, Johanna Konta
+Maria Sakkari, Venus Williams
+Danielle Collins, Victoria Azarenka
+Mihaela Buzarnescu, Elise Mertens
+Maria Sakkari, Danielle Collins
+Mihaela Buzarnescu, Maria Sakkari
+Catherine Cartan Bellis, Elise Mertens
+Kate Makarova, Anastasija Sevastova
+Caroline Garcia, Lucie Safarova
+Elena Vesnina, Shuai Peng
+Daria Kasatkina, Agnieszka Radwanska
+Johanna Konta, Anastasia Pavlyuchenkova
+Angelique Kerber, Barbora Strycova
+Sara Errani, Lesia Tsurenko
+Carla Suarez Navarro, Sofya Zhuk
+Naomi Osaka, Kristina Mladenovic
+Anett Kontaveit, Samantha Stosur
+Qiang Wang, Kiki Bertens
+Garbine Muguruza, Catherine Cartan Bellis
+Caroline Garcia, Kate Makarova
+Elena Vesnina, Jelena Ostapenko
+Daria Kasatkina, Johanna Konta
+Angelique Kerber, Sara Errani
+Karolina Pliskova, Carla Suarez Navarro
+Naomi Osaka, Anett Kontaveit
+Elina Svitolina, Qiang Wang
+Garbine Muguruza, Caroline Garcia
+Daria Kasatkina, Elena Vesnina
+Angelique Kerber, Karolina Pliskova
+Elina Svitolina, Naomi Osaka
+Daria Kasatkina, Garbine Muguruza
+Elina Svitolina, Angelique Kerber
+Elina Svitolina, Daria Kasatkina
+Kristyna Pliskova, Katerina Siniakova
+Taylor Townsend, Heather Watson
+Elena Vesnina, Madison Brengle
+Ashleigh Barty, Sofia Kenin
+Tatjana Maria, Lauren Davis
+Caroline Dolehide, Johanna Larsson
+Christina Mchale, Zarina Diyas
+Claire Liu, Magda Linette
+Irina Camelia Begu, Georgina Garcia Perez
+Naomi Osaka, Jennifer Brady
+Laura Siegemund, Natalia Vikhlyantseva
+Kristie Ahn, Samantha Stosur
+Lara Arruabarrena, Beatriz Haddad Maia
+Camila Giorgi, Silvia Soler Espinosa
+Daria Saville, Ons Jabeur
+Mihaela Buzarnescu, Vera Lapko
+Sara Errani, Eugenie Bouchard
+Bernarda Pera, Jana Cepelova
+Fanny Stollar, Francesca Di Lorenzo
+Aleksandra Krunic, Bethanie Mattek Sands
+Kiki Bertens, Veronica Cepede Royg
+Alize Cornet, Kateryna Bondarenko
+Polona Hercog, Maryna Zanevska
+Varvara Lepchenko, Andrea Petkovic
+Kristyna Pliskova, Petra Kvitova
+Elena Vesnina, Taylor Townsend
+Ashleigh Barty, Tatjana Maria
+Anastasija Sevastova, Caroline Dolehide
+Daria Kasatkina, Christina Mchale
+Irina Camelia Begu, Claire Liu
+Naomi Osaka, Laura Siegemund
+Julia Goerges, Kristie Ahn
+Madison Keys, Lara Arruabarrena
+Camila Giorgi, Daria Saville
+Sara Errani, Mihaela Buzarnescu
+Bernarda Pera, Dayana Yastremska
+Fanny Stollar, Johanna Konta
+Kiki Bertens, Aleksandra Krunic
+Alize Cornet, Polona Hercog
+Caroline Garcia, Varvara Lepchenko
+Kristyna Pliskova, Elena Vesnina
+Anastasija Sevastova, Ashleigh Barty
+Daria Kasatkina, Irina Camelia Begu
+Julia Goerges, Naomi Osaka
+Madison Keys, Camila Giorgi
+Bernarda Pera, Sara Errani
+Kiki Bertens, Fanny Stollar
+Alize Cornet, Caroline Garcia
+Anastasija Sevastova, Kristyna Pliskova
+Julia Goerges, Daria Kasatkina
+Madison Keys, Bernarda Pera
+Kiki Bertens, Alize Cornet
+Julia Goerges, Anastasija Sevastova
+Kiki Bertens, Madison Keys
+Kiki Bertens, Julia Goerges
+Aryna Sabalenka, Ana Bogdan
+Shuai Zhang, Barbora Krejcikova
+Elise Mertens, Eugenie Bouchard
+Johanna Konta, Jelena Ostapenko
+Victoria Azarenka, Kristina Mladenovic
+Mihaela Buzarnescu, Qiang Wang
+Francoise Abanda, Kirsten Flipkens
+Lesia Tsurenko, Katie Boulter
+Carla Suarez Navarro, Naomi Osaka
+Julia Goerges, Timea Babos
+Lucie Safarova, Daria Saville
+Anastasija Sevastova, Aleksandra Krunic
+Anett Kontaveit, Kate Makarova
+Kiki Bertens, Carol Zhao
+Karolina Pliskova, Katerina Siniakova
+Ashleigh Barty, Irina Camelia Begu
+Alison Van Uytvanck, Sofya Zhuk
+Alize Cornet, Tatjana Maria
+Magdalena Rybarikova, Barbora Strycova
+Maria Sharapova, Sesil Karatantcheva
+Daria Kasatkina, Maria Sakkari
+Venus Williams, Caroline Dolehide
+Sorana Cirstea, Monica Niculescu
+Anastasia Pavlyuchenkova, Christina Mchale
+Aryna Sabalenka, Caroline Wozniacki
+Elise Mertens, Shuai Zhang
+Johanna Konta, Victoria Azarenka
+Elina Svitolina, Mihaela Buzarnescu
+Sloane Stephens, Francoise Abanda
+Carla Suarez Navarro, Lesia Tsurenko
+Julia Goerges, Lucie Safarova
+Anastasija Sevastova, Monica Puig
+Petra Kvitova, Anett Kontaveit
+Kiki Bertens, Karolina Pliskova
+Ashleigh Barty, Alison Van Uytvanck
+Alize Cornet, Angelique Kerber
+Caroline Garcia, Magdalena Rybarikova
+Maria Sharapova, Daria Kasatkina
+Venus Williams, Sorana Cirstea
+Simona Halep, Anastasia Pavlyuchenkova
+Elise Mertens, Aryna Sabalenka
+Elina Svitolina, Johanna Konta
+Sloane Stephens, Carla Suarez Navarro
+Anastasija Sevastova, Julia Goerges
+Kiki Bertens, Petra Kvitova
+Ashleigh Barty, Alize Cornet
+Caroline Garcia, Maria Sharapova
+Simona Halep, Venus Williams
+Elina Svitolina, Elise Mertens
+Sloane Stephens, Anastasija Sevastova
+Ashleigh Barty, Kiki Bertens
+Simona Halep, Caroline Garcia
+Sloane Stephens, Elina Svitolina
+Simona Halep, Ashleigh Barty
+Simona Halep, Sloane Stephens
+Elina Svitolina, Karolina Pliskova
+Karolina Pliskova, Petra Kvitova
+Elina Svitolina, Petra Kvitova
+Karolina Pliskova, Caroline Wozniacki
+Elina Svitolina, Caroline Wozniacki
+Caroline Wozniacki, Petra Kvitova
+Sloane Stephens, Kiki Bertens
+Kiki Bertens, Naomi Osaka
+Sloane Stephens, Naomi Osaka
+Kiki Bertens, Angelique Kerber
+Sloane Stephens, Angelique Kerber
+Angelique Kerber, Naomi Osaka
+Elina Svitolina, Kiki Bertens
+Sloane Stephens, Karolina Pliskova
+Elina Svitolina, Sloane Stephens
+Vera Lapko, Bojana Jovanovski
+Ivana Jorovic, Ekaterina Alexandrova
+Mona Barthel, Nigina Abduraimova
+Evgeniya Rodina, Magdalena Frech
+Vera Zvonareva, Tamara Zidansek
+Fanny Stollar, Kurumi Nara
+Margarita Gasparyan, Sabina Sharipova
+Tatjana Maria, Natalia Vikhlyantseva
+Dalila Jakupovic, Anna Blinkova
+Arantxa Rus, Marta Kostyuk
+Olga Danilovic, Anna Kalinskaya
+Anastasia Potapova, Stefanie Voegele
+Anna Karolina Schmiedlova, Dejana Radanovic
+Nao Hibino, Eugenie Bouchard
+Fiona Ferro, Jana Fett
+Kateryna Baindl, Irina Camelia Begu
+Vera Lapko, Ivana Jorovic
+Mona Barthel, Evgeniya Rodina
+Fanny Stollar, Vera Zvonareva
+Margarita Gasparyan, Tatjana Maria
+Dalila Jakupovic, Arantxa Rus
+Anastasia Potapova, Olga Danilovic
+Anna Karolina Schmiedlova, Nao Hibino
+Kateryna Baindl, Fiona Ferro
+Mona Barthel, Vera Lapko
+Margarita Gasparyan, Fanny Stollar
+Anastasia Potapova, Dalila Jakupovic
+Kateryna Baindl, Anna Karolina Schmiedlova
+Margarita Gasparyan, Mona Barthel
+Anastasia Potapova, Kateryna Baindl
+Margarita Gasparyan, Anastasia Potapova
+Magda Linette, Evgeniya Rodina
+Maria Fernanda Herazo Gonzalez, Tereza Martincova
+Elitsa Kostova, Nao Hibino
+Dalila Jakupovic, Alison Riske Amritraj
+Johanna Larsson, Ysaline Bonaventure
+Valentini Grammatikopoulou, Miyu Kato
+Sara Sorribes Tormo, Carol Zhao
+Lara Arruabarrena, Victoria Rodriguez
+Renata Zarazua, Ajla Tomljanovic
+Anna Karolina Schmiedlova, Irina Falconi
+Jasmine Paolini, Lizette Cabrera
+Emiliana Arango, Veronica Cepede Royg
+Ana Bogdan, Mariana Duque Marino
+Anna Blinkova, Camila Osorio
+Daniela Seguel, Nicole Gibbs
+Tatjana Maria, Georgina Garcia Perez
+Magda Linette, Maria Fernanda Herazo Gonzalez
+Dalila Jakupovic, Elitsa Kostova
+Johanna Larsson, Valentini Grammatikopoulou
+Lara Arruabarrena, Sara Sorribes Tormo
+Anna Karolina Schmiedlova, Renata Zarazua
+Emiliana Arango, Jasmine Paolini
+Ana Bogdan, Anna Blinkova
+Daniela Seguel, Tatjana Maria
+Dalila Jakupovic, Magda Linette
+Lara Arruabarrena, Johanna Larsson
+Anna Karolina Schmiedlova, Emiliana Arango
+Ana Bogdan, Daniela Seguel
+Lara Arruabarrena, Dalila Jakupovic
+Anna Karolina Schmiedlova, Ana Bogdan
+Anna Karolina Schmiedlova, Lara Arruabarrena
+Kate Makarova, Shuai Zhang
+Naomi Osaka, Katerina Siniakova
+Anastasija Sevastova, Donna Vekic
+Madison Keys, Qiang Wang
+Catherine Cartan Bellis, Daria Kasatkina
+Alize Cornet, Anett Kontaveit
+Ying Ying Duan, Ons Jabeur
+Sorana Cirstea, Maria Sakkari
+Elise Mertens, Timea Babos
+Kristina Mladenovic, Shuai Peng
+Anna Blinkova, Elena Vesnina
+Dominika Cibulkova, Anastasia Pavlyuchenkova
+Mihaela Buzarnescu, Lesia Tsurenko
+Barbora Strycova, Aleksandra Krunic
+Julia Goerges, Lucie Safarova
+Petra Kvitova, Cagla Buyukakcay
+Agnieszka Radwanska, Mona Barthel
+Marketa Vondrousova, Yulia Putintseva
+Samantha Stosur, Irina Camelia Begu
+Carla Suarez Navarro, Kateryna Bondarenko
+Johanna Konta, Bernarda Pera
+Magdalena Rybarikova, Fatma Al Nabhani
+Monica Niculescu, Maria Sharapova
+Carina Witthoeft, Tatjana Maria
+Simona Halep, Kate Makarova
+Anastasija Sevastova, Naomi Osaka
+Catherine Cartan Bellis, Madison Keys
+Karolina Pliskova, Alize Cornet
+Garbine Muguruza, Ying Ying Duan
+Sorana Cirstea, Elise Mertens
+Anna Blinkova, Kristina Mladenovic
+Caroline Garcia, Dominika Cibulkova
+Mihaela Buzarnescu, Jelena Ostapenko
+Julia Goerges, Barbora Strycova
+Petra Kvitova, Agnieszka Radwanska
+Elina Svitolina, Marketa Vondrousova
+Angelique Kerber, Samantha Stosur
+Johanna Konta, Carla Suarez Navarro
+Monica Niculescu, Magdalena Rybarikova
+Caroline Wozniacki, Carina Witthoeft
+Simona Halep, Anastasija Sevastova
+Catherine Cartan Bellis, Karolina Pliskova
+Garbine Muguruza, Sorana Cirstea
+Caroline Garcia, Anna Blinkova
+Julia Goerges, Mihaela Buzarnescu
+Petra Kvitova, Elina Svitolina
+Angelique Kerber, Johanna Konta
+Caroline Wozniacki, Monica Niculescu
+Simona Halep, Catherine Cartan Bellis
+Garbine Muguruza, Caroline Garcia
+Petra Kvitova, Julia Goerges
+Caroline Wozniacki, Angelique Kerber
+Garbine Muguruza, Simona Halep
+Petra Kvitova, Caroline Wozniacki
+Petra Kvitova, Garbine Muguruza
+Polona Hercog, Dominika Cibulkova
+Paula Badosa, Fiona Ferro
+Sara Sorribes Tormo, Yulia Putintseva
+Aleksandra Krunic, Lara Arruabarrena
+Kirsten Flipkens, Petra Martic
+Ajla Tomljanovic, Silvia Soler Espinosa
+Jana Fett, Sachia Vickery
+Magdalena Frech, Christina Mchale
+Su Wei Hsieh, Bethanie Mattek Sands
+Tamara Zidansek, Magda Linette
+Katarina Zavatska, Diae El Jardi
+Alexandra Dulgheru, Timea Babos
+Sara Errani, Zarina Diyas
+Johanna Larsson, Rebecca Peterson
+Laura Siegemund, Ana Bogdan
+Elise Mertens, Kristina Kucova
+Paula Badosa, Polona Hercog
+Aleksandra Krunic, Sara Sorribes Tormo
+Ajla Tomljanovic, Kirsten Flipkens
+Jana Fett, Magdalena Frech
+Su Wei Hsieh, Tamara Zidansek
+Katarina Zavatska, Alexandra Dulgheru
+Sara Errani, Johanna Larsson
+Elise Mertens, Laura Siegemund
+Aleksandra Krunic, Paula Badosa
+Ajla Tomljanovic, Jana Fett
+Su Wei Hsieh, Katarina Zavatska
+Elise Mertens, Sara Errani
+Ajla Tomljanovic, Aleksandra Krunic
+Elise Mertens, Su Wei Hsieh
+Elise Mertens, Ajla Tomljanovic
+Yafan Wang, Lin Zhu
+Andrea Petkovic, Lizette Cabrera
+Deniz Khazaniuk, Xin Yu Wang
+Vera Lapko, Vania King
+Qiang Wang, Nicole Gibbs
+Svetlana Kuznetsova, Karman Thandi
+Fiona Ferro, Xiyu Wang
+Saisai Zheng, Hanyu Guo
+Viktoria Hruncakova, Ivana Jorovic
+Bernarda Pera, Magdalena Frech
+Christina Mchale, Ana Bogdan
+Aleksandra Krunic, Viktorija Golubic
+Yulia Putintseva, Sara Sorribes Tormo
+Sabine Lisicki, Vera Zvonareva
+Kateryna Baindl, Jia Jing Lu
+Jennifer Brady, Alize Cornet
+Andrea Petkovic, Yafan Wang
+Vera Lapko, Deniz Khazaniuk
+Qiang Wang, Svetlana Kuznetsova
+Fiona Ferro, Saisai Zheng
+Bernarda Pera, Viktoria Hruncakova
+Aleksandra Krunic, Christina Mchale
+Yulia Putintseva, Sabine Lisicki
+Kateryna Baindl, Jennifer Brady
+Andrea Petkovic, Vera Lapko
+Qiang Wang, Fiona Ferro
+Bernarda Pera, Aleksandra Krunic
+Yulia Putintseva, Kateryna Baindl
+Qiang Wang, Andrea Petkovic
+Yulia Putintseva, Bernarda Pera
+Qiang Wang, Yulia Putintseva
+Kiki Bertens, Luksika Kumkhum
+Dalila Jakupovic, Na Lae Han
+Evgeniya Rodina, Dejana Radanovic
+Kirsten Flipkens, Sohyun Park
+Maria Sakkari, Anna Karolina Schmiedlova
+Margarita Gasparyan, Varvara Flink
+Agnieszka Radwanska, Bethanie Mattek Sands
+Irina Camelia Begu, Mona Barthel
+Ajla Tomljanovic, Alison Van Uytvanck
+Tamara Zidansek, Polona Hercog
+Priscilla Hon, Su Jeong Jang
+Mandy Minella, Magdalena Rybarikova
+Su Wei Hsieh, Jil Teichmann
+Stefanie Voegele, Ji Hee Choi
+Ekaterina Alexandrova, Johanna Larsson
+Jelena Ostapenko, Lara Arruabarrena
+Kiki Bertens, Dalila Jakupovic
+Evgeniya Rodina, Kirsten Flipkens
+Maria Sakkari, Margarita Gasparyan
+Irina Camelia Begu, Agnieszka Radwanska
+Ajla Tomljanovic, Tamara Zidansek
+Mandy Minella, Priscilla Hon
+Su Wei Hsieh, Stefanie Voegele
+Ekaterina Alexandrova, Jelena Ostapenko
+Kiki Bertens, Evgeniya Rodina
+Maria Sakkari, Irina Camelia Begu
+Ajla Tomljanovic, Mandy Minella
+Su Wei Hsieh, Ekaterina Alexandrova
+Kiki Bertens, Maria Sakkari
+Ajla Tomljanovic, Su Wei Hsieh
+Kiki Bertens, Ajla Tomljanovic
+Svetlana Kuznetsova, Qiang Wang
+Viktoriya Tomova, Valentyna Ivakhnenko
+Kateryna Bondarenko, Ipek Oz
+Polona Hercog, Aryna Sabalenka
+Arantxa Rus, Shuai Zhang
+Danka Kovinic, Anna Kalinskaya
+Maria Sakkari, Cagla Buyukakcay
+Aleksandra Krunic, Kate Makarova
+Irina Camelia Begu, Dalila Jakupovic
+Christina Mchale, Mona Barthel
+Ajla Tomljanovic, Alison Van Uytvanck
+Donna Vekic, Agnieszka Radwanska
+Yulia Putintseva, Sorana Cirstea
+Pauline Parmentier, Ayla Aksu
+Sara Errani, Kirsten Flipkens
+Caroline Wozniacki, Ekaterina Alexandrova
+Svetlana Kuznetsova, Viktoriya Tomova
+Polona Hercog, Kateryna Bondarenko
+Arantxa Rus, Danka Kovinic
+Maria Sakkari, Aleksandra Krunic
+Irina Camelia Begu, Christina Mchale
+Donna Vekic, Ajla Tomljanovic
+Pauline Parmentier, Yulia Putintseva
+Caroline Wozniacki, Sara Errani
+Polona Hercog, Svetlana Kuznetsova
+Maria Sakkari, Arantxa Rus
+Irina Camelia Begu, Donna Vekic
+Pauline Parmentier, Caroline Wozniacki
+Polona Hercog, Maria Sakkari
+Pauline Parmentier, Irina Camelia Begu
+Pauline Parmentier, Polona Hercog
+Magdalena Rybarikova, Risa Ozaki
+Jana Fett, Valentini Grammatikopoulou
+Ana Sofia Sanchez, Usue Maitane Arconada
+Sachia Vickery, Irina Falconi
+Timea Babos, Marie Bouzkova
+Naomi Broady, Carol Zhao
+Stefanie Voegele, Dalila Jakupovic
+Monica Puig, Nicole Gibbs
+Ana Bogdan, Victoria Rodriguez
+Sara Sorribes Tormo, Tereza Martincova
+Danielle Collins, Mariana Duque Marino
+Lesia Tsurenko, Nao Hibino
+Ajla Tomljanovic, Anna Karolina Schmiedlova
+Anna Blinkova, Rebecca Peterson
+Alison Riske Amritraj, Evgeniya Rodina
+Garbine Muguruza, Renata Zarazua
+Magdalena Rybarikova, Jana Fett
+Sachia Vickery, Ana Sofia Sanchez
+Timea Babos, Naomi Broady
+Monica Puig, Stefanie Voegele
+Ana Bogdan, Sara Sorribes Tormo
+Danielle Collins, Lesia Tsurenko
+Ajla Tomljanovic, Anna Blinkova
+Garbine Muguruza, Alison Riske Amritraj
+Sachia Vickery, Magdalena Rybarikova
+Timea Babos, Monica Puig
+Ana Bogdan, Danielle Collins
+Garbine Muguruza, Ajla Tomljanovic
+Timea Babos, Sachia Vickery
+Garbine Muguruza, Ana Bogdan
+Garbine Muguruza, Timea Babos
+Julia Goerges, Monica Puig
+Viktoria Hruncakova, Jade Lewis
+Polona Hercog, Alison Van Uytvanck
+Kirsten Flipkens, Donna Vekic
+Barbora Strycova, Sara Errani
+Johanna Larsson, Kurumi Nara
+Su Wei Hsieh, Nao Hibino
+Ysaline Bonaventure, Yulia Putintseva
+Sachia Vickery, Lauren Davis
+Veronica Cepede Royg, Lara Arruabarrena
+Taylor Townsend, Christina Mchale
+Agnieszka Radwanska, Beatriz Haddad Maia
+Varvara Lepchenko, Mona Barthel
+Sofia Kenin, Jana Fett
+Petra Martic, Marketa Vondrousova
+Caroline Wozniacki, Madison Brengle
+Julia Goerges, Viktoria Hruncakova
+Polona Hercog, Kirsten Flipkens
+Barbora Strycova, Johanna Larsson
+Su Wei Hsieh, Ysaline Bonaventure
+Sachia Vickery, Veronica Cepede Royg
+Agnieszka Radwanska, Taylor Townsend
+Sofia Kenin, Varvara Lepchenko
+Caroline Wozniacki, Petra Martic
+Julia Goerges, Polona Hercog
+Su Wei Hsieh, Barbora Strycova
+Sachia Vickery, Agnieszka Radwanska
+Caroline Wozniacki, Sofia Kenin
+Julia Goerges, Su Wei Hsieh
+Caroline Wozniacki, Sachia Vickery
+Julia Goerges, Caroline Wozniacki
+Elise Mertens, Kurumi Nara
+Beatriz Haddad Maia, Lizette Cabrera
+Varvara Lepchenko, Mona Barthel
+Monica Niculescu, Irina Camelia Begu
+Heather Watson, Sorana Cirstea
+Jaimee Fourlis, Nina Stojanovic
+Marketa Vondrousova, Natalia Vikhlyantseva
+Donna Vekic, Tatjana Maria
+Alison Riske Amritraj, Katerina Siniakova
+Kirsten Flipkens, Kristyna Pliskova
+Anna Lena Friedsam, Alison Van Uytvanck
+Mihaela Buzarnescu, Alize Cornet
+Lesia Tsurenko, Timea Babos
+Yulia Putintseva, Naomi Osaka
+Aryna Sabalenka, Eugenie Bouchard
+Shuai Zhang, Magda Linette
+Elise Mertens, Beatriz Haddad Maia
+Monica Niculescu, Varvara Lepchenko
+Heather Watson, Jaimee Fourlis
+Donna Vekic, Marketa Vondrousova
+Alison Riske Amritraj, Kirsten Flipkens
+Mihaela Buzarnescu, Anna Lena Friedsam
+Lesia Tsurenko, Yulia Putintseva
+Aryna Sabalenka, Shuai Zhang
+Elise Mertens, Monica Niculescu
+Heather Watson, Donna Vekic
+Mihaela Buzarnescu, Alison Riske Amritraj
+Lesia Tsurenko, Aryna Sabalenka
+Elise Mertens, Heather Watson
+Mihaela Buzarnescu, Lesia Tsurenko
+Elise Mertens, Mihaela Buzarnescu
+Anastasia Pavlyuchenkova, Madison Keys
+Anett Kontaveit, Kristina Mladenovic
+Angelique Kerber, Petra Kvitova
+Zarina Diyas, Carina Witthoeft
+Veronika Kudermetova, Carla Suarez Navarro
+Karolina Pliskova, Kiki Bertens
+Caroline Garcia, Maria Sharapova
+Marta Kostyuk, Antonia Lottner
+Marketa Vondrousova, Julia Goerges
+Coco Vandeweghe, Sloane Stephens
+Laura Siegemund, Barbora Strycova
+Magdalena Rybarikova, Daria Kasatkina
+Anastasia Pavlyuchenkova, Garbine Muguruza
+Anett Kontaveit, Angelique Kerber
+Jelena Ostapenko, Zarina Diyas
+Karolina Pliskova, Veronika Kudermetova
+Caroline Garcia, Marta Kostyuk
+Elina Svitolina, Marketa Vondrousova
+Coco Vandeweghe, Laura Siegemund
+Simona Halep, Magdalena Rybarikova
+Anett Kontaveit, Anastasia Pavlyuchenkova
+Karolina Pliskova, Jelena Ostapenko
+Caroline Garcia, Elina Svitolina
+Coco Vandeweghe, Simona Halep
+Karolina Pliskova, Anett Kontaveit
+Coco Vandeweghe, Caroline Garcia
+Karolina Pliskova, Coco Vandeweghe
+Elina Svitolina, Donna Vekic
+Alize Cornet, Kate Makarova
+Mihaela Buzarnescu, Timea Babos
+Petra Martic, Coco Vandeweghe
+Petra Kvitova, Johanna Konta
+Daria Saville, Dominika Cibulkova
+Ashleigh Barty, Oceane Dodin
+Julia Goerges, Maria Sakkari
+Dalila Jakupovic, Elise Mertens
+Naomi Osaka, Katie Boulter
+Kristina Mladenovic, Katerina Siniakova
+Magdalena Rybarikova, Karolina Pliskova
+Daria Kasatkina, Kristyna Pliskova
+Lesia Tsurenko, Heather Watson
+Barbora Strycova, Jennifer Brady
+Garbine Muguruza, Anastasia Pavlyuchenkova
+Elina Svitolina, Alize Cornet
+Mihaela Buzarnescu, Petra Martic
+Petra Kvitova, Daria Saville
+Julia Goerges, Ashleigh Barty
+Dalila Jakupovic, Naomi Osaka
+Magdalena Rybarikova, Kristina Mladenovic
+Lesia Tsurenko, Daria Kasatkina
+Barbora Strycova, Garbine Muguruza
+Mihaela Buzarnescu, Elina Svitolina
+Petra Kvitova, Julia Goerges
+Magdalena Rybarikova, Dalila Jakupovic
+Barbora Strycova, Lesia Tsurenko
+Petra Kvitova, Mihaela Buzarnescu
+Magdalena Rybarikova, Barbora Strycova
+Petra Kvitova, Magdalena Rybarikova
+Anastasia Pavlyuchenkova, Aliaksandra Sasnovich
+Johanna Konta, Gabriela Dabrowski
+Donna Vekic, Sloane Stephens
+Daria Saville, Kristyna Pliskova
+Alison Riske Amritraj, Eugenie Bouchard
+Garbine Muguruza, Belinda Bencic
+Barbora Strycova, Zarina Diyas
+Anett Kontaveit, Kristina Mladenovic
+Dominika Cibulkova, Nao Hibino
+Ashleigh Barty, Coco Vandeweghe
+Victoria Azarenka, Kurumi Nara
+Camila Giorgi, Misaki Doi
+Caroline Garcia, Anastasia Pavlyuchenkova
+Donna Vekic, Johanna Konta
+Karolina Pliskova, Daria Saville
+Alison Riske Amritraj, Garbine Muguruza
+Barbora Strycova, Anett Kontaveit
+Naomi Osaka, Dominika Cibulkova
+Victoria Azarenka, Ashleigh Barty
+Camila Giorgi, Caroline Wozniacki
+Donna Vekic, Caroline Garcia
+Karolina Pliskova, Alison Riske Amritraj
+Naomi Osaka, Barbora Strycova
+Camila Giorgi, Victoria Azarenka
+Karolina Pliskova, Donna Vekic
+Naomi Osaka, Camila Giorgi
+Karolina Pliskova, Naomi Osaka
+Kristyna Pliskova, Jelena Ostapenko
+Ana Bogdan, Camila Giorgi
+Yafan Wang, Jasmine Paolini
+Katerina Siniakova, Ons Jabeur
+Shuai Zhang, Anna Blinkova
+Zarina Diyas, Pauline Parmentier
+Maria Sharapova, Mihaela Buzarnescu
+Alison Riske Amritraj, Qiang Wang
+Timea Babos, Xiyu Wang
+Magda Linette, Jana Cepelova
+Ekaterina Alexandrova, Stefanie Voegele
+Irina Camelia Begu, Fangzhou Liu
+Danka Kovinic, Maria Sakkari
+Aryna Sabalenka, Monica Niculescu
+Ying Ying Duan, Evgeniya Rodina
+Simona Halep, Nicole Gibbs
+Kristyna Pliskova, Ana Bogdan
+Katerina Siniakova, Yafan Wang
+Zarina Diyas, Shuai Zhang
+Maria Sharapova, Alison Riske Amritraj
+Timea Babos, Magda Linette
+Irina Camelia Begu, Ekaterina Alexandrova
+Aryna Sabalenka, Danka Kovinic
+Simona Halep, Ying Ying Duan
+Katerina Siniakova, Kristyna Pliskova
+Maria Sharapova, Zarina Diyas
+Irina Camelia Begu, Timea Babos
+Simona Halep, Aryna Sabalenka
+Katerina Siniakova, Maria Sharapova
+Simona Halep, Irina Camelia Begu
+Simona Halep, Katerina Siniakova
+Kristyna Pliskova, Julia Goerges
+Lara Arruabarrena, Katharina Hobgarski
+Christina Mchale, Saisai Zheng
+Johanna Larsson, Irina Camelia Begu
+Fanny Stollar, Shuai Zhang
+Heather Watson, Kateryna Bondarenko
+Veronica Cepede Royg, Kateryna Baindl
+Katerina Siniakova, Anna Zaja
+Kirsten Flipkens, Alison Van Uytvanck
+Nadia Podoroska, Kristina Kucova
+Mona Barthel, Carina Witthoeft
+Kiki Bertens, Dejana Radanovic
+Sorana Cirstea, Andrea Petkovic
+Madison Brengle, Varvara Lepchenko
+Alison Riske Amritraj, Mandy Minella
+Yulia Putintseva, Sloane Stephens
+Kristyna Pliskova, Lara Arruabarrena
+Johanna Larsson, Christina Mchale
+Fanny Stollar, Heather Watson
+Katerina Siniakova, Veronica Cepede Royg
+Kirsten Flipkens, Nadia Podoroska
+Kiki Bertens, Mona Barthel
+Sorana Cirstea, Madison Brengle
+Alison Riske Amritraj, Yulia Putintseva
+Johanna Larsson, Kristyna Pliskova
+Katerina Siniakova, Fanny Stollar
+Kirsten Flipkens, Kiki Bertens
+Alison Riske Amritraj, Sorana Cirstea
+Johanna Larsson, Katerina Siniakova
+Alison Riske Amritraj, Kirsten Flipkens
+Johanna Larsson, Alison Riske Amritraj
+Shuai Zhang, Sabina Sharipova
+Lesley Pattinama Kerkhove, Bibiane Schoofs
+Monica Niculescu, Ons Jabeur
+Daria Saville, Zarina Diyas
+Kristina Kucova, Jelena Ostapenko
+Viktoriya Tomova, Dalila Jakupovic
+Dayana Yastremska, Fanny Stollar
+Saisai Zheng, Aleksandra Krunic
+Alize Cornet, Julia Glushko
+Luksika Kumkhum, Jennifer Brady
+Ana Bogdan, Caroline Dolehide
+Garbine Muguruza, Sara Sorribes Tormo
+Qiang Wang, Ling Zhang
+Christina Mchale, Eudice Wong Chong
+Nao Hibino, Samantha Stosur
+Elina Svitolina, Priscilla Hon
+Shuai Zhang, Lesley Pattinama Kerkhove
+Daria Saville, Monica Niculescu
+Kristina Kucova, Viktoriya Tomova
+Dayana Yastremska, Saisai Zheng
+Luksika Kumkhum, Alize Cornet
+Garbine Muguruza, Ana Bogdan
+Qiang Wang, Christina Mchale
+Elina Svitolina, Nao Hibino
+Shuai Zhang, Daria Saville
+Dayana Yastremska, Kristina Kucova
+Garbine Muguruza, Luksika Kumkhum
+Qiang Wang, Elina Svitolina
+Dayana Yastremska, Shuai Zhang
+Qiang Wang, Garbine Muguruza
+Dayana Yastremska, Qiang Wang
+Rebecca Peterson, Timea Babos
+Monica Puig, Kirsten Flipkens
+Aliaksandra Sasnovich, Elise Mertens
+Daria Saville, Jelena Ostapenko
+Barbora Strycova, Alize Cornet
+Qiang Wang, Maria Sakkari
+Katerina Siniakova, Kristina Mladenovic
+Viktorija Golubic, Sara Sorribes Tormo
+Garbine Muguruza, Alison Van Uytvanck
+Anett Kontaveit, Sloane Stephens
+Donna Vekic, Coco Vandeweghe
+Shuai Zhang, Samantha Stosur
+Aleksandra Krunic, Camila Giorgi
+Anastasia Pavlyuchenkova, Anastasija Sevastova
+Kiki Bertens, Belinda Bencic
+Ashleigh Barty, Johanna Konta
+Saisai Zheng, Danielle Collins
+Madison Keys, Yafan Wang
+Aryna Sabalenka, Carla Suarez Navarro
+Sofia Kenin, Su Wei Hsieh
+Julia Goerges, Marketa Vondrousova
+Daria Kasatkina, Lesia Tsurenko
+Xiyu Wang, Bernarda Pera
+Dominika Cibulkova, Monica Niculescu
+Caroline Wozniacki, Rebecca Peterson
+Monica Puig, Aliaksandra Sasnovich
+Daria Saville, Barbora Strycova
+Qiang Wang, Karolina Pliskova
+Katerina Siniakova, Caroline Garcia
+Garbine Muguruza, Viktorija Golubic
+Anett Kontaveit, Donna Vekic
+Shuai Zhang, Polona Hercog
+Petra Kvitova, Aleksandra Krunic
+Anastasia Pavlyuchenkova, Kiki Bertens
+Ashleigh Barty, Saisai Zheng
+Angelique Kerber, Madison Keys
+Aryna Sabalenka, Elina Svitolina
+Sofia Kenin, Julia Goerges
+Daria Kasatkina, Xiyu Wang
+Dominika Cibulkova, Simona Halep
+Monica Puig, Caroline Wozniacki
+Qiang Wang, Daria Saville
+Katerina Siniakova, Garbine Muguruza
+Anett Kontaveit, Shuai Zhang
+Anastasia Pavlyuchenkova, Petra Kvitova
+Ashleigh Barty, Angelique Kerber
+Aryna Sabalenka, Sofia Kenin
+Dominika Cibulkova, Daria Kasatkina
+Qiang Wang, Monica Puig
+Anett Kontaveit, Katerina Siniakova
+Ashleigh Barty, Anastasia Pavlyuchenkova
+Aryna Sabalenka, Dominika Cibulkova
+Anett Kontaveit, Qiang Wang
+Aryna Sabalenka, Ashleigh Barty
+Aryna Sabalenka, Anett Kontaveit
+Caroline Garcia, Fang Ying Xun
+Yuxuan Zhang, Irina Camelia Begu
+Fangzhou Liu, Yue Yuan
+Petra Martic, Ying Ying Duan
+Elise Mertens, Lin Zhu
+Jana Cepelova, Yafan Wang
+Veronika Kudermetova, Alison Riske Amritraj
+Su Wei Hsieh, Ajla Tomljanovic
+Timea Bacsinszky, Danielle Collins
+Misaki Doi, Yulia Putintseva
+Magda Linette, Evgeniya Rodina
+Aryna Sabalenka, Sofia Kenin
+Katie Boulter, Maria Sakkari
+Barbora Krejcikova, Kateryna Baindl
+Polona Hercog, Lara Arruabarrena
+Karolina Pliskova, Varvara Lepchenko
+Caroline Garcia, Yuxuan Zhang
+Petra Martic, Fangzhou Liu
+Elise Mertens, Jana Cepelova
+Su Wei Hsieh, Veronika Kudermetova
+Timea Bacsinszky, Misaki Doi
+Aryna Sabalenka, Magda Linette
+Katie Boulter, Barbora Krejcikova
+Karolina Pliskova, Polona Hercog
+Caroline Garcia, Petra Martic
+Su Wei Hsieh, Elise Mertens
+Timea Bacsinszky, Aryna Sabalenka
+Karolina Pliskova, Katie Boulter
+Caroline Garcia, Su Wei Hsieh
+Karolina Pliskova, Timea Bacsinszky
+Caroline Garcia, Karolina Pliskova
+Qiang Wang, Ankita Raina
+Sabina Sharipova, Ayano Shimizu
+Fangzhou Liu, Hiroko Kuwata
+Xinyun Han, Junri Namigata
+Magda Linette, Su Jeong Jang
+Eri Hozumi, Jacqueline Cako
+En Shuo Liang, Wushuang Zheng
+Peangtarn Plipuech, Vitalia Diatchenko
+Saisai Zheng, Miyu Kato
+Karman Thandi, Jia Jing Lu
+Fang Ying Xun, Momoko Kobori
+Jing Jing Lu, Kurumi Nara
+Lin Zhu, Ying Ying Duan
+Tereza Martincova, Yuxuan Zhang
+Margarita Gasparyan, Shilin Xu
+Shuai Zhang, Sabine Lisicki
+Qiang Wang, Sabina Sharipova
+Fangzhou Liu, Xinyun Han
+Magda Linette, Eri Hozumi
+En Shuo Liang, Peangtarn Plipuech
+Saisai Zheng, Karman Thandi
+Fang Ying Xun, Jing Jing Lu
+Lin Zhu, Tereza Martincova
+Shuai Zhang, Margarita Gasparyan
+Qiang Wang, Fangzhou Liu
+Magda Linette, En Shuo Liang
+Saisai Zheng, Fang Ying Xun
+Lin Zhu, Shuai Zhang
+Qiang Wang, Magda Linette
+Saisai Zheng, Lin Zhu
+Qiang Wang, Saisai Zheng
+Mihaela Buzarnescu, Danka Kovinic
+Tamara Zidansek, Rebecca Peterson
+Yafan Wang, Miriam Bianca Bulgaru
+Pauline Parmentier, Alexandra Dulgheru
+Petra Martic, Rebecca Sramkova
+Claire Liu, Andreea Amalia Rosca
+Laura Siegemund, Jasmine Paolini
+Anna Karolina Schmiedlova, Ana Bogdan
+Polona Hercog, Elena Gabriela Ruse
+Irina Bara, Viktoriya Tomova
+Vera Zvonareva, Ekaterina Alexandrova
+Ons Jabeur, Irina Camelia Begu
+Sorana Cirstea, Cagla Buyukakcay
+Maryna Zanevska, Ysaline Bonaventure
+Arantxa Rus, Mariana Duque Marino
+Anastasija Sevastova, Dalila Jakupovic
+Mihaela Buzarnescu, Tamara Zidansek
+Yafan Wang, Pauline Parmentier
+Petra Martic, Claire Liu
+Laura Siegemund, Anna Karolina Schmiedlova
+Polona Hercog, Irina Bara
+Ons Jabeur, Vera Zvonareva
+Sorana Cirstea, Maryna Zanevska
+Anastasija Sevastova, Arantxa Rus
+Mihaela Buzarnescu, Yafan Wang
+Petra Martic, Laura Siegemund
+Polona Hercog, Ons Jabeur
+Anastasija Sevastova, Sorana Cirstea
+Petra Martic, Mihaela Buzarnescu
+Anastasija Sevastova, Polona Hercog
+Anastasija Sevastova, Petra Martic
+Magdalena Rybarikova, Elena Gabriela Ruse
+Mona Barthel, Katie Swan
+Vera Lapko, Jana Fett
+Donna Vekic, Gabriella Taylor
+Johanna Konta, Kurumi Nara
+Heather Watson, Danielle Lao
+Magdalena Frech, Saisai Zheng
+Dalila Jakupovic, Camila Giorgi
+Mihaela Buzarnescu, Veronica Cepede Royg
+Irina Falconi, Arina Rodionova
+Denisa Allertova, Kristie Ahn
+Naomi Osaka, Sachia Vickery
+Samantha Stosur, Zarina Diyas
+Katie Boulter, Yanina Wickmayer
+Ying Ying Duan, Valeria Savinykh
+Ashleigh Barty, Stefanie Voegele
+Mona Barthel, Magdalena Rybarikova
+Donna Vekic, Vera Lapko
+Johanna Konta, Heather Watson
+Dalila Jakupovic, Magdalena Frech
+Mihaela Buzarnescu, Irina Falconi
+Naomi Osaka, Denisa Allertova
+Katie Boulter, Samantha Stosur
+Ashleigh Barty, Ying Ying Duan
+Donna Vekic, Mona Barthel
+Johanna Konta, Dalila Jakupovic
+Naomi Osaka, Mihaela Buzarnescu
+Ashleigh Barty, Katie Boulter
+Johanna Konta, Donna Vekic
+Ashleigh Barty, Naomi Osaka
+Ashleigh Barty, Johanna Konta
+Anett Kontaveit, Julia Goerges
+Elise Mertens, Anett Kontaveit
+Julia Goerges, Elise Mertens
+Ashleigh Barty, Caroline Garcia
+Aryna Sabalenka, Ashleigh Barty
+Caroline Garcia, Aryna Sabalenka
+Garbine Muguruza, Shuai Zhang
+Anastasija Sevastova, Shuai Zhang
+Garbine Muguruza, Anastasija Sevastova
+Qiang Wang, Madison Keys
+Daria Kasatkina, Qiang Wang
+Madison Keys, Daria Kasatkina
+Qiang Wang, Garbine Muguruza
+Ashleigh Barty, Julia Goerges
+Ashleigh Barty, Qiang Wang
+Petra Kvitova, Tereza Smitkova
+Natalia Vikhlyantseva, Carina Witthoeft
+Ekaterina Alexandrova, Richel Hogenkamp
+Katerina Siniakova, Andrea Petkovic
+Jasmine Paolini, Daria Kasatkina
+Anna Karolina Schmiedlova, Heather Watson
+Elena Gabriela Ruse, Bernarda Pera
+Shuai Zhang, Stefanie Voegele
+Camila Giorgi, Barbora Strycova
+Tamara Korpatsch, Oceane Dodin
+Denisa Allertova, Patty Schnyder
+Samantha Stosur, Daria Saville
+Mihaela Buzarnescu, Beatriz Haddad Maia
+Antonia Lottner, Mona Barthel
+Qiang Wang, Viktoria Hruncakova
+Kristyna Pliskova, Aliaksandra Sasnovich
+Petra Kvitova, Natalia Vikhlyantseva
+Katerina Siniakova, Ekaterina Alexandrova
+Jasmine Paolini, Anna Karolina Schmiedlova
+Shuai Zhang, Elena Gabriela Ruse
+Camila Giorgi, Tamara Korpatsch
+Samantha Stosur, Denisa Allertova
+Mihaela Buzarnescu, Antonia Lottner
+Kristyna Pliskova, Qiang Wang
+Petra Kvitova, Katerina Siniakova
+Shuai Zhang, Jasmine Paolini
+Camila Giorgi, Samantha Stosur
+Mihaela Buzarnescu, Kristyna Pliskova
+Petra Kvitova, Shuai Zhang
+Mihaela Buzarnescu, Camila Giorgi
+Petra Kvitova, Mihaela Buzarnescu
+Vera Zvonareva, Kiki Bertens
+Irina Camelia Begu, Andrea Petkovic
+Petra Kvitova, Elena Vesnina
+Elena Rybakina, Timea Bacsinszky
+Roberta Vinci, Tereza Martincova
+Julia Goerges, Maria Sakkari
+Kate Makarova, Anastasia Pavlyuchenkova
+Katerina Siniakova, Donna Vekic
+Dominika Cibulkova, Sorana Cirstea
+Daria Kasatkina, Viktoria Hruncakova
+Alize Cornet, Mona Barthel
+Anastasia Potapova, Tatjana Maria
+Jelena Ostapenko, Vera Zvonareva
+Petra Kvitova, Irina Camelia Begu
+Elena Rybakina, Caroline Garcia
+Julia Goerges, Roberta Vinci
+Katerina Siniakova, Kate Makarova
+Kristina Mladenovic, Dominika Cibulkova
+Daria Kasatkina, Alize Cornet
+Caroline Wozniacki, Anastasia Potapova
+Petra Kvitova, Jelena Ostapenko
+Julia Goerges, Elena Rybakina
+Kristina Mladenovic, Katerina Siniakova
+Daria Kasatkina, Caroline Wozniacki
+Petra Kvitova, Julia Goerges
+Kristina Mladenovic, Daria Kasatkina
+Petra Kvitova, Kristina Mladenovic
+Alison Riske Amritraj, Angelique Kerber
+Polona Hercog, Viktoria Hruncakova
+Samantha Stosur, Marketa Vondrousova
+Lara Arruabarrena, Carla Suarez Navarro
+Anastasija Sevastova, Svetlana Kuznetsova
+Antonia Lottner, Aliaksandra Sasnovich
+Ajla Tomljanovic, Magda Linette
+Rebecca Peterson, Danielle Collins
+Lucie Safarova, Marta Kostyuk
+Victoria Azarenka, Stefanie Voegele
+Carina Witthoeft, Francesca Schiavone
+Tatjana Maria, Anett Kontaveit
+Alison Van Uytvanck, Aryna Sabalenka
+Sofia Kenin, Kateryna Baindl
+Johanna Larsson, Sorana Cirstea
+Caroline Garcia, Su Wei Hsieh
+Alison Riske Amritraj, Polona Hercog
+Samantha Stosur, Lara Arruabarrena
+Anastasija Sevastova, Antonia Lottner
+Ajla Tomljanovic, Rebecca Peterson
+Lucie Safarova, Victoria Azarenka
+Tatjana Maria, Carina Witthoeft
+Sofia Kenin, Alison Van Uytvanck
+Caroline Garcia, Johanna Larsson
+Samantha Stosur, Alison Riske Amritraj
+Anastasija Sevastova, Ajla Tomljanovic
+Tatjana Maria, Lucie Safarova
+Sofia Kenin, Caroline Garcia
+Anastasija Sevastova, Samantha Stosur
+Tatjana Maria, Sofia Kenin
+Tatjana Maria, Anastasija Sevastova
+Johanna Larsson, Leonie Kung
+Mandy Minella, Tereza Martincova
+Sara Sorribes Tormo, Valentyna Ivakhnenko
+Tamara Korpatsch, Stefanie Voegele
+Evgeniya Rodina, Carina Witthoeft
+Mona Barthel, Natalia Vikhlyantseva
+Elitsa Kostova, Anna Kalinskaya
+Marketa Vondrousova, Lara Arruabarrena
+Viktorija Golubic, Antonia Lottner
+Eugenie Bouchard, Timea Bacsinszky
+Veronika Kudermetova, Jil Teichmann
+Viktoria Hruncakova, Martina Trevisan
+Samantha Stosur, Francesca Schiavone
+Patty Schnyder, Kathinka Von Deichmann
+Conny Perrin, Saisai Zheng
+Alize Cornet, Silvia Soler Espinosa
+Mandy Minella, Johanna Larsson
+Sara Sorribes Tormo, Tamara Korpatsch
+Evgeniya Rodina, Mona Barthel
+Marketa Vondrousova, Elitsa Kostova
+Eugenie Bouchard, Viktorija Golubic
+Veronika Kudermetova, Viktoria Hruncakova
+Samantha Stosur, Patty Schnyder
+Alize Cornet, Conny Perrin
+Mandy Minella, Sara Sorribes Tormo
+Marketa Vondrousova, Evgeniya Rodina
+Eugenie Bouchard, Veronika Kudermetova
+Alize Cornet, Samantha Stosur
+Mandy Minella, Marketa Vondrousova
+Alize Cornet, Eugenie Bouchard
+Alize Cornet, Mandy Minella
+Kateryna Baindl, Shuai Zhang
+Ying Ying Duan, Miyu Kato
+Kai Chen Chang, Ya Hsuan Lee
+Yulia Putintseva, Junri Namigata
+Nao Hibino, Samantha Stosur
+Sabine Lisicki, Yuxuan Zhang
+Monica Niculescu, Ons Jabeur
+Zarina Diyas, Anna Blinkova
+Magda Linette, Xinyun Han
+Johanna Larsson, Jing Jing Lu
+Dalila Jakupovic, Lizette Cabrera
+Timea Babos, Arina Rodionova
+Pauline Parmentier, Kurumi Nara
+Yafan Wang, Risa Ozaki
+Eugenie Bouchard, Lin Zhu
+Ana Bogdan, Shuai Peng
+Kateryna Baindl, Ying Ying Duan
+Yulia Putintseva, Kai Chen Chang
+Sabine Lisicki, Nao Hibino
+Monica Niculescu, Zarina Diyas
+Magda Linette, Johanna Larsson
+Timea Babos, Dalila Jakupovic
+Yafan Wang, Pauline Parmentier
+Eugenie Bouchard, Ana Bogdan
+Kateryna Baindl, Yulia Putintseva
+Sabine Lisicki, Monica Niculescu
+Timea Babos, Magda Linette
+Yafan Wang, Eugenie Bouchard
+Kateryna Baindl, Sabine Lisicki
+Timea Babos, Yafan Wang
+Timea Babos, Kateryna Baindl
+Shuai Zhang, Arina Rodionova
+Jana Cepelova, Carina Witthoeft
+Alison Van Uytvanck, Oceane Dodin
+Mihaela Buzarnescu, Lara Arruabarrena
+Viktoria Hruncakova, Sorana Cirstea
+Sabine Lisicki, Pauline Parmentier
+Petra Martic, Antonia Lottner
+Aliaksandra Sasnovich, Roberta Vinci
+Donna Vekic, Panna Udvardy
+Ysaline Bonaventure, Sara Sorribes Tormo
+Mona Barthel, Kateryna Baindl
+Timea Babos, Tatjana Maria
+Aleksandra Krunic, Georgina Garcia Perez
+Johanna Larsson, Magdalena Frech
+Kirsten Flipkens, Monica Niculescu
+Dominika Cibulkova, Fanny Stollar
+Shuai Zhang, Jana Cepelova
+Alison Van Uytvanck, Mihaela Buzarnescu
+Viktoria Hruncakova, Sabine Lisicki
+Petra Martic, Aliaksandra Sasnovich
+Ysaline Bonaventure, Donna Vekic
+Mona Barthel, Timea Babos
+Johanna Larsson, Aleksandra Krunic
+Dominika Cibulkova, Kirsten Flipkens
+Alison Van Uytvanck, Shuai Zhang
+Viktoria Hruncakova, Petra Martic
+Mona Barthel, Ysaline Bonaventure
+Dominika Cibulkova, Johanna Larsson
+Alison Van Uytvanck, Viktoria Hruncakova
+Dominika Cibulkova, Mona Barthel
+Alison Van Uytvanck, Dominika Cibulkova
+Elise Mertens, Mandy Minella
+Marketa Vondrousova, Yulia Putintseva
+Donna Vekic, Alexandra Cadantu Ignatik
+Mona Barthel, Svetlana Kuznetsova
+Vera Lapko, Anett Kontaveit
+Danka Kovinic, Viktorija Golubic
+Kirsten Flipkens, Carina Witthoeft
+Aliaksandra Sasnovich, Richel Hogenkamp
+Aryna Sabalenka, Mihaela Buzarnescu
+Polona Hercog, Su Wei Hsieh
+Camila Giorgi, Kristyna Pliskova
+Alison Van Uytvanck, Oceane Dodin
+Alize Cornet, Jil Teichmann
+Stefanie Voegele, Magdalena Frech
+Kathinka Von Deichmann, Laura Siegemund
+Tamara Korpatsch, Kristina Mladenovic
+Elise Mertens, Marketa Vondrousova
+Mona Barthel, Donna Vekic
+Vera Lapko, Danka Kovinic
+Kirsten Flipkens, Aliaksandra Sasnovich
+Aryna Sabalenka, Polona Hercog
+Camila Giorgi, Alison Van Uytvanck
+Stefanie Voegele, Alize Cornet
+Tamara Korpatsch, Kathinka Von Deichmann
+Elise Mertens, Mona Barthel
+Vera Lapko, Kirsten Flipkens
+Aryna Sabalenka, Camila Giorgi
+Stefanie Voegele, Tamara Korpatsch
+Elise Mertens, Vera Lapko
+Aryna Sabalenka, Stefanie Voegele
+Elise Mertens, Aryna Sabalenka
+Daria Kasatkina, Anna Kalinskaya
+Tamara Zidansek, Antonia Lottner
+Kateryna Baindl, Martina Trevisan
+Laura Siegemund, Alize Cornet
+Kristyna Pliskova, Katerina Siniakova
+Anastasia Potapova, Viktoriya Tomova
+Valentyna Ivakhnenko, Danka Kovinic
+Varvara Flink, Valentini Grammatikopoulou
+Aliaksandra Sasnovich, Johanna Larsson
+Evgeniya Rodina, Paula Badosa
+Irina Bara, Ekaterina Alexandrova
+Anastasija Sevastova, Pauline Parmentier
+Kaia Kanepi, Vera Zvonareva
+Olga Danilovic, Anna Karolina Schmiedlova
+Natalia Vikhlyantseva, Deborah Chiesa
+Julia Goerges, Viktoria Hruncakova
+Tamara Zidansek, Daria Kasatkina
+Laura Siegemund, Kateryna Baindl
+Anastasia Potapova, Kristyna Pliskova
+Valentyna Ivakhnenko, Varvara Flink
+Aliaksandra Sasnovich, Evgeniya Rodina
+Anastasija Sevastova, Irina Bara
+Olga Danilovic, Kaia Kanepi
+Julia Goerges, Natalia Vikhlyantseva
+Tamara Zidansek, Laura Siegemund
+Anastasia Potapova, Valentyna Ivakhnenko
+Aliaksandra Sasnovich, Anastasija Sevastova
+Olga Danilovic, Julia Goerges
+Anastasia Potapova, Tamara Zidansek
+Olga Danilovic, Aliaksandra Sasnovich
+Olga Danilovic, Anastasia Potapova
+Simona Halep, Alison Riske Amritraj
+Taylor Townsend, Myrtille Georges
+Bethanie Mattek Sands, Johanna Larsson
+Andrea Petkovic, Kristina Mladenovic
+Daria Saville, Sorana Cirstea
+Bernarda Pera, Elena Vesnina
+Heather Watson, Oceane Dodin
+Elise Mertens, Varvara Lepchenko
+Angelique Kerber, Mona Barthel
+Ana Bogdan, Marketa Vondrousova
+Aliaksandra Sasnovich, Denisa Allertova
+Kiki Bertens, Aryna Sabalenka
+Shuai Zhang, Kristina Kucova
+Irina Camelia Begu, Anna Karolina Schmiedlova
+Shuai Peng, Aleksandra Krunic
+Caroline Garcia, Ying Ying Duan
+Garbine Muguruza, Svetlana Kuznetsova
+Fiona Ferro, Carina Witthoeft
+Samantha Stosur, Yanina Wickmayer
+Anastasia Pavlyuchenkova, Polona Hercog
+Magdalena Rybarikova, Luksika Kumkhum
+Belinda Bencic, Deborah Chiesa
+Lesia Tsurenko, Stefanie Voegele
+Coco Vandeweghe, Laura Siegemund
+Julia Goerges, Dominika Cibulkova
+Alison Van Uytvanck, Isabelle Wallace
+Serena Williams, Kristyna Pliskova
+Ashleigh Barty, Natalia Vikhlyantseva
+Maria Sharapova, Richel Hogenkamp
+Donna Vekic, Kateryna Bondarenko
+Lucie Safarova, Jessika Ponchet
+Karolina Pliskova, Barbora Krejcikova
+Kateryna Baindl, Jelena Ostapenko
+Katerina Siniakova, Victoria Azarenka
+Kate Makarova, Saisai Zheng
+Barbora Strycova, Kurumi Nara
+Yulia Putintseva, Johanna Konta
+Jennifer Brady, Amandine Hesse
+Petra Martic, Yafan Wang
+Qiang Wang, Venus Williams
+Madison Keys, Sachia Vickery
+Caroline Dolehide, Viktorija Golubic
+Zarina Diyas, Magda Linette
+Naomi Osaka, Sofia Kenin
+Mihaela Buzarnescu, Vania King
+Rebecca Peterson, Su Wei Hsieh
+Viktoria Hruncakova, Francesca Schiavone
+Elina Svitolina, Ajla Tomljanovic
+Petra Kvitova, Veronica Cepede Royg
+Lara Arruabarrena, Timea Babos
+Alexandra Dulgheru, Christina Mchale
+Anett Kontaveit, Madison Brengle
+Mariana Duque Marino, Anastasija Sevastova
+Camila Giorgi, Grace Min
+Magdalena Frech, Ekaterina Alexandrova
+Sloane Stephens, Arantxa Rus
+Daria Kasatkina, Kaia Kanepi
+Kirsten Flipkens, Tatjana Maria
+Maria Sakkari, Mandy Minella
+Carla Suarez Navarro, Ana Konjuh
+Alize Cornet, Sara Errani
+Pauline Parmentier, Chloe Paquet
+Georgina Garcia Perez, Dalila Jakupovic
+Caroline Wozniacki, Danielle Collins
+Simona Halep, Taylor Townsend
+Andrea Petkovic, Bethanie Mattek Sands
+Daria Saville, Bernarda Pera
+Elise Mertens, Heather Watson
+Angelique Kerber, Ana Bogdan
+Kiki Bertens, Aliaksandra Sasnovich
+Irina Camelia Begu, Shuai Zhang
+Caroline Garcia, Shuai Peng
+Garbine Muguruza, Fiona Ferro
+Samantha Stosur, Anastasia Pavlyuchenkova
+Magdalena Rybarikova, Belinda Bencic
+Lesia Tsurenko, Coco Vandeweghe
+Julia Goerges, Alison Van Uytvanck
+Serena Williams, Ashleigh Barty
+Maria Sharapova, Donna Vekic
+Karolina Pliskova, Lucie Safarova
+Katerina Siniakova, Kateryna Baindl
+Barbora Strycova, Kate Makarova
+Yulia Putintseva, Jennifer Brady
+Qiang Wang, Petra Martic
+Madison Keys, Caroline Dolehide
+Naomi Osaka, Zarina Diyas
+Mihaela Buzarnescu, Rebecca Peterson
+Elina Svitolina, Viktoria Hruncakova
+Petra Kvitova, Lara Arruabarrena
+Anett Kontaveit, Alexandra Dulgheru
+Camila Giorgi, Mariana Duque Marino
+Sloane Stephens, Magdalena Frech
+Daria Kasatkina, Kirsten Flipkens
+Maria Sakkari, Carla Suarez Navarro
+Pauline Parmentier, Alize Cornet
+Caroline Wozniacki, Georgina Garcia Perez
+Simona Halep, Andrea Petkovic
+Elise Mertens, Daria Saville
+Angelique Kerber, Kiki Bertens
+Caroline Garcia, Irina Camelia Begu
+Garbine Muguruza, Samantha Stosur
+Lesia Tsurenko, Magdalena Rybarikova
+Serena Williams, Julia Goerges
+Maria Sharapova, Karolina Pliskova
+Barbora Strycova, Katerina Siniakova
+Yulia Putintseva, Qiang Wang
+Madison Keys, Naomi Osaka
+Mihaela Buzarnescu, Elina Svitolina
+Anett Kontaveit, Petra Kvitova
+Sloane Stephens, Camila Giorgi
+Daria Kasatkina, Maria Sakkari
+Caroline Wozniacki, Pauline Parmentier
+Simona Halep, Elise Mertens
+Angelique Kerber, Caroline Garcia
+Garbine Muguruza, Lesia Tsurenko
+Maria Sharapova, Serena Williams
+Yulia Putintseva, Barbora Strycova
+Madison Keys, Mihaela Buzarnescu
+Sloane Stephens, Anett Kontaveit
+Daria Kasatkina, Caroline Wozniacki
+Simona Halep, Angelique Kerber
+Garbine Muguruza, Maria Sharapova
+Madison Keys, Yulia Putintseva
+Sloane Stephens, Daria Kasatkina
+Simona Halep, Garbine Muguruza
+Sloane Stephens, Madison Keys
+Simona Halep, Sloane Stephens
+Simona Halep, Kurumi Nara
+Saisai Zheng, Qiang Wang
+Lara Arruabarrena, Ana Bogdan
+Su Wei Hsieh, Anastasia Pavlyuchenkova
+Johanna Konta, Natalia Vikhlyantseva
+Dominika Cibulkova, Alize Cornet
+Sachia Vickery, Marketa Vondrousova
+Elise Mertens, Danielle Collins
+Jelena Ostapenko, Katy Dunne
+Kirsten Flipkens, Heather Watson
+Sofia Kenin, Maria Sakkari
+Vitalia Diatchenko, Maria Sharapova
+Daria Saville, Caroline Dolehide
+Samantha Stosur, Shuai Peng
+Taylor Townsend, Pauline Parmentier
+Aliaksandra Sasnovich, Petra Kvitova
+Garbine Muguruza, Naomi Broady
+Alison Van Uytvanck, Polona Hercog
+Jennifer Brady, Kateryna Baindl
+Anett Kontaveit, Denisa Allertova
+Ashleigh Barty, Stefanie Voegele
+Eugenie Bouchard, Gabriella Taylor
+Yulia Putintseva, Magda Linette
+Daria Kasatkina, Jana Fett
+Angelique Kerber, Vera Zvonareva
+Claire Liu, Ana Konjuh
+Katie Boulter, Veronica Cepede Royg
+Naomi Osaka, Monica Niculescu
+Carla Suarez Navarro, Carina Witthoeft
+Sara Sorribes Tormo, Kaia Kanepi
+Alison Riske Amritraj, Mariana Duque Marino
+Belinda Bencic, Caroline Garcia
+Karolina Pliskova, Harriet Dart
+Victoria Azarenka, Ekaterina Alexandrova
+Katie Swan, Irina Camelia Begu
+Mihaela Buzarnescu, Aryna Sabalenka
+Kiki Bertens, Barbora Stefkova
+Anna Blinkova, Yafan Wang
+Alexandra Dulgheru, Kristyna Pliskova
+Venus Williams, Johanna Larsson
+Julia Goerges, Monica Puig
+Vera Lapko, Christina Mchale
+Lesia Tsurenko, Timea Babos
+Barbora Strycova, Svetlana Kuznetsova
+Andrea Petkovic, Shuai Zhang
+Yanina Wickmayer, Mona Barthel
+Rebecca Peterson, Viktoria Hruncakova
+Donna Vekic, Sloane Stephens
+Tatjana Maria, Elina Svitolina
+Kristina Mladenovic, Anna Karolina Schmiedlova
+Viktoriya Tomova, Tereza Smitkova
+Serena Williams, Arantxa Rus
+Sorana Cirstea, Magdalena Rybarikova
+Evgeniya Rodina, Antonia Lottner
+Luksika Kumkhum, Bernarda Pera
+Madison Keys, Ajla Tomljanovic
+Katerina Siniakova, Coco Vandeweghe
+Ons Jabeur, Viktorija Golubic
+Madison Brengle, Aleksandra Krunic
+Camila Giorgi, Anastasija Sevastova
+Agnieszka Radwanska, Elena Gabriela Ruse
+Lucie Safarova, Kateryna Bondarenko
+Kate Makarova, Petra Martic
+Caroline Wozniacki, Varvara Lepchenko
+Simona Halep, Saisai Zheng
+Su Wei Hsieh, Lara Arruabarrena
+Dominika Cibulkova, Johanna Konta
+Elise Mertens, Sachia Vickery
+Jelena Ostapenko, Kirsten Flipkens
+Vitalia Diatchenko, Sofia Kenin
+Daria Saville, Samantha Stosur
+Aliaksandra Sasnovich, Taylor Townsend
+Alison Van Uytvanck, Garbine Muguruza
+Anett Kontaveit, Jennifer Brady
+Ashleigh Barty, Eugenie Bouchard
+Daria Kasatkina, Yulia Putintseva
+Angelique Kerber, Claire Liu
+Naomi Osaka, Katie Boulter
+Carla Suarez Navarro, Sara Sorribes Tormo
+Belinda Bencic, Alison Riske Amritraj
+Karolina Pliskova, Victoria Azarenka
+Mihaela Buzarnescu, Katie Swan
+Kiki Bertens, Anna Blinkova
+Venus Williams, Alexandra Dulgheru
+Julia Goerges, Vera Lapko
+Barbora Strycova, Lesia Tsurenko
+Yanina Wickmayer, Andrea Petkovic
+Donna Vekic, Rebecca Peterson
+Kristina Mladenovic, Tatjana Maria
+Serena Williams, Viktoriya Tomova
+Evgeniya Rodina, Sorana Cirstea
+Madison Keys, Luksika Kumkhum
+Katerina Siniakova, Ons Jabeur
+Camila Giorgi, Madison Brengle
+Lucie Safarova, Agnieszka Radwanska
+Kate Makarova, Caroline Wozniacki
+Su Wei Hsieh, Simona Halep
+Dominika Cibulkova, Elise Mertens
+Jelena Ostapenko, Vitalia Diatchenko
+Aliaksandra Sasnovich, Daria Saville
+Alison Van Uytvanck, Anett Kontaveit
+Daria Kasatkina, Ashleigh Barty
+Angelique Kerber, Naomi Osaka
+Belinda Bencic, Carla Suarez Navarro
+Karolina Pliskova, Mihaela Buzarnescu
+Kiki Bertens, Venus Williams
+Julia Goerges, Barbora Strycova
+Donna Vekic, Yanina Wickmayer
+Serena Williams, Kristina Mladenovic
+Evgeniya Rodina, Madison Keys
+Camila Giorgi, Katerina Siniakova
+Kate Makarova, Lucie Safarova
+Dominika Cibulkova, Su Wei Hsieh
+Jelena Ostapenko, Aliaksandra Sasnovich
+Daria Kasatkina, Alison Van Uytvanck
+Angelique Kerber, Belinda Bencic
+Kiki Bertens, Karolina Pliskova
+Julia Goerges, Donna Vekic
+Serena Williams, Evgeniya Rodina
+Camila Giorgi, Kate Makarova
+Jelena Ostapenko, Dominika Cibulkova
+Angelique Kerber, Daria Kasatkina
+Julia Goerges, Kiki Bertens
+Serena Williams, Camila Giorgi
+Angelique Kerber, Jelena Ostapenko
+Serena Williams, Julia Goerges
+Angelique Kerber, Serena Williams
+Kaia Kanepi, Simona Halep
+Jil Teichmann, Dalila Jakupovic
+Vania King, Natalia Vikhlyantseva
+Rebecca Peterson, Anastasia Pavlyuchenkova
+Serena Williams, Magda Linette
+Carina Witthoeft, Caroline Dolehide
+Camila Giorgi, Whitney Osuigwe
+Venus Williams, Svetlana Kuznetsova
+Garbine Muguruza, Shuai Zhang
+Karolina Muchova, Dayana Yastremska
+Lucie Safarova, Petra Martic
+Ashleigh Barty, Ons Jabeur
+Maria Sakkari, Asia Muhammad
+Sofia Kenin, Madison Brengle
+Ana Bogdan, Marie Bouzkova
+Karolina Pliskova, Zarina Diyas
+Sloane Stephens, Evgeniya Rodina
+Anhelina Kalinina, Kathinka Von Deichmann
+Victoria Azarenka, Viktoria Hruncakova
+Daria Saville, Sara Sorribes Tormo
+Barbora Strycova, Danielle Lao
+Lara Arruabarrena, Kateryna Baindl
+Vera Lapko, Kateryna Bondarenko
+Elise Mertens, Kurumi Nara
+Julia Goerges, Anna Kalinskaya
+Kate Makarova, Heather Watson
+Claire Liu, Polona Hercog
+Anastasija Sevastova, Donna Vekic
+Qiang Wang, Magdalena Rybarikova
+Irina Camelia Begu, Jennifer Brady
+Tatjana Maria, Agnieszka Radwanska
+Elina Svitolina, Sachia Vickery
+Caroline Garcia, Johanna Konta
+Monica Puig, Stefanie Voegele
+Kristina Mladenovic, Tamara Zidansek
+Carla Suarez Navarro, Nicole Gibbs
+Maria Sharapova, Patty Schnyder
+Sorana Cirstea, Alison Riske Amritraj
+Taylor Townsend, Amanda Anisimova
+Jelena Ostapenko, Andrea Petkovic
+Madison Keys, Pauline Parmentier
+Bernarda Pera, Yulia Putintseva
+Aleksandra Krunic, Timea Bacsinszky
+Kirsten Flipkens, Coco Vandeweghe
+Dominika Cibulkova, Arantxa Rus
+Su Wei Hsieh, Ekaterina Alexandrova
+Johanna Larsson, Alize Cornet
+Angelique Kerber, Margarita Gasparyan
+Petra Kvitova, Yanina Wickmayer
+Yafan Wang, Anna Karolina Schmiedlova
+Vera Zvonareva, Anna Blinkova
+Aryna Sabalenka, Danielle Collins
+Naomi Osaka, Laura Siegemund
+Julia Glushko, Monica Niculescu
+Aliaksandra Sasnovich, Belinda Bencic
+Daria Kasatkina, Timea Babos
+Kiki Bertens, Kristyna Pliskova
+Francesca Di Lorenzo, Christina Mchale
+Eugenie Bouchard, Harmony Tan
+Marketa Vondrousova, Mona Barthel
+Katerina Siniakova, Anett Kontaveit
+Ajla Tomljanovic, Lizette Cabrera
+Lesia Tsurenko, Alison Van Uytvanck
+Caroline Wozniacki, Samantha Stosur
+Kaia Kanepi, Jil Teichmann
+Rebecca Peterson, Vania King
+Serena Williams, Carina Witthoeft
+Venus Williams, Camila Giorgi
+Karolina Muchova, Garbine Muguruza
+Ashleigh Barty, Lucie Safarova
+Sofia Kenin, Maria Sakkari
+Karolina Pliskova, Ana Bogdan
+Sloane Stephens, Anhelina Kalinina
+Victoria Azarenka, Daria Saville
+Barbora Strycova, Lara Arruabarrena
+Elise Mertens, Vera Lapko
+Kate Makarova, Julia Goerges
+Anastasija Sevastova, Claire Liu
+Qiang Wang, Irina Camelia Begu
+Elina Svitolina, Tatjana Maria
+Caroline Garcia, Monica Puig
+Carla Suarez Navarro, Kristina Mladenovic
+Maria Sharapova, Sorana Cirstea
+Jelena Ostapenko, Taylor Townsend
+Madison Keys, Bernarda Pera
+Aleksandra Krunic, Kirsten Flipkens
+Dominika Cibulkova, Su Wei Hsieh
+Angelique Kerber, Johanna Larsson
+Petra Kvitova, Yafan Wang
+Aryna Sabalenka, Vera Zvonareva
+Naomi Osaka, Julia Glushko
+Aliaksandra Sasnovich, Daria Kasatkina
+Kiki Bertens, Francesca Di Lorenzo
+Marketa Vondrousova, Eugenie Bouchard
+Katerina Siniakova, Ajla Tomljanovic
+Lesia Tsurenko, Caroline Wozniacki
+Kaia Kanepi, Rebecca Peterson
+Serena Williams, Venus Williams
+Ashleigh Barty, Karolina Muchova
+Karolina Pliskova, Sofia Kenin
+Sloane Stephens, Victoria Azarenka
+Elise Mertens, Barbora Strycova
+Anastasija Sevastova, Kate Makarova
+Elina Svitolina, Qiang Wang
+Carla Suarez Navarro, Caroline Garcia
+Maria Sharapova, Jelena Ostapenko
+Madison Keys, Aleksandra Krunic
+Dominika Cibulkova, Angelique Kerber
+Aryna Sabalenka, Petra Kvitova
+Naomi Osaka, Aliaksandra Sasnovich
+Marketa Vondrousova, Kiki Bertens
+Lesia Tsurenko, Katerina Siniakova
+Serena Williams, Kaia Kanepi
+Karolina Pliskova, Ashleigh Barty
+Sloane Stephens, Elise Mertens
+Anastasija Sevastova, Elina Svitolina
+Carla Suarez Navarro, Maria Sharapova
+Madison Keys, Dominika Cibulkova
+Naomi Osaka, Aryna Sabalenka
+Lesia Tsurenko, Marketa Vondrousova
+Serena Williams, Karolina Pliskova
+Anastasija Sevastova, Sloane Stephens
+Madison Keys, Carla Suarez Navarro
+Naomi Osaka, Lesia Tsurenko
+Serena Williams, Anastasija Sevastova
+Naomi Osaka, Madison Keys
+Naomi Osaka, Serena Williams
+Simona Halep, Destanee Aiava
+Eugenie Bouchard, Oceane Dodin
+Lauren Davis, Jana Cepelova
+Andrea Petkovic, Petra Kvitova
+Ashleigh Barty, Aryna Sabalenka
+Camila Giorgi, Anna Kalinskaya
+Naomi Osaka, Kristina Kucova
+Elena Vesnina, Ons Jabeur
+Johanna Konta, Madison Brengle
+Bernarda Pera, Anna Blinkova
+Lara Arruabarrena, Richel Hogenkamp
+Barbora Strycova, Kristie Ahn
+Lucie Safarova, Ajla Tomljanovic
+Sorana Cirstea, Zarina Diyas
+Beatriz Haddad Maia, Lizette Cabrera
+Karolina Pliskova, Veronica Cepede Royg
+Garbine Muguruza, Jessika Ponchet
+Su Wei Hsieh, Lin Zhu
+Lesia Tsurenko, Natalia Vikhlyantseva
+Agnieszka Radwanska, Kristyna Pliskova
+Angelique Kerber, Anna Lena Friedsam
+Donna Vekic, Nao Hibino
+Maria Sharapova, Tatjana Maria
+Anastasija Sevastova, Varvara Lepchenko
+Ana Bogdan, Kristina Mladenovic
+Yulia Putintseva, Heather Watson
+Ekaterina Alexandrova, Polona Hercog
+Madison Keys, Qiang Wang
+Mirjana Lucic, Shelby Rogers
+Aliaksandra Sasnovich, Christina Mchale
+Marketa Vondrousova, Kurumi Nara
+Caroline Garcia, Carina Witthoeft
+Belinda Bencic, Venus Williams
+Luksika Kumkhum, Johanna Larsson
+Petra Martic, Alison Van Uytvanck
+Irina Camelia Begu, Kate Makarova
+Daria Saville, Irina Falconi
+Elise Mertens, Viktoria Hruncakova
+Alize Cornet, Xin Yu Wang
+Julia Goerges, Sofia Kenin
+Shuai Zhang, Sloane Stephens
+Denisa Allertova, Pauline Parmentier
+Magda Linette, Jennifer Brady
+Daria Kasatkina, Anna Karolina Schmiedlova
+Marta Kostyuk, Shuai Peng
+Olivia Rogowska, Jaimee Fourlis
+Katerina Siniakova, Maria Sakkari
+Elina Svitolina, Ivana Jorovic
+Jelena Ostapenko, Francesca Schiavone
+Ying Ying Duan, Mariana Duque Marino
+Mona Barthel, Monica Niculescu
+Anett Kontaveit, Aleksandra Krunic
+Kaia Kanepi, Dominika Cibulkova
+Monica Puig, Samantha Stosur
+Carla Suarez Navarro, Magdalena Frech
+Timea Babos, Coco Vandeweghe
+Anastasia Pavlyuchenkova, Kateryna Baindl
+Kateryna Bondarenko, Viktorija Golubic
+Kirsten Flipkens, Alison Riske Amritraj
+Magdalena Rybarikova, Taylor Townsend
+Kiki Bertens, Catherine Cartan Bellis
+Nicole Gibbs, Viktoriya Tomova
+Jana Fett, Misa Eguchi
+Caroline Wozniacki, Mihaela Buzarnescu
+Simona Halep, Eugenie Bouchard
+Lauren Davis, Andrea Petkovic
+Ashleigh Barty, Camila Giorgi
+Naomi Osaka, Elena Vesnina
+Bernarda Pera, Johanna Konta
+Barbora Strycova, Lara Arruabarrena
+Lucie Safarova, Sorana Cirstea
+Karolina Pliskova, Beatriz Haddad Maia
+Su Wei Hsieh, Garbine Muguruza
+Agnieszka Radwanska, Lesia Tsurenko
+Angelique Kerber, Donna Vekic
+Maria Sharapova, Anastasija Sevastova
+Ana Bogdan, Yulia Putintseva
+Madison Keys, Ekaterina Alexandrova
+Aliaksandra Sasnovich, Mirjana Lucic
+Caroline Garcia, Marketa Vondrousova
+Luksika Kumkhum, Belinda Bencic
+Petra Martic, Irina Camelia Begu
+Elise Mertens, Daria Saville
+Alize Cornet, Julia Goerges
+Denisa Allertova, Shuai Zhang
+Magda Linette, Daria Kasatkina
+Marta Kostyuk, Olivia Rogowska
+Elina Svitolina, Katerina Siniakova
+Jelena Ostapenko, Ying Ying Duan
+Anett Kontaveit, Mona Barthel
+Kaia Kanepi, Monica Puig
+Carla Suarez Navarro, Timea Babos
+Kateryna Bondarenko, Anastasia Pavlyuchenkova
+Magdalena Rybarikova, Kirsten Flipkens
+Kiki Bertens, Nicole Gibbs
+Caroline Wozniacki, Jana Fett
+Simona Halep, Lauren Davis
+Naomi Osaka, Ashleigh Barty
+Barbora Strycova, Bernarda Pera
+Karolina Pliskova, Lucie Safarova
+Su Wei Hsieh, Agnieszka Radwanska
+Angelique Kerber, Maria Sharapova
+Madison Keys, Ana Bogdan
+Caroline Garcia, Aliaksandra Sasnovich
+Petra Martic, Luksika Kumkhum
+Elise Mertens, Alize Cornet
+Denisa Allertova, Magda Linette
+Elina Svitolina, Marta Kostyuk
+Anett Kontaveit, Jelena Ostapenko
+Carla Suarez Navarro, Kaia Kanepi
+Magdalena Rybarikova, Kateryna Bondarenko
+Caroline Wozniacki, Kiki Bertens
+Simona Halep, Naomi Osaka
+Karolina Pliskova, Barbora Strycova
+Angelique Kerber, Su Wei Hsieh
+Madison Keys, Caroline Garcia
+Elise Mertens, Petra Martic
+Elina Svitolina, Denisa Allertova
+Carla Suarez Navarro, Anett Kontaveit
+Caroline Wozniacki, Magdalena Rybarikova
+Simona Halep, Karolina Pliskova
+Angelique Kerber, Madison Keys
+Elise Mertens, Elina Svitolina
+Caroline Wozniacki, Carla Suarez Navarro
+Simona Halep, Angelique Kerber
+Caroline Wozniacki, Elise Mertens
+Caroline Wozniacki, Simona Halep
+Angelique Kerber, Lucie Safarova
+Elena Vesnina, Lara Arruabarrena
+Dominika Cibulkova, Anastasija Sevastova
+Agnieszka Radwanska, Johanna Konta
+Catherine Cartan Bellis, Magdalena Rybarikova
+Petra Kvitova, Mirjana Lucic
+Camila Giorgi, Sloane Stephens
+Ellen Perez, Kristina Mladenovic
+Ashleigh Barty, Veronica Cepede Royg
+Barbora Strycova, Daria Kasatkina
+Kate Makarova, Jelena Ostapenko
+Samantha Stosur, Carina Witthoeft
+Daria Saville, Olivia Rogowska
+Kiki Bertens, Kristie Ahn
+Angelique Kerber, Venus Williams
+Dominika Cibulkova, Elena Vesnina
+Agnieszka Radwanska, Catherine Cartan Bellis
+Camila Giorgi, Petra Kvitova
+Ashleigh Barty, Ellen Perez
+Barbora Strycova, Kate Makarova
+Daria Saville, Samantha Stosur
+Garbine Muguruza, Kiki Bertens
+Angelique Kerber, Dominika Cibulkova
+Camila Giorgi, Agnieszka Radwanska
+Ashleigh Barty, Barbora Strycova
+Daria Saville, Garbine Muguruza
+Angelique Kerber, Camila Giorgi
+Ashleigh Barty, Daria Saville
+Angelique Kerber, Ashleigh Barty
+Kristina Mladenovic, Amandine Hesse
+Beatriz Haddad Maia, Heather Watson
+Arina Rodionova, Kateryna Baindl
+Lesia Tsurenko, Lauren Davis
+Daria Saville, Madison Brengle
+Renata Zarazua, Kristyna Pliskova
+Veronica Cepede Royg, Belinda Bencic
+Irina Camelia Begu, Christina Mchale
+Rebecca Peterson, Alize Cornet
+Monica Puig, Dayana Yastremska
+Jil Teichmann, Jana Fett
+Shuai Zhang, Jasmine Paolini
+Stefanie Voegele, Tatjana Maria
+Maria Sakkari, Lara Arruabarrena
+Arantxa Rus, Kayla Day
+Sloane Stephens, Pauline Parmentier
+Kristina Mladenovic, Beatriz Haddad Maia
+Lesia Tsurenko, Arina Rodionova
+Daria Saville, Renata Zarazua
+Veronica Cepede Royg, Irina Camelia Begu
+Rebecca Peterson, Monica Puig
+Shuai Zhang, Jil Teichmann
+Stefanie Voegele, Maria Sakkari
+Sloane Stephens, Arantxa Rus
+Lesia Tsurenko, Kristina Mladenovic
+Daria Saville, Veronica Cepede Royg
+Rebecca Peterson, Shuai Zhang
+Stefanie Voegele, Sloane Stephens
+Lesia Tsurenko, Daria Saville
+Stefanie Voegele, Rebecca Peterson
+Lesia Tsurenko, Stefanie Voegele
+Lara Arruabarrena, Lesia Tsurenko
+Aliaksandra Sasnovich, Magda Linette
+Katerina Siniakova, Christina Mchale
+Victoria Azarenka, Heather Watson
+Kate Makarova, Kirsten Flipkens
+Catherine Cartan Bellis, Sara Sorribes Tormo
+Yanina Wickmayer, Kayla Day
+Jennifer Brady, Mihaela Buzarnescu
+Mona Barthel, Veronica Cepede Royg
+Su Wei Hsieh, Carina Witthoeft
+Sofya Zhuk, Alize Cornet
+Danielle Collins, Taylor Townsend
+Natalia Vikhlyantseva, Vera Zvonareva
+Monica Puig, Beatriz Haddad Maia
+Serena Williams, Zarina Diyas
+Sorana Cirstea, Monica Niculescu
+Irina Camelia Begu, Aleksandra Krunic
+Sofia Kenin, Claire Liu
+Amanda Anisimova, Pauline Parmentier
+Yulia Putintseva, Alison Van Uytvanck
+Maria Sakkari, Donna Vekic
+Kaia Kanepi, Kurumi Nara
+Naomi Osaka, Maria Sharapova
+Sachia Vickery, Eugenie Bouchard
+Belinda Bencic, Timea Babos
+Petra Martic, Tatjana Maria
+Aryna Sabalenka, Varvara Lepchenko
+Marketa Vondrousova, Madison Brengle
+Samantha Stosur, Lauren Davis
+Qiang Wang, Timea Bacsinszky
+Caroline Dolehide, Shelby Rogers
+Kristyna Pliskova, Ying Ying Duan
+Caroline Wozniacki, Lara Arruabarrena
+Aliaksandra Sasnovich, Anett Kontaveit
+Daria Kasatkina, Katerina Siniakova
+Sloane Stephens, Victoria Azarenka
+Angelique Kerber, Kate Makarova
+Elena Vesnina, Catherine Cartan Bellis
+Daria Saville, Yanina Wickmayer
+Caroline Garcia, Jennifer Brady
+Elina Svitolina, Mona Barthel
+Carla Suarez Navarro, Su Wei Hsieh
+Sofya Zhuk, Magdalena Rybarikova
+Danielle Collins, Madison Keys
+Julia Goerges, Natalia Vikhlyantseva
+Anastasija Sevastova, Monica Puig
+Serena Williams, Kiki Bertens
+Venus Williams, Sorana Cirstea
+Karolina Pliskova, Irina Camelia Begu
+Shuai Zhang, Sofia Kenin
+Amanda Anisimova, Anastasia Pavlyuchenkova
+Petra Kvitova, Yulia Putintseva
+Maria Sakkari, Ashleigh Barty
+Coco Vandeweghe, Kaia Kanepi
+Naomi Osaka, Agnieszka Radwanska
+Sachia Vickery, Garbine Muguruza
+Jelena Ostapenko, Belinda Bencic
+Petra Martic, Barbora Strycova
+Aryna Sabalenka, Svetlana Kuznetsova
+Marketa Vondrousova, Johanna Konta
+Kristina Mladenovic, Samantha Stosur
+Qiang Wang, Elise Mertens
+Caroline Dolehide, Dominika Cibulkova
+Simona Halep, Kristyna Pliskova
+Caroline Wozniacki, Aliaksandra Sasnovich
+Daria Kasatkina, Sloane Stephens
+Angelique Kerber, Elena Vesnina
+Caroline Garcia, Daria Saville
+Carla Suarez Navarro, Elina Svitolina
+Danielle Collins, Sofya Zhuk
+Anastasija Sevastova, Julia Goerges
+Venus Williams, Serena Williams
+Karolina Pliskova, Shuai Zhang
+Amanda Anisimova, Petra Kvitova
+Maria Sakkari, Coco Vandeweghe
+Naomi Osaka, Sachia Vickery
+Petra Martic, Jelena Ostapenko
+Marketa Vondrousova, Aryna Sabalenka
+Qiang Wang, Kristina Mladenovic
+Simona Halep, Caroline Dolehide
+Daria Kasatkina, Caroline Wozniacki
+Angelique Kerber, Caroline Garcia
+Carla Suarez Navarro, Danielle Collins
+Venus Williams, Anastasija Sevastova
+Karolina Pliskova, Amanda Anisimova
+Naomi Osaka, Maria Sakkari
+Petra Martic, Marketa Vondrousova
+Simona Halep, Qiang Wang
+Daria Kasatkina, Angelique Kerber
+Venus Williams, Carla Suarez Navarro
+Naomi Osaka, Karolina Pliskova
+Simona Halep, Petra Martic
+Daria Kasatkina, Venus Williams
+Naomi Osaka, Simona Halep
+Naomi Osaka, Daria Kasatkina
+Monica Puig, Samantha Stosur
+Maria Sakkari, Aleksandra Krunic
+Donna Vekic, Camila Giorgi
+Danielle Collins, Irina Camelia Begu
+Kirsten Flipkens, Mihaela Buzarnescu
+Bernarda Pera, Lara Arruabarrena
+Varvara Lepchenko, Viktorija Golubic
+Natalia Vikhlyantseva, Rebecca Peterson
+Naomi Osaka, Serena Williams
+Andrea Petkovic, Polona Hercog
+Claire Liu, Whitney Osuigwe
+Petra Martic, Lauren Davis
+Aryna Sabalenka, Madison Brengle
+Sofia Kenin, Stefanie Voegele
+Beatriz Haddad Maia, Heather Watson
+Timea Babos, Mona Barthel
+Alison Riske Amritraj, Magda Linette
+Yafan Wang, Marketa Vondrousova
+Aliaksandra Sasnovich, Kristyna Pliskova
+Johanna Larsson, Katerina Siniakova
+Ajla Tomljanovic, Lesia Tsurenko
+Monica Niculescu, Yulia Putintseva
+Christina Mchale, Kaia Kanepi
+Amanda Anisimova, Qiang Wang
+Kate Makarova, Timea Bacsinszky
+Su Wei Hsieh, Katie Boulter
+Zarina Diyas, Jennifer Brady
+Carina Witthoeft, Tatjana Maria
+Victoria Azarenka, Catherine Cartan Bellis
+Alize Cornet, Bethanie Mattek Sands
+Alison Van Uytvanck, Kateryna Bondarenko
+Oceane Dodin, Veronica Cepede Royg
+Monica Puig, Caroline Wozniacki
+Maria Sakkari, Anett Kontaveit
+Donna Vekic, Elena Vesnina
+Danielle Collins, Coco Vandeweghe
+Johanna Konta, Kirsten Flipkens
+Elise Mertens, Bernarda Pera
+Kiki Bertens, Varvara Lepchenko
+Venus Williams, Natalia Vikhlyantseva
+Elina Svitolina, Naomi Osaka
+Daria Saville, Andrea Petkovic
+Ashleigh Barty, Claire Liu
+Petra Martic, Kristina Mladenovic
+Petra Kvitova, Aryna Sabalenka
+Sofia Kenin, Daria Kasatkina
+Beatriz Haddad Maia, Shuai Zhang
+Jelena Ostapenko, Timea Babos
+Alison Riske Amritraj, Caroline Garcia
+Yafan Wang, Carla Suarez Navarro
+Anastasia Pavlyuchenkova, Aliaksandra Sasnovich
+Angelique Kerber, Johanna Larsson
+Sloane Stephens, Ajla Tomljanovic
+Monica Niculescu, Magdalena Rybarikova
+Christina Mchale, Barbora Strycova
+Garbine Muguruza, Amanda Anisimova
+Karolina Pliskova, Kate Makarova
+Su Wei Hsieh, Sorana Cirstea
+Zarina Diyas, Svetlana Kuznetsova
+Carina Witthoeft, Julia Goerges
+Victoria Azarenka, Madison Keys
+Anastasija Sevastova, Alize Cornet
+Agnieszka Radwanska, Alison Van Uytvanck
+Simona Halep, Oceane Dodin
+Monica Puig, Maria Sakkari
+Danielle Collins, Donna Vekic
+Johanna Konta, Elise Mertens
+Venus Williams, Kiki Bertens
+Elina Svitolina, Daria Saville
+Ashleigh Barty, Petra Martic
+Petra Kvitova, Sofia Kenin
+Jelena Ostapenko, Beatriz Haddad Maia
+Yafan Wang, Alison Riske Amritraj
+Angelique Kerber, Anastasia Pavlyuchenkova
+Sloane Stephens, Monica Niculescu
+Garbine Muguruza, Christina Mchale
+Karolina Pliskova, Su Wei Hsieh
+Zarina Diyas, Carina Witthoeft
+Victoria Azarenka, Anastasija Sevastova
+Agnieszka Radwanska, Simona Halep
+Danielle Collins, Monica Puig
+Venus Williams, Johanna Konta
+Elina Svitolina, Ashleigh Barty
+Jelena Ostapenko, Petra Kvitova
+Angelique Kerber, Yafan Wang
+Sloane Stephens, Garbine Muguruza
+Karolina Pliskova, Zarina Diyas
+Victoria Azarenka, Agnieszka Radwanska
+Danielle Collins, Venus Williams
+Jelena Ostapenko, Elina Svitolina
+Sloane Stephens, Angelique Kerber
+Victoria Azarenka, Karolina Pliskova
+Jelena Ostapenko, Danielle Collins
+Sloane Stephens, Victoria Azarenka
+Sloane Stephens, Jelena Ostapenko
+Alison Van Uytvanck, Samantha Stosur
+Aleksandra Krunic, Roberta Vinci
+Anastasija Sevastova, Kristina Mladenovic
+Anett Kontaveit, Coco Vandeweghe
+Svetlana Kuznetsova, Polona Hercog
+Elena Vesnina, Laura Siegemund
+Petra Martic, Lesia Tsurenko
+Danielle Collins, Sorana Cirstea
+Daria Kasatkina, Ajla Tomljanovic
+Angelique Kerber, Zarina Diyas
+Irina Camelia Begu, Shuai Peng
+Maria Sakkari, Kiki Bertens
+Shuai Zhang, Mihaela Buzarnescu
+Su Wei Hsieh, Aryna Sabalenka
+Johanna Konta, Magdalena Rybarikova
+Maria Sharapova, Ashleigh Barty
+Dominika Cibulkova, Francesca Schiavone
+Daria Saville, Natalia Vikhlyantseva
+Timea Babos, Sara Errani
+Kaia Kanepi, Camilla Rosatello
+Sloane Stephens, Barbora Strycova
+Madison Keys, Anastasia Pavlyuchenkova
+Donna Vekic, Carla Suarez Navarro
+Naomi Osaka, Victoria Azarenka
+Caroline Wozniacki, Alison Van Uytvanck
+Anastasija Sevastova, Aleksandra Krunic
+Anett Kontaveit, Svetlana Kuznetsova
+Venus Williams, Elena Vesnina
+Elina Svitolina, Petra Martic
+Daria Kasatkina, Danielle Collins
+Angelique Kerber, Irina Camelia Begu
+Maria Sakkari, Karolina Pliskova
+Jelena Ostapenko, Shuai Zhang
+Johanna Konta, Su Wei Hsieh
+Maria Sharapova, Dominika Cibulkova
+Daria Saville, Garbine Muguruza
+Caroline Garcia, Timea Babos
+Sloane Stephens, Kaia Kanepi
+Madison Keys, Donna Vekic
+Simona Halep, Naomi Osaka
+Caroline Wozniacki, Anastasija Sevastova
+Anett Kontaveit, Venus Williams
+Elina Svitolina, Daria Kasatkina
+Angelique Kerber, Maria Sakkari
+Jelena Ostapenko, Johanna Konta
+Maria Sharapova, Daria Saville
+Caroline Garcia, Sloane Stephens
+Simona Halep, Madison Keys
+Anett Kontaveit, Caroline Wozniacki
+Elina Svitolina, Angelique Kerber
+Maria Sharapova, Jelena Ostapenko
+Simona Halep, Caroline Garcia
+Elina Svitolina, Anett Kontaveit
+Simona Halep, Maria Sharapova
+Elina Svitolina, Simona Halep
+Elise Mertens, Polona Hercog
+Antonia Lottner, Anna Blinkova
+Viktoria Hruncakova, Marina Melnikova
+Alison Van Uytvanck, Richel Hogenkamp
+Kiki Bertens, Natalia Vikhlyantseva
+Kirsten Flipkens, Anna Kalinskaya
+Ajla Tomljanovic, Kristyna Pliskova
+Aryna Sabalenka, Marketa Vondrousova
+Aleksandra Krunic, Valentini Grammatikopoulou
+Bibiane Schoofs, Carina Witthoeft
+Belinda Bencic, Tereza Martincova
+Veronika Kudermetova, Anett Kontaveit
+Fanny Stollar, Shuai Zhang
+Alison Riske Amritraj, Tatjana Maria
+Arantxa Rus, Ekaterina Alexandrova
+Coco Vandeweghe, Aliaksandra Sasnovich
+Antonia Lottner, Elise Mertens
+Viktoria Hruncakova, Alison Van Uytvanck
+Kirsten Flipkens, Kiki Bertens
+Aryna Sabalenka, Ajla Tomljanovic
+Aleksandra Krunic, Bibiane Schoofs
+Veronika Kudermetova, Belinda Bencic
+Alison Riske Amritraj, Fanny Stollar
+Coco Vandeweghe, Arantxa Rus
+Viktoria Hruncakova, Antonia Lottner
+Kirsten Flipkens, Aryna Sabalenka
+Aleksandra Krunic, Veronika Kudermetova
+Coco Vandeweghe, Alison Riske Amritraj
+Kirsten Flipkens, Viktoria Hruncakova
+Aleksandra Krunic, Coco Vandeweghe
+Aleksandra Krunic, Kirsten Flipkens
+Vera Zvonareva, Irina Khromacheva
+Yulia Putintseva, Irina Camelia Begu
+Anastasija Sevastova, Magdalena Rybarikova
+Ons Jabeur, Kate Makarova
+Kristina Mladenovic, Anna Kalinskaya
+Anett Kontaveit, Anastasia Potapova
+Johanna Konta, Elise Mertens
+Daria Saville, Vitalia Diatchenko
+Aliaksandra Sasnovich, Mihaela Buzarnescu
+Daria Kasatkina, Lesia Tsurenko
+Alize Cornet, Natalia Vikhlyantseva
+Anastasia Pavlyuchenkova, Ajla Tomljanovic
+Vera Zvonareva, Karolina Pliskova
+Anastasija Sevastova, Yulia Putintseva
+Ons Jabeur, Sloane Stephens
+Anett Kontaveit, Kristina Mladenovic
+Johanna Konta, Daria Saville
+Aliaksandra Sasnovich, Kiki Bertens
+Daria Kasatkina, Alize Cornet
+Anastasia Pavlyuchenkova, Valentini Grammatikopoulou
+Anastasija Sevastova, Vera Zvonareva
+Ons Jabeur, Anett Kontaveit
+Johanna Konta, Aliaksandra Sasnovich
+Daria Kasatkina, Anastasia Pavlyuchenkova
+Ons Jabeur, Anastasija Sevastova
+Daria Kasatkina, Johanna Konta
+Daria Kasatkina, Ons Jabeur
+Caroline Wozniacki, Belinda Bencic
+Petra Martic, Barbora Strycova
+Laura Siegemund, Daria Kasatkina
+Kiki Bertens, Sorana Cirstea
+Kirsten Flipkens, Katie Boulter
+Katerina Siniakova, Alison Van Uytvanck
+Aleksandra Krunic, Elina Svitolina
+Caroline Garcia, Yafan Wang
+Polona Hercog, Coco Vandeweghe
+Garbine Muguruza, Kate Makarova
+Jelena Ostapenko, Magdalena Rybarikova
+Aliaksandra Sasnovich, Mihaela Buzarnescu
+Karolina Pliskova, Samantha Stosur
+Naomi Osaka, Zarina Diyas
+Danielle Collins, Timea Bacsinszky
+Lesia Tsurenko, Andrea Petkovic
+Julia Goerges, Johanna Konta
+Shuai Zhang, Elise Mertens
+Timea Babos, Su Wei Hsieh
+Carla Suarez Navarro, Yulia Putintseva
+Angelique Kerber, Kristina Mladenovic
+Daria Saville, Petra Kvitova
+Dominika Cibulkova, Ying Ying Duan
+Saisai Zheng, Dayana Yastremska
+Sloane Stephens, Anastasia Pavlyuchenkova
+Madison Keys, Bernarda Pera
+Anastasija Sevastova, Alize Cornet
+Donna Vekic, Maria Sakkari
+Ons Jabeur, Simona Halep
+Caroline Wozniacki, Petra Martic
+Anett Kontaveit, Laura Siegemund
+Kiki Bertens, Kirsten Flipkens
+Katerina Siniakova, Aleksandra Krunic
+Caroline Garcia, Polona Hercog
+Aryna Sabalenka, Garbine Muguruza
+Qiang Wang, Jelena Ostapenko
+Karolina Pliskova, Aliaksandra Sasnovich
+Naomi Osaka, Danielle Collins
+Julia Goerges, Lesia Tsurenko
+Shuai Zhang, Timea Babos
+Angelique Kerber, Carla Suarez Navarro
+Dominika Cibulkova, Daria Saville
+Sloane Stephens, Saisai Zheng
+Anastasija Sevastova, Madison Keys
+Donna Vekic, Ons Jabeur
+Caroline Wozniacki, Anett Kontaveit
+Katerina Siniakova, Kiki Bertens
+Aryna Sabalenka, Caroline Garcia
+Qiang Wang, Karolina Pliskova
+Naomi Osaka, Julia Goerges
+Shuai Zhang, Angelique Kerber
+Dominika Cibulkova, Sloane Stephens
+Anastasija Sevastova, Donna Vekic
+Caroline Wozniacki, Katerina Siniakova
+Qiang Wang, Aryna Sabalenka
+Naomi Osaka, Shuai Zhang
+Anastasija Sevastova, Dominika Cibulkova
+Caroline Wozniacki, Qiang Wang
+Anastasija Sevastova, Naomi Osaka
+Caroline Wozniacki, Anastasija Sevastova
+Anastasia Pavlyuchenkova, Sorana Cirstea
+Donna Vekic, Yulia Putintseva
+Svetlana Kuznetsova, Maria Sakkari
+Aryna Sabalenka, Sachia Vickery
+Kateryna Bondarenko, Alize Cornet
+Agnieszka Radwanska, Timea Babos
+Mihaela Buzarnescu, Shuai Peng
+Kaia Kanepi, Kurumi Nara
+Alison Van Uytvanck, Samantha Stosur
+Harriet Dart, Kristyna Pliskova
+Danielle Collins, Katie Swan
+Dominika Cibulkova, Kate Makarova
+Kristina Mladenovic, Heather Watson
+Su Wei Hsieh, Natalia Vikhlyantseva
+Aleksandra Krunic, Andrea Hlavackova
+Camila Giorgi, Irina Camelia Begu
+Karolina Pliskova, Anastasia Pavlyuchenkova
+Barbora Strycova, Donna Vekic
+Elise Mertens, Svetlana Kuznetsova
+Aryna Sabalenka, Julia Goerges
+Petra Kvitova, Kateryna Bondarenko
+Agnieszka Radwanska, Daria Saville
+Mihaela Buzarnescu, Kiki Bertens
+Jelena Ostapenko, Kaia Kanepi
+Daria Kasatkina, Alison Van Uytvanck
+Anastasija Sevastova, Harriet Dart
+Danielle Collins, Carla Suarez Navarro
+Angelique Kerber, Dominika Cibulkova
+Ashleigh Barty, Kristina Mladenovic
+Su Wei Hsieh, Magdalena Rybarikova
+Johanna Konta, Aleksandra Krunic
+Caroline Wozniacki, Camila Giorgi
+Karolina Pliskova, Barbora Strycova
+Aryna Sabalenka, Elise Mertens
+Agnieszka Radwanska, Petra Kvitova
+Jelena Ostapenko, Mihaela Buzarnescu
+Daria Kasatkina, Anastasija Sevastova
+Angelique Kerber, Danielle Collins
+Ashleigh Barty, Su Wei Hsieh
+Caroline Wozniacki, Johanna Konta
+Aryna Sabalenka, Karolina Pliskova
+Agnieszka Radwanska, Jelena Ostapenko
+Angelique Kerber, Daria Kasatkina
+Caroline Wozniacki, Ashleigh Barty
+Aryna Sabalenka, Agnieszka Radwanska
+Caroline Wozniacki, Angelique Kerber
+Caroline Wozniacki, Aryna Sabalenka
+Catherine Cartan Bellis, Kateryna Bondarenko
+Kaia Kanepi, Daria Kasatkina
+Lesia Tsurenko, Ashleigh Barty
+Elina Svitolina, Carla Suarez Navarro
+Ana Konjuh, Kiki Bertens
+Ajla Tomljanovic, Destanee Aiava
+Johanna Konta, Madison Keys
+Aliaksandra Sasnovich, Kristina Mladenovic
+Anett Kontaveit, Heather Watson
+Mirjana Lucic, Tatjana Maria
+Alize Cornet, Caroline Garcia
+Anastasija Sevastova, Samantha Stosur
+Sorana Cirstea, Jennifer Brady
+Aleksandra Krunic, Carina Witthoeft
+Karolina Pliskova, Catherine Cartan Bellis
+Kaia Kanepi, Lesia Tsurenko
+Elina Svitolina, Ana Konjuh
+Johanna Konta, Ajla Tomljanovic
+Aliaksandra Sasnovich, Anett Kontaveit
+Alize Cornet, Mirjana Lucic
+Anastasija Sevastova, Sorana Cirstea
+Aleksandra Krunic, Garbine Muguruza
+Karolina Pliskova, Kaia Kanepi
+Elina Svitolina, Johanna Konta
+Aliaksandra Sasnovich, Alize Cornet
+Anastasija Sevastova, Aleksandra Krunic
+Elina Svitolina, Karolina Pliskova
+Aliaksandra Sasnovich, Anastasija Sevastova
+Elina Svitolina, Aliaksandra Sasnovich
+Caroline Wozniacki, Daria Saville
+Ashleigh Barty, Sara Errani
+Kiki Bertens, Maria Sakkari
+Anastasija Sevastova, Anna Karolina Schmiedlova
+Kristina Mladenovic, Coco Vandeweghe
+Shuai Zhang, Naomi Osaka
+Maria Sharapova, Mihaela Buzarnescu
+Irina Camelia Begu, Jelena Ostapenko
+Elina Svitolina, Alize Cornet
+Carla Suarez Navarro, Barbora Strycova
+Bernarda Pera, Aryna Sabalenka
+Johanna Konta, Magdalena Rybarikova
+Julia Goerges, Timea Babos
+Lara Arruabarrena, Marta Kostyuk
+Petra Martic, Svetlana Kuznetsova
+Caroline Garcia, Dominika Cibulkova
+Anett Kontaveit, Venus Williams
+Aliaksandra Sasnovich, Danielle Collins
+Monica Puig, Zarina Diyas
+Petra Kvitova, Lesia Tsurenko
+Daria Kasatkina, Qiang Wang
+Sorana Cirstea, Katerina Siniakova
+Donna Vekic, Georgina Garcia Perez
+Garbine Muguruza, Shuai Peng
+Karolina Pliskova, Elena Vesnina
+Victoria Azarenka, Aleksandra Krunic
+Samantha Stosur, Anastasia Pavlyuchenkova
+Sloane Stephens, Silvia Soler Espinosa
+Sara Sorribes Tormo, Madison Keys
+Kristyna Pliskova, Natalia Vikhlyantseva
+Elise Mertens, Alison Van Uytvanck
+Simona Halep, Kate Makarova
+Caroline Wozniacki, Ashleigh Barty
+Kiki Bertens, Anastasija Sevastova
+Kristina Mladenovic, Shuai Zhang
+Maria Sharapova, Irina Camelia Begu
+Carla Suarez Navarro, Elina Svitolina
+Bernarda Pera, Johanna Konta
+Julia Goerges, Lara Arruabarrena
+Caroline Garcia, Petra Martic
+Anett Kontaveit, Aliaksandra Sasnovich
+Petra Kvitova, Monica Puig
+Daria Kasatkina, Sorana Cirstea
+Garbine Muguruza, Donna Vekic
+Karolina Pliskova, Victoria Azarenka
+Sloane Stephens, Samantha Stosur
+Kristyna Pliskova, Sara Sorribes Tormo
+Simona Halep, Elise Mertens
+Kiki Bertens, Caroline Wozniacki
+Maria Sharapova, Kristina Mladenovic
+Carla Suarez Navarro, Bernarda Pera
+Caroline Garcia, Julia Goerges
+Petra Kvitova, Anett Kontaveit
+Daria Kasatkina, Garbine Muguruza
+Karolina Pliskova, Sloane Stephens
+Simona Halep, Kristyna Pliskova
+Kiki Bertens, Maria Sharapova
+Caroline Garcia, Carla Suarez Navarro
+Petra Kvitova, Daria Kasatkina
+Karolina Pliskova, Simona Halep
+Kiki Bertens, Caroline Garcia
+Petra Kvitova, Karolina Pliskova
+Petra Kvitova, Kiki Bertens
+Kiki Bertens, Coco Vandeweghe
+Anett Kontaveit, Barbora Strycova
+Maria Sakkari, Naomi Osaka
+Petra Martic, Daria Kasatkina
+Amanda Anisimova, Timea Babos
+Svetlana Kuznetsova, Stefanie Voegele
+Tatjana Maria, Allie Kiick
+Rebecca Peterson, Katerina Siniakova
+Elise Mertens, Magdalena Rybarikova
+Kristina Mladenovic, Julia Goerges
+Viktoria Hruncakova, Aliaksandra Sasnovich
+Serena Williams, Daria Saville
+Victoria Azarenka, Carla Suarez Navarro
+Aryna Sabalenka, Johanna Konta
+Karolina Pliskova, Agnieszka Radwanska
+Madison Keys, Bethanie Mattek Sands
+Camila Giorgi, Anastasija Sevastova
+Anastasia Pavlyuchenkova, Aleksandra Krunic
+Lesia Tsurenko, Danielle Collins
+Kate Makarova, Ana Bogdan
+Alize Cornet, Jelena Ostapenko
+Ashleigh Barty, Marketa Vondrousova
+Kaia Kanepi, Varvara Lepchenko
+Ajla Tomljanovic, Irina Camelia Begu
+Kiki Bertens, Caroline Wozniacki
+Anett Kontaveit, Maria Sakkari
+Amanda Anisimova, Petra Martic
+Elina Svitolina, Svetlana Kuznetsova
+Sloane Stephens, Tatjana Maria
+Elise Mertens, Rebecca Peterson
+Kristina Mladenovic, Viktoria Hruncakova
+Petra Kvitova, Serena Williams
+Caroline Garcia, Victoria Azarenka
+Aryna Sabalenka, Karolina Pliskova
+Madison Keys, Camila Giorgi
+Angelique Kerber, Anastasia Pavlyuchenkova
+Lesia Tsurenko, Garbine Muguruza
+Kate Makarova, Alize Cornet
+Ashleigh Barty, Kaia Kanepi
+Simona Halep, Ajla Tomljanovic
+Kiki Bertens, Anett Kontaveit
+Elina Svitolina, Amanda Anisimova
+Elise Mertens, Sloane Stephens
+Petra Kvitova, Kristina Mladenovic
+Aryna Sabalenka, Caroline Garcia
+Madison Keys, Angelique Kerber
+Lesia Tsurenko, Kate Makarova
+Simona Halep, Ashleigh Barty
+Kiki Bertens, Elina Svitolina
+Petra Kvitova, Elise Mertens
+Aryna Sabalenka, Madison Keys
+Simona Halep, Lesia Tsurenko
+Kiki Bertens, Petra Kvitova
+Simona Halep, Aryna Sabalenka
+Kiki Bertens, Simona Halep
+Sloane Stephens, Bethanie Mattek Sands
+Andrea Petkovic, Jamie Loeb
+Nao Hibino, Sofya Zhuk
+Belinda Bencic, Harriet Dart
+Ana Bogdan, Kate Makarova
+Svetlana Kuznetsova, Kristie Ahn
+Jennifer Brady, Natalia Vikhlyantseva
+Yulia Putintseva, Tatjana Maria
+Donna Vekic, Caroline Dolehide
+Fanny Stollar, Mayo Hibi
+Magda Linette, Olivia Rogowska
+Naomi Osaka, Bernarda Pera
+Katie Boulter, Aleksandra Krunic
+Allie Kiick, Xinyun Han
+Saisai Zheng, Katie Swan
+Ysaline Bonaventure, Anhelina Kalinina
+Andrea Petkovic, Sloane Stephens
+Belinda Bencic, Nao Hibino
+Svetlana Kuznetsova, Ana Bogdan
+Yulia Putintseva, Jennifer Brady
+Donna Vekic, Fanny Stollar
+Magda Linette, Naomi Osaka
+Allie Kiick, Katie Boulter
+Saisai Zheng, Ysaline Bonaventure
+Andrea Petkovic, Belinda Bencic
+Svetlana Kuznetsova, Yulia Putintseva
+Donna Vekic, Magda Linette
+Saisai Zheng, Allie Kiick
+Svetlana Kuznetsova, Andrea Petkovic
+Donna Vekic, Saisai Zheng
+Svetlana Kuznetsova, Donna Vekic
+Emiliana Arango, Alexa Guarachi
+Maria Fernanda Herazo Gonzalez, Daniela Seguel
+Montserrat Gonzalez, Alexa Guarachi
+Daniela Seguel, Veronica Cepede Royg
+Montserrat Gonzalez, Emiliana Arango
+Veronica Cepede Royg, Maria Fernanda Herazo Gonzalez
+Paula Ormaechea, Nathaly Kurata
+Beatriz Haddad Maia, Catalina Pella
+Paula Ormaechea, Daniela Schippers
+Catalina Pella, Kirsten Andrea Weedon
+Paula Ormaechea, Aymet Uzcategui
+Catalina Pella, Andrea Gamiz
+Nathaly Kurata, Melisa Morales
+Beatriz Haddad Maia, Kirsten Andrea Weedon
+Aymet Uzcategui, Gabriela Ce
+Beatriz Haddad Maia, Andrea Gamiz
+Aymet Uzcategui, Daniela Schippers
+Andrea Gamiz, Kirsten Andrea Weedon
+Paula Ormaechea, Juliana Valero
+Stephanie Mariel Petit, Maria Paulina Perez Garcia
+Montserrat Gonzalez, Nathaly Kurata
+Veronica Cepede Royg, Beatriz Haddad Maia
+Alexa Guarachi, Aymet Uzcategui
+Fernanda Brito, Andrea Gamiz
+Yafan Wang, Eudice Wong Chong
+Ling Zhang, Lin Zhu
+Yafan Wang, Karman Thandi
+Ankita Raina, Lin Zhu
+Karman Thandi, Eudice Wong Chong
+Ankita Raina, Ling Zhang
+Zarina Diyas, Zhaoxuan Yang
+Yulia Putintseva, Yafan Wang
+Zarina Diyas, Ho Ching Wu
+Yulia Putintseva, Kwan Yau Ng
+Zarina Diyas, Karman Thandi
+Ankita Raina, Yulia Putintseva
+Kurumi Nara, Sunam Jeong
+Nao Hibino, Na Lae Han
+Kurumi Nara, Peangtarn Plipuech
+Nao Hibino, Luksika Kumkhum
+Sunam Jeong, Nicha Lertpitaksinchai
+Luksika Kumkhum, Na Lae Han
+Miyu Kato, Ching Wen Hsu
+Nao Hibino, Chieh Yu Hsu
+Sunam Jeong, Ya Hsuan Lee
+Na Lae Han, Chieh Yu Hsu
+Pei Chi Lee, Patcharin Cheapchandej
+Luksika Kumkhum, Chieh Yu Hsu
+Zhaoxuan Yang, So Ra Lee
+Lin Zhu, Sunam Jeong
+Kurumi Nara, Zarina Diyas
+Yulia Putintseva, Nao Hibino
+Karman Thandi, Pei Chi Lee
+Ankita Raina, Chieh Yu Hsu
+Eudice Wong Chong, Patcharin Cheapchandej
+Peangtarn Plipuech, Ling Zhang
+Isabella Shinikova, Sofia Shapatava
+Viktoriya Tomova, Ekaterine Gorgodze
+Olga Danilovic, Isabella Shinikova
+Dejana Radanovic, Viktoriya Tomova
+Olga Danilovic, Sofia Shapatava
+Dejana Radanovic, Ekaterine Gorgodze
+Francisca Jorge, Katriin Saar
+Anett Kontaveit, Ines Murta
+Heather Watson, Katriin Saar
+Johanna Konta, Anett Kontaveit
+Heather Watson, Francisca Jorge
+Johanna Konta, Maria Joao Koehler
+Dalma Galfi, Lea Boskovic
+Fanny Stollar, Tena Lukas
+Lea Boskovic, Kaja Juvan
+Tamara Zidansek, Tena Lukas
+Lea Boskovic, Cornelia Lister
+Rebecca Peterson, Tena Lukas
+Nina Potocnik, Anna Bondar
+Fanny Stollar, Tamara Zidansek
+Cornelia Lister, Reka Luca Jani
+Rebecca Peterson, Dalma Galfi
+Kaja Juvan, Jacqueline Cabaj Awad
+Tamara Zidansek, Rebecca Peterson
+Anastasija Sevastova, Pia Konig
+Jelena Ostapenko, Melanie Klaffner
+Melanie Klaffner, Magdalena Frech
+Magda Linette, Julia Grabher
+Anastasija Sevastova, Magdalena Frech
+Jelena Ostapenko, Magda Linette
+Magdalena Frech, Ayla Aksu
+Magda Linette, Basak Eraydin
+Julia Grabher, Basak Eraydin
+Cagla Buyukakcay, Barbara Haas
+Anastasija Sevastova, Ayla Aksu
+Cagla Buyukakcay, Jelena Ostapenko
+Iga Swiatek, Petia Arshinkova
+Magdalena Frech, Isabella Shinikova
+Saara Orav, Ana Biskic
+Tena Lukas, Katriin Saar
+Heather Watson, Dalma Galfi
+Johanna Konta, Fanny Stollar
+Olga Danilovic, Anastasija Sevastova
+Jelena Ostapenko, Dejana Radanovic
+Sofia Shapatava, Julia Grabher
+Barbara Haas, Ekaterine Gorgodze
+Cornelia Lister, Francisca Jorge
+Rebecca Peterson, Maria Joao Koehler
+Gabrielle Leslie, Laura Lissette Quezada Martinez
+Francesca Segarelli, Hannah Chambers
+Maria Jose Portillo Ramirez, Tangia Riley Codrington
+Marcela Zacarias, Gabrielle Leslie
+Fernanda Contreras Gomez, Francesca Segarelli
+Marcela Zacarias, Kelly Williford
+Fernanda Secinaro, Isid Hernandez
+Yusleydis Smith Dias, Isabella Tiscornia
+Dana Guzman, Yoryana Delgado Herrera
+Anastasia Iamachkine, Yusleydis Smith Dias
+Dana Guzman, Fernanda Secinaro
+Anastasia Iamachkine, Isabella Tiscornia
+Isid Hernandez, Laura Lissette Quezada Martinez
+Yusleydis Smith Dias, Kelly Williford
+Fernanda Secinaro, Gabrielle Leslie
+Florencia Rossi, Hannah Chambers
+Fernanda Contreras Gomez, Dana Guzman
+Marcela Zacarias, Anastasia Iamachkine
+Daniela Obando, Eugenia Camacho
+Ariana Rahmanparast, Natalie Gabriela Espinal Sanchez
+Camila Romero, Sofia Perez
+Charlotte Roemer, Ariana Rahmanparast
+Camila Romero, Daniela Obando
+Charlotte Roemer, Natalie Gabriela Espinal Sanchez
+Danielle Andrea Thompson, Shelby Madeiros
+Kerrie Cartwright, Ashley Brooks
+Danielle Andrea Thompson, Daniela Alejandra La Fuente Strassburger
+Kerrie Cartwright, Noelia Zeballos
+Daniela Alejandra La Fuente Strassburger, Shelby Madeiros
+Noelia Zeballos, Ashley Brooks
+Daniela Alejandra La Fuente Strassburger, Carlista Mohammed
+Noelia Zeballos, Breana Stampfli
+Breana Stampfli, Danielle Andrea Thompson
+Kerrie Cartwright, Yolande Leacock
+Breana Stampfli, Shelby Madeiros
+Yolande Leacock, Ashley Brooks
+Sofia Perez, Daniela Alejandra La Fuente Strassburger
+Noelia Zeballos, Ariana Rahmanparast
+Daniela Obando, Carlista Mohammed
+Breana Stampfli, Natalie Gabriela Espinal Sanchez
+Camila Romero, Danielle Andrea Thompson
+Charlotte Roemer, Kerrie Cartwright
+Katherine Westbury, Nancy Karaky
+Jade Lewis, Hoda Habib
+Yasmina Karimjanova, Nancy Karaky
+Sabina Sharipova, Hoda Habib
+Nigina Abduraimova, Jade Lewis
+Sabina Sharipova, Erin Routliffe
+Marian Jade Capadocia, Saara Kunakunova
+Ksenia Palkina, Katharina Lehnert
+Charmaine Shi Yi Seah, Anna Clarice Patrimonio
+Stefanie Tan, Katharina Lehnert
+Charmaine Shi Yi Seah, Saara Kunakunova
+Stefanie Tan, Ksenia Palkina
+Theiviya Selvarajoo, Shahrzad Banisaeid
+Suhana Sofia Mohd Adam Das, Kimia Rahmani
+Theiviya Selvarajoo, Sarah Al Balushi
+Fatma Al Nabhani, Suhana Sofia Mohd Adam Das
+Steffi Carruthers, Theiviya Selvarajoo
+Abigail Tere Apisah, Suhana Sofia Mohd Adam Das
+Shahrzad Banisaeid, Sarah Al Balushi
+Fatma Al Nabhani, Kimiya Asbaghipour
+Steffi Carruthers, Sara Azaddoost
+Carol Young Suh Lee, Kimiya Asbaghipour
+Carol Young Suh Lee, Maryam Al Balushi
+Abigail Tere Apisah, Fatma Al Nabhani
+Sara Mansoor, Maya Bseisu
+Sarah Mahboob Khan, Nazli Nader Redha
+Aldila Sutjiadi, Safa Safar
+Beatrice Gumulya, Nazli Nader Redha
+Aldila Sutjiadi, Sarah Mahboob Khan
+Beatrice Gumulya, Ushna Suhail
+Aldila Sutjiadi, Nethmi Himashi Waduge
+Beatrice Gumulya, Anika Seneviratne
+Savini Jayasuriya, Safa Safar
+Nethmi Himashi Waduge, Nazli Nader Redha
+Mahin Qureshi, Nethmi Himashi Waduge
+Anika Seneviratne, Ushna Suhail
+Jade Lewis, Mahin Qureshi
+Erin Routliffe, Ushna Suhail
+Marian Jade Capadocia, Aisha Al Suleimani
+Khim Iglupas, Maryam Al Balushi
+Saara Kunakunova, Theiviya Selvarajoo
+Ksenia Palkina, Suhana Sofia Mohd Adam Das
+Nethmi Himashi Waduge, Yara Fayssal
+Anika Seneviratne, Hoda Habib
+Charmaine Shi Yi Seah, Steffi Carruthers
+Abigail Tere Apisah, Stefanie Tan
+Aldila Sutjiadi, Akgul Amanmuradova
+Beatrice Gumulya, Sabina Sharipova
+Clara Tauson, Lamis Alhussein Abdel Aziz
+Karen Barbat, Sandra Samir
+Valentini Grammatikopoulou, Clara Tauson
+Maria Sakkari, Karen Barbat
+Valentini Grammatikopoulou, Dona Abo Habaga
+Maria Sakkari, Sandra Samir
+Jelena Simic, Nicole Nadel
+Julia Glushko, Dea Herdzelas
+Jelena Simic, Eleonora Molinaro
+Mandy Minella, Dea Herdzelas
+Eleonora Molinaro, Vlada Ekshibarova
+Julia Glushko, Mandy Minella
+Jelena Simic, Astrid Wanja Brune Olsen
+Dea Herdzelas, Malene Helgo
+Astrid Wanja Brune Olsen, Vlada Ekshibarova
+Julia Glushko, Malene Helgo
+Eleonora Molinaro, Astrid Wanja Brune Olsen
+Mandy Minella, Malene Helgo
+Clara Tauson, Vlada Ekshibarova
+Julia Glushko, Karen Barbat
+Eleonora Molinaro, Valentini Grammatikopoulou
+Maria Sakkari, Mandy Minella
+Nefisa Berberovic, Lamis Alhussein Abdel Aziz
+Sandra Samir, Dea Herdzelas
+Sorana Cirstea, Carol Zhao
+Irina Camelia Begu, Bianca Andreescu
+Irina Camelia Begu, Katherine Sebov
+Carla Suarez Navarro, Jasmine Paolini
+Sara Errani, Lara Arruabarrena
+Sara Errani, Carla Suarez Navarro
+Deborah Chiesa, Lara Arruabarrena
+Natalia Vikhlyantseva, Viktoria Hruncakova
+Magdalena Rybarikova, Anna Kalinskaya
+Jana Cepelova, Natalia Vikhlyantseva
+Viktoria Hruncakova, Anastasia Potapova
+Ashleigh Barty, Lyudmyla Kichenok
+Marta Kostyuk, Daria Saville
+Ashleigh Barty, Marta Kostyuk
+Nadiya Kichenok, Daria Saville
+Carla Suarez Navarro, Veronica Cepede Royg
+Garbine Muguruza, Montserrat Gonzalez
+Garbine Muguruza, Veronica Cepede Royg
+Naomi Osaka, Heather Watson
+Johanna Konta, Kurumi Nara
+Johanna Konta, Naomi Osaka
+Kurumi Nara, Heather Watson
+Anastasia Pavlyuchenkova, Anastasija Sevastova
+Jelena Ostapenko, Kate Makarova
+Jelena Ostapenko, Anastasia Pavlyuchenkova
+Anastasija Sevastova, Kate Makarova
+Lesia Tsurenko, Bianca Andreescu
+Eugenie Bouchard, Kateryna Bondarenko
+Eugenie Bouchard, Lesia Tsurenko
+Kateryna Bondarenko, Gabriela Dabrowski
+Elise Mertens, Pauline Parmentier
+Kristina Mladenovic, Kirsten Flipkens
+Kristina Mladenovic, Elise Mertens
+Alison Van Uytvanck, Pauline Parmentier
+Aryna Sabalenka, Tatjana Maria
+Antonia Lottner, Aliaksandra Sasnovich
+Tatjana Maria, Vera Lapko
+Aryna Sabalenka, Antonia Lottner
+Petra Kvitova, Viktorija Golubic
+Barbora Strycova, Belinda Bencic
+Petra Kvitova, Belinda Bencic
+Barbora Strycova, Sofia Kenin
+Katerina Siniakova, Alison Riske Amritraj
+Katerina Siniakova, Sofia Kenin
+Sloane Stephens, Pauline Parmentier
+Kristina Mladenovic, Coco Vandeweghe
+Sloane Stephens, Kristina Mladenovic
+Madison Keys, Pauline Parmentier
+Petra Kvitova, Julia Goerges
+Karolina Pliskova, Angelique Kerber
+Julia Goerges, Karolina Pliskova
+Petra Kvitova, Angelique Kerber
+Venus Williams, Arantxa Rus
+Coco Vandeweghe, Richel Hogenkamp
+Venus Williams, Richel Hogenkamp
+Elise Mertens, Jasmine Paolini
+Alison Van Uytvanck, Sara Errani
+Elise Mertens, Sara Errani
+Aliaksandra Sasnovich, Jana Cepelova
+Viktoria Hruncakova, Aryna Sabalenka
+Aryna Sabalenka, Anna Karolina Schmiedlova
+Viktoria Hruncakova, Aliaksandra Sasnovich
+Lesley Pattinama Kerkhove, Samantha Stosur
+Ashleigh Barty, Quirine Lemoine
+Ashleigh Barty, Lesley Pattinama Kerkhove
+Daria Saville, Quirine Lemoine
+Simona Halep, Viktorija Golubic
+Irina Camelia Begu, Timea Bacsinszky
+Simona Halep, Patty Schnyder

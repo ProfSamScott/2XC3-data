@@ -1,0 +1,4327 @@
+Ilie Nastase, Jean Baptiste Chanfreau
+Robert Kreiss, Frew Mcmillan
+Onny Parun, Buster C Mottram
+Raymond Moore, Owen Davidson
+Jimmy Connors, Roger Taylor
+Gerald Battrick, John Feaver
+Nikola Pilic, John Paish
+Patrick Proisy, John Lloyd
+Jeff Borowiak, Stephen Warboys
+Tom Gorman, Graham Stilwell
+Mark Cox, Hans Jurgen Pohmann
+Bjorn Borg, Manuel Orantes
+Ion Tiriac, Bob Carmichael
+Arthur Ashe, Patrice Dominguez
+Grover Raz Reid, Haroon Rahim
+Tom Okker, Barry Phillips Moore
+Ilie Nastase, Robert Kreiss
+Raymond Moore, Onny Parun
+Jimmy Connors, Gerald Battrick
+Patrick Proisy, Nikola Pilic
+Tom Gorman, Jeff Borowiak
+Mark Cox, Bjorn Borg
+Ion Tiriac, Arthur Ashe
+Tom Okker, Grover Raz Reid
+Ilie Nastase, Raymond Moore
+Jimmy Connors, Patrick Proisy
+Mark Cox, Tom Gorman
+Tom Okker, Ion Tiriac
+Ilie Nastase, Jimmy Connors
+Tom Okker, Mark Cox
+Tom Okker, Ilie Nastase
+Jimmy Connors, Mark Cox
+Jimmy Connors, Jaime Pinto Bravo
+Tito Vazquez, Butch Seewagen
+Ian Fletcher, Ian Crookenden
+John Paish, Juan Gisbert
+Jimmy Connors, Tito Vazquez
+Ian Fletcher, John Paish
+Jimmy Connors, Ian Fletcher
+Juan Herrera, Jean Louis Haillet
+Marcello Lara, Thierry Quintin
+John Bartlett, Pietro Marzano
+Ivan Molina, Jose Guerrero
+Nicola Spear, Richard Russell
+Patrice Dominguez, Jasjit Singh
+Paul Gerken, Vincenzo Franchitti
+Kim Warwick, E Chavez
+Antonio Zugarelli, Birger Andersson
+Patricio Rodriguez Chi, U McDonald
+Tito Vazquez, Robert Reininger
+Jairo Velasco, Juan Ignacio Muntanola
+Juan Manuel Couder, Mike Estep
+Jacques Thamin, Steve Faulk
+Ian Fletcher, Jose Castanon
+Piero Toci, Jeff Simpson
+Manuel Orantes, Juan Herrera
+Marcello Lara, Corrado Barazzutti
+John Bartlett, Francois Jauffret
+Ion Tiriac, Ivan Molina
+Adriano Panatta, Nicola Spear
+Patrice Dominguez, John Feaver
+Paul Gerken, Bjorn Borg
+Juan Gisbert, Kim Warwick
+Antonio Zugarelli, Martin Mulligan
+Patricio Rodriguez Chi, Georges Goven
+Paolo Bertolucci, Tito Vazquez
+Patrick Proisy, Jairo Velasco
+Wanaro N'Godrella, Juan Manuel Couder
+Jacques Thamin, Antonio Munoz
+Ian Fletcher, Kjell Johansson
+Ilie Nastase, Piero Toci
+Manuel Orantes, Marcello Lara
+Ion Tiriac, John Bartlett
+Adriano Panatta, Patrice Dominguez
+Juan Gisbert, Paul Gerken
+Antonio Zugarelli, Patricio Rodriguez Chi
+Patrick Proisy, Paolo Bertolucci
+Jacques Thamin, Wanaro N'Godrella
+Ilie Nastase, Ian Fletcher
+Manuel Orantes, Ion Tiriac
+Adriano Panatta, Juan Gisbert
+Patrick Proisy, Antonio Zugarelli
+Ilie Nastase, Jacques Thamin
+Adriano Panatta, Manuel Orantes
+Ilie Nastase, Patrick Proisy
+Ilie Nastase, Adriano Panatta
+John Yuill, Ronan Fearon
+Harry Turnbull, Jeff Brown
+Graham Stilwell, Kenneth Reid
+Russell Simpson, Paul Fitz Simmons
+Andrew Rae, Michael Hickey
+Bernard Mitton, John Mulvey
+Kevin Menton, Paul Mcnamee
+Marcello Lara, Anthony Brennan
+Peter Jackson, Jacques Thamin
+Neale Fraser, Des Early
+Rick Fisher, Frank Mcardle
+Colin Dowdeswell, James Mcardle
+Owen Davidson, Jim Buckley
+Mark Cox, Don O'Connell
+Ricky Buwalda, Ken Kelleher
+John Andrews, Peter Ledbetter
+John Yuill, Kevin Menton
+Graham Stilwell, Andrew Rae
+Bernard Mitton, Peter Jackson
+Marcello Lara, Ricky Buwalda
+Colin Dowdeswell, Russell Simpson
+Owen Davidson, Rick Fisher
+Mark Cox, Harry Turnbull
+John Andrews, Neale Fraser
+John Yuill, Owen Davidson
+Graham Stilwell, Marcello Lara
+Bernard Mitton, John Andrews
+Mark Cox, Colin Dowdeswell
+John Yuill, Graham Stilwell
+Mark Cox, Bernard Mitton
+Mark Cox, John Yuill
+Brian Teacher, Joaquim Rasgado Jr
+Allan Stone, Nick Saviano
+Sherwood Stewart, Byron Bertram
+Jasjit Singh, Larry Turville
+Gene Scott, Robert Kreiss
+Terry Ryan, Sashi Menon
+Onny Parun, Ferdi Taygan
+Charles Owens, Vic Seixas
+Buster C Mottram, Brian Marcus
+Fred Mcnair, Ross Case
+Frew Mcmillan, Geoff Masters
+Bob Mckinley, Syd Ball
+Sandy Mayer, Tom Kreiss
+Bruce Manson, F D Robbins
+Steve Krulevitz, John Lloyd
+Jun Kamiwazumi, Woody Blocher
+Ian Fletcher, Bob Giltinan
+Peter Fleming, Stephen Warboys
+Herb Fitzgibbon, Pat Cramer
+Rick Fisher, Kim Warwick
+John Feaver, John Andrews
+Steve Faulk, Jeff Simpson
+Mike Estep, George Hardie
+Colin Dibley, Jack Gorsuch
+Dick Dell, Freddie De Jesus
+Jean Baptiste Chanfreau, Henry Bunis
+John Bartlett, Richard Finger
+Roy Barth, Vitas Gerulaitis
+Jeff Austin, John Lucas
+Vijay Amritraj, Gene Mayer
+Anand Amritraj, Terry Hassall
+Victor Amaya, John Paish
+Brian Teacher, Rick Fisher
+Gene Scott, Bob Mckinley
+Terry Ryan, Allan Stone
+Onny Parun, Charles Owens
+Buster C Mottram, Steve Faulk
+Fred Mcnair, Jasjit Singh
+Sandy Mayer, Peter Fleming
+Ian Fletcher, Sherwood Stewart
+Herb Fitzgibbon, Frew Mcmillan
+John Feaver, John Bartlett
+Mike Estep, Jun Kamiwazumi
+Jean Baptiste Chanfreau, Roy Barth
+Jeff Austin, Dick Dell
+Vijay Amritraj, Bruce Manson
+Anand Amritraj, Colin Dibley
+Victor Amaya, Steve Krulevitz
+Brian Teacher, Terry Ryan
+Gene Scott, John Feaver
+Ian Fletcher, Onny Parun
+Herb Fitzgibbon, Victor Amaya
+Mike Estep, Fred Mcnair
+Jean Baptiste Chanfreau, Sandy Mayer
+Vijay Amritraj, Buster C Mottram
+Anand Amritraj, Jeff Austin
+Gene Scott, Anand Amritraj
+Herb Fitzgibbon, Jean Baptiste Chanfreau
+Mike Estep, Ian Fletcher
+Vijay Amritraj, Brian Teacher
+Gene Scott, Herb Fitzgibbon
+Mike Estep, Vijay Amritraj
+Mike Estep, Gene Scott
+Dick Dell, Felix Ponte
+Milan Holecek, Russell Simpson
+Sherwood Stewart, Chris Lewis
+Fred Stolle, John Bartlett
+Kim Warwick, Marcello Lara
+Allan Stone, William Brown
+Jeff Simpson, Garry Slater
+Jim Mcmanus, Anand Amritraj
+Ian Fletcher, Onny Parun
+Fred Mcnair, Kenneth McMillan
+Syd Ball, Jasjit Singh
+Mike Estep, Richard Hawkes
+Bill Lloyd, Paul Kronk
+Dick Dell, Jurgen Fassbender
+Sherwood Stewart, Milan Holecek
+Fred Stolle, Kim Warwick
+Allan Stone, Jeff Simpson
+Jim Mcmanus, Ian Fletcher
+Fred Mcnair, Paul Gerken
+Mike Estep, Syd Ball
+Brian Gottfried, Bill Lloyd
+Sherwood Stewart, Dick Dell
+Fred Stolle, Allan Stone
+Fred Mcnair, Jim Mcmanus
+Brian Gottfried, Mike Estep
+Fred Stolle, Sherwood Stewart
+Brian Gottfried, Fred Mcnair
+Fred Stolle, Brian Gottfried
+Hans Kary, Butch Seewagen
+Juan Gisbert, Gavorielle Marcu
+Ian Fletcher, Karl Meiler
+Peter Szoke, Tito Vazquez
+Paul Gerken, John Paish
+Szabolcz Baranyi, Mike Belkin
+Jurgen Fassbender, Mike Estep
+John Cooper, Jiri Hrebec
+Sandy Mayer, Jan Kukal
+Ilie Nastase, Jaime Pinto Bravo
+Pat Cramer, Hans Kary
+Juan Gisbert, Ian Fletcher
+Paul Gerken, Peter Szoke
+Jurgen Fassbender, Szabolcz Baranyi
+Sandy Mayer, John Cooper
+Ion Tiriac, Nicholas Kalogeropoulos
+Jimmy Connors, William Brown
+Ilie Nastase, Pat Cramer
+Juan Gisbert, Paul Gerken
+Jurgen Fassbender, Sandy Mayer
+Jimmy Connors, Ion Tiriac
+Ilie Nastase, Juan Gisbert
+Jimmy Connors, Jurgen Fassbender
+Ilie Nastase, Jimmy Connors
+Ilie Nastase, Steve Siegel
+Clark Graebner, Ion Tiriac
+Juan Gisbert, Vitas Gerulaitis
+Jimmy Connors, Sandy Mayer
+Clark Graebner, Ilie Nastase
+Jimmy Connors, Juan Gisbert
+Jimmy Connors, Clark Graebner
+Jasjit Singh, Gavorielle Marcu
+Nicholas Kalogeropoulos, Peter Burwash
+Ian Fletcher, Tito Vazquez
+Jurgen Fassbender, F D Robbins
+Peter Szoke, Jiri Hrebec
+Ion Tiriac, Freddie De Jesus
+Tony Bardsley, Mike Estep
+Mike Belkin, Hans Kary
+Paul Gerken, Don Mccormick
+Pat Cramer, Victor Amaya
+Jan Kukal, David Brown
+Karl Meiler, Jaime Pinto Bravo
+Ilie Nastase, Jasjit Singh
+Nicholas Kalogeropoulos, Ian Fletcher
+Jurgen Fassbender, Peter Szoke
+Ion Tiriac, Tony Bardsley
+Paul Gerken, Mike Belkin
+Pat Cramer, John Cooper
+Karl Meiler, Jan Kukal
+Juan Gisbert, Szabolcz Baranyi
+Ilie Nastase, Nicholas Kalogeropoulos
+Ion Tiriac, Jurgen Fassbender
+Paul Gerken, Pat Cramer
+Juan Gisbert, Karl Meiler
+Ilie Nastase, Ion Tiriac
+Paul Gerken, Juan Gisbert
+Ilie Nastase, Paul Gerken
+Ion Tiriac, Bill Bennion
+Paul Gerken, Jaime Pinto Bravo
+Ian Fletcher, Peter Szoke
+Jurgen Fassbender, Jasjit Singh
+Juan Gisbert, Jan Kukal
+John Cooper, Hans Kary
+Szabolcz Baranyi, F D Robbins
+Pat Cramer, Gavorielle Marcu
+Ilie Nastase, Tito Vazquez
+Mike Estep, Nicholas Kalogeropoulos
+Paul Gerken, Ion Tiriac
+Jurgen Fassbender, Ian Fletcher
+Juan Gisbert, John Cooper
+Szabolcz Baranyi, Pat Cramer
+Jiri Hrebec, Raul Ramirez
+Jimmy Connors, Karl Meiler
+Ilie Nastase, Mike Estep
+Paul Gerken, Jurgen Fassbender
+Szabolcz Baranyi, Juan Gisbert
+Jimmy Connors, Jiri Hrebec
+Paul Gerken, Ilie Nastase
+Jimmy Connors, Szabolcz Baranyi
+Jimmy Connors, Paul Gerken
+Tom Edlefsen, Patrick Proisy
+Alejandro Olmedo, Barry Phillips Moore
+Kjell Johansson, Roy Barth
+Haroon Rahim, Patrice Dominguez
+Erik Van Dillen, Wanaro N'Godrella
+Raymond Moore, Vladimir Zednik
+Jeff Austin, Tomas Fort
+Jiri Hrebec, Henry Kamakana
+Tom Leonard, Bjorn Borg
+John Lloyd, Georges Goven
+Onny Parun, Rolf Norberg
+Dick Crealy, Ove Bengtson
+Fred Mcnair, Paul Gerken
+Mike Machette, Jeff Simpson
+Jim Mcmanus, Dennis Ralston
+Dick Bohrnstedt, Jan Kodes
+Tom Edlefsen, Alejandro Olmedo
+Haroon Rahim, Kjell Johansson
+Erik Van Dillen, Raymond Moore
+Jeff Austin, Jiri Hrebec
+John Lloyd, Tom Leonard
+Onny Parun, Dick Crealy
+Mike Machette, Fred Mcnair
+Dick Bohrnstedt, Jim Mcmanus
+Haroon Rahim, Tom Edlefsen
+Jeff Austin, Erik Van Dillen
+Onny Parun, John Lloyd
+Dick Bohrnstedt, Mike Machette
+Jeff Austin, Haroon Rahim
+Onny Parun, Dick Bohrnstedt
+Jeff Austin, Onny Parun
+Tom Okker, Billy Higgins
+Frew Mcmillan, William Brown
+Robert Kreiss, Jaime Fillol
+Torben Ulrich, Terry Ryan
+Tom Gorman, Saeed Meer
+Kim Warwick, Milan Holecek
+Mark Cox, Bill Lloyd
+Pat Cramer, Mike Estep
+John Bartlett, Dick Knight
+Brian Gottfried, Jean Baptiste Chanfreau
+Bob Mckinley, Brian Teacher
+Cliff Richey, Steve Faulk
+Bob Carmichael, Steve Tidball
+John Alexander, Gerald Battrick
+Sherwood Stewart, Graham Stilwell
+Arthur Ashe, Gary Groslimond
+Tom Okker, Frew Mcmillan
+Torben Ulrich, Robert Kreiss
+Tom Gorman, Kim Warwick
+Mark Cox, Pat Cramer
+Brian Gottfried, John Bartlett
+Cliff Richey, Bob Mckinley
+John Alexander, Bob Carmichael
+Arthur Ashe, Sherwood Stewart
+Tom Okker, Torben Ulrich
+Tom Gorman, Mark Cox
+Cliff Richey, Brian Gottfried
+John Alexander, Arthur Ashe
+Tom Okker, Tom Gorman
+John Alexander, Cliff Richey
+Tom Okker, John Alexander
+Jimmy Connors, Graham Stilwell
+Haroon Rahim, Mike Belkin
+Onny Parun, Rejean Genois
+Ove Bengtson, Robert Bedard
+Mark Cox, Grover Raz Reid
+Steve Faulk, Pat Cramer
+Raymond Moore, Richard Russell
+Gerald Battrick, Keith Carpenter
+Frew Mcmillan, Rolf Norberg
+Clark Graebner, Vitas Gerulaitis
+Kjell Johansson, Bob Carmichael
+Bjorn Borg, Terry Ryan
+Frank Froehling, Kim Warwick
+Tenny Svensson, Dick Crealy
+John Lloyd, Richard Legendre
+Marty Riessen, Jan Zabrodsky
+Jimmy Connors, Haroon Rahim
+Onny Parun, Ove Bengtson
+Mark Cox, Steve Faulk
+Raymond Moore, Gerald Battrick
+Clark Graebner, Frew Mcmillan
+Kjell Johansson, Bjorn Borg
+Tenny Svensson, Frank Froehling
+Marty Riessen, John Lloyd
+Jimmy Connors, Onny Parun
+Mark Cox, Raymond Moore
+Kjell Johansson, Clark Graebner
+Marty Riessen, Tenny Svensson
+Jimmy Connors, Mark Cox
+Marty Riessen, Kjell Johansson
+Jimmy Connors, Marty Riessen
+Fred Stolle, Narendra Singh
+Jasjit Singh, Bob Giltinan
+Raul Ramirez, Tau Luu
+Chiradip Mukerjea, Kenneth McMillan
+Gaurav Misra, Jeff Simpson
+Jim Mcmanus, Balaram Singh
+Premjit Lall, Fred Mcnair
+Ramanathan Krishnan, Dick Dell
+Brian Gottfried, Bidynt Goswami
+Paul Gerken, Zeljko Franulovic
+Ian Fletcher, Shyam Minotra
+Mike Estep, Jay Royappa
+Jeff Borowiak, Jaidip Mukerjea
+Mal Anderson, John Bartlett
+Vijay Amritraj, William Brown
+Anand Amritraj, Syd Ball
+Fred Stolle, Jeff Borowiak
+Jasjit Singh, Brian Gottfried
+Raul Ramirez, Ramanathan Krishnan
+Paul Gerken, Gaurav Misra
+Ian Fletcher, Chiradip Mukerjea
+Mike Estep, Premjit Lall
+Mal Anderson, Anand Amritraj
+Vijay Amritraj, Jim Mcmanus
+Raul Ramirez, Fred Stolle
+Mike Estep, Jasjit Singh
+Mal Anderson, Paul Gerken
+Vijay Amritraj, Ian Fletcher
+Mal Anderson, Mike Estep
+Vijay Amritraj, Raul Ramirez
+Vijay Amritraj, Mal Anderson
+Atet Wijono, U Suwito
+Gondo Widjojo, Widyo Tetuko
+Sutarjo Sugiarto, Felix Ponte
+Allan Stone, Iman Sutarli
+Jasjit Singh, Kenneth McMillan
+John Newcombe, Samudra Sangitan
+Diko Murdono, Jacky Wullur
+Geoff Masters, Ardyanto Suta Wibawa
+Bill Lloyd, Mike Estep
+Marcello Lara, Fred Mcnair
+Ray Keldie, Beejong Sisson
+Hadiman Hadiman, Justedjo Tarik
+Ian Fletcher, Kim Warwick
+Jurgen Fassbender, Bien Dimalanta
+Ross Case, Albert Simangunsong
+William Brown, Budiman Aznar
+Gondo Widjojo, Bill Lloyd
+Allan Stone, William Brown
+John Newcombe, Sutarjo Sugiarto
+Marcello Lara, Diko Murdono
+Ray Keldie, Atet Wijono
+Ian Fletcher, Geoff Masters
+Jurgen Fassbender, Hadiman Hadiman
+Ross Case, Jasjit Singh
+John Newcombe, Marcello Lara
+Ian Fletcher, Ray Keldie
+Jurgen Fassbender, Gondo Widjojo
+Ross Case, Allan Stone
+John Newcombe, Ian Fletcher
+Ross Case, Jurgen Fassbender
+John Newcombe, Ross Case
+Marty Riessen, Vladimir Zednik
+Fred Stolle, Zeljko Franulovic
+Tom Gorman, Tony Bardsley
+Arthur Ashe, Jean Baptiste Chanfreau
+Dick Crealy, Premjit Lall
+Roscoe Tanner, Haroon Rahim
+Pierre Barthes, Frantisek Pala
+Mark Cox, Tom Leonard
+Roger Taylor, Ismail El Shafei
+Erik Van Dillen, Torben Ulrich
+Alex Metreveli, Ross Case
+Jan Kodes, Boro Jovanovic
+Ken Rosewall, Graham Stilwell
+Tom Okker, Joaquin Loyo Mayo
+Raymond Moore, Jeff Borowiak
+Brian Fairlie, Bob Carmichael
+Fred Stolle, Marty Riessen
+Tom Gorman, Arthur Ashe
+Roscoe Tanner, Dick Crealy
+Pierre Barthes, Mark Cox
+Erik Van Dillen, Roger Taylor
+Jan Kodes, Alex Metreveli
+Ken Rosewall, Tom Okker
+Raymond Moore, Brian Fairlie
+Tom Gorman, Fred Stolle
+Roscoe Tanner, Pierre Barthes
+Jan Kodes, Erik Van Dillen
+Ken Rosewall, Raymond Moore
+Tom Gorman, Roscoe Tanner
+Jan Kodes, Ken Rosewall
+Tom Gorman, Jan Kodes
+Manuel Orantes, Oswaldo Cruz
+Ian Fletcher, Jeff Borowiak
+Allan Stone, Jose Edison Mandarino
+Georges Goven, Nicholas Kalogeropoulos
+Graham Stilwell, Andrew Pattison
+Jose Castanon, David Lloyd
+Antonio Munoz, Milan Holecek
+Patrice Dominguez, Kim Warwick
+Onny Parun, Ion Tiriac
+Wanaro N'Godrella, Stephen Warboys
+John Paish, Martin Mulligan
+Andres Gimeno, Ivan Molina
+Jim Mcmanus, Marcus Kramer
+Paul Gerken, Dick Crealy
+Haroon Rahim, John Feaver
+Mark Cox, Ove Bengtson
+Ian Fletcher, Manuel Orantes
+Allan Stone, Georges Goven
+Graham Stilwell, Jose Castanon
+Patrice Dominguez, Antonio Munoz
+Onny Parun, Wanaro N'Godrella
+Andres Gimeno, John Paish
+Paul Gerken, Jim Mcmanus
+Mark Cox, Haroon Rahim
+Allan Stone, Ian Fletcher
+Patrice Dominguez, Graham Stilwell
+Onny Parun, Andres Gimeno
+Mark Cox, Paul Gerken
+Patrice Dominguez, Allan Stone
+Mark Cox, Onny Parun
+Mark Cox, Patrice Dominguez
+Kim Warwick, Rob Wallace
+Roger Taylor, Geoff Griffiths
+Jonathan Smith, Dick Dell
+Jeff Simpson, D Robert
+Terry Ryan, Mike Rowe
+Greg Perkins, John Clifton
+Tony Parun, Raymond Mapp
+John Paish, Phil Tovey
+Jaidip Mukerjea, M Williams
+Saeed Meer, Greg Peebles
+Mark Lyndon, Stephen Warboys
+David Lloyd, Butch Palmer
+Bill Lloyd, Jeremy Bond
+John Lloyd, Paul Hutchins
+Richard Lewis, U Thomas
+Ray Keldie, Stephen Jones
+Jun Kamiwazumi, Charles Owens
+Munawar Iqbal, Praful Ghatage
+Bob Giltinan, Richard Hillage
+Mark Farrell, U Pickthall
+Ernie Ewert, Nick Lee
+William Durham, J Hill
+R W Davies, Tito Vazquez
+Peter Curtis, Glenn Hamilton
+Dick Crealy, Richard Stott
+Pat Cramer, Mike Collins
+John Cooper, D Hardiman
+Dick Bohrnstedt, Gaurav Misra
+Byron Bertram, William Brown
+John Bartlett, Graham Thompson
+Jeff Austin, Robert Lidgey
+Roger Taylor, Ernie Ewert
+Jonathan Smith, William Durham
+Jeff Simpson, Bill Lloyd
+Terry Ryan, John Feaver
+Tony Parun, Mark Lyndon
+John Paish, Ray Keldie
+Jaidip Mukerjea, Greg Perkins
+David Lloyd, Munawar Iqbal
+John Lloyd, R W Davies
+Richard Lewis, Pat Cramer
+Bob Giltinan, Saeed Meer
+Dick Crealy, Mark Farrell
+John Cooper, Jeff Austin
+Dick Bohrnstedt, Peter Curtis
+Byron Bertram, Kim Warwick
+John Bartlett, Jun Kamiwazumi
+Roger Taylor, Jonathan Smith
+Jeff Simpson, John Cooper
+Terry Ryan, Tony Parun
+John Paish, Jaidip Mukerjea
+Bob Giltinan, Dick Crealy
+Dick Bohrnstedt, Richard Lewis
+Byron Bertram, John Lloyd
+John Bartlett, David Lloyd
+Roger Taylor, Terry Ryan
+Jeff Simpson, Byron Bertram
+John Paish, John Bartlett
+Bob Giltinan, Dick Bohrnstedt
+Roger Taylor, John Paish
+Bob Giltinan, Jeff Simpson
+Roger Taylor, Bob Giltinan
+Jaime Fillol, Toshiro Sakai
+Eddie Dibbs, Charles Owens
+Ross Case, Antonio Munoz
+Tom Edlefsen, Ismail El Shafei
+Brian Fairlie, Patricio Cornejo
+Anand Amritraj, Wanaro N'Godrella
+Bob Carmichael, F D Robbins
+Jeff Borowiak, Humphrey Hose
+Georges Goven, Pat Cramer
+Haroon Rahim, Graham Stilwell
+Geoff Masters, Mike Estep
+Vijay Amritraj, Dick Bohrnstedt
+Billy Higgins, Bob Mckinley
+Gerald Battrick, John Lowman
+Frew Mcmillan, Butch Seewagen
+Cliff Richey, Ivan Molina
+Jaime Fillol, Eddie Dibbs
+Ross Case, Tom Edlefsen
+Brian Fairlie, Anand Amritraj
+Jeff Borowiak, Bob Carmichael
+Georges Goven, Haroon Rahim
+Vijay Amritraj, Geoff Masters
+Gerald Battrick, Billy Higgins
+Frew Mcmillan, Cliff Richey
+Jaime Fillol, Ross Case
+Jeff Borowiak, Brian Fairlie
+Vijay Amritraj, Georges Goven
+Gerald Battrick, Frew Mcmillan
+Jaime Fillol, Jeff Borowiak
+Gerald Battrick, Vijay Amritraj
+Jaime Fillol, Gerald Battrick
+Clark Graebner, Gavorielle Marcu
+Jurgen Fassbender, Hans Kary
+Karl Meiler, Ilie Nastase
+Pat Cramer, Jan Kukal
+Szabolcz Baranyi, Ion Tiriac
+Clark Graebner, Jiri Hrebec
+Nicholas Kalogeropoulos, Richard Gonzalez
+Jaime Pinto Bravo, Peter Szoke
+Ian Fletcher, Jurgen Fassbender
+Juan Gisbert, John Cooper
+Karl Meiler, Pat Cramer
+Clark Graebner, Szabolcz Baranyi
+Nicholas Kalogeropoulos, Jaime Pinto Bravo
+Juan Gisbert, Ian Fletcher
+Clark Graebner, Karl Meiler
+Nicholas Kalogeropoulos, Juan Gisbert
+Clark Graebner, Nicholas Kalogeropoulos
+Tom Edlefsen, Rod Laver
+Jaime Fillol, Allan Stone
+Andrew Pattison, Cliff Drysdale
+John Alexander, Frank Froehling
+Onny Parun, Dick Stockton
+Terry Addison, Patricio Cornejo
+Roy Barth, Derek Schroder
+Gerald Battrick, Roy Emerson
+Cliff Richey, Harold Solomon
+Brian Gottfried, Robert Maud
+Milan Holecek, Jim Mcmanus
+Bob Lutz, Frew Mcmillan
+Colin Dibley, Barry Phillips Moore
+Jose Edison Mandarino, Phil Dent
+Ove Bengtson, Rauty Krog
+Charlie Pasarell, Stan Smith
+Jaime Fillol, Tom Edlefsen
+Andrew Pattison, John Alexander
+Onny Parun, Terry Addison
+Gerald Battrick, Roy Barth
+Brian Gottfried, Cliff Richey
+Bob Lutz, Milan Holecek
+Colin Dibley, Jose Edison Mandarino
+Ove Bengtson, Charlie Pasarell
+Jaime Fillol, Andrew Pattison
+Onny Parun, Gerald Battrick
+Brian Gottfried, Bob Lutz
+Ove Bengtson, Colin Dibley
+Jaime Fillol, Onny Parun
+Brian Gottfried, Ove Bengtson
+Brian Gottfried, Jaime Fillol
+Tom Okker, Ismail El Shafei
+Raymond Moore, Fred Stolle
+Roscoe Tanner, Haroon Rahim
+Brian Fairlie, Tom Gorman
+Erik Van Dillen, Jan Kodes
+Alex Metreveli, Jean Baptiste Chanfreau
+Bob Carmichael, Joaquin Loyo Mayo
+Arthur Ashe, Tom Leonard
+Marty Riessen, Torben Ulrich
+Jeff Borowiak, Zeljko Franulovic
+Ray Ruffels, Premjit Lall
+Dick Crealy, Roger Taylor
+Mark Cox, Vladimir Zednik
+Boro Jovanovic, Graham Stilwell
+Pierre Barthes, Ross Case
+Ken Rosewall, Frantisek Pala
+Tom Okker, Raymond Moore
+Brian Fairlie, Roscoe Tanner
+Alex Metreveli, Erik Van Dillen
+Arthur Ashe, Bob Carmichael
+Marty Riessen, Jeff Borowiak
+Dick Crealy, Ray Ruffels
+Mark Cox, Boro Jovanovic
+Ken Rosewall, Pierre Barthes
+Brian Fairlie, Tom Okker
+Arthur Ashe, Alex Metreveli
+Marty Riessen, Dick Crealy
+Mark Cox, Ken Rosewall
+Brian Fairlie, Arthur Ashe
+Mark Cox, Marty Riessen
+Brian Fairlie, Mark Cox
+Jurgen Fassbender, Roy Barth
+Butch Seewagen, Hans Engert
+Nicola Spear, Bill Lloyd
+Attila Korpas, Raul Ramirez
+Hans Jurgen Pohmann, Peter Pokorny
+Jose Edison Mandarino, Pat Cramer
+Mike Estep, Paul Kronk
+Ulrich Pinner, John Cooper
+Harald Elschenbroich, Robert Rheinberger
+Julian Ganzabal, Joaquin Loyo Mayo
+Eddie Dibbs, Patrick Hombergen
+Frank Falderbaum, Terry Ryan
+Hans Kary, John Bartlett
+Bernard Mignot, Frank Gebert
+Milan Holecek, Kim Warwick
+Karl Meiler, Geza Varga
+Jurgen Fassbender, Butch Seewagen
+Attila Korpas, Nicola Spear
+Hans Jurgen Pohmann, Jose Edison Mandarino
+Ulrich Pinner, Mike Estep
+Harald Elschenbroich, Julian Ganzabal
+Eddie Dibbs, Frank Falderbaum
+Bernard Mignot, Hans Kary
+Karl Meiler, Milan Holecek
+Jurgen Fassbender, Attila Korpas
+Hans Jurgen Pohmann, Ulrich Pinner
+Eddie Dibbs, Harald Elschenbroich
+Karl Meiler, Bernard Mignot
+Hans Jurgen Pohmann, Jurgen Fassbender
+Karl Meiler, Eddie Dibbs
+Hans Jurgen Pohmann, Karl Meiler
+Bill Lloyd, Jan Kukal
+Paolo Bertolucci, Mike Estep
+David Lloyd, Jose Guerrero
+Hans Kary, Piero Toci
+Nicholas Kalogeropoulos, Patricio Rodriguez Chi
+Corrado Barazzutti, John Feaver
+Robert Machan, Ezio Di Matteo
+Vincenzo Franchitti, Juan Herrera
+Jacques Thamin, John Cooper
+Peter Szoke, Jeff Simpson
+Paul Gerken, Jaime Pinto Bravo
+Kim Warwick, Bernard Montrenaud
+Kjell Johansson, Martin Mulligan
+Istvan Gulyas, Hans Engert
+Marcello Lara, Steve Faulk
+Georges Goven, Stephen Warboys
+Manuel Orantes, Bill Lloyd
+Paolo Bertolucci, Patrice Dominguez
+Harald Elschenbroich, David Lloyd
+Ion Tiriac, Hans Kary
+Adriano Panatta, Nicholas Kalogeropoulos
+Bjorn Borg, Corrado Barazzutti
+Robert Machan, Antonio Munoz
+Patrick Hombergen, Vincenzo Franchitti
+Juan Gisbert, Jacques Thamin
+Francois Jauffret, Peter Szoke
+Paul Gerken, Ian Fletcher
+Patrick Proisy, Kim Warwick
+Kjell Johansson, Bernard Mignot
+Jiri Hrebec, Istvan Gulyas
+Szabolcz Baranyi, Marcello Lara
+Ilie Nastase, Georges Goven
+Manuel Orantes, Paolo Bertolucci
+Harald Elschenbroich, Ion Tiriac
+Adriano Panatta, Bjorn Borg
+Patrick Hombergen, Robert Machan
+Francois Jauffret, Juan Gisbert
+Patrick Proisy, Paul Gerken
+Jiri Hrebec, Kjell Johansson
+Ilie Nastase, Szabolcz Baranyi
+Manuel Orantes, Harald Elschenbroich
+Adriano Panatta, Patrick Hombergen
+Francois Jauffret, Patrick Proisy
+Ilie Nastase, Jiri Hrebec
+Adriano Panatta, Manuel Orantes
+Ilie Nastase, Francois Jauffret
+Ilie Nastase, Adriano Panatta
+Allan Stone, Phil Gunning
+Joel Ross, Jean Louis Haillet
+Patrick Proisy, Ian Beverly
+Onny Parun, Wanaro N'Godrella
+Karl Meiler, Peter Becroft
+Nicolas Kelaidis, Ross Mcghie
+Jun Kamiwazumi, Geoff Masters
+Georges Goven, Tony Parun
+Brian Fairlie, Thierry Bernasconi
+Patrice Dominguez, Chris Greendale
+Dick Crealy, Don Turner
+Ross Case, Steve Stefanki
+Bob Carmichael, Hans Kary
+Szabolcz Baranyi, Jean Francois Caujolle
+Allan Stone, Frank Gebert
+Patrick Proisy, Dick Crealy
+Onny Parun, Joel Ross
+Georges Goven, Jun Kamiwazumi
+Patrice Dominguez, Nicolas Kelaidis
+Ross Case, Brian Fairlie
+Bob Carmichael, Hans Joachim Ploetz
+Szabolcz Baranyi, Karl Meiler
+Allan Stone, Szabolcz Baranyi
+Patrick Proisy, Ross Case
+Onny Parun, Georges Goven
+Patrice Dominguez, Bob Carmichael
+Patrick Proisy, Allan Stone
+Onny Parun, Patrice Dominguez
+Onny Parun, Patrick Proisy
+Rod Laver, Keith Carpenter
+Frew Mcmillan, Andrew Pattison
+Nikola Pilic, Barry Phillips Moore
+Cliff Richey, Tom Edlefsen
+Stan Smith, Harry Fauquier
+Harold Solomon, Roy Barth
+Ove Bengtson, Terry Addison
+Colin Dibley, Patricio Cornejo
+Dick Stockton, Onny Parun
+Jim Mcmanus, Jose Edison Mandarino
+Jaime Fillol, Brian Gottfried
+John Alexander, Charlie Pasarell
+Bob Lutz, Robert Maud
+Allan Stone, Frank Froehling
+Phil Dent, Gerald Battrick
+Roy Emerson, Milan Holecek
+Rod Laver, Frew Mcmillan
+Cliff Richey, Nikola Pilic
+Stan Smith, Harold Solomon
+Ove Bengtson, Colin Dibley
+Dick Stockton, Jim Mcmanus
+Jaime Fillol, John Alexander
+Allan Stone, Bob Lutz
+Roy Emerson, Phil Dent
+Rod Laver, Cliff Richey
+Stan Smith, Ove Bengtson
+Jaime Fillol, Dick Stockton
+Roy Emerson, Allan Stone
+Rod Laver, Stan Smith
+Roy Emerson, Jaime Fillol
+Rod Laver, Roy Emerson
+Bjorn Borg, Enrique Caviglia
+Ricardo Cano, Armando Cornejo
+Ion Tiriac, Hector Romani
+Patricio Cornejo, Victor Pecci
+Ivan Molina, Nicholas Kalogeropoulos
+Julian Ganzabal, Alejandro Pierola
+Zeljko Franulovic, Carlos Gattiker
+Thomaz Koch, Fernando Dalla Fontana
+Jean Baptiste Chanfreau, Francisco Mastelli
+Toma Ovici, Tomas Lynch
+Hans Kary, Eduardo Zuleta
+Guillermo Vilas, Roberto Graetz
+Jaime Pinto Bravo, Hugo Varela
+Kjell Johansson, Juan Rivera
+Jose Edison Mandarino, Lorenzo Soriano
+Eddie Dibbs, Thierry Quintin
+Bjorn Borg, Ricardo Cano
+Ion Tiriac, Patricio Cornejo
+Ivan Molina, Julian Ganzabal
+Zeljko Franulovic, Thomaz Koch
+Toma Ovici, Jean Baptiste Chanfreau
+Guillermo Vilas, Hans Kary
+Jaime Pinto Bravo, Kjell Johansson
+Eddie Dibbs, Jose Edison Mandarino
+Bjorn Borg, Ion Tiriac
+Ivan Molina, Zeljko Franulovic
+Guillermo Vilas, Toma Ovici
+Eddie Dibbs, Jaime Pinto Bravo
+Bjorn Borg, Ivan Molina
+Guillermo Vilas, Eddie Dibbs
+Guillermo Vilas, Bjorn Borg
+Adriano Panatta, Kim Warwick
+Paul Gerken, Antonio Zugarelli
+Jurgen Fassbender, John Feaver
+Ion Tiriac, Byron Bertram
+Karl Meiler, Szabolcz Baranyi
+Attila Korpas, Robert Machan
+Francois Jauffret, Istvan Gulyas
+Wanaro N'Godrella, Paolo Bertolucci
+Tadeusz Nowicki, Bjorn Borg
+Peter Szoke, Patrick Proisy
+Andres Gimeno, Hans Kary
+Georges Goven, Kjell Johansson
+Steve Faulk, Jiri Hrebec
+Juan Gisbert, Patrice Dominguez
+Martin Mulligan, Antonio Munoz
+Manuel Orantes, Vincenzo Franchitti
+Adriano Panatta, Paul Gerken
+Ion Tiriac, Jurgen Fassbender
+Karl Meiler, Attila Korpas
+Wanaro N'Godrella, Francois Jauffret
+Tadeusz Nowicki, Peter Szoke
+Georges Goven, Andres Gimeno
+Juan Gisbert, Steve Faulk
+Manuel Orantes, Martin Mulligan
+Adriano Panatta, Ion Tiriac
+Wanaro N'Godrella, Karl Meiler
+Tadeusz Nowicki, Georges Goven
+Manuel Orantes, Juan Gisbert
+Adriano Panatta, Wanaro N'Godrella
+Manuel Orantes, Tadeusz Nowicki
+Manuel Orantes, Adriano Panatta
+Reinhard Mattern, Werner Zirngibl
+Hartmut Kirchhubel, Helmut Fickentscher
+Erwin Jager, Uli Heyne
+Gunther Gnettner, Herbert Loerke
+Julian Ganzabal, Holger Osinski
+Thomas Furst, Andreas Trenkle
+Karl Fichtel, Michael Probst
+Eric Deblicker, Max Wunschig
+Reinhard Mattern, Gunther Gnettner
+Hartmut Kirchhubel, Thomas Furst
+Erwin Jager, Eric Deblicker
+Julian Ganzabal, Karl Fichtel
+Hans Jurgen Pohmann, Zlatko Ivancic
+Sever Muresan, Martin Mulligan
+Sandy Mayer, Erwin Jager
+Hartmut Kirchhubel, Francois Jauffret
+Milan Holecek, Joaquin Loyo Mayo
+Julian Ganzabal, Pierre Barthes
+Rick Fisher, Patrick Proisy
+Harald Elschenbroich, Reinhard Mattern
+Hans Jurgen Pohmann, Julian Ganzabal
+Sandy Mayer, Milan Holecek
+Rick Fisher, Sever Muresan
+Harald Elschenbroich, Hartmut Kirchhubel
+Sandy Mayer, Hans Jurgen Pohmann
+Harald Elschenbroich, Rick Fisher
+Sandy Mayer, Harald Elschenbroich
+Thierry Bernasconi, Jan Zabrodsky
+Jean Francois Caujolle, Steve Faulk
+Pietro Marzano, Noel Callaghan
+Vincenzo Franchitti, Jacques Thamin
+Corrado Barazzutti, Pierre Joly
+Piero Toci, Maurizio Bonaiti
+Birger Andersson, Marco Gilardelli
+Jasjit Singh, Massimo Di Domenico
+Jean Louis Haillet, Paolo Lazzari
+Nicola Spear, S Saggoni
+Tenny Svensson, John Bartlett
+Paul Kronk, Mark Cox
+Ian Fletcher, Vittorio Crotta
+Bernard Montrenaud, Ezio Di Matteo
+Adriano Panatta, Thierry Bernasconi
+Jean Francois Caujolle, Marcello Lara
+Antonio Munoz, Pietro Marzano
+Paul Gerken, Vincenzo Franchitti
+Georges Goven, Corrado Barazzutti
+Andres Gimeno, Piero Toci
+Patrice Dominguez, Juan Gisbert
+Paolo Bertolucci, Birger Andersson
+Barry Phillips Moore, Jasjit Singh
+Francois Jauffret, Jean Louis Haillet
+Bob Carmichael, Nicola Spear
+Ion Tiriac, Tenny Svensson
+Paul Kronk, Antonio Zugarelli
+Martin Mulligan, Ian Fletcher
+Gerald Battrick, Bernard Montrenaud
+Ilie Nastase, Mario Caimo
+Adriano Panatta, Jean Francois Caujolle
+Paul Gerken, Antonio Munoz
+Georges Goven, Andres Gimeno
+Paolo Bertolucci, Patrice Dominguez
+Francois Jauffret, Barry Phillips Moore
+Ion Tiriac, Bob Carmichael
+Martin Mulligan, Paul Kronk
+Ilie Nastase, Gerald Battrick
+Adriano Panatta, Paul Gerken
+Paolo Bertolucci, Georges Goven
+Francois Jauffret, Ion Tiriac
+Ilie Nastase, Martin Mulligan
+Adriano Panatta, Paolo Bertolucci
+Ilie Nastase, Francois Jauffret
+Ilie Nastase, Adriano Panatta
+Tom Okker, Gerald Battrick
+Alex Metreveli, Geoff Masters
+Brian Fairlie, Bob Lutz
+Brian Gottfried, Hans Jurgen Pohmann
+Jimmy Connors, Barry Phillips Moore
+John Cooper, Roy Emerson
+Jurgen Fassbender, Tom Gorman
+Roscoe Tanner, Pierre Barthes
+Owen Davidson, Frank Froehling
+Colin Dibley, Vijay Amritraj
+Eddie Dibbs, Erik Van Dillen
+Mike Estep, Marty Riessen
+Charlie Pasarell, Francois Jauffret
+Karl Meiler, Anand Amritraj
+Phil Dent, Bob Hewitt
+John Newcombe, Ray Keldie
+Ilie Nastase, Dick Stockton
+Raymond Moore, Bob Carmichael
+Paolo Bertolucci, Tony Roche
+Ismail El Shafei, Cliff Richey
+Alex Metreveli, Tom Okker
+Brian Fairlie, Brian Gottfried
+Jimmy Connors, John Cooper
+Jurgen Fassbender, Roscoe Tanner
+Owen Davidson, Colin Dibley
+Eddie Dibbs, Mike Estep
+Karl Meiler, Charlie Pasarell
+John Newcombe, Phil Dent
+Roger Taylor, John Alexander
+Arthur Ashe, Ross Case
+Cliff Drysdale, Clark Graebner
+Harold Solomon, Adriano Panatta
+Ilie Nastase, Raymond Moore
+Ismail El Shafei, Paolo Bertolucci
+Alex Metreveli, Brian Fairlie
+Jurgen Fassbender, Jimmy Connors
+Owen Davidson, Eddie Dibbs
+John Newcombe, Karl Meiler
+Roger Taylor, Arthur Ashe
+Cliff Drysdale, Harold Solomon
+Ilie Nastase, Ismail El Shafei
+Alex Metreveli, Jurgen Fassbender
+Owen Davidson, John Newcombe
+Roger Taylor, Cliff Drysdale
+Ilie Nastase, Alex Metreveli
+Roger Taylor, Owen Davidson
+Ilie Nastase, Roger Taylor
+Tom Okker, Kenichi Hirai
+Onny Parun, Andras Szocsik
+Karl Meiler, Norman Holmes
+Jasjit Singh, Dimitri Sturdza
+Roy Emerson, Toma Ovici
+Raymond Moore, Jean Claude Barclay
+Sandy Mayer, Jean Baptiste Chanfreau
+Peter Kanderal, Colin Dibley
+Wanaro N'Godrella, Ismail El Shafei
+Patrick Proisy, Robert Maud
+Barry Phillips Moore, Milan Holecek
+Allan Stone, Andres Gimeno
+Brian Fairlie, Nicola Spear
+Francois Jauffret, Antonio Munoz
+Jose Edison Mandarino, Patrice Dominguez
+Ilie Nastase, Kiyoshi Tanabe
+Tom Okker, Onny Parun
+Karl Meiler, Jasjit Singh
+Roy Emerson, Raymond Moore
+Sandy Mayer, Peter Kanderal
+Patrick Proisy, Wanaro N'Godrella
+Allan Stone, Barry Phillips Moore
+Brian Fairlie, Francois Jauffret
+Ilie Nastase, Jose Edison Mandarino
+Karl Meiler, Tom Okker
+Roy Emerson, Sandy Mayer
+Patrick Proisy, Allan Stone
+Ilie Nastase, Brian Fairlie
+Roy Emerson, Karl Meiler
+Ilie Nastase, Patrick Proisy
+Ilie Nastase, Roy Emerson
+Stan Smith, Joaquin Loyo Mayo
+Geoff Masters, Julian Ganzabal
+Martin Mulligan, Haroon Rahim
+Georges Goven, Corrado Barazzutti
+Bjorn Borg, Anand Amritraj
+Jan Kukal, Ian Fletcher
+Jaime Pinto Bravo, Raul Ramirez
+Buster C Mottram, Patricio Cornejo
+Ivan Molina, Ove Bengtson
+Leif Johansson, Guillermo Vilas
+Bob Carmichael, Gerald Battrick
+Nikola Pilic, Jim Mcmanus
+Antonio Zugarelli, Ross Case
+Frew Mcmillan, Vijay Amritraj
+Hans Kary, Jeff Borowiak
+Manuel Orantes, Per Jemsby
+Stan Smith, Geoff Masters
+Martin Mulligan, Georges Goven
+Bjorn Borg, Jan Kukal
+Jaime Pinto Bravo, Buster C Mottram
+Leif Johansson, Ivan Molina
+Bob Carmichael, Nikola Pilic
+Antonio Zugarelli, Frew Mcmillan
+Manuel Orantes, Hans Kary
+Stan Smith, Martin Mulligan
+Bjorn Borg, Jaime Pinto Bravo
+Leif Johansson, Bob Carmichael
+Manuel Orantes, Antonio Zugarelli
+Stan Smith, Bjorn Borg
+Manuel Orantes, Leif Johansson
+Stan Smith, Manuel Orantes
+Tom Okker, Rolf Spitzer
+John Lloyd, Janos Benyik
+Ross Case, Louk Sanders
+Wanaro N'Godrella, Marian Laudin
+Bertalan Csoknyai, Antonio Munoz
+Attila Korpas, Georges Goven
+Allan Stone, Jun Kuki
+Jaime Pinto Bravo, Rolf Thung
+Andres Gimeno, Pat Cramer
+Jean Baptiste Chanfreau, Jun Kamiwazumi
+Tom Christensen, Robert Maud
+Ian Fletcher, Fred Hemmes
+Geoff Masters, Anand Amritraj
+Jan Hordijk, Stephen Warboys
+Vijay Amritraj, Nick Fleury
+Ivan Molina, Jean Francois Caujolle
+Tom Okker, John Lloyd
+Wanaro N'Godrella, Ross Case
+Attila Korpas, Bertalan Csoknyai
+Allan Stone, Jaime Pinto Bravo
+Andres Gimeno, Jean Baptiste Chanfreau
+Ian Fletcher, Tom Christensen
+Geoff Masters, Jan Hordijk
+Ivan Molina, Vijay Amritraj
+Tom Okker, Wanaro N'Godrella
+Allan Stone, Attila Korpas
+Andres Gimeno, Ian Fletcher
+Geoff Masters, Ivan Molina
+Tom Okker, Allan Stone
+Andres Gimeno, Geoff Masters
+Tom Okker, Andres Gimeno
+Roy Emerson, Norman Holmes
+Marcello Lara, Bob Mckinley
+Vladimir Zednik, Jim Mcmanus
+Anatoli Volkov, Peter Szoke
+Raul Ramirez, Bjorn Borg
+Patricio Cornejo, Rolf Norberg
+Jose Edison Mandarino, Milan Holecek
+Sandy Mayer, Kim Warwick
+Ruby Hoskowetz, Colin Dibley
+Ion Tiriac, John Bartlett
+Hans Kary, Tito Vazquez
+Barry Phillips Moore, Toshiro Sakai
+Martin Mulligan, Joaquin Loyo Mayo
+Vladimir Korotkov, Sever Muresan
+Buster C Mottram, Peter Pokorny
+Manuel Orantes, Shamil Tarpischev
+Marcello Lara, Roy Emerson
+Vladimir Zednik, Anatoli Volkov
+Raul Ramirez, Patricio Cornejo
+Jose Edison Mandarino, Sandy Mayer
+Ion Tiriac, Ruby Hoskowetz
+Barry Phillips Moore, Hans Kary
+Vladimir Korotkov, Martin Mulligan
+Manuel Orantes, Buster C Mottram
+Marcello Lara, Vladimir Zednik
+Raul Ramirez, Jose Edison Mandarino
+Ion Tiriac, Barry Phillips Moore
+Manuel Orantes, Vladimir Korotkov
+Raul Ramirez, Marcello Lara
+Manuel Orantes, Ion Tiriac
+Raul Ramirez, Manuel Orantes
+Marty Riessen, Fred Stolle
+Ross Case, Dick Crealy
+Raymond Moore, Zeljko Franulovic
+Ismail El Shafei, Tom Okker
+Ken Rosewall, Joaquin Loyo Mayo
+Tom Gorman, Premjit Lall
+Torben Ulrich, Erik Van Dillen
+Arthur Ashe, Pierre Barthes
+Brian Fairlie, Frantisek Pala
+Vladimir Zednik, Tom Leonard
+Alex Metreveli, Boro Jovanovic
+Jan Kodes, Jeff Borowiak
+Mark Cox, Bob Carmichael
+Jean Baptiste Chanfreau, Roscoe Tanner
+Roger Taylor, Graham Stilwell
+Marty Riessen, Ross Case
+Raymond Moore, Ismail El Shafei
+Ken Rosewall, Tom Gorman
+Arthur Ashe, Torben Ulrich
+Brian Fairlie, Vladimir Zednik
+Jan Kodes, Alex Metreveli
+Jean Baptiste Chanfreau, Mark Cox
+Roger Taylor, Haroon Rahim
+Raymond Moore, Marty Riessen
+Ken Rosewall, Arthur Ashe
+Brian Fairlie, Jan Kodes
+Roger Taylor, Jean Baptiste Chanfreau
+Ken Rosewall, Raymond Moore
+Roger Taylor, Brian Fairlie
+Ken Rosewall, Roger Taylor
+Kim Warwick, Keishiro Yanagi
+Sherwood Stewart, Frew Mcmillan
+Jeff Simpson, Anand Amritraj
+Toshiro Sakai, Fred Mcnair
+Hans Jurgen Pohmann, Shinya Tanaka
+Bill Lloyd, Jackie Cooper
+Milan Holecek, Jun Kuki
+Kenichi Hirai, Felix Ponte
+Bob Giltinan, Eddie Cruz
+Zeljko Franulovic, John Bartlett
+Ian Fletcher, Sachio Kato
+Mike Estep, Paul Kronk
+Dick Dell, Jasjit Singh
+William Brown, Jun Kamiwazumi
+Jeff Borowiak, Marcello Lara
+Syd Ball, Jim Mcmanus
+Kim Warwick, Paul Gerken
+Toshiro Sakai, Allan Stone
+Ken Rosewall, Dick Dell
+Raul Ramirez, Syd Ball
+Hans Jurgen Pohmann, Vijay Amritraj
+Charlie Pasarell, William Brown
+John Newcombe, Bob Giltinan
+Geoff Masters, Ian Fletcher
+Milan Holecek, Kiyoshi Tanabe
+Brian Gottfried, Sherwood Stewart
+Tom Gorman, Kenichi Hirai
+Zeljko Franulovic, Ross Case
+Jurgen Fassbender, Mike Estep
+Cliff Drysdale, Jeff Simpson
+Colin Dibley, Bill Lloyd
+Jeff Borowiak, Mal Anderson
+Kim Warwick, Jurgen Fassbender
+Ken Rosewall, Toshiro Sakai
+Hans Jurgen Pohmann, Charlie Pasarell
+John Newcombe, Geoff Masters
+Brian Gottfried, Zeljko Franulovic
+Cliff Drysdale, Raul Ramirez
+Colin Dibley, Milan Holecek
+Jeff Borowiak, Tom Gorman
+Ken Rosewall, Kim Warwick
+Hans Jurgen Pohmann, Brian Gottfried
+John Newcombe, Colin Dibley
+Cliff Drysdale, Jeff Borowiak
+Ken Rosewall, Cliff Drysdale
+John Newcombe, Hans Jurgen Pohmann
+Ken Rosewall, John Newcombe
+Marty Riessen, Jeff Borowiak
+Bob Carmichael, Joaquin Loyo Mayo
+Jan Kodes, Zeljko Franulovic
+Tom Okker, Erik Van Dillen
+Haroon Rahim, Tom Gorman
+Fred Stolle, Premjit Lall
+Vladimir Zednik, Raymond Moore
+Mark Cox, Graham Stilwell
+Roscoe Tanner, Torben Ulrich
+Alex Metreveli, Jean Baptiste Chanfreau
+Ismail El Shafei, Frantisek Pala
+Arthur Ashe, Tom Leonard
+Ken Rosewall, Pierre Barthes
+Roger Taylor, Attila Korpas
+Dick Crealy, Ross Case
+Brian Fairlie, Boro Jovanovic
+Marty Riessen, Bob Carmichael
+Jan Kodes, Tom Okker
+Haroon Rahim, Fred Stolle
+Mark Cox, Vladimir Zednik
+Alex Metreveli, Roscoe Tanner
+Ismail El Shafei, Arthur Ashe
+Ken Rosewall, Roger Taylor
+Brian Fairlie, Dick Crealy
+Jan Kodes, Marty Riessen
+Mark Cox, Haroon Rahim
+Alex Metreveli, Ismail El Shafei
+Brian Fairlie, Ken Rosewall
+Jan Kodes, Mark Cox
+Brian Fairlie, Alex Metreveli
+Jan Kodes, Brian Fairlie
+Rod Laver, Dick Dell
+John Cooper, Bob Giltinan
+Paul Gerken, Alexander Marcial
+Syd Ball, Eddie Cruz
+Sherwood Stewart, Colin Dibley
+Anand Amritraj, KS Leung
+Mal Anderson, Alan Ho
+Milan Holecek, K Tsui
+Jim Mcmanus, Osamu Ishiguro
+Fred Stolle, Jeck Chu
+Jeff Simpson, Po Tao
+Brian Gottfried, William Koo
+John Bartlett, Zeljko Franulovic
+Raul Ramirez, Ashley Cooper
+Charlie Pasarell, Charles Chang
+Vijay Amritraj, Tau Luu
+Rod Laver, John Cooper
+Paul Gerken, Syd Ball
+Anand Amritraj, Sherwood Stewart
+Mal Anderson, Milan Holecek
+Fred Stolle, Jim Mcmanus
+Brian Gottfried, Jeff Simpson
+Raul Ramirez, John Bartlett
+Charlie Pasarell, Vijay Amritraj
+Rod Laver, Paul Gerken
+Anand Amritraj, Mal Anderson
+Fred Stolle, Brian Gottfried
+Charlie Pasarell, Raul Ramirez
+Rod Laver, Anand Amritraj
+Charlie Pasarell, Fred Stolle
+Rod Laver, Charlie Pasarell
+Chris Walsh, John Bartlett
+Balazs Taroczy, Graeme Thomson
+Kiyoshi Tanabe, Andrew Rae
+Hans Joachim Ploetz, John Manderson
+Michael Phillips, Greg Braun
+Stephen Myers, John Marks
+Robert Machan, Allan McDonald
+Cliff Letcher, David Carter
+Hans Kary, Terence Musgrove
+Jun Kamiwazumi, Geoff Pollard
+Jean Louis Haillet, Greg Perkins
+Bob Giltinan, Frank Sedgman
+Frank Gebert, Peter Doerner
+Phil Dent, John James
+Thierry Bernasconi, Geza Varga
+Syd Ball, Jean Francois Caujolle
+Ken Rosewall, Kiyoshi Tanabe
+Wanaro N'Godrella, Stephen Myers
+John Newcombe, Jun Kamiwazumi
+Alex Metreveli, Thierry Bernasconi
+Karl Meiler, Michael Phillips
+Geoff Masters, Cliff Letcher
+Robert Machan, Patrick Proisy
+Hans Kary, Patrice Dominguez
+Teimuraz Kakulia, Jean Louis Haillet
+Frank Gebert, Georges Goven
+Colin Dibley, Bob Giltinan
+Phil Dent, Kim Warwick
+John Cooper, Chris Walsh
+Ross Case, Balazs Taroczy
+Szabolcz Baranyi, Syd Ball
+Mal Anderson, Hans Joachim Ploetz
+Ken Rosewall, Teimuraz Kakulia
+John Newcombe, Karl Meiler
+Geoff Masters, Hans Kary
+Colin Dibley, Wanaro N'Godrella
+John Cooper, Robert Machan
+Ross Case, Alex Metreveli
+Szabolcz Baranyi, Frank Gebert
+Mal Anderson, Phil Dent
+Ken Rosewall, Szabolcz Baranyi
+John Newcombe, John Cooper
+Geoff Masters, Ross Case
+Mal Anderson, Colin Dibley
+Ken Rosewall, Geoff Masters
+Mal Anderson, John Newcombe
+Mal Anderson, Ken Rosewall
+Jimmy Connors, Anand Amritraj
+Jun Kamiwazumi, Fritz Gildemeister
+Ian Fletcher, Rayno Seegers
+Richard Gonzalez, Hans Gildemeister
+Andrew Pattison, F D Robbins
+Humphrey Hose, Jeff Borowiak
+John Paish, James Chico Hagey
+Paul Gerken, Sashi Menon
+Vijay Amritraj, Ramiro Benavides
+Charlie Pasarell, Henry Bunis
+Pat Cramer, Billy Higgins
+Colin Dibley, Jeff Austin
+Gerald Battrick, Toshiro Sakai
+Haroon Rahim, Timothy Noonan
+Ivan Molina, Graham Stilwell
+Brian Gottfried, Bill Lloyd
+Jimmy Connors, Jun Kamiwazumi
+Richard Gonzalez, Ian Fletcher
+Andrew Pattison, Humphrey Hose
+Paul Gerken, John Paish
+Charlie Pasarell, Vijay Amritraj
+Colin Dibley, Pat Cramer
+Haroon Rahim, Gerald Battrick
+Brian Gottfried, Ivan Molina
+Jimmy Connors, Richard Gonzalez
+Paul Gerken, Andrew Pattison
+Charlie Pasarell, Colin Dibley
+Haroon Rahim, Brian Gottfried
+Jimmy Connors, Paul Gerken
+Charlie Pasarell, Haroon Rahim
+Jimmy Connors, Charlie Pasarell
+Ilie Nastase, Wanaro N'Godrella
+John Paish, Corrado Barazzutti
+Jean Loup Rouyer, Richard Lewis
+Colin Dowdeswell, Juan Gisbert
+Martin Mulligan, Gerald Battrick
+John Feaver, Robert Maud
+Geoff Masters, Byron Bertram
+Georges Goven, Nicola Spear
+Barry Phillips Moore, Mark Cox
+Bernard Mitton, David Lloyd
+Phil Dent, Stephen Warboys
+Ion Tiriac, John Lloyd
+Patrick Proisy, Antonio Munoz
+Hans Kary, Ian Fletcher
+Marcello Lara, Munawar Iqbal
+Buster C Mottram, Owen Davidson
+Pat Cramer, Jean Francois Caujolle
+Graham Stilwell, Onny Parun
+Paolo Bertolucci, Mike Collins
+Francois Jauffret, Pierre Barthes
+Bob Carmichael, Jim Mcmanus
+Ross Case, Bill Lloyd
+Jean Baptiste Chanfreau, Syd Ball
+Andres Gimeno, Boro Jovanovic
+Frew Mcmillan, Premjit Lall
+Patrice Dominguez, Nicholas Kalogeropoulos
+Antonio Zugarelli, Andrew Pattison
+Allan Stone, Ove Bengtson
+Zeljko Franulovic, Vincenzo Franchitti
+Ezio Di Matteo, Chiradip Mukerjea
+Eddie Dibbs, Bob Giltinan
+Adriano Panatta, Paul Gerken
+Ilie Nastase, John Paish
+Jean Loup Rouyer, Colin Dowdeswell
+Martin Mulligan, John Feaver
+Geoff Masters, Georges Goven
+Barry Phillips Moore, Bernard Mitton
+Phil Dent, Ion Tiriac
+Hans Kary, Patrick Proisy
+Buster C Mottram, Marcello Lara
+Graham Stilwell, Pat Cramer
+Francois Jauffret, Paolo Bertolucci
+Ross Case, Bob Carmichael
+Andres Gimeno, Jean Baptiste Chanfreau
+Patrice Dominguez, Frew Mcmillan
+Antonio Zugarelli, Allan Stone
+Zeljko Franulovic, Ezio Di Matteo
+Adriano Panatta, Eddie Dibbs
+Ilie Nastase, Jean Loup Rouyer
+Geoff Masters, Martin Mulligan
+Barry Phillips Moore, Phil Dent
+Buster C Mottram, Hans Kary
+Francois Jauffret, Graham Stilwell
+Ross Case, Andres Gimeno
+Patrice Dominguez, Antonio Zugarelli
+Adriano Panatta, Zeljko Franulovic
+Ilie Nastase, Geoff Masters
+Barry Phillips Moore, Buster C Mottram
+Ross Case, Francois Jauffret
+Adriano Panatta, Patrice Dominguez
+Ilie Nastase, Barry Phillips Moore
+Adriano Panatta, Ross Case
+Adriano Panatta, Ilie Nastase
+Mark Cox, Jeff Borowiak
+Andrew Pattison, Haroon Rahim
+Raymond Moore, Joaquin Loyo Mayo
+Dick Crealy, Onny Parun
+Jim Mcmanus, Nicholas Kalogeropoulos
+John Cooper, Bob Carmichael
+John Feaver, Antonio Zugarelli
+Erik Van Dillen, Cliff Drysdale
+Roy Barth, Marcello Lara
+Chiradip Mukerjea, Paolo Bertolucci
+Frew Mcmillan, Brian Fairlie
+John Lloyd, Graham Stilwell
+Tom Gorman, Ismail El Shafei
+Pat Cramer, David Lloyd
+Mark Cox, Andrew Pattison
+Raymond Moore, Dick Crealy
+John Cooper, Jim Mcmanus
+Erik Van Dillen, John Feaver
+Dick Stockton, Colin Dibley
+Charlie Pasarell, Roscoe Tanner
+Brian Gottfried, Allan Stone
+Jimmy Connors, Ian Fletcher
+Ove Bengtson, John Paish
+Stephen Warboys, Roger Taylor
+Chiradip Mukerjea, Roy Barth
+Frew Mcmillan, John Lloyd
+Tom Gorman, Pat Cramer
+Mark Cox, Raymond Moore
+Erik Van Dillen, John Cooper
+Dick Stockton, Charlie Pasarell
+Jimmy Connors, Brian Gottfried
+Stephen Warboys, Ove Bengtson
+Frew Mcmillan, Chiradip Mukerjea
+Tom Gorman, Mark Cox
+Erik Van Dillen, Dick Stockton
+Jimmy Connors, Stephen Warboys
+Frew Mcmillan, Tom Gorman
+Erik Van Dillen, Jimmy Connors
+Erik Van Dillen, Frew Mcmillan
+Peter Szoke, Ivan Molina
+Kjell Johansson, Patrice Dominguez
+Barry Phillips Moore, Wanaro N'Godrella
+Antonio Zugarelli, Ove Bengtson
+Jeff Borowiak, Eric Deblicker
+Terry Ryan, Georges Goven
+Frew Mcmillan, Michele Leclercq
+Gerald Battrick, Jean Louis Haillet
+Graham Stilwell, Antonio Munoz
+Patrick Proisy, Jaime Pinto Bravo
+Juan Gisbert, Bob Carmichael
+Raymond Moore, Ion Tiriac
+Onny Parun, Bernard Montrenaud
+Jean Baptiste Chanfreau, Corrado Barazzutti
+Pierre Barthes, Ismail El Shafei
+Haroon Rahim, Francois Jauffret
+Peter Szoke, Manuel Orantes
+Kjell Johansson, Mark Cox
+Marty Riessen, Barry Phillips Moore
+Karl Meiler, Antonio Zugarelli
+Stan Smith, Jeff Borowiak
+Jaime Fillol, Terry Ryan
+Adriano Panatta, Frew Mcmillan
+Roscoe Tanner, Gerald Battrick
+Bjorn Borg, Graham Stilwell
+Arthur Ashe, Patrick Proisy
+Guillermo Vilas, Juan Gisbert
+Tom Okker, Raymond Moore
+Tom Gorman, Onny Parun
+Jean Baptiste Chanfreau, Nikola Pilic
+Paolo Bertolucci, Pierre Barthes
+Ilie Nastase, Haroon Rahim
+Kjell Johansson, Peter Szoke
+Karl Meiler, Marty Riessen
+Stan Smith, Jaime Fillol
+Roscoe Tanner, Adriano Panatta
+Arthur Ashe, Bjorn Borg
+Tom Okker, Guillermo Vilas
+Jean Baptiste Chanfreau, Tom Gorman
+Ilie Nastase, Paolo Bertolucci
+Karl Meiler, Kjell Johansson
+Stan Smith, Roscoe Tanner
+Tom Okker, Arthur Ashe
+Ilie Nastase, Jean Baptiste Chanfreau
+Stan Smith, Karl Meiler
+Ilie Nastase, Tom Okker
+Ilie Nastase, Stan Smith
+Charles Owens, Steve Turner
+Szabolcz Baranyi, Jim Delaney
+Juan Gisbert, Roy Barth
+Clark Graebner, Patricio Cornejo
+Frew Mcmillan, Butch Seewagen
+Frank Froehling, Jiri Hrebec
+Eddie Dibbs, Ion Tiriac
+Nicholas Kalogeropoulos, Paul Gerken
+John Paish, Freddie De Jesus
+Jeff Austin, Ian Crookenden
+Zan Guerry, Colin Dibley
+Sandy Mayer, Milan Holecek
+Byron Bertram, Ove Bengtson
+Hans Kary, Billy Martin
+Onny Parun, Gavorielle Marcu
+Phil Dent, Tom Edlefsen
+Tito Vazquez, Vitas Gerulaitis
+Andrew Pattison, Peter Szoke
+Karl Meiler, Grover Raz Reid
+Brian Gottfried, F D Robbins
+Ian Fletcher, Pat Cramer
+Jasjit Singh, Victor Amaya
+Jimmy Connors, Jose Edison Mandarino
+Jaime Pinto Bravo, Jurgen Fassbender
+Charles Owens, Martin Mulligan
+Juan Gisbert, Szabolcz Baranyi
+Clark Graebner, Frew Mcmillan
+Frank Froehling, Eddie Dibbs
+Nicholas Kalogeropoulos, John Paish
+Jeff Austin, Zan Guerry
+Sandy Mayer, Byron Bertram
+Onny Parun, Hans Kary
+Phil Dent, Tito Vazquez
+Karl Meiler, Andrew Pattison
+Brian Gottfried, Ian Fletcher
+John Cooper, Jasjit Singh
+Mike Estep, Jan Kukal
+Ilie Nastase, Pat Dupre
+Jimmy Connors, Jaime Pinto Bravo
+Juan Gisbert, Charles Owens
+Frank Froehling, Clark Graebner
+Jeff Austin, Nicholas Kalogeropoulos
+Sandy Mayer, Onny Parun
+Karl Meiler, Phil Dent
+Brian Gottfried, John Cooper
+Ilie Nastase, Mike Estep
+Jimmy Connors, Juan Gisbert
+Frank Froehling, Jeff Austin
+Karl Meiler, Sandy Mayer
+Brian Gottfried, Ilie Nastase
+Jimmy Connors, Frank Froehling
+Karl Meiler, Brian Gottfried
+Jimmy Connors, Karl Meiler
+Jan Kodes, Nicola Spear
+Jan Simbera, Graham Stilwell
+Vladimir Zednik, Pavel Sevcik
+Guillermo Vilas, Gerald Battrick
+Karl Meiler, Leif Johansson
+Frantisek Pala, Buster C Mottram
+Jan Pisecky, Peter Szoke
+Roscoe Tanner, Julian Ganzabal
+Nikola Pilic, Haroon Rahim
+Ove Bengtson, Jan Kukal
+Barry Phillips Moore, Birger Andersson
+Bjorn Borg, Tadeusz Nowicki
+Onny Parun, Balazs Taroczy
+Jiri Hrebec, Robert Machan
+Kjell Johansson, U McDonald
+Roger Taylor, Robert Rheinberger
+Jan Kodes, Jan Simbera
+Vladimir Zednik, Guillermo Vilas
+Frantisek Pala, Karl Meiler
+Jan Pisecky, Roscoe Tanner
+Ove Bengtson, Nikola Pilic
+Barry Phillips Moore, Bjorn Borg
+Jiri Hrebec, Onny Parun
+Kjell Johansson, Roger Taylor
+Jan Kodes, Vladimir Zednik
+Jan Pisecky, Frantisek Pala
+Ove Bengtson, Barry Phillips Moore
+Jiri Hrebec, Kjell Johansson
+Jan Kodes, Jan Pisecky
+Jiri Hrebec, Ove Bengtson
+Jiri Hrebec, Jan Kodes
+Ken Rosewall, Vladimir Zednik
+Roscoe Tanner, Jean Baptiste Chanfreau
+Tom Leonard, Mike Sprenglemeyer
+Tom Gorman, Earl Butch Buchholz
+Jan Kodes, Jim Landin
+Mark Cox, Erik Van Dillen
+Torben Ulrich, Jeff Borowiak
+Brian Fairlie, Raymond Moore
+Marty Riessen, Pierre Barthes
+Alex Metreveli, Joaquin Loyo Mayo
+Bob Carmichael, Ismail El Shafei
+Arthur Ashe, Rich Hillway
+Tom Okker, Frantisek Pala
+Ross Case, Dick Crealy
+Graham Stilwell, Fred Stolle
+Roger Taylor, Haroon Rahim
+Roscoe Tanner, Ken Rosewall
+Tom Leonard, Tom Gorman
+Mark Cox, Jan Kodes
+Brian Fairlie, Torben Ulrich
+Marty Riessen, Alex Metreveli
+Arthur Ashe, Bob Carmichael
+Ross Case, Tom Okker
+Roger Taylor, Graham Stilwell
+Roscoe Tanner, Tom Leonard
+Mark Cox, Brian Fairlie
+Arthur Ashe, Marty Riessen
+Ross Case, Roger Taylor
+Mark Cox, Roscoe Tanner
+Arthur Ashe, Ross Case
+Mark Cox, Arthur Ashe
+Colin Dibley, Terry Addison
+Frew Mcmillan, Cliff Drysdale
+Roy Emerson, Jose Edison Mandarino
+Nikola Pilic, Barry Phillips Moore
+Dick Stockton, Gerald Battrick
+Harold Solomon, Milan Holecek
+Bob Lutz, Brian Gottfried
+Onny Parun, Allan Stone
+Jaime Fillol, Tom Edlefsen
+Cliff Richey, Patricio Cornejo
+Phil Dent, Jim Mcmanus
+Stan Smith, Roy Barth
+Andrew Pattison, Bob Hewitt
+Robert Maud, John Alexander
+Charlie Pasarell, Frank Froehling
+Rod Laver, Ove Bengtson
+Colin Dibley, Frew Mcmillan
+Nikola Pilic, Roy Emerson
+Dick Stockton, Harold Solomon
+Bob Lutz, Onny Parun
+Cliff Richey, Jaime Fillol
+Stan Smith, Phil Dent
+Robert Maud, Andrew Pattison
+Rod Laver, Charlie Pasarell
+Nikola Pilic, Colin Dibley
+Bob Lutz, Dick Stockton
+Stan Smith, Cliff Richey
+Robert Maud, Rod Laver
+Bob Lutz, Nikola Pilic
+Stan Smith, Robert Maud
+Stan Smith, Bob Lutz
+Marty Riessen, Raymond Moore
+Ross Case, Boro Jovanovic
+Jeff Borowiak, Bob Carmichael
+Jan Kodes, Owen Davidson
+Ken Rosewall, Haroon Rahim
+Dick Crealy, Torben Ulrich
+Roscoe Tanner, Pierre Barthes
+Arthur Ashe, Graham Stilwell
+Brian Fairlie, Ismail El Shafei
+Tom Gorman, Zeljko Franulovic
+Alex Metreveli, Joaquin Loyo Mayo
+Tom Okker, Jean Baptiste Chanfreau
+Premjit Lall, Mark Cox
+Vladimir Zednik, Frantisek Pala
+Erik Van Dillen, Tom Leonard
+Fred Stolle, Roger Taylor
+Marty Riessen, Ross Case
+Jan Kodes, Jeff Borowiak
+Ken Rosewall, Dick Crealy
+Arthur Ashe, Roscoe Tanner
+Brian Fairlie, Tom Gorman
+Tom Okker, Alex Metreveli
+Vladimir Zednik, Premjit Lall
+Fred Stolle, Erik Van Dillen
+Jan Kodes, Marty Riessen
+Ken Rosewall, Arthur Ashe
+Tom Okker, Brian Fairlie
+Fred Stolle, Vladimir Zednik
+Ken Rosewall, Jan Kodes
+Fred Stolle, Tom Okker
+Ken Rosewall, Fred Stolle
+Stan Smith, Harold Solomon
+Nikola Pilic, Roy Barth
+Robert Maud, Barry Phillips Moore
+Cliff Richey, Brian Gottfried
+Dick Stockton, Patricio Cornejo
+Phil Dent, Patrick Hombergen
+Ove Bengtson, Terry Addison
+Gerald Battrick, Bob Lutz
+Roy Emerson, Onny Parun
+Tom Edlefsen, Allan Stone
+Jaime Fillol, Charlie Pasarell
+John Alexander, Frank Froehling
+Colin Dibley, Jim Mcmanus
+Cliff Drysdale, Milan Holecek
+Andrew Pattison, Frew Mcmillan
+Rod Laver, Bernard Mignot
+Stan Smith, Nikola Pilic
+Cliff Richey, Robert Maud
+Dick Stockton, Phil Dent
+Ove Bengtson, Gerald Battrick
+Roy Emerson, Tom Edlefsen
+John Alexander, Jaime Fillol
+Cliff Drysdale, Colin Dibley
+Rod Laver, Andrew Pattison
+Stan Smith, Cliff Richey
+Dick Stockton, Ove Bengtson
+Roy Emerson, John Alexander
+Rod Laver, Cliff Drysdale
+Stan Smith, Dick Stockton
+Rod Laver, Roy Emerson
+Stan Smith, Rod Laver
+Ken Rosewall, Frantisek Pala
+Adriano Panatta, Ross Case
+Torben Ulrich, Pierre Barthes
+Mark Cox, Graham Stilwell
+Brian Fairlie, Jan Kodes
+Dick Crealy, Boro Jovanovic
+Haroon Rahim, Fred Stolle
+Marty Riessen, Tom Leonard
+Jean Baptiste Chanfreau, Arthur Ashe
+Roscoe Tanner, Jeff Borowiak
+Bob Carmichael, Erik Van Dillen
+Roger Taylor, Premjit Lall
+Tom Gorman, Zeljko Franulovic
+Raymond Moore, Joaquin Loyo Mayo
+Alex Metreveli, Ismail El Shafei
+Tom Okker, Vladimir Zednik
+Ken Rosewall, Adriano Panatta
+Mark Cox, Torben Ulrich
+Dick Crealy, Brian Fairlie
+Marty Riessen, Haroon Rahim
+Roscoe Tanner, Jean Baptiste Chanfreau
+Bob Carmichael, Roger Taylor
+Tom Gorman, Raymond Moore
+Tom Okker, Alex Metreveli
+Ken Rosewall, Mark Cox
+Marty Riessen, Dick Crealy
+Roscoe Tanner, Bob Carmichael
+Tom Gorman, Tom Okker
+Marty Riessen, Ken Rosewall
+Roscoe Tanner, Tom Gorman
+Marty Riessen, Roscoe Tanner
+Corrado Barazzutti, Kim Warwick
+Robert Machan, Jean Loup Rouyer
+Paolo Bertolucci, Patrice Dominguez
+Balazs Taroczy, Steve Faulk
+Kjell Johansson, Mike Estep
+Bernard Mignot, Richard Russell
+Attila Korpas, David Lloyd
+Eric Deblicker, Massimo Di Domenico
+Allan McDonald, Paul Gerken
+Martin Mulligan, John Lloyd
+Antonio Zugarelli, Patricio Rodriguez Chi
+Hans Kary, Vincenzo Franchitti
+Istvan Gulyas, John Bartlett
+John Feaver, Ian Fletcher
+Nicola Spear, Bernard Montrenaud
+Marcello Lara, Szabolcz Baranyi
+Corrado Barazzutti, Manuel Orantes
+Bjorn Borg, Robert Machan
+Paolo Bertolucci, Jiri Hrebec
+Antonio Munoz, Balazs Taroczy
+Adriano Panatta, Kjell Johansson
+Bernard Mignot, Karl Meiler
+Ion Tiriac, Attila Korpas
+Georges Goven, Eric Deblicker
+Patrick Hombergen, Allan McDonald
+Martin Mulligan, Andres Gimeno
+Juan Gisbert, Antonio Zugarelli
+Patrick Proisy, Hans Kary
+Istvan Gulyas, Wanaro N'Godrella
+Harald Elschenbroich, John Feaver
+Peter Szoke, Nicola Spear
+Ilie Nastase, Marcello Lara
+Bjorn Borg, Corrado Barazzutti
+Antonio Munoz, Paolo Bertolucci
+Adriano Panatta, Bernard Mignot
+Georges Goven, Ion Tiriac
+Martin Mulligan, Patrick Hombergen
+Patrick Proisy, Juan Gisbert
+Harald Elschenbroich, Istvan Gulyas
+Ilie Nastase, Peter Szoke
+Bjorn Borg, Antonio Munoz
+Georges Goven, Adriano Panatta
+Patrick Proisy, Martin Mulligan
+Ilie Nastase, Harald Elschenbroich
+Bjorn Borg, Georges Goven
+Ilie Nastase, Patrick Proisy
+Ilie Nastase, Bjorn Borg
+Ilie Nastase, Jasjit Singh
+Phil Dent, Pat Cramer
+Graham Stilwell, Charles Owens
+Cliff Richey, Frank Froehling
+Torben Ulrich, Roger Taylor
+Gerald Battrick, Kim Warwick
+John Bartlett, Bill Lloyd
+Tom Okker, Owen Davidson
+Eddie Dibbs, Felix Ponte
+Richard Russell, Terry Ryan
+Clark Graebner, Steve Faulk
+Marty Riessen, Vitas Gerulaitis
+Brian Gottfried, Grover Raz Reid
+Tenny Svensson, Andrew Pattison
+Dick Crealy, Birger Andersson
+John Newcombe, Barry Phillips Moore
+Ilie Nastase, Phil Dent
+Graham Stilwell, Cliff Richey
+Gerald Battrick, Torben Ulrich
+Tom Okker, John Bartlett
+Eddie Dibbs, Richard Russell
+Marty Riessen, Clark Graebner
+Brian Gottfried, Tenny Svensson
+John Newcombe, Dick Crealy
+Ilie Nastase, Graham Stilwell
+Tom Okker, Gerald Battrick
+Marty Riessen, Eddie Dibbs
+John Newcombe, Brian Gottfried
+Tom Okker, Ilie Nastase
+John Newcombe, Marty Riessen
+Tom Okker, John Newcombe
+Stan Smith, Jose Edison Mandarino
+Nikola Pilic, Andrew Pattison
+Onny Parun, Patricio Cornejo
+Colin Dibley, Terry Addison
+Cliff Richey, Barry Phillips Moore
+Jaime Fillol, Milan Holecek
+Allan Stone, Ove Bengtson
+Roy Emerson, Jim Mcmanus
+Cliff Drysdale, Bob Lutz
+Phil Dent, Frew Mcmillan
+Robert Maud, Crawford Henry
+John Alexander, Roy Barth
+Dick Stockton, Gerald Battrick
+Brian Gottfried, Frank Froehling
+Harold Solomon, Charlie Pasarell
+Rod Laver, Tom Edlefsen
+Stan Smith, Nikola Pilic
+Onny Parun, Colin Dibley
+Cliff Richey, Jaime Fillol
+Allan Stone, Roy Emerson
+Cliff Drysdale, Phil Dent
+Robert Maud, John Alexander
+Dick Stockton, Brian Gottfried
+Rod Laver, Harold Solomon
+Stan Smith, Onny Parun
+Cliff Richey, Allan Stone
+Cliff Drysdale, Robert Maud
+Rod Laver, Dick Stockton
+Stan Smith, Cliff Richey
+Rod Laver, Cliff Drysdale
+Stan Smith, Rod Laver
+Raymond Moore, Stan Smith
+Tom Gorman, Tom Leonard
+Cliff Richey, Nikola Pilic
+Roy Emerson, Phil Dent
+Charlie Pasarell, Marty Riessen
+Brian Gottfried, Clark Graebner
+Colin Dibley, Dennis Ralston
+John Newcombe, Georges Goven
+Ken Rosewall, Tom Edlefsen
+Roscoe Tanner, Tony Roche
+Fred Stolle, John Alexander
+Cliff Drysdale, Gerald Battrick
+Arthur Ashe, Martin Mulligan
+Joaquin Loyo Mayo, Dick Stockton
+Jaime Fillol, Bob Lutz
+Dick Crealy, Rod Laver
+Raymond Moore, Tom Gorman
+Cliff Richey, Roy Emerson
+Brian Gottfried, Charlie Pasarell
+Colin Dibley, John Newcombe
+Roscoe Tanner, Ken Rosewall
+Cliff Drysdale, Fred Stolle
+Arthur Ashe, Joaquin Loyo Mayo
+Jaime Fillol, Dick Crealy
+Cliff Richey, Raymond Moore
+Brian Gottfried, Colin Dibley
+Roscoe Tanner, Cliff Drysdale
+Arthur Ashe, Jaime Fillol
+Brian Gottfried, Cliff Richey
+Arthur Ashe, Roscoe Tanner
+Brian Gottfried, Arthur Ashe
+Hans Engert, Toshiro Sakai
+Paul Gerken, Jan Kukal
+Barry Phillips Moore, Terry Addison
+Janos Benyik, Frank Froehling
+Frank Gebert, Wanaro N'Godrella
+Jaime Fillol, Hans Kary
+Hans Jurgen Pohmann, Hans Joachim Ploetz
+Guillermo Vilas, Vladimir Zednik
+Harald Elschenbroich, Harald Neuner
+Gerald Battrick, Szabolcz Baranyi
+Harold Solomon, Jaime Pinto Bravo
+Ross Case, Ulrich Pinner
+Karl Meiler, Terry Ryan
+Jose Edison Mandarino, Tom Leonard
+Jiri Hrebec, Robert Machan
+Ion Tiriac, Geoff Masters
+Peter Szoke, Jun Kuki
+John Alexander, U Timm
+Wilhelm Bungert, Torben Ulrich
+Bernard Mignot, Mal Anderson
+Eddie Dibbs, Istvan Gulyas
+Attila Korpas, Antonio Munoz
+Phil Dent, Alex Kurucz
+Boro Jovanovic, Georges Goven
+Butch Seewagen, Patrice Dominguez
+Jurgen Fassbender, Julian Ganzabal
+Milan Holecek, Nicola Spear
+Patricio Cornejo, H Brenner
+Martin Mulligan, Frantisek Pala
+Jun Kamiwazumi, Cliff Richey
+John Newcombe, Hans Engert
+Paul Gerken, Barry Phillips Moore
+Frank Gebert, Janos Benyik
+Jaime Fillol, Hans Jurgen Pohmann
+Manuel Orantes, Guillermo Vilas
+Harald Elschenbroich, Gerald Battrick
+Harold Solomon, Ross Case
+Karl Meiler, Jose Edison Mandarino
+Jiri Hrebec, Ion Tiriac
+John Alexander, Peter Szoke
+Bernard Mignot, Wilhelm Bungert
+Eddie Dibbs, Attila Korpas
+Phil Dent, Boro Jovanovic
+Jurgen Fassbender, Butch Seewagen
+Patricio Cornejo, Milan Holecek
+Martin Mulligan, Jun Kamiwazumi
+Paul Gerken, John Newcombe
+Jaime Fillol, Frank Gebert
+Harald Elschenbroich, Manuel Orantes
+Karl Meiler, Harold Solomon
+Jiri Hrebec, John Alexander
+Eddie Dibbs, Bernard Mignot
+Jurgen Fassbender, Phil Dent
+Martin Mulligan, Patricio Cornejo
+Jaime Fillol, Paul Gerken
+Karl Meiler, Harald Elschenbroich
+Eddie Dibbs, Jiri Hrebec
+Jurgen Fassbender, Martin Mulligan
+Karl Meiler, Jaime Fillol
+Eddie Dibbs, Jurgen Fassbender
+Eddie Dibbs, Karl Meiler
+Eugenio Castigliano, Kjell Johansson
+Ezio Di Matteo, Jaime Pinto Bravo
+Gerald Battrick, Marcello Lara
+Antonio Zugarelli, Terry Addison
+Nicholas Kalogeropoulos, Ian Fletcher
+Ross Case, Jairo Velasco
+Patricio Cornejo, Corrado Barazzutti
+Ivan Molina, Bryan Borea
+Jean Baptiste Chanfreau, Vladimir Zednik
+Charlie Pasarell, Frank Froehling
+Jiri Hrebec, Jeff Borowiak
+Shamil Tarpischev, Jun Kamiwazumi
+Andrew Pattison, Jim Mcmanus
+Patrice Dominguez, Pietro Marzano
+Piero Toci, Paul Gerken
+Paolo Bertolucci, Jun Kuki
+Robert Machan, Robert Maud
+Martin Mulligan, Szabolcz Baranyi
+Jean Loup Rouyer, Graham Stilwell
+Peter Szoke, Nicola Pietrangeli
+Boro Jovanovic, Wanaro N'Godrella
+Geoff Masters, Guillermo Vilas
+Giuseppe Merlo, John Paish
+Erik Van Dillen, Istvan Gulyas
+Vladimir Korotkov, Toshiro Sakai
+Richard Russell, Bjorn Borg
+Haroon Rahim, Bob Carmichael
+Frantisek Pala, Giovanni Cierro
+Vittorio Crotta, Georges Goven
+Antonio Munoz, Allan Stone
+Vincenzo Franchitti, Barry Phillips Moore
+Phil Dent, K Shimamura
+Ilie Nastase, Eugenio Castigliano
+Ezio Di Matteo, Brian Gottfried
+Gerald Battrick, John Alexander
+Antonio Zugarelli, Tom Gorman
+Jan Kodes, Nicholas Kalogeropoulos
+Ross Case, Juan Gisbert
+Patricio Cornejo, Massimo Di Domenico
+Onny Parun, Ivan Molina
+Arthur Ashe, Jean Baptiste Chanfreau
+Charlie Pasarell, Brian Fairlie
+Jiri Hrebec, Jimmy Connors
+Shamil Tarpischev, Jaime Fillol
+Adriano Panatta, Andrew Pattison
+Patrice Dominguez, Nikola Pilic
+Roger Taylor, Piero Toci
+Paolo Bertolucci, Ion Tiriac
+Alex Metreveli, Robert Machan
+Martin Mulligan, Bob Lutz
+Colin Dibley, Jean Loup Rouyer
+Peter Szoke, John Newcombe
+Boro Jovanovic, Dick Stockton
+Cliff Drysdale, Geoff Masters
+Pierre Barthes, Giuseppe Merlo
+Manuel Orantes, Erik Van Dillen
+Vladimir Korotkov, Raymond Moore
+Cliff Richey, Richard Russell
+Haroon Rahim, Patricio Rodriguez Chi
+Tom Okker, Frantisek Pala
+Harold Solomon, Vittorio Crotta
+Mark Cox, Antonio Munoz
+Francois Jauffret, Vincenzo Franchitti
+Stan Smith, Phil Dent
+Ilie Nastase, Ezio Di Matteo
+Antonio Zugarelli, Gerald Battrick
+Jan Kodes, Ross Case
+Patricio Cornejo, Onny Parun
+Charlie Pasarell, Arthur Ashe
+Jiri Hrebec, Shamil Tarpischev
+Patrice Dominguez, Adriano Panatta
+Paolo Bertolucci, Roger Taylor
+Martin Mulligan, Alex Metreveli
+Peter Szoke, Colin Dibley
+Boro Jovanovic, Cliff Drysdale
+Manuel Orantes, Pierre Barthes
+Vladimir Korotkov, Cliff Richey
+Tom Okker, Haroon Rahim
+Harold Solomon, Mark Cox
+Stan Smith, Francois Jauffret
+Ilie Nastase, Antonio Zugarelli
+Jan Kodes, Patricio Cornejo
+Jiri Hrebec, Charlie Pasarell
+Paolo Bertolucci, Patrice Dominguez
+Peter Szoke, Martin Mulligan
+Manuel Orantes, Boro Jovanovic
+Tom Okker, Vladimir Korotkov
+Stan Smith, Harold Solomon
+Ilie Nastase, Jan Kodes
+Paolo Bertolucci, Jiri Hrebec
+Manuel Orantes, Peter Szoke
+Tom Okker, Stan Smith
+Ilie Nastase, Paolo Bertolucci
+Manuel Orantes, Tom Okker
+Ilie Nastase, Manuel Orantes
+Jimmy Connors, Stan Smith
+Raymond Moore, Jaime Fillol
+Dick Stockton, Dick Crealy
+Nikola Pilic, Bob Carmichael
+Marty Riessen, Ismail El Shafei
+Paul Gerken, Gerald Battrick
+Cliff Richey, Haroon Rahim
+Andrew Pattison, Doug Crawford
+Clark Graebner, Paul Sullivan
+Erik Van Dillen, Tom Gorman
+Brian Gottfried, Bob Lutz
+John Alexander, Jeff Borowiak
+Graham Stilwell, Mike Estep
+Roscoe Tanner, Eddie Dibbs
+Charlie Pasarell, Phil Dent
+Arthur Ashe, Harold Solomon
+Jimmy Connors, Raymond Moore
+Dick Stockton, Nikola Pilic
+Marty Riessen, Paul Gerken
+Cliff Richey, Andrew Pattison
+Clark Graebner, Erik Van Dillen
+John Alexander, Brian Gottfried
+Roscoe Tanner, Graham Stilwell
+Arthur Ashe, Charlie Pasarell
+Jimmy Connors, Dick Stockton
+Cliff Richey, Marty Riessen
+Clark Graebner, John Alexander
+Arthur Ashe, Roscoe Tanner
+Jimmy Connors, Cliff Richey
+Arthur Ashe, Clark Graebner
+Jimmy Connors, Arthur Ashe
+Tom Okker, Mike Kreiss
+Jim Mcmanus, Ismail El Shafei
+Geoff Masters, Steve Krulevitz
+Harold Solomon, Bill Bowrey
+Brian Teacher, James Chico Hagey
+Paul Gerken, Georges Goven
+Phil Dent, Rayno Seegers
+Roscoe Tanner, Onny Parun
+Guillermo Vilas, Manuel Orantes
+Frank Froehling, Woody Blocher
+Eddie Dibbs, Freddie De Jesus
+Jaime Fillol, Jeff Borowiak
+Marty Riessen, Torben Ulrich
+Andrew Pattison, Raul Ramirez
+Haroon Rahim, Roy Barth
+Erik Van Dillen, Hans Gildemeister
+Jim Delaney, Brian Fairlie
+Ross Case, Colin Dibley
+Lito Alvarez, Allan Stone
+Nikola Pilic, Dick Bohrnstedt
+Charles Owens, Cliff Drysdale
+Vitas Gerulaitis, Dick Crealy
+Pancho Musalem, Charlie Pasarell
+Arthur Ashe, Graham Stilwell
+Tom Gorman, Grover Raz Reid
+Pat Dupre, Mike Estep
+Raymond Moore, Ion Tiriac
+Cliff Richey, Patricio Cornejo
+Dick Stockton, Carlos Feldstedt
+Clark Graebner, Fred Mcnair
+Brian Gottfried, Dick Dell
+Stan Smith, Antonio Munoz
+Tom Okker, Jim Mcmanus
+Geoff Masters, Harold Solomon
+Paul Gerken, Brian Teacher
+Phil Dent, Roscoe Tanner
+Guillermo Vilas, Frank Froehling
+Jaime Fillol, Eddie Dibbs
+Marty Riessen, Andrew Pattison
+Erik Van Dillen, Haroon Rahim
+Ross Case, Jim Delaney
+Nikola Pilic, Lito Alvarez
+Vitas Gerulaitis, Charles Owens
+Arthur Ashe, Pancho Musalem
+Tom Gorman, Pat Dupre
+Cliff Richey, Raymond Moore
+Dick Stockton, Clark Graebner
+Stan Smith, Brian Gottfried
+Tom Okker, Geoff Masters
+Paul Gerken, Phil Dent
+Jaime Fillol, Guillermo Vilas
+Marty Riessen, Erik Van Dillen
+Nikola Pilic, Ross Case
+Arthur Ashe, Vitas Gerulaitis
+Tom Gorman, Cliff Richey
+Dick Stockton, Stan Smith
+Tom Okker, Paul Gerken
+Jaime Fillol, Marty Riessen
+Arthur Ashe, Nikola Pilic
+Tom Gorman, Dick Stockton
+Tom Okker, Jaime Fillol
+Arthur Ashe, Tom Gorman
+Arthur Ashe, Tom Okker
+Antonio Munoz, Butch Seewagen
+Billy Higgins, Adriano Panatta
+Patrice Dominguez, Carlos Feldstedt
+Roscoe Tanner, Frew Mcmillan
+Torben Ulrich, Ivan Molina
+Mark Cox, Pat Dupre
+Ion Tiriac, Jim Mcmanus
+Paul Gerken, Haroon Rahim
+Georges Goven, Gerald Battrick
+Belus Prajoux, Andrew Pattison
+Patrick Proisy, Billy Martin
+Jeff Borowiak, Dick Crealy
+Guillermo Vilas, Frank Froehling
+Jim Delaney, Wanaro N'Godrella
+Phil Dent, Jiri Hrebec
+Raul Ramirez, Lito Alvarez
+Nikola Pilic, Raymond Moore
+Patricio Cornejo, Graham Stilwell
+Jimmy Connors, Ismail El Shafei
+Brian Gottfried, Karl Meiler
+Cliff Richey, Tom Edlefsen
+Antonio Munoz, Jaime Fillol
+Patrice Dominguez, Billy Higgins
+Roscoe Tanner, Torben Ulrich
+Ion Tiriac, Mark Cox
+Georges Goven, Paul Gerken
+Patrick Proisy, Belus Prajoux
+Guillermo Vilas, Jeff Borowiak
+Phil Dent, Jim Delaney
+Raul Ramirez, Nikola Pilic
+Paolo Bertolucci, Patricio Cornejo
+John Alexander, Eddie Dibbs
+Toshiro Sakai, Brian Fairlie
+Manuel Orantes, Bob Carmichael
+Brian Gottfried, Jimmy Connors
+Cliff Richey, Antonio Munoz
+Roscoe Tanner, Patrice Dominguez
+Georges Goven, Ion Tiriac
+Patrick Proisy, Guillermo Vilas
+Raul Ramirez, Phil Dent
+Paolo Bertolucci, John Alexander
+Manuel Orantes, Toshiro Sakai
+Cliff Richey, Brian Gottfried
+Georges Goven, Roscoe Tanner
+Raul Ramirez, Patrick Proisy
+Manuel Orantes, Paolo Bertolucci
+Georges Goven, Cliff Richey
+Manuel Orantes, Raul Ramirez
+Manuel Orantes, Georges Goven
+Eddie Dibbs, Stan Smith
+Cliff Drysdale, Jeff Borowiak
+Jaime Fillol, David Brown
+Ian Fletcher, Corrado Barazzutti
+Charlie Pasarell, Marty Riessen
+Patrick Proisy, Humphrey Hose
+Paolo Bertolucci, Ove Bengtson
+Rolf Norberg, Jim Mcmanus
+Manuel Orantes, Frank Froehling
+Wanaro N'Godrella, Don Mccormick
+John Alexander, Tony Bardsley
+Milan Holecek, Bob Carmichael
+Ken Rosewall, Antonio Zugarelli
+Guillermo Vilas, Mike Estep
+Bjorn Borg, Pat Cramer
+Dick Crealy, Phil Dent
+Graham Stilwell, Keith Carpenter
+John Newcombe, Raymond Moore
+Jean Baptiste Chanfreau, Chris Burr
+Nikola Pilic, Patricio Cornejo
+Ismail El Shafei, Frew Mcmillan
+Mark Cox, Raul Ramirez
+Gerald Battrick, Owen Davidson
+Tom Okker, Ross Case
+Ivan Molina, John Fort
+Mike Belkin, Adriano Panatta
+Erik Van Dillen, Harold Solomon
+Rod Laver, Geoff Masters
+Haroon Rahim, Georges Goven
+Patrice Dominguez, Cliff Richey
+Andrew Pattison, Jiri Hrebec
+Arthur Ashe, Antonio Munoz
+Cliff Drysdale, Eddie Dibbs
+Jaime Fillol, Ian Fletcher
+Charlie Pasarell, Patrick Proisy
+Paolo Bertolucci, Rolf Norberg
+Manuel Orantes, Wanaro N'Godrella
+John Alexander, Milan Holecek
+Ken Rosewall, Guillermo Vilas
+Bjorn Borg, Dick Crealy
+John Newcombe, Graham Stilwell
+Nikola Pilic, Jean Baptiste Chanfreau
+Mark Cox, Ismail El Shafei
+Tom Okker, Gerald Battrick
+Ivan Molina, Mike Belkin
+Rod Laver, Erik Van Dillen
+Patrice Dominguez, Haroon Rahim
+Arthur Ashe, Andrew Pattison
+Cliff Drysdale, Jaime Fillol
+Paolo Bertolucci, Charlie Pasarell
+Manuel Orantes, John Alexander
+Bjorn Borg, Ken Rosewall
+John Newcombe, Nikola Pilic
+Tom Okker, Mark Cox
+Ivan Molina, Rod Laver
+Arthur Ashe, Patrice Dominguez
+Cliff Drysdale, Paolo Bertolucci
+Manuel Orantes, Bjorn Borg
+Tom Okker, John Newcombe
+Ivan Molina, Arthur Ashe
+Manuel Orantes, Cliff Drysdale
+Tom Okker, Ivan Molina
+Tom Okker, Manuel Orantes
+Ilie Nastase, Pat Dupre
+Patrice Dominguez, Ian Fletcher
+John Alexander, Torben Ulrich
+Adriano Panatta, John Fort
+Nikola Pilic, Brian Gottfried
+Frank Froehling, Onny Parun
+Brian Teacher, Billy Martin
+Guillermo Vilas, Paolo Bertolucci
+Roscoe Tanner, Raul Ramirez
+Colin Dibley, Raymond Moore
+Phil Dent, Jeff Austin
+Manuel Orantes, Clark Graebner
+Patrick Proisy, Steve Turner
+Allan Stone, Ion Tiriac
+Dick Crealy, Steve Faulk
+Jimmy Connors, Andrew Pattison
+Ilie Nastase, Patrice Dominguez
+John Alexander, Adriano Panatta
+Nikola Pilic, Frank Froehling
+Guillermo Vilas, Brian Teacher
+Roscoe Tanner, Colin Dibley
+Manuel Orantes, Phil Dent
+Patrick Proisy, Allan Stone
+Jimmy Connors, Dick Crealy
+Ilie Nastase, John Alexander
+Nikola Pilic, Guillermo Vilas
+Manuel Orantes, Roscoe Tanner
+Jimmy Connors, Patrick Proisy
+Ilie Nastase, Nikola Pilic
+Manuel Orantes, Jimmy Connors
+Ilie Nastase, Manuel Orantes
+Stan Smith, Mike Machette
+Dick Bohrnstedt, Roy Barth
+Paul Gerken, Tom Leonard
+Jaime Fillol, Patrick Proisy
+Jimmy Connors, Jim Mcmanus
+Richard Gonzalez, Tom Edlefsen
+Paul Kronk, Bjorn Borg
+Erik Van Dillen, Bob Mckinley
+Arthur Ashe, Birger Andersson
+Tenny Svensson, Bob Carmichael
+Roscoe Tanner, Jeff Austin
+Raul Ramirez, Fred Mcnair
+Marty Riessen, Dennis Ralston
+Phil Dent, Kim Warwick
+Robert Kreiss, Lito Alvarez
+Charlie Pasarell, John Lloyd
+Jiri Hrebec, Alejandro Olmedo
+Roy Emerson, John Andrews
+Onny Parun, Kjell Johansson
+Tom Okker, Steve Tidball
+Frew Mcmillan, Vladimir Zednik
+Jeff Borowiak, Brian Gottfried
+Sandy Mayer, Brian Teacher
+Ken Rosewall, Jean Baptiste Chanfreau
+Barry Phillips Moore, Ove Bengtson
+Cliff Richey, Jeff Simpson
+Raymond Moore, Haroon Rahim
+Pat Cramer, Jan Kodes
+Mike Estep, John Bartlett
+John Alexander, Billy Martin
+Milan Holecek, Georges Goven
+Ilie Nastase, Tito Vazquez
+Stan Smith, Dick Bohrnstedt
+Paul Gerken, Jaime Fillol
+Jimmy Connors, Richard Gonzalez
+Paul Kronk, Erik Van Dillen
+Arthur Ashe, Tenny Svensson
+Raul Ramirez, Roscoe Tanner
+Marty Riessen, Phil Dent
+Charlie Pasarell, Robert Kreiss
+Roy Emerson, Jiri Hrebec
+Tom Okker, Onny Parun
+Jeff Borowiak, Frew Mcmillan
+Ken Rosewall, Sandy Mayer
+Cliff Richey, Barry Phillips Moore
+Raymond Moore, Pat Cramer
+John Alexander, Mike Estep
+Ilie Nastase, Milan Holecek
+Stan Smith, Paul Gerken
+Jimmy Connors, Paul Kronk
+Raul Ramirez, Arthur Ashe
+Charlie Pasarell, Marty Riessen
+Tom Okker, Roy Emerson
+Ken Rosewall, Jeff Borowiak
+Raymond Moore, Cliff Richey
+Ilie Nastase, John Alexander
+Jimmy Connors, Stan Smith
+Raul Ramirez, Charlie Pasarell
+Tom Okker, Ken Rosewall
+Ilie Nastase, Raymond Moore
+Jimmy Connors, Raul Ramirez
+Tom Okker, Ilie Nastase
+Jimmy Connors, Tom Okker
+Stan Smith, Rick Fisher
+Onny Parun, Paul Gerken
+Cliff Drysdale, Mike Estep
+Raymond Moore, Bob Carmichael
+Tom Gorman, Chris Delaney
+Raul Ramirez, Guillermo Oropez
+Bjorn Borg, Milan Holecek
+Vladimir Zednik, Manuel Santana
+Jeff Borowiak, Fred Mcnair
+Roscoe Tanner, Greg Shephard
+Jeff Austin, Haroon Rahim
+Roy Emerson, Tom Edlefsen
+Charlie Pasarell, Frew Mcmillan
+John Alexander, Jeff Simpson
+Dick Bohrnstedt, Ove Bengtson
+Arthur Ashe, John Lloyd
+Stan Smith, Onny Parun
+Raymond Moore, Cliff Drysdale
+Tom Gorman, Raul Ramirez
+Bjorn Borg, Vladimir Zednik
+Roscoe Tanner, Jeff Borowiak
+Roy Emerson, Jeff Austin
+John Alexander, Charlie Pasarell
+Arthur Ashe, Dick Bohrnstedt
+Raymond Moore, Stan Smith
+Bjorn Borg, Tom Gorman
+Roy Emerson, Roscoe Tanner
+Arthur Ashe, John Alexander
+Bjorn Borg, Raymond Moore
+Roy Emerson, Arthur Ashe
+Roy Emerson, Bjorn Borg
+Julian Ganzabal, Patrick Proisy
+Nikola Pilic, Wanaro N'Godrella
+Buster C Mottram, Raymond Moore
+Paolo Bertolucci, Ismail El Shafei
+Antonio Munoz, Frew Mcmillan
+Tom Okker, Jiri Hrebec
+Kjell Johansson, Mark Farrell
+Onny Parun, Juan Ignacio Muntanola
+Andrew Pattison, Vladimir Zednik
+Robert Rheinberger, Haroon Rahim
+Jaime Fillol, Nicola Spear
+Bjorn Borg, Bob Carmichael
+Patricio Rodriguez Chi, Antonio Zugarelli
+Attila Korpas, Jean Baptiste Chanfreau
+Barry Phillips Moore, Luis Bruguera
+Guillermo Vilas, Ivan Molina
+Rod Laver, Juan Herrera
+Pierre Barthes, Jose Guerrero
+Eddie Dibbs, Jose Moreno
+Colin Dowdeswell, Tony Parun
+Jan Kodes, Gerald Battrick
+Jose Higueras, Georges Goven
+Ray Keldie, Mark Cox
+Corrado Barazzutti, Ion Tiriac
+Adriano Panatta, Felix Morey
+Jaime Pinto Bravo, Nicolas Kelaidis
+Manuel Orantes, Alberto Martorell
+Julian Ganzabal, Harald Elschenbroich
+Buster C Mottram, Nikola Pilic
+Paolo Bertolucci, Antonio Munoz
+Kjell Johansson, Tom Okker
+Andrew Pattison, Onny Parun
+Jaime Fillol, Robert Rheinberger
+Bjorn Borg, Patricio Rodriguez Chi
+Barry Phillips Moore, Attila Korpas
+Rod Laver, Guillermo Vilas
+Eddie Dibbs, Pierre Barthes
+Jan Kodes, Colin Dowdeswell
+Jose Higueras, Ray Keldie
+Corrado Barazzutti, Adriano Panatta
+Jaime Pinto Bravo, Juan Gisbert
+Ilie Nastase, Jose Edison Mandarino
+Manuel Orantes, Julian Ganzabal
+Buster C Mottram, Paolo Bertolucci
+Andrew Pattison, Kjell Johansson
+Bjorn Borg, Jaime Fillol
+Barry Phillips Moore, Rod Laver
+Jan Kodes, Eddie Dibbs
+Jose Higueras, Corrado Barazzutti
+Ilie Nastase, Jaime Pinto Bravo
+Manuel Orantes, Buster C Mottram
+Bjorn Borg, Andrew Pattison
+Jan Kodes, Barry Phillips Moore
+Ilie Nastase, Jose Higueras
+Manuel Orantes, Bjorn Borg
+Ilie Nastase, Jan Kodes
+Ilie Nastase, Manuel Orantes
+Manuel Orantes, K Brebnor
+Byron Bertram, Frew Mcmillan
+Onny Parun, Jun Kamiwazumi
+Cliff Drysdale, Graham Stilwell
+Roger Taylor, Antonio Munoz
+Bob Hewitt, Raymond Moore
+Barry Phillips Moore, Deon Joubert
+Arthur Ashe, Sherwood Stewart
+Tom Okker, Haroon Rahim
+Gerald Battrick, Robert Maud
+Andrew Pattison, John Yuill
+Jaime Fillol, Bill Freer
+Mark Cox, Hans Jurgen Pohmann
+Jurgen Fassbender, Lew Hoad
+Bob Carmichael, Ian Fletcher
+Jimmy Connors, Rauty Krog
+Byron Bertram, Manuel Orantes
+Cliff Drysdale, Onny Parun
+Bob Hewitt, Roger Taylor
+Arthur Ashe, Barry Phillips Moore
+Tom Okker, Gerald Battrick
+Jaime Fillol, Andrew Pattison
+Mark Cox, Jurgen Fassbender
+Jimmy Connors, Bob Carmichael
+Cliff Drysdale, Byron Bertram
+Arthur Ashe, Bob Hewitt
+Tom Okker, Jaime Fillol
+Jimmy Connors, Mark Cox
+Arthur Ashe, Cliff Drysdale
+Jimmy Connors, Tom Okker
+Jimmy Connors, Arthur Ashe
+John Newcombe, John Alexander
+Charlie Pasarell, Paul Kronk
+Geoff Masters, Brian Gottfried
+Jasjit Singh, Anand Amritraj
+Jurgen Fassbender, Vijay Amritraj
+Phil Dent, Zeljko Franulovic
+Mike Estep, Mal Anderson
+Ross Case, Fred Stolle
+Ken Rosewall, Bob Giltinan
+Ian Fletcher, Allan Stone
+Jim Mcmanus, Colin Dibley
+Sherwood Stewart, Marcello Lara
+Rod Laver, Kenneth McMillan
+Paul Gerken, Martin Mulligan
+Raul Ramirez, Milan Holecek
+Jeff Simpson, Dick Crealy
+John Newcombe, Charlie Pasarell
+Geoff Masters, Jasjit Singh
+Phil Dent, Jurgen Fassbender
+Ross Case, Mike Estep
+Ken Rosewall, Ian Fletcher
+Sherwood Stewart, Jim Mcmanus
+Rod Laver, Paul Gerken
+Raul Ramirez, Jeff Simpson
+John Newcombe, Geoff Masters
+Phil Dent, Ross Case
+Ken Rosewall, Sherwood Stewart
+Rod Laver, Raul Ramirez
+John Newcombe, Phil Dent
+Rod Laver, Ken Rosewall
+Rod Laver, John Newcombe
+Graham Stilwell, Christer Holm
+Bo Holmstrom, Jan Zabrodsky
+Kjell Johansson, Ion Tiriac
+Bob Carmichael, Tenny Svensson
+Frew Mcmillan, Antonio Zugarelli
+Ivan Molina, Robert Machan
+Leif Johansson, Patrice Dominguez
+Corrado Barazzutti, Jaime Pinto Bravo
+Haroon Rahim, Buster C Mottram
+Ove Bengtson, Pekka Saila
+Jeff Borowiak, Barry Phillips Moore
+Gerald Battrick, Jan Norback
+Antonio Munoz, Douglas Palm
+Balazs Taroczy, Rolf Norberg
+Birger Andersson, Hans Jurgen Pohmann
+Olle Palmer, Terje Larsen
+Stan Smith, Graham Stilwell
+Raymond Moore, Bo Holmstrom
+Marty Riessen, Kjell Johansson
+Tom Gorman, Bob Carmichael
+Arthur Ashe, Frew Mcmillan
+Karl Meiler, Ivan Molina
+Leif Johansson, Roscoe Tanner
+Tom Okker, Corrado Barazzutti
+Manuel Orantes, Haroon Rahim
+Onny Parun, Ove Bengtson
+Jeff Borowiak, Mark Cox
+Jimmy Connors, Gerald Battrick
+Nikola Pilic, Antonio Munoz
+Jaime Fillol, Balazs Taroczy
+Bjorn Borg, Birger Andersson
+Ilie Nastase, Olle Palmer
+Stan Smith, Raymond Moore
+Tom Gorman, Marty Riessen
+Arthur Ashe, Karl Meiler
+Tom Okker, Leif Johansson
+Manuel Orantes, Onny Parun
+Jimmy Connors, Jeff Borowiak
+Nikola Pilic, Jaime Fillol
+Bjorn Borg, Ilie Nastase
+Tom Gorman, Stan Smith
+Tom Okker, Arthur Ashe
+Jimmy Connors, Manuel Orantes
+Bjorn Borg, Nikola Pilic
+Tom Gorman, Tom Okker
+Bjorn Borg, Jimmy Connors
+Tom Gorman, Bjorn Borg
+Marty Riessen, Tom Leonard
+Vladimir Zednik, Dick Crealy
+Mark Cox, Pierre Barthes
+Jan Kodes, Jean Baptiste Chanfreau
+Tom Okker, Erik Van Dillen
+Bob Carmichael, Jeff Borowiak
+Fred Stolle, Graham Stilwell
+Arthur Ashe, Ross Case
+Brian Fairlie, Torben Ulrich
+Zeljko Franulovic, Haroon Rahim
+Roscoe Tanner, Joaquin Loyo Mayo
+Roger Taylor, Tony Roche
+Tom Gorman, Raymond Moore
+Frantisek Pala, Boro Jovanovic
+Ismail El Shafei, Alex Metreveli
+Ken Rosewall, Premjit Lall
+Marty Riessen, Vladimir Zednik
+Mark Cox, Jan Kodes
+Bob Carmichael, Tom Okker
+Arthur Ashe, Fred Stolle
+Zeljko Franulovic, Brian Fairlie
+Roscoe Tanner, Roger Taylor
+Tom Gorman, Frantisek Pala
+Ken Rosewall, Ismail El Shafei
+Mark Cox, Marty Riessen
+Arthur Ashe, Bob Carmichael
+Roscoe Tanner, Zeljko Franulovic
+Ken Rosewall, Tom Gorman
+Arthur Ashe, Mark Cox
+Ken Rosewall, Roscoe Tanner
+Ken Rosewall, Arthur Ashe
+Marty Riessen, Ismail El Shafei
+Pierre Barthes, Haroon Rahim
+Jan Kodes, Zeljko Franulovic
+Fred Stolle, Tom Gorman
+Ken Rosewall, Boro Jovanovic
+Jean Baptiste Chanfreau, Bob Carmichael
+Dick Crealy, Jeff Borowiak
+Premjit Lall, Roscoe Tanner
+Mark Cox, Tom Leonard
+Alex Metreveli, Joaquin Loyo Mayo
+Roger Taylor, Torben Ulrich
+Tom Okker, Vladimir Zednik
+Erik Van Dillen, Arthur Ashe
+Graham Stilwell, Ross Case
+Raymond Moore, Frantisek Pala
+Brian Fairlie, Jorgen Ulrich
+Marty Riessen, Pierre Barthes
+Jan Kodes, Fred Stolle
+Ken Rosewall, Jean Baptiste Chanfreau
+Dick Crealy, Premjit Lall
+Mark Cox, Alex Metreveli
+Roger Taylor, Tom Okker
+Erik Van Dillen, Graham Stilwell
+Brian Fairlie, Raymond Moore
+Marty Riessen, Jan Kodes
+Ken Rosewall, Dick Crealy
+Roger Taylor, Mark Cox
+Brian Fairlie, Erik Van Dillen
+Marty Riessen, Ken Rosewall
+Roger Taylor, Brian Fairlie
+Roger Taylor, Marty Riessen
+Ken Rosewall, Ian Fletcher
+Geoff Masters, Dick Dell
+Jun Kuki, Jeff Borowiak
+Takeshi Koura, Allan Stone
+Colin Dibley, Eddie Cruz
+Milan Holecek, Toizo Hosoi
+Jun Kamiwazumi, Felix Ponte
+Cliff Drysdale, Keishiro Yanagi
+Vijay Amritraj, A Uehara
+Paul Kronk, Osamu Ishiguro
+Zeljko Franulovic, Anand Amritraj
+Kiyoshi Tanabe, Kenichi Hirai
+Jasjit Singh, Ross Case
+Toshiro Sakai, Jeff Simpson
+Sherwood Stewart, Marcello Lara
+Tom Gorman, Tadayuki Sawamatsu
+Ken Rosewall, Geoff Masters
+Jun Kuki, Takeshi Koura
+Milan Holecek, Colin Dibley
+Cliff Drysdale, Jun Kamiwazumi
+Paul Kronk, Vijay Amritraj
+Zeljko Franulovic, Kiyoshi Tanabe
+Toshiro Sakai, Jasjit Singh
+Sherwood Stewart, Tom Gorman
+Ken Rosewall, Jun Kuki
+Cliff Drysdale, Milan Holecek
+Zeljko Franulovic, Paul Kronk
+Toshiro Sakai, Sherwood Stewart
+Ken Rosewall, Cliff Drysdale
+Toshiro Sakai, Zeljko Franulovic
+Ken Rosewall, Toshiro Sakai
+Stan Smith, Allan Stone
+Harold Solomon, Cliff Drysdale
+Frew Mcmillan, Charlie Pasarell
+Ove Bengtson, Bob Lutz
+Patricio Cornejo, Colin Dibley
+Gerald Battrick, Nikola Pilic
+Frank Froehling, Tom Edlefsen
+Roy Emerson, Brian Gottfried
+Cliff Richey, Andrew Pattison
+Phil Dent, Jim Mcmanus
+Jose Edison Mandarino, Onny Parun
+John Alexander, Roy Barth
+Dick Stockton, Barry Phillips Moore
+Terry Addison, Jaime Fillol
+Milan Holecek, Kjell Johansson
+Rod Laver, Robert Maud
+Stan Smith, Harold Solomon
+Ove Bengtson, Frew Mcmillan
+Gerald Battrick, Patricio Cornejo
+Roy Emerson, Frank Froehling
+Cliff Richey, Phil Dent
+John Alexander, Jose Edison Mandarino
+Dick Stockton, Terry Addison
+Rod Laver, Milan Holecek
+Stan Smith, Ove Bengtson
+Gerald Battrick, Roy Emerson
+John Alexander, Cliff Richey
+Rod Laver, Dick Stockton
+Stan Smith, Gerald Battrick
+John Alexander, Rod Laver
+Stan Smith, John Alexander
+Ilie Nastase, Jaime Pinto Bravo
+Jiri Hrebec, Toshiro Sakai
+Jurgen Fassbender, Denis Naegelen
+Marcello Lara, Pierre Joly
+Francois Jauffret, Ismail El Shafei
+Zeljko Franulovic, Antonio Zugarelli
+Gerald Battrick, Karl Meiler
+Patrice Dominguez, Eddie Dibbs
+Andres Gimeno, Ezio Di Matteo
+Guillermo Vilas, Attila Korpas
+Paul Gerken, Eric Deblicker
+Torben Ulrich, David Seigel
+Roger Taylor, Kim Warwick
+Alex Metreveli, Kjell Johansson
+Charlie Pasarell, Sherwood Stewart
+Harald Elschenbroich, Peter Szoke
+Boro Jovanovic, Jun Kuki
+Frantisek Pala, Sergei Likhachev
+Corrado Barazzutti, Emilio Montano
+Jun Kamiwazumi, Roberto Chavez
+Jan Kodes, Brian Fairlie
+Pat Cramer, Dick Crealy
+Colin Dibley, Daniel Contet
+Tadeusz Nowicki, Patricio Cornejo
+Milan Holecek, John Newcombe
+John Paish, Ivan Molina
+Hans Jurgen Pohmann, Anand Amritraj
+Jean Louis Haillet, Jeff Borowiak
+Tom Gorman, Patrick Proisy
+Tito Vazquez, Allan Stone
+Onny Parun, Teimuraz Kakulia
+Martin Mulligan, Vladimir Zednik
+John Lloyd, Jairo Velasco
+Nikola Pilic, Geza Varga
+Phil Dent, Steve Faulk
+Raul Ramirez, Jimmy Connors
+Ion Tiriac, Patrick Hombergen
+Frank Froehling, Nicola Pietrangeli
+Wanaro N'Godrella, Tom Edlefsen
+Manuel Orantes, Bill Lloyd
+Jean Loup Rouyer, Nicholas Kalogeropoulos
+Andrew Pattison, Graham Stilwell
+Paolo Bertolucci, Joaquin Loyo Mayo
+Mark Cox, Ian Fletcher
+Harold Solomon, Frew Mcmillan
+Brian Gottfried, Jan Kukal
+Geoff Masters, Nicola Spear
+Arthur Ashe, Istvan Gulyas
+Jean Baptiste Chanfreau, Hans Kary
+Dick Stockton, Antonio Munoz
+Pierre Barthes, John Alexander
+Bjorn Borg, Cliff Richey
+Mike Estep, Miecyslav Rybarczyk
+Jaime Fillol, Nicolas Kelaidis
+Bernard Mignot, Ross Case
+Adriano Panatta, Bob Carmichael
+Barry Phillips Moore, Paul Kronk
+Szabolcz Baranyi, Raymond Moore
+Robert Machan, Toma Ovici
+Tom Okker, Neil Golden
+Erik Van Dillen, David Lloyd
+Cliff Drysdale, Piero Toci
+Jim Mcmanus, Jean Claude Barclay
+Stan Smith, Georges Goven
+Ilie Nastase, Jiri Hrebec
+Jurgen Fassbender, Marcello Lara
+Francois Jauffret, Zeljko Franulovic
+Patrice Dominguez, Gerald Battrick
+Guillermo Vilas, Andres Gimeno
+Paul Gerken, Torben Ulrich
+Roger Taylor, Alex Metreveli
+Charlie Pasarell, Harald Elschenbroich
+Boro Jovanovic, Frantisek Pala
+Corrado Barazzutti, Jun Kamiwazumi
+Jan Kodes, Pat Cramer
+Colin Dibley, Tadeusz Nowicki
+Milan Holecek, John Paish
+Hans Jurgen Pohmann, Jean Louis Haillet
+Tom Gorman, Tito Vazquez
+Onny Parun, Martin Mulligan
+Nikola Pilic, John Lloyd
+Phil Dent, Raul Ramirez
+Frank Froehling, Ion Tiriac
+Wanaro N'Godrella, Manuel Orantes
+Andrew Pattison, Jean Loup Rouyer
+Paolo Bertolucci, Mark Cox
+Harold Solomon, Brian Gottfried
+Arthur Ashe, Geoff Masters
+Dick Stockton, Jean Baptiste Chanfreau
+Bjorn Borg, Pierre Barthes
+Jaime Fillol, Mike Estep
+Adriano Panatta, Bernard Mignot
+Barry Phillips Moore, Szabolcz Baranyi
+Tom Okker, Robert Machan
+Erik Van Dillen, Cliff Drysdale
+Stan Smith, Jim Mcmanus
+Ilie Nastase, Jurgen Fassbender
+Francois Jauffret, Patrice Dominguez
+Paul Gerken, Guillermo Vilas
+Roger Taylor, Charlie Pasarell
+Boro Jovanovic, Corrado Barazzutti
+Jan Kodes, Colin Dibley
+Milan Holecek, Hans Jurgen Pohmann
+Tom Gorman, Onny Parun
+Nikola Pilic, Phil Dent
+Frank Froehling, Wanaro N'Godrella
+Paolo Bertolucci, Andrew Pattison
+Arthur Ashe, Harold Solomon
+Bjorn Borg, Dick Stockton
+Adriano Panatta, Jaime Fillol
+Tom Okker, Barry Phillips Moore
+Stan Smith, Erik Van Dillen
+Ilie Nastase, Francois Jauffret
+Roger Taylor, Paul Gerken
+Jan Kodes, Boro Jovanovic
+Tom Gorman, Milan Holecek
+Nikola Pilic, Frank Froehling
+Paolo Bertolucci, Arthur Ashe
+Adriano Panatta, Bjorn Borg
+Tom Okker, Stan Smith
+Ilie Nastase, Roger Taylor
+Tom Gorman, Jan Kodes
+Nikola Pilic, Paolo Bertolucci
+Adriano Panatta, Tom Okker
+Ilie Nastase, Tom Gorman
+Nikola Pilic, Adriano Panatta
+Ilie Nastase, Nikola Pilic
+Ilie Nastase, Hans Joachim Ploetz
+Ivan Molina, William Brown
+Hans Kary, Phil Siviter
+Toshiro Sakai, Jean Paul Meyer
+Roberto Chavez, Ionel Santeiu
+Sandy Mayer, Richard Lewis
+Clay Iles, Joe Mesmer
+Vladimir Zednik, Gaurav Misra
+Jurgen Fassbender, Istvan Gulyas
+Jose Moreno, Mike Collins
+Ray Keldie, Dick Bohrnstedt
+Tenny Svensson, Frank Gebert
+Jeff Simpson, Nicola Pietrangeli
+James Chico Hagey, Neale Fraser
+Marcello Lara, John Paish
+Hans Jurgen Pohmann, Colin Mchugo
+Alex Metreveli, Stanley Matthews
+Bob Giltinan, Robert Machan
+Allan McDonald, Greg Braun
+John Cooper, Herb Fitzgibbon
+Pancho Walthall, Tadeusz Nowicki
+Chiradip Mukerjea, Hans Engert
+John Feaver, Gene Scott
+Cliff Letcher, Bob Stock
+Jimmy Connors, Mark Farrell
+David Lloyd, Corrado Barazzutti
+William Durham, Sergei Likhachev
+Russell Simpson, Tom Karp
+Jaime Pinto Bravo, John Clifton
+Deon Joubert, Colin Dowdeswell
+Bernard Mitton, Thierry Bernasconi
+Zan Guerry, Jan Hordijk
+Syd Ball, Boro Jovanovic
+Szabolcz Baranyi, Jean Loup Rouyer
+Peter Kanderal, Kiyoshi Tanabe
+Jeff Austin, Teimuraz Kakulia
+Karl Meiler, Greg Peebles
+Billy Martin, Jasjit Singh
+Patrick Hombergen, Stephen Myers
+Bjorn Borg, Premjit Lall
+Frantisek Pala, Dan Bleckinger
+Norman Holmes, Doug Crawford
+Bob Mckinley, Paul Mcnamee
+Jun Kuki, Gene Russo
+Jiri Hrebec, Frank Sedgman
+Antonio Zugarelli, Dragan Stojovic
+Harald Elschenbroich, John James
+Roger Taylor, Jean Louis Haillet
+John Lloyd, Jean Francois Caujolle
+Keith Hancock, Paul Kronk
+Bernard Mignot, Peter Pokorny
+Vijay Amritraj, Harry Turnbull
+Ernie Ewert, Konstantin Pugayev
+Mike Machette, Tony Parun
+Barry Phillips Moore, Robin Drysdale
+Owen Davidson, Pierre Joly
+Anand Amritraj, Saeed Meer
+Jaidip Mukerjea, Eduardo Zuleta
+Ricky Buwalda, Munawar Iqbal
+Greg Perkins, Jun Kamiwazumi
+John Yuill, Stephen Warboys
+Peter Curtis, Graeme Thomson
+Pietro Marzano, Raul Ramirez
+Jan Kodes, Kenichi Hirai
+Ilie Nastase, Ivan Molina
+Toshiro Sakai, Hans Kary
+Sandy Mayer, Roberto Chavez
+Vladimir Zednik, Clay Iles
+Jurgen Fassbender, Jose Moreno
+Ray Keldie, Tenny Svensson
+Jeff Simpson, James Chico Hagey
+Hans Jurgen Pohmann, Marcello Lara
+Alex Metreveli, Bob Giltinan
+John Cooper, Allan McDonald
+Pancho Walthall, Chiradip Mukerjea
+John Feaver, Cliff Letcher
+Jimmy Connors, David Lloyd
+Russell Simpson, William Durham
+Deon Joubert, Jaime Pinto Bravo
+Bernard Mitton, Zan Guerry
+Szabolcz Baranyi, Syd Ball
+Jeff Austin, Peter Kanderal
+Karl Meiler, Billy Martin
+Bjorn Borg, Patrick Hombergen
+Norman Holmes, Frantisek Pala
+Bob Mckinley, Jun Kuki
+Jiri Hrebec, Antonio Zugarelli
+Roger Taylor, Harald Elschenbroich
+John Lloyd, Keith Hancock
+Vijay Amritraj, Bernard Mignot
+Ernie Ewert, Mike Machette
+Owen Davidson, Barry Phillips Moore
+Jaidip Mukerjea, Anand Amritraj
+Greg Perkins, Ricky Buwalda
+John Yuill, Peter Curtis
+Jan Kodes, Pietro Marzano
+Ilie Nastase, Toshiro Sakai
+Sandy Mayer, Vladimir Zednik
+Jurgen Fassbender, Ray Keldie
+Hans Jurgen Pohmann, Jeff Simpson
+Alex Metreveli, John Cooper
+John Feaver, Pancho Walthall
+Jimmy Connors, Russell Simpson
+Bernard Mitton, Deon Joubert
+Szabolcz Baranyi, Jeff Austin
+Bjorn Borg, Karl Meiler
+Bob Mckinley, Norman Holmes
+Roger Taylor, Jiri Hrebec
+Vijay Amritraj, John Lloyd
+Owen Davidson, Ernie Ewert
+Jaidip Mukerjea, Greg Perkins
+Jan Kodes, John Yuill
+Sandy Mayer, Ilie Nastase
+Jurgen Fassbender, Hans Jurgen Pohmann
+Alex Metreveli, John Feaver
+Jimmy Connors, Bernard Mitton
+Bjorn Borg, Szabolcz Baranyi
+Roger Taylor, Bob Mckinley
+Vijay Amritraj, Owen Davidson
+Jan Kodes, Jaidip Mukerjea
+Sandy Mayer, Jurgen Fassbender
+Alex Metreveli, Jimmy Connors
+Roger Taylor, Bjorn Borg
+Jan Kodes, Vijay Amritraj
+Alex Metreveli, Sandy Mayer
+Jan Kodes, Roger Taylor
+Jan Kodes, Alex Metreveli
+Stan Smith, Patrick Proisy
+Billy Martin, Tito Vazquez
+Roscoe Tanner, Hans Jurgen Pohmann
+Geoff Masters, Clark Graebner
+Tom Gorman, Eddie Dibbs
+Ove Bengtson, Arthur Carrington
+Mark Cox, Patricio Cornejo
+John Feaver, Joaquin Loyo Mayo
+Manuel Orantes, Buster C Mottram
+Ian Fletcher, Rayno Seegers
+Butch Seewagen, Haroon Rahim
+Ross Case, Rolf Norberg
+Marty Riessen, Thomaz Koch
+Onny Parun, Jasjit Singh
+John Lloyd, Robert Kreiss
+Jeff Simpson, Paolo Bertolucci
+Arthur Ashe, Colin Dibley
+Sherwood Stewart, Billy Higgins
+Jean Baptiste Chanfreau, Guillermo Vilas
+Bjorn Borg, Roy Barth
+Nikola Pilic, Jeff Austin
+Anand Amritraj, Pat Dupre
+Phil Dent, Terry Ryan
+George Hardie, Frank Froehling
+Jan Kodes, Wanaro N'Godrella
+Jim Mcmanus, Lito Alvarez
+Dick Crealy, Milan Holecek
+Ismail El Shafei, Frew Mcmillan
+Roger Taylor, Antonio Zugarelli
+John Alexander, Vitas Gerulaitis
+Barry Phillips Moore, Ian Crookenden
+Cliff Drysdale, Dick Dell
+Jiri Hrebec, Dick Stockton
+Raul Ramirez, Antonio Munoz
+Brian Teacher, William Brown
+Cliff Richey, Gerald Battrick
+Vladimir Zednik, Torben Ulrich
+Jun Kamiwazumi, John Andrews
+Bob Mckinley, Bob Carmichael
+Ken Rosewall, Graham Stilwell
+Raymond Moore, James Chico Hagey
+Allan Stone, Steve Siegel
+Toma Ovici, Tom Edlefsen
+Adriano Panatta, Victor Amaya
+Pat Cramer, Belus Prajoux
+Vijay Amritraj, Gene Scott
+Patrice Dominguez, Karl Meiler
+Rod Laver, Harold Solomon
+Erik Van Dillen, Georges Goven
+Charlie Pasarell, Fred Mcnair
+Jaime Fillol, Mike Estep
+Jimmy Connors, Herb Fitzgibbon
+Pierre Barthes, Steve Krulevitz
+Brian Gottfried, Paul Kronk
+Paul Gerken, Sandy Mayer
+Tom Okker, Richard Gonzalez
+Ion Tiriac, Armistead Neely
+Jeff Borowiak, Grover Raz Reid
+Jim Delaney, Ivan Molina
+John Newcombe, Marcello Lara
+Owen Davidson, Jurgen Fassbender
+Charles Owens, Corrado Barazzutti
+Andrew Pattison, John James
+Ilie Nastase, Humphrey Hose
+Stan Smith, Billy Martin
+Roscoe Tanner, Geoff Masters
+Tom Gorman, Ove Bengtson
+Mark Cox, John Feaver
+Manuel Orantes, Ian Fletcher
+Ross Case, Butch Seewagen
+Onny Parun, Marty Riessen
+Jeff Simpson, John Lloyd
+Arthur Ashe, Sherwood Stewart
+Bjorn Borg, Jean Baptiste Chanfreau
+Nikola Pilic, Anand Amritraj
+Phil Dent, George Hardie
+Jan Kodes, Jim Mcmanus
+Ismail El Shafei, Dick Crealy
+John Alexander, Roger Taylor
+Cliff Drysdale, Barry Phillips Moore
+Raul Ramirez, Jiri Hrebec
+Cliff Richey, Brian Teacher
+Jun Kamiwazumi, Vladimir Zednik
+Ken Rosewall, Bob Mckinley
+Allan Stone, Raymond Moore
+Adriano Panatta, Toma Ovici
+Vijay Amritraj, Pat Cramer
+Rod Laver, Patrice Dominguez
+Charlie Pasarell, Erik Van Dillen
+Jimmy Connors, Jaime Fillol
+Brian Gottfried, Pierre Barthes
+Tom Okker, Paul Gerken
+Ion Tiriac, Jeff Borowiak
+John Newcombe, Jim Delaney
+Charles Owens, Owen Davidson
+Andrew Pattison, Ilie Nastase
+Stan Smith, Roscoe Tanner
+Tom Gorman, Mark Cox
+Ross Case, Manuel Orantes
+Onny Parun, Jeff Simpson
+Bjorn Borg, Arthur Ashe
+Nikola Pilic, Phil Dent
+Jan Kodes, Ismail El Shafei
+John Alexander, Cliff Drysdale
+Cliff Richey, Raul Ramirez
+Ken Rosewall, Jun Kamiwazumi
+Allan Stone, Adriano Panatta
+Vijay Amritraj, Rod Laver
+Jimmy Connors, Charlie Pasarell
+Tom Okker, Brian Gottfried
+John Newcombe, Ion Tiriac
+Andrew Pattison, Charles Owens
+Stan Smith, Tom Gorman
+Onny Parun, Ross Case
+Nikola Pilic, Bjorn Borg
+Jan Kodes, John Alexander
+Ken Rosewall, Cliff Richey
+Vijay Amritraj, Allan Stone
+Jimmy Connors, Tom Okker
+John Newcombe, Andrew Pattison
+Stan Smith, Onny Parun
+Jan Kodes, Nikola Pilic
+Ken Rosewall, Vijay Amritraj
+John Newcombe, Jimmy Connors
+Jan Kodes, Stan Smith
+John Newcombe, Ken Rosewall
+John Newcombe, Jan Kodes
+Karl Meiler, John James
+Teimuraz Kakulia, Robert Machan
+Syd Ball, Neale Fraser
+Michael Phillips, Jun Kuki
+Wanaro N'Godrella, Phil Dent
+Barry Phillips Moore, Frank Sedgman
+Max Senior, Kim Warwick
+Ross Case, Paul Kronk
+Frank Gebert, Allan McDonald
+Hans Joachim Ploetz, Jean Francois Caujolle
+Chris Kachel, Bill Bowrey
+Onny Parun, Hans Kary
+Patrick Proisy, William Durham
+Will Coghlan, Jun Kamiwazumi
+Patrice Dominguez, Balazs Taroczy
+John Cooper, Dick Crealy
+Graeme Thomson, Thierry Bernasconi
+Bob Giltinan, Robert Casey
+Bob Carmichael, John Bartlett
+John Stephens, Lars Elvstrom
+Szabolcz Baranyi, Colin Stubs
+Cliff Letcher, Peter Szoke
+Georges Goven, Nicolas Kelaidis
+Jean Louis Haillet, Greg Perkins
+Karl Meiler, Ken Rosewall
+Teimuraz Kakulia, Syd Ball
+Allan Stone, Michael Phillips
+Wanaro N'Godrella, Barry Phillips Moore
+Alex Metreveli, Max Senior
+Ross Case, Frank Gebert
+Geoff Masters, Hans Joachim Ploetz
+Onny Parun, Chris Kachel
+Patrick Proisy, Will Coghlan
+Patrice Dominguez, John Alexander
+John Cooper, Graeme Thomson
+Bob Giltinan, Mal Anderson
+Bob Carmichael, John Stephens
+Szabolcz Baranyi, Colin Dibley
+Georges Goven, Cliff Letcher
+John Newcombe, Jean Louis Haillet
+Karl Meiler, Teimuraz Kakulia
+Wanaro N'Godrella, Allan Stone
+Alex Metreveli, Ross Case
+Onny Parun, Geoff Masters
+Patrick Proisy, Patrice Dominguez
+John Cooper, Bob Giltinan
+Bob Carmichael, Szabolcz Baranyi
+John Newcombe, Georges Goven
+Karl Meiler, Wanaro N'Godrella
+Onny Parun, Alex Metreveli
+Patrick Proisy, John Cooper
+John Newcombe, Bob Carmichael
+Onny Parun, Karl Meiler
+John Newcombe, Patrick Proisy
+John Newcombe, Onny Parun
+Tom Gorman, Ilie Nastase
+Ilie Nastase, Jan Kodes
+Ilie Nastase, John Newcombe
+Ilie Nastase, Jimmy Connors
+Ilie Nastase, Tom Okker
+Jan Kodes, Tom Gorman
+John Newcombe, Jan Kodes
+John Newcombe, Tom Gorman
+Tom Okker, John Newcombe
+Tom Okker, Jimmy Connors
+Tom Okker, Manuel Orantes
+Tom Okker, Stan Smith
+Jimmy Connors, Manuel Orantes
+Jimmy Connors, Stan Smith
+Stan Smith, Manuel Orantes
+Stan Smith, John Alexander
+Rod Laver, Roy Emerson
+Arthur Ashe, Marty Riessen
+Ken Rosewall, Roger Taylor
+Stan Smith, Rod Laver
+Arthur Ashe, Ken Rosewall
+Stan Smith, Arthur Ashe
+Clark Graebner, Hans Kary
+John Cooper, Peter Szoke
+Pat Dupre, Zan Guerry
+Sandy Mayer, Nicholas Kalogeropoulos
+Charles Owens, Ion Tiriac
+Pat Cramer, Jan Kukal
+Mike Belkin, Szabolcz Baranyi
+Jurgen Fassbender, Gavorielle Marcu
+Clark Graebner, John Cooper
+Sandy Mayer, Pat Dupre
+Charles Owens, Pat Cramer
+Jurgen Fassbender, Mike Belkin
+Sandy Mayer, Clark Graebner
+Charles Owens, Jurgen Fassbender
+Sandy Mayer, Charles Owens
+Rod Laver, Onny Parun
+Roy Barth, Milan Holecek
+Ove Bengtson, Patricio Cornejo
+Gerald Battrick, Dick Stockton
+Cliff Richey, Charlie Pasarell
+Jim Mcmanus, Robert Maud
+Nikola Pilic, Jose Edison Mandarino
+Brian Gottfried, Roy Emerson
+Bob Lutz, Earl Butch Buchholz
+Phil Dent, Terry Addison
+Allan Stone, Frew Mcmillan
+Cliff Drysdale, Colin Dibley
+John Alexander, Andrew Pattison
+Jaime Fillol, Barry Phillips Moore
+Frank Froehling, Tom Edlefsen
+Stan Smith, Harold Solomon
+Rod Laver, Roy Barth
+Gerald Battrick, Ove Bengtson
+Cliff Richey, Jim Mcmanus
+Nikola Pilic, Brian Gottfried
+Bob Lutz, Phil Dent
+Cliff Drysdale, Allan Stone
+John Alexander, Jaime Fillol
+Stan Smith, Frank Froehling
+Rod Laver, Gerald Battrick
+Nikola Pilic, Cliff Richey
+Cliff Drysdale, Bob Lutz
+Stan Smith, John Alexander
+Rod Laver, Nikola Pilic
+Stan Smith, Cliff Drysdale
+Stan Smith, Rod Laver
+Harold Solomon, Billy Higgins
+Barry Phillips Moore, Tom Leonard
+Andrew Pattison, Saeed Meer
+Jim Mcmanus, Tom Edlefsen
+Mike Estep, John Bartlett
+Phil Dent, Bob Mckinley
+Owen Davidson, Josef Solc
+Jeff Austin, Roy Barth
+Charlie Pasarell, Kenneth McMillan
+Eddie Dibbs, Mohammed Arif Elahi
+Raul Ramirez, Pancho Walthall
+Dick Stockton, U Jadcyznski
+Jaime Fillol, William Brown
+Roscoe Tanner, Fred Mcnair
+Brian Gottfried, Ted Gorski
+John Newcombe, Charles Owens
+Phil Dent, Charlie Pasarell
+Eddie Dibbs, Jeff Austin
+Harold Solomon, Raul Ramirez
+Andrew Pattison, Dick Stockton
+Jaime Fillol, Owen Davidson
+Roscoe Tanner, Mike Estep
+Brian Gottfried, Jim Mcmanus
+John Newcombe, Barry Phillips Moore
+Jaime Fillol, Harold Solomon
+Roscoe Tanner, Andrew Pattison
+Brian Gottfried, Phil Dent
+Eddie Dibbs, John Newcombe
+Eddie Dibbs, Roscoe Tanner
+Brian Gottfried, Jaime Fillol
+Eddie Dibbs, Brian Gottfried
+Clark Graebner, William Brown
+Grover Raz Reid, John Paish
+Jaime Pinto Bravo, Ove Bengtson
+Frew Mcmillan, Gene Scott
+Eddie Dibbs, Steve Faulk
+Zan Guerry, Frank Froehling
+Sherwood Stewart, Tito Vazquez
+Charles Owens, Dick Dell
+Grover Raz Reid, Clark Graebner
+Frew Mcmillan, Jaime Pinto Bravo
+Eddie Dibbs, Zan Guerry
+Sherwood Stewart, Charles Owens
+Frew Mcmillan, Grover Raz Reid
+Eddie Dibbs, Sherwood Stewart
+Eddie Dibbs, Frew Mcmillan
+Ilie Nastase, Zan Guerry
+Pat Cramer, Gavorielle Marcu
+Sherwood Stewart, Charles Owens
+Harold Solomon, John Cooper
+Juan Gisbert, Butch Seewagen
+Mike Estep, Jaime Pinto Bravo
+Brian Gottfried, Nicholas Kalogeropoulos
+Sandy Mayer, Hans Kary
+Karl Meiler, Martin Mulligan
+Paul Gerken, Tito Vazquez
+Eddie Dibbs, Bill Shivar
+Clark Graebner, Szabolcz Baranyi
+Jurgen Fassbender, John Paish
+Ian Fletcher, Ion Tiriac
+Peter Szoke, Ian Crookenden
+Jimmy Connors, Byron Bertram
+Ilie Nastase, Pat Cramer
+Sherwood Stewart, Harold Solomon
+Mike Estep, Juan Gisbert
+Brian Gottfried, Sandy Mayer
+Paul Gerken, Karl Meiler
+Clark Graebner, Eddie Dibbs
+Jurgen Fassbender, Ian Fletcher
+Jimmy Connors, Peter Szoke
+Ilie Nastase, Sherwood Stewart
+Mike Estep, Brian Gottfried
+Paul Gerken, Clark Graebner
+Jimmy Connors, Jurgen Fassbender
+Ilie Nastase, Mike Estep
+Jimmy Connors, Paul Gerken
+Jimmy Connors, Ilie Nastase
+Piero Toci, John Cooper
+Peter Szoke, Jean Louis Haillet
+Jeff Simpson, Hans Engert
+Martin Mulligan, Bernard Montrenaud
+Robert Machan, Steve Faulk
+A Macdonald, Jan Kukal
+David Lloyd, Dimitri Sturdza
+Marcello Lara, Antonio Zugarelli
+Nicholas Kalogeropoulos, U Unknown
+Kjell Johansson, Jose Guerrero
+Vincenzo Franchitti, Juan Ignacio Muntanola
+John Feaver, Nicola Spear
+Mike Estep, Juan Herrera
+Ezio Di Matteo, Jaidip Mukerjea
+Paolo Bertolucci, Istvan Gulyas
+Corrado Barazzutti, Sherwood Stewart
+Ion Tiriac, David Lloyd
+Patrick Proisy, Nicholas Kalogeropoulos
+Adriano Panatta, Piero Toci
+Manuel Orantes, Marcello Lara
+Antonio Munoz, Jeff Simpson
+Bernard Mignot, Peter Szoke
+Robert Machan, Patrice Dominguez
+Kjell Johansson, Ian Fletcher
+Francois Jauffret, Paolo Bertolucci
+Jiri Hrebec, Vincenzo Franchitti
+Patrick Hombergen, Ezio Di Matteo
+Georges Goven, A Macdonald
+John Feaver, Juan Gisbert
+Mike Estep, Szabolcz Baranyi
+Harald Elschenbroich, Martin Mulligan
+Bjorn Borg, Corrado Barazzutti
+Patrick Proisy, Patrick Hombergen
+Adriano Panatta, Bjorn Borg
+Manuel Orantes, Georges Goven
+Antonio Munoz, John Feaver
+Bernard Mignot, Robert Machan
+Francois Jauffret, Mike Estep
+Jiri Hrebec, Ion Tiriac
+Harald Elschenbroich, Kjell Johansson
+Patrick Proisy, Jiri Hrebec
+Adriano Panatta, Harald Elschenbroich
+Manuel Orantes, Francois Jauffret
+Antonio Munoz, Bernard Mignot
+Adriano Panatta, Patrick Proisy
+Manuel Orantes, Antonio Munoz
+Manuel Orantes, Adriano Panatta
+Jurgen Fassbender, Bernard Montrenaud
+Wilhelm Bungert, Allan McDonald
+Attila Korpas, Toshiro Sakai
+Harald Elschenbroich, Peter Pokorny
+Ulrich Pinner, Juan Gisbert
+Bernard Mignot, Istvan Gulyas
+Hans Jurgen Pohmann, Jaidip Mukerjea
+Ion Tiriac, Rolf Gehring
+Jurgen Fassbender, Wilhelm Bungert
+Harald Elschenbroich, Attila Korpas
+Ulrich Pinner, Bernard Mignot
+Hans Jurgen Pohmann, Ion Tiriac
+Jurgen Fassbender, Harald Elschenbroich
+Hans Jurgen Pohmann, Ulrich Pinner
+Hans Jurgen Pohmann, Jurgen Fassbender
+John Bartlett, Arthur Ashe
+Dick Dell, Freddie De Jesus
+Allan Stone, Bob Mckinley
+Vitas Gerulaitis, Jim Mcmanus
+Roscoe Tanner, Brant Bailey
+Dick Crealy, Mike Estep
+Brian Fairlie, John Williams
+John Whitlinger, Roy Barth
+Manuel Orantes, Terry Moor
+Frank Froehling, Raul Ramirez
+Butch Seewagen, Raymond Moore
+Georges Goven, Pat Dupre
+Marty Riessen, Terry Ryan
+Jim Delaney, Grover Raz Reid
+Charles Owens, Onny Parun
+Ross Case, Pancho Musalem
+Frew Mcmillan, Steve Faulk
+Eddie Dibbs, Steve Krulevitz
+Fred Mcnair, George Hardie
+John Newcombe, Peter Burwash
+Ismail El Shafei, Tom Edlefsen
+Bob Carmichael, Victor Amaya
+Ion Tiriac, Carlos Feldstedt
+Nikola Pilic, Jim Ward
+Geoff Masters, John Lucas
+John Alexander, Felix Ponte
+Guillermo Vilas, Torben Ulrich
+Clark Graebner, Woody Blocher
+Antonio Munoz, Bill Bowrey
+Phil Dent, Robert Kreiss
+Richard Russell, Audley Bell
+Tom Okker, Lito Alvarez
+Dick Dell, John Bartlett
+Vitas Gerulaitis, Allan Stone
+Dick Crealy, Roscoe Tanner
+Brian Fairlie, John Whitlinger
+Manuel Orantes, Frank Froehling
+Georges Goven, Butch Seewagen
+Marty Riessen, Jim Delaney
+Ross Case, Charles Owens
+Eddie Dibbs, Frew Mcmillan
+John Newcombe, Fred Mcnair
+Bob Carmichael, Ismail El Shafei
+Nikola Pilic, Ion Tiriac
+John Alexander, Geoff Masters
+Guillermo Vilas, Clark Graebner
+Antonio Munoz, Phil Dent
+Tom Okker, Richard Russell
+Vitas Gerulaitis, Dick Dell
+Dick Crealy, Brian Fairlie
+Manuel Orantes, Georges Goven
+Ross Case, Marty Riessen
+John Newcombe, Eddie Dibbs
+Nikola Pilic, Bob Carmichael
+Guillermo Vilas, John Alexander
+Antonio Munoz, Tom Okker
+Vitas Gerulaitis, Dick Crealy
+Manuel Orantes, Ross Case
+John Newcombe, Nikola Pilic
+Guillermo Vilas, Antonio Munoz
+Manuel Orantes, Vitas Gerulaitis
+John Newcombe, Guillermo Vilas
+Manuel Orantes, John Newcombe
+Stan Smith, Harold Solomon
+Terry Addison, Roy Barth
+Andrew Pattison, Bob Hewitt
+John Alexander, Patricio Cornejo
+Dick Stockton, Charlie Pasarell
+Ove Bengtson, Onny Parun
+Milan Holecek, Tom Edlefsen
+Jim Mcmanus, Cliff Drysdale
+Cliff Richey, Robert Maud
+Gerald Battrick, Jaime Fillol
+Frank Froehling, Frew Mcmillan
+Bob Lutz, Colin Dibley
+Roy Emerson, Phil Dent
+Allan Stone, Barry Phillips Moore
+Nikola Pilic, Brian Gottfried
+Rod Laver, Jose Edison Mandarino
+Stan Smith, Terry Addison
+John Alexander, Andrew Pattison
+Dick Stockton, Ove Bengtson
+Jim Mcmanus, Milan Holecek
+Cliff Richey, Gerald Battrick
+Bob Lutz, Frank Froehling
+Roy Emerson, Allan Stone
+Rod Laver, Nikola Pilic
+John Alexander, Stan Smith
+Dick Stockton, Jim Mcmanus
+Bob Lutz, Cliff Richey
+Rod Laver, Roy Emerson
+Dick Stockton, John Alexander
+Rod Laver, Bob Lutz
+Rod Laver, Dick Stockton
+Ion Tiriac, Paul Gerken
+Karl Meiler, Ian Fletcher
+Juan Gisbert, Nicholas Kalogeropoulos
+Jurgen Fassbender, Mike Estep
+Pat Cramer, Jaime Pinto Bravo
+Clark Graebner, Charles Owens
+Sandy Mayer, Sherwood Stewart
+Ilie Nastase, John Cooper
+Juan Gisbert, Ion Tiriac
+Clark Graebner, Karl Meiler
+Jurgen Fassbender, Sandy Mayer
+Ilie Nastase, Pat Cramer
+Jurgen Fassbender, Juan Gisbert
+Clark Graebner, Ilie Nastase
+Jurgen Fassbender, Clark Graebner
+Kim Warwick, Steve Faulk
+Bob Carmichael, Pat Cramer
+Ian Fletcher, Bob Mckinley
+Butch Seewagen, Terry Ryan
+Toshiro Sakai, John Bartlett
+Gerald Battrick, Jun Kamiwazumi
+Frew Mcmillan, Billy Higgins
+Terry Moor, Anand Amritraj
+Tom Edlefsen, Oscar Rene Cruz
+Vijay Amritraj, Humphrey Hose
+John Austin, Tom Leonard
+Rudy Hernando, Ian Harris
+Jimmy Connors, Kim Warwick
+Bob Carmichael, F D Robbins
+Ian Fletcher, Butch Seewagen
+Gerald Battrick, Toshiro Sakai
+John Alexander, Frew Mcmillan
+Tom Edlefsen, Terry Moor
+Vijay Amritraj, John Austin
+Rod Laver, Rudy Hernando
+Jimmy Connors, Bob Carmichael
+Ian Fletcher, Gerald Battrick
+John Alexander, Tom Edlefsen
+Vijay Amritraj, Rod Laver
+Jimmy Connors, Ian Fletcher
+Vijay Amritraj, John Alexander
+Vijay Amritraj, Jimmy Connors
+Allan Stone, Tom Gorman
+Paul Gerken, Dick Dell
+Sandy Mayer, Jeff Austin
+Richard Gonzalez, John Lloyd
+Dick Stockton, Fred Mcnair
+Karl Meiler, Dick Bohrnstedt
+Vijay Amritraj, Sherwood Stewart
+Vitas Gerulaitis, Tom Edlefsen
+Torben Ulrich, Gene Scott
+Colin Dibley, Bill Lloyd
+Ion Tiriac, Bob Mckinley
+Toshiro Sakai, Roscoe Tanner
+Clark Graebner, Buster C Mottram
+Butch Seewagen, Brian Gottfried
+Onny Parun, Bill Lofgren
+Ilie Nastase, Herb Fitzgibbon
+Paul Gerken, Allan Stone
+Richard Gonzalez, Sandy Mayer
+Dick Stockton, Karl Meiler
+Vijay Amritraj, Vitas Gerulaitis
+Colin Dibley, Torben Ulrich
+Ion Tiriac, Toshiro Sakai
+Clark Graebner, Butch Seewagen
+Onny Parun, Ilie Nastase
+Richard Gonzalez, Paul Gerken
+Vijay Amritraj, Dick Stockton
+Colin Dibley, Ion Tiriac
+Clark Graebner, Onny Parun
+Vijay Amritraj, Richard Gonzalez
+Colin Dibley, Clark Graebner
+Colin Dibley, Vijay Amritraj
+Erik Van Dillen, Brian Fairlie
+Tom Okker, Ross Case
+Raymond Moore, Pierre Barthes
+Jan Kodes, Premjit Lall
+Dick Crealy, Vladimir Zednik
+Roscoe Tanner, Earl Butch Buchholz
+Frantisek Pala, Haroon Rahim
+Roger Taylor, Dennis Ralston
+Mark Cox, Torben Ulrich
+Tom Leonard, Graham Stilwell
+Jeff Borowiak, Boro Jovanovic
+Arthur Ashe, Ismail El Shafei
+Ken Rosewall, Zeljko Franulovic
+Fred Stolle, Tom Gorman
+Alex Metreveli, Bob Carmichael
+Marty Riessen, Jean Baptiste Chanfreau
+Tom Okker, Erik Van Dillen
+Raymond Moore, Jan Kodes
+Dick Crealy, Roscoe Tanner
+Roger Taylor, Frantisek Pala
+Mark Cox, Tom Leonard
+Arthur Ashe, Jeff Borowiak
+Ken Rosewall, Fred Stolle
+Alex Metreveli, Marty Riessen
+Tom Okker, Raymond Moore
+Roger Taylor, Dick Crealy
+Arthur Ashe, Mark Cox
+Ken Rosewall, Alex Metreveli
+Tom Okker, Roger Taylor
+Arthur Ashe, Ken Rosewall
+Tom Okker, Arthur Ashe
+Roger Taylor, Colin Dibley
+Dick Stockton, Mark Cox
+Stan Smith, Dick Crealy
+Cliff Richey, Marty Riessen
+Rod Laver, Alex Metreveli
+Brian Fairlie, John Alexander
+Roy Emerson, Ken Rosewall
+Arthur Ashe, Bob Lutz
+Roger Taylor, Brian Fairlie
+Stan Smith, Roy Emerson
+Cliff Richey, Dick Stockton
+Rod Laver, Arthur Ashe
+Stan Smith, Cliff Richey
+Rod Laver, Roger Taylor
+Rod Laver, Stan Smith
+Rod Laver, Frew Mcmillan
+Frank Froehling, Allan Stone
+Brian Gottfried, Onny Parun
+Cliff Richey, Jose Edison Mandarino
+Stan Smith, Barry Phillips Moore
+Charlie Pasarell, Bob Hewitt
+Nikola Pilic, Harold Solomon
+John Alexander, Roy Barth
+Bob Lutz, Milan Holecek
+Andrew Pattison, Cliff Drysdale
+Robert Maud, Gerald Battrick
+Roy Emerson, Terry Addison
+Jaime Fillol, Jim Mcmanus
+Phil Dent, Tom Edlefsen
+Colin Dibley, Ove Bengtson
+Dick Stockton, Patricio Cornejo
+Rod Laver, Frank Froehling
+Cliff Richey, Brian Gottfried
+Stan Smith, Charlie Pasarell
+John Alexander, Nikola Pilic
+Bob Lutz, Andrew Pattison
+Roy Emerson, Robert Maud
+Phil Dent, Jaime Fillol
+Dick Stockton, Colin Dibley
+Rod Laver, Cliff Richey
+John Alexander, Stan Smith
+Roy Emerson, Bob Lutz
+Dick Stockton, Phil Dent
+Rod Laver, John Alexander
+Roy Emerson, Dick Stockton
+Rod Laver, Roy Emerson
+Stan Smith, Cliff Drysdale
+Jaime Fillol, Andrew Pattison
+Phil Dent, Tom Edlefsen
+Bob Lutz, Onny Parun
+John Alexander, Gerald Battrick
+Charlie Pasarell, Jose Edison Mandarino
+Ove Bengtson, Jim Mcmanus
+Patricio Cornejo, Roy Emerson
+Dick Stockton, Karl Meiler
+Robert Maud, Roy Barth
+Barry Phillips Moore, Frew Mcmillan
+Brian Gottfried, Colin Dibley
+Cliff Richey, Milan Holecek
+Nikola Pilic, Allan Stone
+Terry Addison, Frank Froehling
+Rod Laver, Harold Solomon
+Stan Smith, Jaime Fillol
+Bob Lutz, Phil Dent
+John Alexander, Charlie Pasarell
+Ove Bengtson, Patricio Cornejo
+Dick Stockton, Robert Maud
+Brian Gottfried, Barry Phillips Moore
+Cliff Richey, Nikola Pilic
+Rod Laver, Terry Addison
+Stan Smith, Bob Lutz
+John Alexander, Ove Bengtson
+Brian Gottfried, Dick Stockton
+Cliff Richey, Rod Laver
+Stan Smith, John Alexander
+Cliff Richey, Brian Gottfried
+Stan Smith, Cliff Richey
+Rod Laver, Roy Barth
+Frew Mcmillan, Jose Edison Mandarino
+Harold Solomon, Jim Mcmanus
+Bob Lutz, Milan Holecek
+Tom Edlefsen, Charlie Pasarell
+Andrew Pattison, Jaime Fillol
+Colin Dibley, Brian Gottfried
+Allan Stone, Cliff Drysdale
+Cliff Richey, Ove Bengtson
+Phil Dent, Frank Froehling
+Barry Phillips Moore, Nikola Pilic
+Roy Emerson, Gerald Battrick
+John Alexander, Terry Addison
+Dennis Ralston, Robert Maud
+Patricio Cornejo, Dick Stockton
+Stan Smith, Onny Parun
+Rod Laver, Frew Mcmillan
+Harold Solomon, Bob Lutz
+Tom Edlefsen, Andrew Pattison
+Colin Dibley, Allan Stone
+Phil Dent, Cliff Richey
+Roy Emerson, Barry Phillips Moore
+John Alexander, Dennis Ralston
+Stan Smith, Patricio Cornejo
+Rod Laver, Harold Solomon
+Colin Dibley, Tom Edlefsen
+Roy Emerson, Phil Dent
+Stan Smith, John Alexander
+Colin Dibley, Rod Laver
+Stan Smith, Roy Emerson
+Colin Dibley, Stan Smith
+Dick Stockton, Steve Faulk
+Herb Fitzgibbon, Mike Belkin
+Sandy Mayer, Jaime Pinto Bravo
+Ian Crookenden, Nicholas Kalogeropoulos
+Pat Cramer, Butch Seewagen
+Clark Graebner, Jurgen Fassbender
+Paul Gerken, Tito Vazquez
+Jimmy Connors, John Paish
+Dick Stockton, Herb Fitzgibbon
+Sandy Mayer, Ian Crookenden
+Clark Graebner, Pat Cramer
+Jimmy Connors, Paul Gerken
+Sandy Mayer, Dick Stockton
+Jimmy Connors, Clark Graebner
+Jimmy Connors, Sandy Mayer
+Brian Fairlie, Zeljko Franulovic
+Raymond Moore, Tom Leonard
+Pierre Barthes, Bob Carmichael
+Dick Crealy, Joaquin Loyo Mayo
+Tom Okker, Jeff Borowiak
+Alex Metreveli, Frantisek Pala
+Boro Jovanovic, Fred Stolle
+Roger Taylor, Premjit Lall
+Mark Cox, Vladimir Zednik
+Tom Gorman, Graham Stilwell
+Ismail El Shafei, Ross Case
+Ken Rosewall, Jean Baptiste Chanfreau
+Roscoe Tanner, Erik Van Dillen
+Arthur Ashe, Bill Lloyd
+Haroon Rahim, Dennis Ralston
+Marty Riessen, Torben Ulrich
+Raymond Moore, Brian Fairlie
+Dick Crealy, Pierre Barthes
+Tom Okker, Alex Metreveli
+Roger Taylor, Boro Jovanovic
+Tom Gorman, Mark Cox
+Ken Rosewall, Ismail El Shafei
+Arthur Ashe, Roscoe Tanner
+Marty Riessen, Haroon Rahim
+Dick Crealy, Raymond Moore
+Roger Taylor, Tom Okker
+Tom Gorman, Ken Rosewall
+Arthur Ashe, Marty Riessen
+Roger Taylor, Dick Crealy
+Arthur Ashe, Tom Gorman
+Arthur Ashe, Roger Taylor
+Stephen Warboys, Richard Russell
+Ilie Nastase, Audley Bell
+Clark Graebner, Francis Barnett
+Brian Gottfried, David Tate
+Tico Carrero, Compton Russell
+Ove Bengtson, David Pratt
+Ilie Nastase, Tico Carrero
+Clark Graebner, Vitas Gerulaitis
+Brian Gottfried, Gene Scott
+Ove Bengtson, Stephen Warboys
+Ilie Nastase, Ove Bengtson
+Brian Gottfried, Clark Graebner
+Ilie Nastase, Brian Gottfried
+Stan Smith, John Newcombe
+Ken Rosewall, Marty Riessen
+Marty Riessen, John Newcombe
+Roy Emerson, Arthur Ashe
+Ken Rosewall, Stan Smith
+Dick Stockton, Dick Dell
+Sherwood Stewart, Frank Froehling
+Butch Seewagen, Dick Crealy
+Grover Raz Reid, Terry Ryan
+Andrew Pattison, Harold Solomon
+John Newcombe, Graham Stilwell
+Clark Graebner, Owen Davidson
+Gerald Battrick, Torben Ulrich
+Dick Stockton, Sherwood Stewart
+Andrew Pattison, Butch Seewagen
+John Newcombe, Gerald Battrick
+Clark Graebner, Grover Raz Reid
+Dick Stockton, Andrew Pattison
+John Newcombe, Clark Graebner
+John Newcombe, Dick Stockton
+Tony Roche, Ross Case
+Charlie Pasarell, Tom Edlefsen
+Alejandro Olmedo, Dick Crealy
+Raymond Moore, Frank Froehling
+Tony Roche, Raymond Moore
+Charlie Pasarell, Alejandro Olmedo
+Cliff Drysdale, Haroon Rahim
+Jeff Borowiak, Jimmy Connors
+Tony Roche, Jeff Borowiak
+Charlie Pasarell, Cliff Drysdale
+Charlie Pasarell, Tony Roche
+Jose Edison Mandarino, Julian Ganzabal
+Guillermo Vilas, Jorge Lemann
+Julian Ganzabal, Jorge Lemann
+Guillermo Vilas, Carlos Kirmayr
+Patricio Cornejo, Julian Ganzabal
+Patricio Cornejo, Guillermo Vilas
+Guillermo Vilas, Ricardo Ycaza
+Julian Ganzabal, Miguel Olvera
+Hector Romani, Ricardo Ycaza
+Guillermo Vilas, Miguel Olvera
+Julian Ganzabal, Pat Cramer
+Guillermo Vilas, Bernard Mitton
+Guillermo Vilas, Deon Joubert
+Julian Ganzabal, Bernard Mitton
+John Newcombe, Anand Amritraj
+Mal Anderson, Vijay Amritraj
+John Cooper, Premjit Lall
+John Newcombe, Vijay Amritraj
+Mal Anderson, Toshiro Sakai
+John Newcombe, Jun Kamiwazumi
+Toshiro Sakai, John Newcombe
+Mal Anderson, Jun Kamiwazumi
+Rod Laver, Jan Kodes
+Jiri Hrebec, John Newcombe
+Rod Laver, Jiri Hrebec
+John Newcombe, Jan Kodes
+John Newcombe, Stan Smith
+Rod Laver, Tom Gorman
+John Newcombe, Tom Gorman
+Rod Laver, Stan Smith
+Peter Pokorny, Luis Borfiga
+Hans Kary, Emmanuel Van Der Pol
+Hans Kary, Onny Parun
+Brian Fairlie, Peter Pokorny
+Onny Parun, Peter Pokorny
+Hans Kary, Brian Fairlie
+Patrick Hombergen, Matei Pampoulov
+Bernard Mignot, Ljuben Genov
+Bojidar Pampoulov, Bernard Mignot
+Ljuben Genov, Patrick Hombergen
+Cliff Drysdale, Jose Edison Mandarino
+Bob Hewitt, Thomaz Koch
+Cliff Drysdale, Carlos Kirmayr
+Bob Hewitt, Roberto Vaz Carvalhaes
+Bojidar Pampoulov, Taghi Akbari
+Ljuben Genov, Hussain Akbari
+Bojidar Pampoulov, Hussain Akbari
+Ljuben Genov, Taghi Akbari
+Paolo Bertolucci, Bojidar Pampoulov
+Adriano Panatta, Ljuben Genov
+Paolo Bertolucci, Ljuben Genov
+Adriano Panatta, Bojidar Pampoulov
+Tony Bardsley, Leo Rolle
+Richard Russell, Don Mccormick
+Don Mccormick, Leo Rolle
+Richard Russell, Tony Bardsley
+Ivan Molina, Mike Belkin
+Jairo Velasco, Tony Bardsley
+Tony Bardsley, Javier Restrepo
+Jairo Velasco, Don Mccormick
+Joaquin Loyo Mayo, Rejean Genois
+Raul Ramirez, Tony Bardsley
+Joaquin Loyo Mayo, Don Mccormick
+Rejean Genois, Luis Baraldi
+Ivan Molina, Richard Russell
+Jairo Velasco, Leo Rolle
+Richard Russell, Jairo Velasco
+Ivan Molina, Leo Rolle
+Stan Smith, Patricio Cornejo
+Tom Gorman, Patricio Cornejo
+Raul Ramirez, Ivan Molina
+Joaquin Loyo Mayo, Jairo Velasco
+Joaquin Loyo Mayo, Ivan Molina
+Raul Ramirez, Jairo Velasco
+Jairo Velasco, Joaquin Loyo Mayo
+Ivan Molina, Raul Ramirez
+Ivan Molina, Joaquin Loyo Mayo
+Jairo Velasco, Luis Baraldi
+Jairo Velasco, Humphrey Hose
+Orlando Agudelo, Jorge Andrew
+Humphrey Hose, Orlando Agudelo
+Jairo Velasco, Jorge Andrew
+Per Hegna, Lars Elvstrom
+Erik Melander, Tom Christensen
+Lars Elvstrom, Erik Melander
+Per Hegna, Tom Christensen
+Ricardo Ycaza, Gustavo Stapf
+Miguel Olvera, Jose Luis Damiani
+Miguel Olvera, Gustavo Stapf
+Ricardo Ycaza, Jose Luis Damiani
+Ibrahim Mahmoud, Tadeusz Nowicki
+Ismail El Shafei, Jacek Niedzwiedzki
+Wojtek Fibak, Aly El Dawoudi
+Ibrahim Mahmoud, Jacek Niedzwiedzki
+Jan Kodes, Ibrahim Mahmoud
+Jiri Hrebec, Ismail El Shafei
+Frantisek Pala, Aly El Dawoudi
+Ibrahim Mahmoud, Jiri Hrebec
+Aly El Dawoudi, Arif Kocak
+Ibrahim Mahmoud, Bulent Altinkaya
+Ahmed Hassan, Bulent Altinkaya
+Moataz El Sonbol, Arif Kocak
+Corrado Barazzutti, Manuel Santana
+Antonio Zugarelli, Jose Higueras
+Corrado Barazzutti, Jose Higueras
+Manuel Santana, Antonio Zugarelli
+Manuel Orantes, Bjorn Borg
+Andres Gimeno, Ove Bengtson
+Manuel Orantes, Ove Bengtson
+Bjorn Borg, Antonio Munoz
+Nicholas Kalogeropoulos, George Berner
+Matti Timonen, Nicolas Kelaidis
+George Berner, Nicolas Kelaidis
+Nicholas Kalogeropoulos, Matti Timonen
+Patrick Proisy, Per Hegna
+Francois Jauffret, Erik Melander
+Patrick Proisy, Erik Melander
+Francois Jauffret, Per Hegna
+Francois Jauffret, Teimuraz Kakulia
+Alex Metreveli, Patrick Proisy
+Teimuraz Kakulia, Patrick Proisy
+Alex Metreveli, Francois Jauffret
+Jurgen Fassbender, Mark Cox
+Karl Meiler, Roger Taylor
+Jurgen Fassbender, Roger Taylor
+Mark Cox, Karl Meiler
+Jurgen Fassbender, Dimitri Sturdza
+Harald Elschenbroich, Peter Kanderal
+Jan Kodes, Karl Meiler
+Jiri Hrebec, Jurgen Fassbender
+Jan Kodes, Jurgen Fassbender
+Karl Meiler, Jiri Hrebec
+Balazs Taroczy, Nicholas Kalogeropoulos
+Szabolcz Baranyi, Nicolas Kelaidis
+Nicholas Kalogeropoulos, Szabolcz Baranyi
+Balazs Taroczy, Nicolas Kelaidis
+Gondo Widjojo, Po Tao
+Atet Wijono, Kenneth Tsui
+Justedjo Tarik, Kenneth Tsui
+Samudra Sangitan, Po Tao
+Teimuraz Kakulia, Balazs Taroczy
+Alex Metreveli, Szabolcz Baranyi
+Alex Metreveli, Balazs Taroczy
+Szabolcz Baranyi, Teimuraz Kakulia
+Jun Kamiwazumi, Gondo Widjojo
+Toshiro Sakai, Atet Wijono
+Vijay Amritraj, Saeed Meer
+Anand Amritraj, Munawar Iqbal
+Vijay Amritraj, Munawar Iqbal
+Erik Melander, Michael Hickey
+Per Hegna, William Brown
+Finn Dag Jagge, Peter Ledbetter
+Per Hegna, Peter Jackson
+Nick Fleury, Ron Lehrner
+Jan Hordijk, Yehoshua Shalem
+Yehoshua Shalem, Nick Fleury
+Jan Hordijk, Ron Lehrner
+Corrado Barazzutti, Jan Kodes
+Jiri Hrebec, Antonio Zugarelli
+Jiri Hrebec, Corrado Barazzutti
+Jan Kodes, Antonio Zugarelli
+Sung Bae Kim, Jun Kamiwazumi
+Jun Kuki, Moon Il Kim
+Jun Kamiwazumi, Moon Il Kim
+Jun Kuki, Sung Bae Kim
+Arif Kocak, Khoder Issa
+Najdo Abou Hassoun, Hasan Ozdemir
+Khoder Issa, Hasan Ozdemir
+Arif Kocak, Najdo Abou Hassoun
+Remzi Aydin, Jean Neuman
+Tahsin Gursoy, Georges Logelin
+Hasan Ozdemir, Georges Logelin
+Arif Kocak, Jean Neuman
+Thompson Onibokun, Ahmed Ben Omar
+Omar Laimina, Lawrence Awopegba
+Lawrence Awopegba, Ahmed Ben Omar
+Omar Laimina, Thompson Onibokun
+Bjorn Borg, Omar Laimina
+Kjell Johansson, Ahmed Ben Omar
+Bjorn Borg, Ahmed Ben Omar
+Omar Laimina, Kjell Johansson
+Munawar Iqbal, Zainuddin Meah
+Saeed Meer, Sultan Aman Azman
+Munawar Iqbal, Sultan Aman Azman
+Raul Ramirez, Tom Gorman
+Harold Solomon, Joaquin Loyo Mayo
+Harold Solomon, Raul Ramirez
+Dick Stockton, Luis Baraldi
+Raul Ramirez, Jorge Andrew
+Humphrey Hose, Vicente Zarazua
+Raul Ramirez, Humphrey Hose
+Vicente Zarazua, Jorge Andrew
+Tom Okker, Toma Ovici
+Ilie Nastase, Jan Hordijk
+Toma Ovici, Nick Fleury
+Ilie Nastase, Tom Okker
+Toma Ovici, Brian Fairlie
+Ilie Nastase, Onny Parun
+Ilie Nastase, Brian Fairlie
+Onny Parun, Toma Ovici
+Onny Parun, Boro Jovanovic
+Zeljko Franulovic, Brian Fairlie
+Onny Parun, Zeljko Franulovic
+Boro Jovanovic, Brian Fairlie
+Saeed Meer, Van Thanh Vo
+Munawar Iqbal, Van Bay Vo
+Munawar Iqbal, Van Thanh Vo
+Van Bay Vo, Saeed Meer
+Peter Kanderal, Raul Peralta
+Dimitri Sturdza, Alfredo Vaz Pinto
+Peter Kanderal, Alfredo Vaz Pinto
+Dimitri Sturdza, Jose Vilela
+Alex Metreveli, Toma Ovici
+Ilie Nastase, Teimuraz Kakulia
+Ilie Nastase, Alex Metreveli
+Toma Ovici, Teimuraz Kakulia
+Ilie Nastase, Marty Riessen
+Stan Smith, Toma Ovici
+Marty Riessen, Toma Ovici
+Stan Smith, Ilie Nastase
+Frew Mcmillan, Alberto Laborde
+Pat Cramer, Gustavo Stapf
+Pat Cramer, Alberto Laborde
+Raymond Moore, Gustavo Stapf
+Van Bay Vo, Senaka Kumara
+Van Thanh Vo, Bernard Pinto
+Erik Van Dillen, Eddie Dibbs
+Tom Gorman, Francois Jauffret
+Roscoe Tanner, Thomaz Koch
+Eddie Dibbs, Onny Parun
+Tom Gorman, Jaime Fillol
+Erik Van Dillen, Roscoe Tanner
+Jaime Fillol, Onny Parun
+Tom Gorman, Jean Baptiste Chanfreau
+Francois Jauffret, Roscoe Tanner
+Erik Van Dillen, Zeljko Franulovic
+Eddie Dibbs, Jean Baptiste Chanfreau
+Zeljko Franulovic, Thomaz Koch
+Francois Jauffret, Erik Van Dillen
+Onny Parun, Tom Gorman
+Jaime Fillol, Jean Baptiste Chanfreau
+Tom Gorman, Eddie Dibbs
+Thomaz Koch, Francois Jauffret
+Roscoe Tanner, Zeljko Franulovic
+Jean Baptiste Chanfreau, Onny Parun
+Eddie Dibbs, Jaime Fillol
+Francois Jauffret, Zeljko Franulovic
+Thomaz Koch, Erik Van Dillen
+Sherwood Stewart, Dick Crealy
+Dick Crealy, Torben Ulrich
+Sherwood Stewart, Roberto Chavez
+Roberto Chavez, Ray Keldie
+Dick Crealy, Jeff Simpson
+Sherwood Stewart, Thierry Bernasconi
+Torben Ulrich, Lito Alvarez
+Lito Alvarez, Syd Ball
+Thierry Bernasconi, Stephen Warboys
+Roberto Chavez, Jasjit Singh
+Dick Crealy, Eddie Cruz
+Ray Keldie, Tom Karp
+Jeff Simpson, Keith Stephens
+Sherwood Stewart, Allan McDonald
+Torben Ulrich, Steve Siegel
+Lito Alvarez, Mark Elliott
+Syd Ball, Robyn Ray
+Thierry Bernasconi, Ian Perkin
+Roberto Chavez, Robert Millington
+Dick Crealy, Rick Jordan
+Eddie Cruz, Don Mccormick
+Tom Karp, C Webster
+Ray Keldie, Jorge Berman
+Allan McDonald, Jacques Thamin
+Steve Siegel, U Unknown
+Jeff Simpson, A Brogden
+Jasjit Singh, John Anthony Southworth
+Keith Stephens, Peter Bretherton
+Sherwood Stewart, John Gardner
+Torben Ulrich, Rob Wheatley
+Stephen Warboys, Emilio Montano
+Lito Alvarez, Mike Kernodie
+Syd Ball, Chris Wells
+Jorge Berman, Doug Rees
+Thierry Bernasconi, Harry Turnbull
+Roberto Chavez, Norman Holmes
+Mark Elliott, F J Vetter
+John Gardner, G Rorn
+Rick Jordan, E Topham
+Tom Karp, J M Learmont
+Ray Keldie, Thierry Quintin
+Don Mccormick, Alan Jackson
+Allan McDonald, H M Bond
+Robert Millington, James Ferguson
+Emilio Montano, D J Hardman
+Jeff Simpson, P Smith
+Jasjit Singh, Robert Lee
+John Anthony Southworth, C R Evans
+Jacques Thamin, Ron Cornell
+Torben Ulrich, David Segal
+Stephen Warboys, Dick Dell
+C Webster, James Gilchrist Jr
+Rob Wheatley, J Haussels
+Manuel Orantes, Adriano Panatta
+Manuel Orantes, Tadeusz Nowicki
+Adriano Panatta, Wanaro N'Godrella
+Wanaro N'Godrella, Karl Meiler
+Tadeusz Nowicki, Georges Goven
+Manuel Orantes, Juan Gisbert
+Adriano Panatta, Ion Tiriac
+Juan Gisbert, Steve Faulk
+Georges Goven, Andres Gimeno
+Karl Meiler, Attila Korpas
+Wanaro N'Godrella, Francois Jauffret
+Tadeusz Nowicki, Peter Szoke
+Manuel Orantes, Martin Mulligan
+Adriano Panatta, Paul Gerken
+Ion Tiriac, Jurgen Fassbender
+Jurgen Fassbender, John Feaver
+Steve Faulk, Jiri Hrebec
+Paul Gerken, Antonio Zugarelli
+Andres Gimeno, Hans Kary
+Juan Gisbert, Patrice Dominguez
+Georges Goven, Kjell Johansson
+Francois Jauffret, Istvan Gulyas
+Attila Korpas, Robert Machan
+Karl Meiler, Szabolcz Baranyi
+Martin Mulligan, Antonio Munoz
+Wanaro N'Godrella, Paolo Bertolucci
+Tadeusz Nowicki, Bjorn Borg
+Manuel Orantes, Vincenzo Franchitti
+Adriano Panatta, Kim Warwick
+Peter Szoke, Patrick Proisy
+Ion Tiriac, Byron Bertram
+Szabolcz Baranyi, Piero Toci
+Byron Bertram, Corrado Barazzutti
+Patrice Dominguez, Juan Ignacio Muntanola
+Steve Faulk, Patricio Rodriguez Chi
+John Feaver, Jean Loup Rouyer
+Vincenzo Franchitti, Jacques Thamin
+Istvan Gulyas, Marcello Lara
+Kjell Johansson, Patrice Beust
+Hans Kary, John Paish
+Attila Korpas, Ian Fletcher
+Martin Mulligan, Ezio Di Matteo
+Wanaro N'Godrella, Jeff Simpson
+Tadeusz Nowicki, Jean Francois Caujolle
+Peter Szoke, Bill Lloyd
+Kim Warwick, Mike Estep
+Antonio Zugarelli, David Lloyd
+Harold Solomon, Francois Jauffret
+Alex Metreveli, Roger Taylor
+Jaime Fillol, Freddie De Jesus
+Thomaz Koch, Jim Osborne
+Harold Solomon, Onny Parun
+Roger Taylor, Charlie Pasarell
+Francois Jauffret, Freddie De Jesus
+Thomaz Koch, Onny Parun
+Alex Metreveli, Harold Solomon
+Roger Taylor, Jaime Fillol
+Francois Jauffret, Jaime Fillol
+Alex Metreveli, Jim Osborne
+Charlie Pasarell, Freddie De Jesus
+Harold Solomon, Thomaz Koch
+Alex Metreveli, Onny Parun
+Charlie Pasarell, Jaime Fillol
+Harold Solomon, Jim Osborne
+Roger Taylor, Francois Jauffret
+Francois Jauffret, Charlie Pasarell
+Alex Metreveli, Thomaz Koch
+Onny Parun, Jim Osborne
+Roger Taylor, Freddie De Jesus
+Jiri Hrebec, Bob Giltinan
+Bob Giltinan, Jan Kodes
+Jiri Hrebec, Cliff Letcher
+Bob Giltinan, Milan Holecek
+Jiri Hrebec, Marcello Lara
+Jan Kodes, Syd Ball
+Cliff Letcher, Ross Case
+Syd Ball, Jean Francois Caujolle
+Ross Case, William Durham
+Bob Giltinan, Jasjit Singh
+Milan Holecek, Frantisek Pala
+Jiri Hrebec, John Hillebrand
+Jan Kodes, Bob Brett
+Marcello Lara, Denis Naegelen
+Cliff Letcher, Anand Amritraj
+Anand Amritraj, Kevin Miller
+Syd Ball, Paul Mcnamee
+Bob Brett, Tij Syma
+Ross Case, Chris Kachel
+Jean Francois Caujolle, John James
+William Durham, W Bell
+Bob Giltinan, Ernie Ewert
+John Hillebrand, Kishiya Matsumoto
+Milan Holecek, John Trickey
+Jiri Hrebec, Takao Yamamoto
+Jan Kodes, Thies Roepcke
+Marcello Lara, Ian Bidmeade
+Cliff Letcher, Vladimir Zednik
+Denis Naegelen, William Brown
+Frantisek Pala, Tony Parun
+Jasjit Singh, Frank Harris
+W Bell, Pierre Joly
+Ian Bidmeade, Felix Ponte
+Jean Francois Caujolle, Peter Smith
+Ernie Ewert, Peter Mcnamara
+Frank Harris, Jeff Young
+Chris Kachel, Trevor Little
+Cliff Letcher, Grant Kerr
+Kishiya Matsumoto, Nicolas Kelaidis
+Paul Mcnamee, Michael Phillips
+Kevin Miller, F Nakano
+Denis Naegelen, G Calmin
+Tony Parun, Jean Louis Haillet
+Thies Roepcke, Graeme Thomson
+Tij Syma, John Bartlett
+John Trickey, Stephen Myers
+Takao Yamamoto, J Plain
+Alex Metreveli, Bjorn Borg
+Bjorn Borg, Owen Davidson
+Alex Metreveli, Bernard Mitton
+Bjorn Borg, Bob Mckinley
+Owen Davidson, William Durham
+Alex Metreveli, Jean Francois Caujolle
+Bernard Mitton, Byron Bertram
+Byron Bertram, Jan Hordijk
+Bjorn Borg, Tony Parun
+Jean Francois Caujolle, Peter Curtis
+Owen Davidson, Lito Alvarez
+William Durham, Jean Baptiste Chanfreau
+Bob Mckinley, Doug Crawford
+Alex Metreveli, Phil Siviter
+Bernard Mitton, Roberto Chavez
+Lito Alvarez, Graeme Thomson
+Byron Bertram, Dick Dell
+Bjorn Borg, Sherwood Stewart
+Jean Francois Caujolle, Syd Ball
+Jean Baptiste Chanfreau, Pierre Joly
+Roberto Chavez, Sever Muresan
+Doug Crawford, Munawar Iqbal
+Peter Curtis, Fred Hemmes
+Owen Davidson, Colin Dowdeswell
+William Durham, John Yuill
+Jan Hordijk, Eduardo Zuleta
+Bob Mckinley, Jonathan Smith
+Alex Metreveli, Ricky Buwalda
+Bernard Mitton, Allan McDonald
+Tony Parun, Ivan Molina
+Phil Siviter, Luis Baraldi
+Lito Alvarez, Jeff Simpson
+Syd Ball, Rolf Norberg
+Byron Bertram, Steve Siegel
+Bjorn Borg, Ernie Ewert
+Ricky Buwalda, Don Mccormick
+Jean Baptiste Chanfreau, Deon Joubert
+Roberto Chavez, Jean Louis Haillet
+Doug Crawford, Bob Giltinan
+Peter Curtis, Greg Perkins
+Owen Davidson, Butch Seewagen
+William Durham, Tenny Svensson
+Fred Hemmes, David Segal
+Jan Hordijk, Jacques Thamin
+Munawar Iqbal, Vincenzo Franchitti
+Pierre Joly, Mike Collins
+Allan McDonald, Ionel Santeiu
+Bob Mckinley, Thierry Bernasconi
+Alex Metreveli, Saeed Meer
+Bernard Mitton, Richard Lewis
+Ivan Molina, Ray Keldie
+Sever Muresan, Piero Toci
+Tony Parun, Teimuraz Kakulia
+Phil Siviter, Jose Moreno
+Jonathan Smith, Birger Andersson
+Sherwood Stewart, Pietro Marzano
+Graeme Thomson, Sergei Likhachev
+John Yuill, Norman Holmes
+Eduardo Zuleta, Vijay Amritraj
+Rod Laver, Stan Smith
+Rod Laver, John Newcombe
+Stan Smith, Arthur Ashe
+Ross Case, Geoff Masters
+Ross Case, John Newcombe
+Geoff Masters, Colin Dibley
+Ross Case, Hans Jurgen Pohmann
+Colin Dibley, Allan Stone
+Geoff Masters, Jurgen Fassbender
+John Newcombe, Milan Holecek
+Ross Case, Felix Ponte
+Colin Dibley, Kim Warwick
+Jurgen Fassbender, Eddie Cruz
+Milan Holecek, Marcello Lara
+Geoff Masters, Sherwood Stewart
+John Newcombe, Kiyoshi Tanabe
+Hans Jurgen Pohmann, Charlie Pasarell
+Allan Stone, Paul Kronk
+Milan Holecek, John Bartlett
+Paul Kronk, Alexander Marcial
+Marcello Lara, Romeo Rafon
+Geoff Masters, Raymundo Deyro
+Charlie Pasarell, Kenichi Hirai
+Hans Jurgen Pohmann, Jesus Hernandez
+Felix Ponte, Kenneth Tsui
+Sherwood Stewart, Charles Chang
+Allan Stone, Bill Lloyd
+Kim Warwick, Wei Leung
+Raul Ramirez, John Newcombe
+John Newcombe, Rod Laver
+Raul Ramirez, Zeljko Franulovic
+Zeljko Franulovic, Syd Ball
+Rod Laver, Hans Jurgen Pohmann
+John Newcombe, Bob Giltinan
+Raul Ramirez, Ilie Nastase
+Syd Ball, Jurgen Fassbender
+Zeljko Franulovic, Allan Stone
+Bob Giltinan, Jeff Simpson
+Rod Laver, Geoff Masters
+Ilie Nastase, Ross Case
+John Newcombe, Raymond Moore
+Hans Jurgen Pohmann, Charlie Pasarell
+Raul Ramirez, Fred Stolle
+Syd Ball, Wanaro N'Godrella
+Ross Case, Juan Gisbert
+Jurgen Fassbender, Nematollah Nemati
+Zeljko Franulovic, Manuel Orantes
+Bob Giltinan, Jeff Borowiak
+Rod Laver, Jacques Thamin
+Geoff Masters, Issa Khodaei
+Raymond Moore, Ian Fletcher
+Ilie Nastase, Anand Amritraj
+John Newcombe, Antonio Munoz
+Charlie Pasarell, Fred Mcnair
+Hans Jurgen Pohmann, Mohammad Hossein Akbari
+Raul Ramirez, Jaime Pinto Bravo
+Jeff Simpson, Vijay Amritraj
+Fred Stolle, Frew Mcmillan
+Allan Stone, Terry Ryan
+Mohammad Hossein Akbari, Marcello Lara
+Anand Amritraj, Mansour Bahrami
+Syd Ball, Mal Anderson
+Jeff Borowiak, Jasjit Singh
+Ian Fletcher, Mike Estep
+Zeljko Franulovic, Tito Vazquez
+Bob Giltinan, Ivan Molina
+Frew Mcmillan, Dick Dell
+Fred Mcnair, William Brown
+Antonio Munoz, Jim Mcmanus
+Wanaro N'Godrella, Ray Keldie
+Jaime Pinto Bravo, Nicola Spear
+Terry Ryan, Moharram Ali Khodai
+Jeff Simpson, John Bartlett
+Fred Stolle, Kenneth McMillan
+Jacques Thamin, Habib Saleh
+Tom Okker, Jaime Fillol
+Jaime Fillol, Buster C Mottram
+Tom Okker, Ilie Nastase
+Jaime Fillol, Pierre Barthes
+Buster C Mottram, Rod Laver
+Ilie Nastase, Nikola Pilic
+Tom Okker, Jose Higueras
+Pierre Barthes, Manuel Orantes
+Jaime Fillol, Adriano Panatta
+Jose Higueras, Hans Kary
+Rod Laver, Eddie Dibbs
+Buster C Mottram, Ivan Molina
+Ilie Nastase, Mark Cox
+Tom Okker, Guillermo Vilas
+Nikola Pilic, Paolo Bertolucci
+Pierre Barthes, Haroon Rahim
+Paolo Bertolucci, Vladimir Zednik
+Mark Cox, Juan Herrera
+Eddie Dibbs, Karl Meiler
+Jaime Fillol, Birger Andersson
+Jose Higueras, Bjorn Borg
+Hans Kary, Edison Mandarino
+Rod Laver, Andrew Pattison
+Ivan Molina, Corrado Barazzutti
+Buster C Mottram, Nicola Spear
+Ilie Nastase, Julian Ganzabal
+Tom Okker, John Feaver
+Manuel Orantes, Kjell Johansson
+Adriano Panatta, Roscoe Tanner
+Nikola Pilic, Barry Phillips Moore
+Guillermo Vilas, Jiri Hrebec
+Birger Andersson, Ion Tiriac
+Corrado Barazzutti, Jacques Thamin
+Pierre Barthes, Jaime Pinto Bravo
+Paolo Bertolucci, Bob Carmichael
+Bjorn Borg, Juan Ignacio Muntanola
+Mark Cox, Frantisek Pala
+Eddie Dibbs, Tenny Svensson
+John Feaver, Dick Moody
+Jaime Fillol, Gerald Battrick
+Julian Ganzabal, Jose Moreno
+Juan Herrera, Jeff Edwards
+Jose Higueras, Terry Ryan
+Jiri Hrebec, Wanaro N'Godrella
+Kjell Johansson, Patricio Rodriguez Chi
+Hans Kary, Antonio Munoz
+Rod Laver, Attila Korpas
+Edison Mandarino, Arthur Ashe
+Karl Meiler, Frew Mcmillan
+Ivan Molina, Robert Rheinberger
+Buster C Mottram, Tito Vazquez
+Ilie Nastase, Jose Guerrero
+Tom Okker, Harald Elschenbroich
+Manuel Orantes, Rafael Ruiz
+Adriano Panatta, Jose Castanon
+Andrew Pattison, Nicolas Kelaidis
+Barry Phillips Moore, Jeff Simpson
+Nikola Pilic, Eduardo Gorostiaga
+Haroon Rahim, Onny Parun
+Nicola Spear, Jan Kodes
+Roscoe Tanner, Jan Kukal
+Guillermo Vilas, Geoff Masters
+Vladimir Zednik, Raymond Moore
+Ilie Nastase, Jimmy Connors
+Jimmy Connors, Karl Meiler
+Ilie Nastase, Jurgen Fassbender
+Jimmy Connors, Ian Fletcher
+Jurgen Fassbender, Billy Martin
+Karl Meiler, Paul Gerken
+Ilie Nastase, Nicholas Kalogeropoulos
+Jimmy Connors, Dick Bohrnstedt
+Jurgen Fassbender, Mike Estep
+Ian Fletcher, Pat Cramer
+Paul Gerken, Jaime Pinto Bravo
+Nicholas Kalogeropoulos, Byron Bertram
+Billy Martin, Juan Gisbert
+Karl Meiler, Ion Tiriac
+Ilie Nastase, Sherwood Stewart
+Byron Bertram, Ian Crookenden
+Dick Bohrnstedt, Gavorielle Marcu
+Jimmy Connors, Francisco Castillo
+Pat Cramer, Steve Turner
+Mike Estep, Steve Fiske
+Jurgen Fassbender, Peter Curtis
+Ian Fletcher, Robert Kreiss
+Paul Gerken, Ron Bohrnstedt
+Juan Gisbert, Tito Vazquez
+Nicholas Kalogeropoulos, Steve Tidball
+Billy Martin, John Cooper
+Karl Meiler, Bob Goeltz
+Ilie Nastase, John Paish
+Jaime Pinto Bravo, Jimmy Parker
+Sherwood Stewart, Peter Fleming
+Ion Tiriac, Vitas Gerulaitis

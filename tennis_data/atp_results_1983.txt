@@ -1,0 +1,3489 @@
+Ricardo Acuna, Ivan Kley
+Alejandro Ganzabal, Jim Gurfein
+Francisco Gonzalez, Zoltan Kuharszky
+Nick Saviano, Ricardo Cano
+Carlos Castellan, Charles Buzz Strode
+Givaldo Barbosa, Julio Goes
+Jaime Fillol, Joao Soares
+Bernard Boileau, Richard Meyer
+Pat Dupre, Egan Adams
+Ramiro Benavides, Morris Skip Strode
+Jimmy Brown, Pedro Rebolledo
+Nduka Odizor, Cesar Kist
+Stefan Simonsson, Ben Testerman
+Ramesh Krishnan, Tim Gullikson
+Loic Courteau, Rocky Royer
+Gustavo Tiberti, Cassio Motta
+Jose Luis Clerc, Ricardo Acuna
+Alejandro Ganzabal, Shlomo Glickstein
+Francisco Gonzalez, Van Winitsky
+Nick Saviano, Pablo Arraya
+Andres Gomez, Carlos Castellan
+Givaldo Barbosa, Damir Keretic
+Tim Wilkison, Jaime Fillol
+Bernard Boileau, Tim Mayotte
+Pat Dupre, Marcos Hocevar
+Ramiro Benavides, Hans Simonsson
+Jimmy Brown, Brad Gilbert
+Tomas Smid, Nduka Odizor
+Stefan Simonsson, David Dowlen
+Ramesh Krishnan, Carlos Kirmayr
+Loic Courteau, Victor Pecci
+Mats Wilander, Gustavo Tiberti
+Jose Luis Clerc, Alejandro Ganzabal
+Francisco Gonzalez, Nick Saviano
+Andres Gomez, Givaldo Barbosa
+Bernard Boileau, Tim Wilkison
+Pat Dupre, Ramiro Benavides
+Tomas Smid, Jimmy Brown
+Ramesh Krishnan, Stefan Simonsson
+Mats Wilander, Loic Courteau
+Jose Luis Clerc, Francisco Gonzalez
+Bernard Boileau, Andres Gomez
+Tomas Smid, Pat Dupre
+Mats Wilander, Ramesh Krishnan
+Jose Luis Clerc, Bernard Boileau
+Mats Wilander, Tomas Smid
+Jose Luis Clerc, Mats Wilander
+Robbie Venter, Jaime Pinto Bravo
+Gustavo Tiberti, Heinz Gildemeister
+Hugo Roverano, Steve Krulevitz
+Pedro Rebolledo, Ivan Kley
+Alejandro Gattiker, Rocky Royer
+Marcel Freeman, Ricardo Cano
+Jose Luis Damiani, Ney Keller
+Peter Bastiansen, Ilie Nastase
+Ricardo Acuna, Ricardo Ycaza
+Loic Courteau, Alejandro Ganzabal
+Jaime Fillol, Carlos Castellan
+Victor Pecci, Javier Restrepo
+Mario Martinez, Marco Morales
+Damir Keretic, Ramiro Benavides
+Hans Gildemeister, Belus Prajoux
+Pablo Arraya, Julio Goes
+Loic Courteau, Robbie Venter
+Ricardo Acuna, Alejandro Gattiker
+Jaime Fillol, Hugo Roverano
+Victor Pecci, Gustavo Tiberti
+Mario Martinez, Marcel Freeman
+Damir Keretic, Jose Luis Damiani
+Hans Gildemeister, Peter Bastiansen
+Pablo Arraya, Pedro Rebolledo
+Jaime Fillol, Mario Martinez
+Victor Pecci, Damir Keretic
+Ricardo Acuna, Hans Gildemeister
+Pablo Arraya, Loic Courteau
+Victor Pecci, Ricardo Acuna
+Jaime Fillol, Pablo Arraya
+Victor Pecci, Jaime Fillol
+John Alexander, John Frawley
+John Lloyd, Greg Whitecross
+Dave Siegler, Jeff Turpin
+Brad Drewett, Peter Johnston
+Chris Lewis, Scott Mccain
+John Mccurdy, David Mustard
+David Lewis, Rand Evett
+Bernard Mitton, Ross Case
+Rod Frawley, Matthew McDonald
+David Graham, Ron Dutton
+Armand Molino, Robert Crames
+Broderick Dyke, Phil Dent
+Jeff Simpson, Craig Tregonning
+Bruce Derlin, Rodney Crowley
+Charlie Fancutt, Mark Lewis
+Russell Simpson, Eduardo Oncins
+John Alexander, John Lloyd
+Dave Siegler, Brad Drewett
+Chris Lewis, John Mccurdy
+Bernard Mitton, David Lewis
+Rod Frawley, David Graham
+Broderick Dyke, Armand Molino
+Jeff Simpson, Bruce Derlin
+Russell Simpson, Charlie Fancutt
+John Alexander, Dave Siegler
+Chris Lewis, Bernard Mitton
+Rod Frawley, Broderick Dyke
+Russell Simpson, Jeff Simpson
+John Alexander, Chris Lewis
+Russell Simpson, Rod Frawley
+John Alexander, Russell Simpson
+Wojtek Fibak, Adriano Panatta
+Michiel Schapers, Rod Frawley
+Victor Amaya, Ricardo Acuna
+Jan Gunnarsson, Brad Gilbert
+Chip Hooper, Erick Iskersky
+Karl Meiler, Belus Prajoux
+Wally Masur, Sammy Giammalva Jr
+Ilie Nastase, John Fitzgerald
+Danie Visser, Anders Jarryd
+Jerome Potier, Marty Davis
+Lloyd Bourne, Freddie Sauer
+Tom Cain, Tom Gullikson
+Matt Doyle, Jaime Fillol
+Nick Saviano, Stefan Edberg
+S Viljoen, Eddie Edwards
+Bill Scanlon, Terry Moor
+Wojtek Fibak, Michiel Schapers
+Victor Amaya, Jan Gunnarsson
+Chip Hooper, Karl Meiler
+Wally Masur, Ilie Nastase
+Danie Visser, Jerome Potier
+Tom Cain, Lloyd Bourne
+Nick Saviano, Matt Doyle
+Bill Scanlon, S Viljoen
+Wojtek Fibak, Victor Amaya
+Chip Hooper, Wally Masur
+Danie Visser, Tom Cain
+Nick Saviano, Bill Scanlon
+Chip Hooper, Wojtek Fibak
+Nick Saviano, Danie Visser
+Nick Saviano, Chip Hooper
+Jimmy Arias, Harold Solomon
+Christophe Casa, Guy Forget
+Gilles Moretton, Jorgen Windahl
+Mario Martinez, Dominique Bedel
+Henrik Sundstrom, Mel Purcell
+Ilie Nastase, Cassio Motta
+Juan Avendano, Bernard Fritz
+Ulrich Pinner, Bernard Boileau
+Fernando Luna, Pat Cash
+Magnus Tideman, Wally Masur
+Jimmy Brown, Jean Louis Haillet
+Pablo Arraya, Claudio Panatta
+Manuel Orantes, Ramesh Krishnan
+Juan Aguilera, Bruce Manson
+Thierry Tulasne, Alberto Tous
+Henri Leconte, Jairo Velasco
+Christophe Casa, Jimmy Arias
+Mario Martinez, Gilles Moretton
+Henrik Sundstrom, Ilie Nastase
+Juan Avendano, Ulrich Pinner
+Fernando Luna, Magnus Tideman
+Jimmy Brown, Pablo Arraya
+Manuel Orantes, Juan Aguilera
+Thierry Tulasne, Henri Leconte
+Mario Martinez, Christophe Casa
+Henrik Sundstrom, Juan Avendano
+Fernando Luna, Jimmy Brown
+Manuel Orantes, Thierry Tulasne
+Henrik Sundstrom, Mario Martinez
+Manuel Orantes, Fernando Luna
+Henrik Sundstrom, Manuel Orantes
+Tomas Smid, Wolfgang Popp
+Zoltan Kuharszky, Alejandro Ganzabal
+Egan Adams, Damir Keretic
+Chris Lewis, Alberto Tous
+Hans Simonsson, Shlomo Glickstein
+Jeff Borowiak, Bruce Manson
+Eric Fromm, Ricardo Acuna
+Fernando Luna, Joao Soares
+Pavel Slozil, Juan Aguilera
+Pat Dupre, Andreas Maurer
+Peter Elter, Anders Jarryd
+Mike De Palmer, Gustavo Guerrero
+Jairo Velasco, Freddie Sauer
+Michael Westphal, Eric Jelen
+Christophe Roger Vasselin, Trey Waltke
+Joakim Nystrom, Mel Purcell
+Tomas Smid, Zoltan Kuharszky
+Chris Lewis, Egan Adams
+Hans Simonsson, Jeff Borowiak
+Fernando Luna, Eric Fromm
+Pavel Slozil, Pat Dupre
+Peter Elter, Mike De Palmer
+Michael Westphal, Jairo Velasco
+Joakim Nystrom, Christophe Roger Vasselin
+Tomas Smid, Chris Lewis
+Hans Simonsson, Fernando Luna
+Peter Elter, Pavel Slozil
+Joakim Nystrom, Michael Westphal
+Tomas Smid, Hans Simonsson
+Joakim Nystrom, Peter Elter
+Tomas Smid, Joakim Nystrom
+Jose Higueras, Claudio Panatta
+Pavel Slozil, Eduardo Osta
+Thierry Tulasne, Peter Elter
+Buster C Mottram, Guy Forget
+Henrik Sundstrom, Pedro Rebolledo
+Stefan Simonsson, Jairo Velasco
+Alberto Tous, Jose Lopez Maeso
+Pablo Arraya, Jaime Fillol
+Victor Pecci, Diego Perez
+Heinz Gunthardt, Eddie Dibbs
+Sergio Casal, Christophe Roger Vasselin
+Carlos Kirmayr, Manuel Orantes
+Hans Gildemeister, Bernard Boileau
+Wolfgang Popp, Ilie Nastase
+Magnus Tideman, Fernando Luna
+Yannick Noah, Damir Keretic
+Pavel Slozil, Jose Higueras
+Thierry Tulasne, Buster C Mottram
+Henrik Sundstrom, Stefan Simonsson
+Alberto Tous, Pablo Arraya
+Heinz Gunthardt, Victor Pecci
+Carlos Kirmayr, Sergio Casal
+Hans Gildemeister, Wolfgang Popp
+Yannick Noah, Magnus Tideman
+Pavel Slozil, Thierry Tulasne
+Henrik Sundstrom, Alberto Tous
+Heinz Gunthardt, Carlos Kirmayr
+Yannick Noah, Hans Gildemeister
+Henrik Sundstrom, Pavel Slozil
+Yannick Noah, Heinz Gunthardt
+Yannick Noah, Henrik Sundstrom
+Georges Goven, Vitas Gerulaitis
+Marko Ostoja, Luca Bottazzi
+Eddie Dibbs, Adriano Panatta
+Givaldo Barbosa, Dominique Bedel
+Francesco Cancellotti, John Alexander
+Bernard Fritz, Wally Masur
+Ricardo Cano, Gianni Ocleppo
+Mike De Palmer, Gianluca Rinaldini
+Juan Avendano, Thomas Hogstedt
+Stefan Simonsson, Paolo Bertolucci
+Martin Jaite, Mario Martinez
+Angel Gimenez, Hans Gildemeister
+Thierry Tulasne, Victor Pecci
+Florin Segarceanu, Freddie Sauer
+Pat Cash, Francisco Gonzalez
+Jimmy Arias, Gilles Moretton
+Georges Goven, Marko Ostoja
+Eddie Dibbs, Givaldo Barbosa
+Francesco Cancellotti, Bernard Fritz
+Ricardo Cano, Mike De Palmer
+Stefan Simonsson, Juan Avendano
+Angel Gimenez, Martin Jaite
+Thierry Tulasne, Florin Segarceanu
+Jimmy Arias, Pat Cash
+Eddie Dibbs, Georges Goven
+Francesco Cancellotti, Ricardo Cano
+Stefan Simonsson, Angel Gimenez
+Jimmy Arias, Thierry Tulasne
+Francesco Cancellotti, Eddie Dibbs
+Jimmy Arias, Stefan Simonsson
+Jimmy Arias, Francesco Cancellotti
+Craig Wittus, Chris Johnstone
+Tim Wilkison, Mike Leach
+Freddie Sauer, Craig A Miller
+Peter Rennert, Drew Gitlin
+Nduka Odizor, John Lloyd
+Todd Nelson, Vijay Amritraj
+Cassio Motta, Eric Korita
+Chris Lewis, Bernard Mitton
+Tim Gullikson, Russell Simpson
+Rod Frawley, Chip Hooper
+John Fitzgerald, Tian C Viljoen
+Matt Doyle, Pat Dupre
+Mike De Palmer, Phil Lehnhoff
+Pat Cash, Matt Mitchell
+Fritz Buehning, Tom Gullikson
+Ricardo Acuna, John Sadri
+Marcos Hocevar, Rodney Harmon
+Paul Mcnamee, Roscoe Tanner
+Sammy Giammalva Jr, John Alexander
+Tim Mayotte, Mike Bauer
+Tom Cain, Mark Edmondson
+Ben Testerman, Brian Teacher
+Wojtek Fibak, Broderick Dyke
+Hank Pfister, Givaldo Barbosa
+Brian Gottfried, Butch Walts
+Bill Scanlon, Wally Masur
+Kevin Curren, Joao Soares
+Steve Denton, Morris Skip Strode
+Vitas Gerulaitis, Ramesh Krishnan
+Ivan Lendl, Nick Saviano
+John McEnroe, Jeff Borowiak
+Jimmy Connors, Lloyd Bourne
+Craig Wittus, Tom Cain
+Todd Nelson, Ben Testerman
+Cassio Motta, Sammy Giammalva Jr
+Marcos Hocevar, Mike De Palmer
+Paul Mcnamee, Tim Gullikson
+Tim Mayotte, Matt Doyle
+Wojtek Fibak, Peter Rennert
+Hank Pfister, Rod Frawley
+Brian Gottfried, Ricardo Acuna
+Bill Scanlon, John Fitzgerald
+Kevin Curren, Fritz Buehning
+Steve Denton, Chris Lewis
+Pat Cash, Vitas Gerulaitis
+Ivan Lendl, Tim Wilkison
+John McEnroe, Freddie Sauer
+Jimmy Connors, Nduka Odizor
+Pat Cash, Craig Wittus
+Brian Gottfried, Marcos Hocevar
+Tim Mayotte, Bill Scanlon
+Kevin Curren, Wojtek Fibak
+Steve Denton, Todd Nelson
+Ivan Lendl, Paul Mcnamee
+John McEnroe, Cassio Motta
+Jimmy Connors, Hank Pfister
+Kevin Curren, Pat Cash
+Ivan Lendl, Tim Mayotte
+John McEnroe, Brian Gottfried
+Jimmy Connors, Steve Denton
+John McEnroe, Kevin Curren
+Jimmy Connors, Ivan Lendl
+Jimmy Connors, John McEnroe
+Johan Kriek, Stan Smith
+Ilie Nastase, Pat Cash
+Ricardo Acuna, Mike De Palmer
+Nduka Odizor, Tim Mayotte
+Brian Teacher, Jaime Fillol
+Wally Masur, Givaldo Barbosa
+Drew Gitlin, Chris Johnstone
+Lloyd Bourne, Mark Dickson
+Tim Wilkison, John Alexander
+John Fitzgerald, Jeremy Bates
+Rodney Harmon, Matt Doyle
+Ramesh Krishnan, Mark Edmondson
+Marcos Hocevar, Joao Soares
+Mike Bauer, Ben Testerman
+Tom Gullikson, Rod Frawley
+Hank Pfister, Jonathan Smith
+Johan Kriek, Ilie Nastase
+Ricardo Acuna, Nduka Odizor
+Brian Teacher, Wally Masur
+Lloyd Bourne, Drew Gitlin
+John Fitzgerald, Tim Wilkison
+Ramesh Krishnan, Rodney Harmon
+Marcos Hocevar, Mike Bauer
+Tom Gullikson, Hank Pfister
+Johan Kriek, Ricardo Acuna
+Lloyd Bourne, Brian Teacher
+Ramesh Krishnan, John Fitzgerald
+Tom Gullikson, Marcos Hocevar
+Johan Kriek, Lloyd Bourne
+Tom Gullikson, Ramesh Krishnan
+Johan Kriek, Tom Gullikson
+Jose Higueras, Jorge Lozano
+Jairo Velasco, Jiri Granat
+Jan Gunnarsson, Bernard Fritz
+Mel Purcell, David Carter
+Wojtek Fibak, Eric Fromm
+George Kalovelonis, Roy Emerson
+Bernard Mitton, Claudio Mezzadri
+Sandy Mayer, Manuel Orantes
+Joao Soares, Marcos Hocevar
+Colin Dowdeswell, Zoltan Kuharszky
+Guy Forget, Stanislav Birner
+Tomas Smid, Ivo Werner
+Sammy Giammalva Jr, Sergio Casal
+Givaldo Barbosa, Richard Meyer
+Libor Pimek, Pavel Slozil
+Bill Scanlon, Sashi Menon
+Jose Higueras, Jairo Velasco
+Mel Purcell, Jan Gunnarsson
+Wojtek Fibak, George Kalovelonis
+Sandy Mayer, Bernard Mitton
+Colin Dowdeswell, Joao Soares
+Tomas Smid, Guy Forget
+Sammy Giammalva Jr, Givaldo Barbosa
+Libor Pimek, Bill Scanlon
+Mel Purcell, Jose Higueras
+Sandy Mayer, Wojtek Fibak
+Tomas Smid, Colin Dowdeswell
+Libor Pimek, Sammy Giammalva Jr
+Sandy Mayer, Mel Purcell
+Tomas Smid, Libor Pimek
+Sandy Mayer, Tomas Smid
+John Sadri, Eddie Edwards
+Matt Mitchell, Craig A Miller
+Mike Leach, Scott Mccain
+Tim Gullikson, Jon Levine
+Tony Giammalva, John Mccurdy
+Scott Davis, Ricardo Acuna
+Paul Annacone, Morris Skip Strode
+Vijay Amritraj, Derrick Rostagno
+Nduka Odizor, Mike Brunnberg
+Brad Drewett, Nick Saviano
+Chris Johnstone, Tim Wilkison
+Tom Gullikson, Roberto Saad
+John Van Nostrand, Mike De Palmer
+John Fitzgerald, Danie Visser
+Hank Pfister, Ben Testerman
+Bruce Kleege, Steve Denton
+John Van Nostrand, Mike Leach
+Brad Drewett, Vijay Amritraj
+Scott Davis, Chris Johnstone
+Paul Annacone, Bruce Kleege
+Matt Mitchell, Nduka Odizor
+Tom Gullikson, Tony Giammalva
+John Fitzgerald, John Sadri
+Tim Gullikson, Hank Pfister
+Matt Mitchell, John Van Nostrand
+Scott Davis, Tim Gullikson
+Tom Gullikson, Paul Annacone
+John Fitzgerald, Brad Drewett
+Scott Davis, Matt Mitchell
+John Fitzgerald, Tom Gullikson
+John Fitzgerald, Scott Davis
+Mats Wilander, Joakim Nystrom
+Stefan Edberg, Bernhard Pils
+Johan Carlsson, Hans Peter Kandler
+Stefan Simonsson, Per Hjertquist
+Jim Gurfein, Christophe Roger Vasselin
+Ronnie Bathman, Gustavo Tiberti
+Karl Meiler, Roland Stadler
+Bernard Boileau, Bruce Derlin
+Marko Ostoja, Thomas Hogstedt
+Anders Jarryd, Jakob Hlasek
+Jan Gunnarsson, Jose Lopez Maeso
+Jaroslav Navratil, Mike De Palmer
+Scott Lipton, Hans Simonsson
+Roberto Vizcaino, Magnus Tideman
+Jerome Vanier, Jeff Simpson
+Henrik Sundstrom, Gianluca Rinaldini
+Mats Wilander, Stefan Edberg
+Stefan Simonsson, Johan Carlsson
+Jim Gurfein, Ronnie Bathman
+Bernard Boileau, Karl Meiler
+Anders Jarryd, Marko Ostoja
+Jan Gunnarsson, Jaroslav Navratil
+Scott Lipton, Roberto Vizcaino
+Henrik Sundstrom, Jerome Vanier
+Mats Wilander, Stefan Simonsson
+Jim Gurfein, Bernard Boileau
+Anders Jarryd, Jan Gunnarsson
+Scott Lipton, Henrik Sundstrom
+Mats Wilander, Jim Gurfein
+Anders Jarryd, Scott Lipton
+Mats Wilander, Anders Jarryd
+Jose Higueras, Ulrich Pinner
+Andreas Maurer, Huub Van Boeckel
+Rory Chappell, Scott Lipton
+Heinz Gunthardt, Bruce Derlin
+Tomas Smid, Ilie Nastase
+Freddie Sauer, Mike Myburg
+Christoph Zipf, Jose Lopez Maeso
+Bernard Boileau, Angel Gimenez
+Rolf Gehring, Victor Pecci
+Jerome Vanier, Jan Kodes
+Peter Johnston, Jonathan Smith
+Balazs Taroczy, Rocky Royer
+Roland Stadler, Magnus Tideman
+Jan Gunnarsson, Haroon Ismail
+Marko Ostoja, Wayne Hampson
+Eliot Teltscher, Morten Ronneberg
+Andreas Maurer, Jose Higueras
+Heinz Gunthardt, Rory Chappell
+Tomas Smid, Freddie Sauer
+Christoph Zipf, Bernard Boileau
+Rolf Gehring, Jerome Vanier
+Balazs Taroczy, Peter Johnston
+Roland Stadler, Jan Gunnarsson
+Eliot Teltscher, Marko Ostoja
+Andreas Maurer, Heinz Gunthardt
+Tomas Smid, Christoph Zipf
+Balazs Taroczy, Rolf Gehring
+Roland Stadler, Eliot Teltscher
+Tomas Smid, Andreas Maurer
+Balazs Taroczy, Roland Stadler
+Tomas Smid, Balazs Taroczy
+Gustavo Tiberti, Helmar Stiegler
+Rod Frawley, Jeff Simpson
+Karl Meiler, Mark Buckley
+Jim Gurfein, Frank Puncec
+John Frawley, Sashi Menon
+Per Hjertquist, Jaroslav Navratil
+Colin Dowdeswell, David Carter
+Givaldo Barbosa, Bernhard Pils
+Peter Elter, Otto Oberparleiter
+Hans Schwaier, Robert Reininger
+Ricardo Cano, Zeljko Franulovic
+Peter Feigl, Sean Sorensen
+Hans Peter Kandler, Christo Steyn
+Trevor Allan, Gerald Mild
+Hans Dieter Beutel, Adriano Panatta
+Miguel Mir, Gianluca Rinaldini
+Guillermo Vilas, Gustavo Tiberti
+Rod Frawley, Michiel Schapers
+Karl Meiler, Hans Simonsson
+Marcos Hocevar, Jim Gurfein
+Christophe Roger Vasselin, John Frawley
+Sergio Casal, Per Hjertquist
+Zoltan Kuharszky, Colin Dowdeswell
+Sammy Giammalva Jr, Givaldo Barbosa
+Peter Elter, Corrado Barazzutti
+Hans Schwaier, Jairo Velasco
+Ricardo Cano, Buster C Mottram
+Wojtek Fibak, Peter Feigl
+Pavel Slozil, Hans Peter Kandler
+Trevor Allan, Joao Soares
+Florin Segarceanu, Hans Dieter Beutel
+Henri Leconte, Miguel Mir
+Guillermo Vilas, Rod Frawley
+Marcos Hocevar, Karl Meiler
+Sergio Casal, Christophe Roger Vasselin
+Zoltan Kuharszky, Sammy Giammalva Jr
+Hans Schwaier, Peter Elter
+Wojtek Fibak, Ricardo Cano
+Trevor Allan, Pavel Slozil
+Henri Leconte, Florin Segarceanu
+Guillermo Vilas, Marcos Hocevar
+Sergio Casal, Zoltan Kuharszky
+Hans Schwaier, Wojtek Fibak
+Henri Leconte, Trevor Allan
+Guillermo Vilas, Sergio Casal
+Henri Leconte, Hans Schwaier
+Guillermo Vilas, Henri Leconte
+Jose Higueras, Givaldo Barbosa
+Drew Gitlin, Roscoe Tanner
+Pavel Slozil, Mike Bauer
+Tomas Smid, Eric Jelen
+Hans Schwaier, Johan Kriek
+Andreas Maurer, Paul Mcnamee
+Brian Teacher, Manuel Orantes
+Brad Gilbert, Joao Soares
+Chris Lewis, Marcos Hocevar
+Sammy Giammalva Jr, Peter Elter
+John Alexander, Huub Van Boeckel
+Wojtek Fibak, Hank Pfister
+Sandy Mayer, Balazs Taroczy
+Bernard Mitton, Russell Simpson
+Eric Fromm, Buster C Mottram
+Heinz Gunthardt, Vitas Gerulaitis
+Jose Higueras, Drew Gitlin
+Tomas Smid, Pavel Slozil
+Andreas Maurer, Hans Schwaier
+Brian Teacher, Brad Gilbert
+Chris Lewis, Sammy Giammalva Jr
+John Alexander, Wojtek Fibak
+Bernard Mitton, Sandy Mayer
+Heinz Gunthardt, Eric Fromm
+Jose Higueras, Tomas Smid
+Brian Teacher, Andreas Maurer
+Chris Lewis, John Alexander
+Heinz Gunthardt, Bernard Mitton
+Jose Higueras, Brian Teacher
+Heinz Gunthardt, Chris Lewis
+Jose Higueras, Heinz Gunthardt
+Mats Wilander, Eddie Dibbs
+Pavel Slozil, Stanislav Birner
+Roland Stadler, Claudio Mezzadri
+Balazs Taroczy, Jairo Velasco
+Claudio Panatta, Tomas Smid
+Zoltan Kuharszky, Jakob Hlasek
+Jorgen Windahl, Marko Ostoja
+Anders Jarryd, Damir Keretic
+Heinz Gunthardt, Kent Carlsson
+Joakim Nystrom, Jim Gurfein
+Harold Solomon, Guy Forget
+Henrik Sundstrom, Hans Simonsson
+Jimmy Brown, Eddie Edwards
+Roberto Vizcaino, Danie Visser
+Dominique Bedel, Sergio Casal
+Guillermo Vilas, Juan Avendano
+Mats Wilander, Pavel Slozil
+Roland Stadler, Balazs Taroczy
+Claudio Panatta, Zoltan Kuharszky
+Anders Jarryd, Jorgen Windahl
+Heinz Gunthardt, Joakim Nystrom
+Henrik Sundstrom, Harold Solomon
+Roberto Vizcaino, Jimmy Brown
+Guillermo Vilas, Dominique Bedel
+Mats Wilander, Roland Stadler
+Anders Jarryd, Claudio Panatta
+Henrik Sundstrom, Heinz Gunthardt
+Guillermo Vilas, Roberto Vizcaino
+Mats Wilander, Anders Jarryd
+Henrik Sundstrom, Guillermo Vilas
+Mats Wilander, Henrik Sundstrom
+Martin Jaite, Mario Martinez
+Bernard Fritz, Scott Lipton
+Miloslav Mecir, Loic Courteau
+Erick Iskersky, Bernard Boileau
+Pablo Arraya, Patrice Kuchna
+Pascal Portes, Jaroslav Navratil
+Thierry Tulasne, Victor Pecci
+Roberto Arguello, Carlos Castellan
+Stefan Simonsson, Michiel Schapers
+Magnus Tideman, Gregoire Rafaitin
+Jerome Vanier, Tarik Benhabiles
+Juan Aguilera, Corrado Barazzutti
+Fernando Luna, Georges Goven
+Jan Gunnarsson, Nicholas Sido
+Colin Dowdeswell, Pender Murphy
+Diego Perez, Alejandro Ganzabal
+Martin Jaite, Bernard Fritz
+Miloslav Mecir, Erick Iskersky
+Pablo Arraya, Pascal Portes
+Roberto Arguello, Thierry Tulasne
+Stefan Simonsson, Magnus Tideman
+Juan Aguilera, Jerome Vanier
+Fernando Luna, Jan Gunnarsson
+Diego Perez, Colin Dowdeswell
+Miloslav Mecir, Martin Jaite
+Pablo Arraya, Roberto Arguello
+Juan Aguilera, Stefan Simonsson
+Fernando Luna, Diego Perez
+Pablo Arraya, Miloslav Mecir
+Juan Aguilera, Fernando Luna
+Pablo Arraya, Juan Aguilera
+Steve Meister, John Alexander
+Brad Gilbert, Todd Nelson
+Glenn Michibata, David Pate
+Shozo Shiraishi, Pat Dupre
+Scott Davis, Charles Buzz Strode
+Butch Walts, David Carter
+Nick Saviano, Marcel Freeman
+Marty Davis, Francisco Gonzalez
+Bernard Mitton, Jeff Borowiak
+Tony Giammalva, Mike Leach
+Morris Skip Strode, Drew Gitlin
+Vincent Van Patten, Matt Mitchell
+Chip Hooper, Trey Waltke
+Van Winitsky, Mark Vines
+David Dowlen, Kim Warwick
+Mike Bauer, Craig Wittus
+Brad Gilbert, Steve Meister
+Glenn Michibata, Shozo Shiraishi
+Scott Davis, Butch Walts
+Marty Davis, Nick Saviano
+Tony Giammalva, Bernard Mitton
+Vincent Van Patten, Morris Skip Strode
+Chip Hooper, Van Winitsky
+David Dowlen, Mike Bauer
+Brad Gilbert, Glenn Michibata
+Scott Davis, Marty Davis
+Vincent Van Patten, Tony Giammalva
+David Dowlen, Chip Hooper
+Scott Davis, Brad Gilbert
+Vincent Van Patten, David Dowlen
+Scott Davis, Vincent Van Patten
+Jose Luis Clerc, Damir Keretic
+Juan Aguilera, Claudio Panatta
+Alberto Tous, Danie Visser
+Jimmy Brown, Alejandro Gattiker
+Corrado Barazzutti, Harold Solomon
+Dominique Bedel, Roland Stadler
+Colin Dowdeswell, Jonas Svensson
+Fernando Luna, Jim Gurfein
+Jairo Velasco, Diego Perez
+Francesco Cancellotti, Guy Forget
+Juan Avendano, Roberto Arguello
+Mario Martinez, Schalk Van Der Merwe
+Pablo Arraya, Sergio Casal
+Pedro Rebolledo, Pender Murphy
+Manuel Orantes, Ricky Brown
+Jimmy Arias, Simone Ercoli
+Jose Luis Clerc, Juan Aguilera
+Jimmy Brown, Alberto Tous
+Corrado Barazzutti, Dominique Bedel
+Colin Dowdeswell, Fernando Luna
+Francesco Cancellotti, Jairo Velasco
+Juan Avendano, Mario Martinez
+Pablo Arraya, Pedro Rebolledo
+Jimmy Arias, Manuel Orantes
+Jose Luis Clerc, Jimmy Brown
+Colin Dowdeswell, Corrado Barazzutti
+Francesco Cancellotti, Juan Avendano
+Jimmy Arias, Pablo Arraya
+Jose Luis Clerc, Colin Dowdeswell
+Jimmy Arias, Francesco Cancellotti
+Jimmy Arias, Jose Luis Clerc
+Simon Youl, Kevin Curren
+Brad Drewett, David Mustard
+Vincent Van Patten, Fritz Buehning
+Pat Cash, Chris Johnstone
+Chris Lewis, Rod Frawley
+Brad Gilbert, Craig Wittus
+Steve Meister, Trey Waltke
+John Alexander, Sashi Menon
+John Fitzgerald, Chip Hooper
+Wally Masur, Mark Kratzmann
+Mike Leach, John Frawley
+Mark Edmondson, Bud Schultz
+Paul Mcnamee, John Mccurdy
+Francisco Gonzalez, Brett Greenwood
+Russell Barlow, Kim Warwick
+Matt Mitchell, Steve Denton
+Simon Youl, Brad Drewett
+Pat Cash, Vincent Van Patten
+Brad Gilbert, Chris Lewis
+John Alexander, Steve Meister
+John Fitzgerald, Wally Masur
+Mike Leach, Mark Edmondson
+Paul Mcnamee, Francisco Gonzalez
+Matt Mitchell, Russell Barlow
+Pat Cash, Simon Youl
+Brad Gilbert, John Alexander
+John Fitzgerald, Mike Leach
+Paul Mcnamee, Matt Mitchell
+Pat Cash, Brad Gilbert
+Paul Mcnamee, John Fitzgerald
+Pat Cash, Paul Mcnamee
+Heinz Gunthardt, Thomas Hogstedt
+Nick Saviano, Bruno Dadillon
+Jaromir Becka, Christophe Casa
+Stefan Simonsson, Christoph Zipf
+Jimmy Brown, Vincent Van Patten
+Sean Brawley, Dominique Bedel
+Pascal Portes, Christophe Lesage
+Libor Pimek, Pavel Slozil
+Corrado Barazzutti, Thierry Tulasne
+Michiel Schapers, Peter Elter
+Jan Gunnarsson, Georges Goven
+Pablo Arraya, Stanislav Birner
+Diego Perez, Bernard Mitton
+Bernard Fritz, Jean Louis Haillet
+Mansour Bahrami, Guy Forget
+Gianni Ocleppo, Butch Walts
+Heinz Gunthardt, Nick Saviano
+Jaromir Becka, Stefan Simonsson
+Jimmy Brown, Sean Brawley
+Pascal Portes, Libor Pimek
+Michiel Schapers, Corrado Barazzutti
+Pablo Arraya, Jan Gunnarsson
+Diego Perez, Bernard Fritz
+Mansour Bahrami, Gianni Ocleppo
+Heinz Gunthardt, Jaromir Becka
+Jimmy Brown, Pascal Portes
+Pablo Arraya, Michiel Schapers
+Diego Perez, Mansour Bahrami
+Heinz Gunthardt, Jimmy Brown
+Pablo Arraya, Diego Perez
+Heinz Gunthardt, Pablo Arraya
+Victor Pecci, Yannick Noah
+Pavel Slozil, Randy Druz
+Ricardo Acuna, Jakob Hlasek
+Marcos Hocevar, Mark Dickson
+Vitas Gerulaitis, Pascal Portes
+Nick Saviano, Damir Keretic
+Marko Ostoja, Belus Prajoux
+Paul Annacone, Heinz Gunthardt
+Michael Westphal, Alejandro Gattiker
+Claudio Mezzadri, Ivan Dupasquier
+Stefan Edberg, Erick Iskersky
+Wojtek Fibak, Manuel Orantes
+Thomas Hogstedt, Michiel Schapers
+Roland Stadler, Scott Lipton
+Johan Carlsson, Stanislav Birner
+Bill Scanlon, Florin Segarceanu
+Victor Pecci, Pavel Slozil
+Ricardo Acuna, Marcos Hocevar
+Vitas Gerulaitis, Nick Saviano
+Paul Annacone, Marko Ostoja
+Michael Westphal, Claudio Mezzadri
+Wojtek Fibak, Stefan Edberg
+Roland Stadler, Thomas Hogstedt
+Johan Carlsson, Bill Scanlon
+Victor Pecci, Ricardo Acuna
+Vitas Gerulaitis, Paul Annacone
+Wojtek Fibak, Michael Westphal
+Roland Stadler, Johan Carlsson
+Vitas Gerulaitis, Victor Pecci
+Wojtek Fibak, Roland Stadler
+Vitas Gerulaitis, Wojtek Fibak
+Van Winitsky, Tetsu Kuramitsu
+Charles Buzz Strode, Matt Anger
+Larry Stefanki, Glenn Michibata
+Robert Seguso, Richard Meyer
+Todd Nelson, Wayne Hampson
+Sashi Menon, Lloyd Bourne
+Steve Meister, Marty Davis
+Scott Mccain, Magnus Tideman
+Ramesh Krishnan, Hitoshi Shirato
+Jim Gurfein, Trey Waltke
+Rolf Gehring, Morris Skip Strode
+Marcel Freeman, Broderick Dyke
+Rod Frawley, Peter Rennert
+Ken Flach, Shigeyuki Nishio
+Tom Cain, Jon Levine
+Victor Amaya, Greg Holmes
+Craig A Miller, Nduka Odizor
+Georges Goven, Thierry Tulasne
+Tom Gullikson, Toru Yonezawa
+David Pate, Pat Dupre
+Tim Gullikson, Francisco Gonzalez
+Brad Gilbert, Bruce Kleege
+Mike De Palmer, Tsuyoshi Fukui
+Sammy Giammalva Jr, David Dowlen
+Christophe Roger Vasselin, Shozo Shiraishi
+Scott Davis, Mark Vines
+Thomas Hogstedt, Laurie Warder
+Gianni Ocleppo, Shinichi Sakamoto
+Robert Vant Hof, John Austin
+Henri Leconte, Sean Brawley
+Eliot Teltscher, Andy Andrews
+Andres Gomez, Joel Bailey
+Robert Seguso, David Pate
+Steve Meister, Craig A Miller
+Tim Gullikson, Ken Flach
+Georges Goven, Victor Amaya
+Tom Gullikson, Rod Frawley
+Brad Gilbert, Marcel Freeman
+Mike De Palmer, Tom Cain
+Todd Nelson, Sammy Giammalva Jr
+Christophe Roger Vasselin, Jim Gurfein
+Larry Stefanki, Scott Davis
+Ramesh Krishnan, Thomas Hogstedt
+Gianni Ocleppo, Rolf Gehring
+Charles Buzz Strode, Robert Vant Hof
+Henri Leconte, Scott Mccain
+Eliot Teltscher, Sashi Menon
+Andres Gomez, Van Winitsky
+Larry Stefanki, Robert Seguso
+Ramesh Krishnan, Steve Meister
+Tom Gullikson, Charles Buzz Strode
+Christophe Roger Vasselin, Mike De Palmer
+Gianni Ocleppo, Todd Nelson
+Tim Gullikson, Henri Leconte
+Eliot Teltscher, Georges Goven
+Andres Gomez, Brad Gilbert
+Tom Gullikson, Christophe Roger Vasselin
+Tim Gullikson, Gianni Ocleppo
+Eliot Teltscher, Larry Stefanki
+Andres Gomez, Ramesh Krishnan
+Eliot Teltscher, Tim Gullikson
+Andres Gomez, Tom Gullikson
+Eliot Teltscher, Andres Gomez
+Aaron Krickstein, Henrik Sundstrom
+Schalk Van Der Merwe, Frank Puncec
+Shahar Perkiss, Jiri Granat
+Harald Theissen, Mike Myburg
+Colin Dowdeswell, Rory Chappell
+Amos Mansdorf, Peter Feigl
+Stefan Svensson, Tian C Viljoen
+Jaromir Becka, Zoltan Kuharszky
+Per Hjertquist, Bernard Mitton
+Gilles Moretton, Hans Dieter Beutel
+Christoph Zipf, Bernhard Pils
+Peter Elter, Robbie Venter
+Rolf Gehring, Danie Visser
+Eddie Edwards, Harold Solomon
+Richard Meyer, Ilan Sher
+Rand Evett, Shlomo Glickstein
+Aaron Krickstein, Schalk Van Der Merwe
+Shahar Perkiss, Harald Theissen
+Colin Dowdeswell, Amos Mansdorf
+Jaromir Becka, Stefan Svensson
+Gilles Moretton, Per Hjertquist
+Christoph Zipf, Peter Elter
+Rolf Gehring, Eddie Edwards
+Richard Meyer, Rand Evett
+Aaron Krickstein, Shahar Perkiss
+Colin Dowdeswell, Jaromir Becka
+Christoph Zipf, Gilles Moretton
+Rolf Gehring, Richard Meyer
+Aaron Krickstein, Colin Dowdeswell
+Christoph Zipf, Rolf Gehring
+Aaron Krickstein, Christoph Zipf
+Stan Smith, Brian Gottfried
+Eric Jelen, Scott Lipton
+Hans Dieter Beutel, Carlos Kirmayr
+Shlomo Glickstein, Michiel Schapers
+Cassio Motta, Mel Purcell
+Nick Saviano, Paul Annacone
+Pavel Slozil, Eric Fromm
+Mark Dickson, Tarik Benhabiles
+Eric Korita, Marcos Hocevar
+Marko Ostoja, Bernard Boileau
+Florin Segarceanu, Peter Elter
+Matt Doyle, Tomas Smid
+Tim Wilkison, Tim Mayotte
+Bernard Mitton, Jaromir Becka
+Andreas Maurer, Danie Visser
+Sandy Mayer, Boris Becker
+Eric Jelen, Stan Smith
+Hans Dieter Beutel, Shlomo Glickstein
+Nick Saviano, Cassio Motta
+Pavel Slozil, Mark Dickson
+Marko Ostoja, Eric Korita
+Matt Doyle, Florin Segarceanu
+Bernard Mitton, Tim Wilkison
+Sandy Mayer, Andreas Maurer
+Hans Dieter Beutel, Eric Jelen
+Pavel Slozil, Nick Saviano
+Matt Doyle, Marko Ostoja
+Bernard Mitton, Sandy Mayer
+Hans Dieter Beutel, Pavel Slozil
+Matt Doyle, Bernard Mitton
+Matt Doyle, Hans Dieter Beutel
+Morris Skip Strode, Chang Rung Wu
+Wally Masur, John Mccurdy
+Ramesh Krishnan, Marcel Freeman
+Chris Johnstone, Van Winitsky
+Jim Gurfein, Larry Stefanki
+Drew Gitlin, John Austin
+John Frawley, Steve Meister
+Tom Cain, Rod Frawley
+Tim Gullikson, Kim Warwick
+Mike Bauer, Marty Davis
+Glenn Michibata, Tom Gullikson
+Brad Gilbert, Jeremy Bates
+Matt Anger, Sammy Giammalva Jr
+Andy Andrews, Mark Edmondson
+Nduka Odizor, Robert Vant Hof
+Scott Davis, Pat Dupre
+Nduka Odizor, Wally Masur
+Glenn Michibata, Jim Gurfein
+Ramesh Krishnan, Matt Anger
+Andy Andrews, Morris Skip Strode
+Tim Gullikson, Tom Cain
+Mike Bauer, Chris Johnstone
+Brad Gilbert, John Frawley
+Scott Davis, Drew Gitlin
+Nduka Odizor, Glenn Michibata
+Mike Bauer, Andy Andrews
+Brad Gilbert, Ramesh Krishnan
+Scott Davis, Tim Gullikson
+Nduka Odizor, Mike Bauer
+Scott Davis, Brad Gilbert
+Nduka Odizor, Scott Davis
+Wally Masur, Jim Gurfein
+Zoltan Kuharszky, Scott Davis
+Ramesh Krishnan, Steve Meister
+Drew Gitlin, Glenn Michibata
+Brad Gilbert, Van Winitsky
+Sammy Giammalva Jr, Francisco Gonzalez
+Rod Frawley, John Mccurdy
+Brad Drewett, Andy Andrews
+Vijay Amritraj, Tom Cain
+Tim Gullikson, Toru Yonezawa
+Pat Dupre, Tom Gullikson
+Nduka Odizor, Mike Bauer
+Marty Davis, Victor Amaya
+Mark Edmondson, Scott Mccain
+Larry Stefanki, Robert Vant Hof
+David Pate, Brian Teacher
+David Pate, Vijay Amritraj
+Nduka Odizor, Ramesh Krishnan
+Wally Masur, Pat Dupre
+Sammy Giammalva Jr, Brad Drewett
+Rod Frawley, Larry Stefanki
+Brad Gilbert, Tim Gullikson
+Marty Davis, Zoltan Kuharszky
+Mark Edmondson, Drew Gitlin
+Wally Masur, David Pate
+Sammy Giammalva Jr, Rod Frawley
+Brad Gilbert, Marty Davis
+Mark Edmondson, Nduka Odizor
+Sammy Giammalva Jr, Brad Gilbert
+Wally Masur, Mark Edmondson
+Wally Masur, Sammy Giammalva Jr
+Brian Gottfried, Hans Simonsson
+Tim Wilkison, Roland Stadler
+Michiel Schapers, Stan Smith
+Stefan Simonsson, Michael Westphal
+Stefan Edberg, Wojtek Fibak
+Marcos Hocevar, Danie Visser
+Bernhard Pils, Brian Levine
+Eric Korita, Matt Doyle
+Mark Dickson, Nick Saviano
+Bernard Mitton, Pavel Slozil
+Jonas Svensson, Eric Fromm
+Anders Jarryd, Erick Iskersky
+Mel Purcell, Florin Segarceanu
+Scott Lipton, Jeff Borowiak
+Peter Feigl, Jaromir Becka
+Marko Ostoja, Tomas Smid
+Brian Gottfried, Tim Wilkison
+Michiel Schapers, Stefan Simonsson
+Stefan Edberg, Marcos Hocevar
+Eric Korita, Bernhard Pils
+Mark Dickson, Bernard Mitton
+Anders Jarryd, Jonas Svensson
+Mel Purcell, Scott Lipton
+Peter Feigl, Marko Ostoja
+Brian Gottfried, Michiel Schapers
+Stefan Edberg, Eric Korita
+Anders Jarryd, Mark Dickson
+Mel Purcell, Peter Feigl
+Brian Gottfried, Stefan Edberg
+Mel Purcell, Anders Jarryd
+Brian Gottfried, Mel Purcell
+Ben Testerman, Rod Frawley
+Robert Seguso, David Macpherson
+Matt Mitchell, John Frawley
+Miloslav Mecir, Russell Simpson
+Wally Masur, Brad Drewett
+Mike Leach, Greg Holmes
+Marcos Hocevar, Rolf Gehring
+Jim Gurfein, Kelly Evernden
+Drew Gitlin, David Mustard
+Marcel Freeman, John Mccurdy
+Peter Feigl, Andy Andrews
+Broderick Dyke, Peter Johnston
+Bruce Derlin, Craig A Miller
+Marty Davis, Tony Giammalva
+Lloyd Bourne, Desmond Tyson
+Mike Bauer, Nduka Odizor
+Tom Gullikson, Chris Johnstone
+Joakim Nystrom, Hans Simonsson
+Stefan Edberg, Charlie Fancutt
+Chip Hooper, Larry Stefanki
+Eric Korita, Huub Van Boeckel
+Tim Gullikson, Ramesh Krishnan
+David Pate, John Alexander
+Mark Dickson, Mark Edmondson
+Pat Cash, Simon Youl
+Zoltan Kuharszky, Peter Fleming
+John Fitzgerald, David Dowlen
+Paul Mcnamee, Mike De Palmer
+Henrik Sundstrom, Jeff Borowiak
+Anders Jarryd, Mark Kratzmann
+Tomas Smid, Matt Anger
+John Lloyd, Vitas Gerulaitis
+David Pate, Matt Mitchell
+Wally Masur, Mark Dickson
+Bruce Derlin, John Lloyd
+Mike Bauer, Zoltan Kuharszky
+Broderick Dyke, Tom Gullikson
+Joakim Nystrom, Drew Gitlin
+Miloslav Mecir, Stefan Edberg
+Lloyd Bourne, Chip Hooper
+Marty Davis, Eric Korita
+Tim Gullikson, Marcel Freeman
+Pat Cash, Ben Testerman
+Robert Seguso, John Fitzgerald
+Paul Mcnamee, Jim Gurfein
+Peter Feigl, Henrik Sundstrom
+Anders Jarryd, Mike Leach
+Tomas Smid, Marcos Hocevar
+Marty Davis, Bruce Derlin
+Lloyd Bourne, Peter Feigl
+Mike Bauer, David Pate
+Robert Seguso, Tim Gullikson
+Pat Cash, Wally Masur
+Broderick Dyke, Paul Mcnamee
+Anders Jarryd, Miloslav Mecir
+Joakim Nystrom, Tomas Smid
+Marty Davis, Broderick Dyke
+Joakim Nystrom, Robert Seguso
+Pat Cash, Lloyd Bourne
+Mike Bauer, Anders Jarryd
+Mike Bauer, Marty Davis
+Joakim Nystrom, Pat Cash
+Joakim Nystrom, Mike Bauer
+Chris Lewis, John Frawley
+Peter Doohan, Bruce Derlin
+Simon Youl, Jerome Vanier
+Miloslav Mecir, Wally Masur
+Paul Mcnamee, Sean Brawley
+Jonathan Smith, Broderick Dyke
+Jonathan Canter, Chris Johnstone
+Chip Hooper, John Alexander
+Brad Drewett, Anthony Lane
+Greg Whitecross, Charlie Fancutt
+Leif Shiras, Rod Frawley
+John Fitzgerald, Andy Andrews
+Mike Bauer, Mike Brunnberg
+David Mustard, Craig A Miller
+Loic Courteau, John Austin
+Pat Cash, Lloyd Bourne
+Chris Lewis, Peter Doohan
+Miloslav Mecir, Simon Youl
+Paul Mcnamee, Jonathan Smith
+Chip Hooper, Jonathan Canter
+Brad Drewett, Greg Whitecross
+Leif Shiras, John Fitzgerald
+Mike Bauer, David Mustard
+Pat Cash, Loic Courteau
+Miloslav Mecir, Chris Lewis
+Paul Mcnamee, Chip Hooper
+Brad Drewett, Leif Shiras
+Mike Bauer, Pat Cash
+Miloslav Mecir, Paul Mcnamee
+Mike Bauer, Brad Drewett
+Mike Bauer, Miloslav Mecir
+Mats Wilander, Jimmy Brown
+Anders Jarryd, Hans Simonsson
+Juan Avendano, Jose Lopez Maeso
+Victor Pecci, Cassio Motta
+Pat Cash, Jose Garcia Requena
+Alejandro Ganzabal, Christophe Roger Vasselin
+Joakim Nystrom, Alberto Tous
+Bernard Fritz, Carlos Kirmayr
+Chris Lewis, Damir Keretic
+Sergio Casal, Claudio Panatta
+Loic Courteau, Magnus Tideman
+Trevor Allan, Dominique Bedel
+Jairo Velasco, Guy Forget
+Peter Elter, Wally Masur
+Gilles Moretton, Thierry Tulasne
+Henri Leconte, Libor Pimek
+Mats Wilander, Anders Jarryd
+Victor Pecci, Juan Avendano
+Alejandro Ganzabal, Pat Cash
+Joakim Nystrom, Bernard Fritz
+Sergio Casal, Chris Lewis
+Loic Courteau, Trevor Allan
+Jairo Velasco, Peter Elter
+Henri Leconte, Gilles Moretton
+Mats Wilander, Victor Pecci
+Joakim Nystrom, Alejandro Ganzabal
+Sergio Casal, Loic Courteau
+Henri Leconte, Jairo Velasco
+Mats Wilander, Joakim Nystrom
+Sergio Casal, Henri Leconte
+Mats Wilander, Sergio Casal
+Steve Denton, Stan Smith
+Jaime Fillol, Craig Wittus
+Matt Anger, Tom Cain
+Henri Leconte, Nick Saviano
+Bill Scanlon, Marcel Freeman
+Matt Mitchell, Fritz Buehning
+Roscoe Tanner, Nduka Odizor
+Christophe Roger Vasselin, Vijay Amritraj
+Brian Teacher, Tim Wilkison
+Mike Leach, Russell Simpson
+Rodney Harmon, Victor Amaya
+Brian Gottfried, Andy Andrews
+Chip Hooper, John Fitzgerald
+Scott Davis, Francisco Gonzalez
+Mike Bauer, Mike De Palmer
+Eric Korita, Johan Kriek
+Steve Denton, Jaime Fillol
+Henri Leconte, Matt Anger
+Bill Scanlon, Matt Mitchell
+Roscoe Tanner, Christophe Roger Vasselin
+Brian Teacher, Mike Leach
+Brian Gottfried, Rodney Harmon
+Scott Davis, Chip Hooper
+Eric Korita, Mike Bauer
+Henri Leconte, Steve Denton
+Bill Scanlon, Roscoe Tanner
+Brian Teacher, Brian Gottfried
+Scott Davis, Eric Korita
+Bill Scanlon, Henri Leconte
+Brian Teacher, Scott Davis
+Brian Teacher, Bill Scanlon
+Joao Soares, Andres Gomez
+Nick Saviano, Randolf Scheller
+Francisco Gonzalez, Erick Iskersky
+Jaime Fillol, Pat Dupre
+Tim Wilkison, Zoltan Kuharszky
+Morris Skip Strode, Sergio Speciale
+David Dowlen, Jim Gurfein
+Victor Pecci, Egan Adams
+Bernard Boileau, Ilie Nastase
+Stefan Simonsson, Rocky Royer
+Stan Smith, Nduka Odizor
+Shlomo Glickstein, Ben Testerman
+Sammy Giammalva Jr, Loic Courteau
+Tim Gullikson, Andreas Maurer
+Ricardo Acuna, Charles Buzz Strode
+Raul Ramirez, Ramesh Krishnan
+Nick Saviano, Joao Soares
+Francisco Gonzalez, Jaime Fillol
+Morris Skip Strode, Tim Wilkison
+David Dowlen, Victor Pecci
+Stefan Simonsson, Bernard Boileau
+Stan Smith, Shlomo Glickstein
+Tim Gullikson, Sammy Giammalva Jr
+Raul Ramirez, Ricardo Acuna
+Francisco Gonzalez, Nick Saviano
+Morris Skip Strode, David Dowlen
+Stefan Simonsson, Stan Smith
+Raul Ramirez, Tim Gullikson
+Morris Skip Strode, Francisco Gonzalez
+Raul Ramirez, Stefan Simonsson
+Raul Ramirez, Morris Skip Strode
+Sammy Giammalva Jr, Ross Case
+Charles Buzz Strode, Scott Davis
+Terry Moor, Nial Brash
+Morris Skip Strode, David Dowlen
+John Sadri, Egan Adams
+Scott Mccain, Andy Kohlberg
+Tony Giammalva, Ron Hightower
+Erick Iskersky, Andrew Pattison
+Andy Andrews, Bruce Kleege
+Juan Hernandez, Steve Meister
+Butch Walts, Tim Anderson
+Nduka Odizor, Bruce Foxworth
+Ben Testerman, David Carter
+Richard Meyer, Adolfo Gonzalez
+Trey Waltke, Mike Gandolfo
+Nick Saviano, Steve Krulevitz
+Sammy Giammalva Jr, Charles Buzz Strode
+Terry Moor, Morris Skip Strode
+John Sadri, Scott Mccain
+Erick Iskersky, Tony Giammalva
+Juan Hernandez, Andy Andrews
+Nduka Odizor, Butch Walts
+Ben Testerman, Richard Meyer
+Nick Saviano, Trey Waltke
+Sammy Giammalva Jr, Terry Moor
+Erick Iskersky, John Sadri
+Nduka Odizor, Juan Hernandez
+Ben Testerman, Nick Saviano
+Sammy Giammalva Jr, Erick Iskersky
+Ben Testerman, Nduka Odizor
+Sammy Giammalva Jr, Ben Testerman
+Johan Kriek, Roscoe Tanner
+Vincent Van Patten, Steve Meister
+Vijay Amritraj, Francisco Gonzalez
+John Fitzgerald, John Sadri
+Florin Segarceanu, Mel Purcell
+Drew Gitlin, Ricardo Acuna
+Tom Cain, Lloyd Bourne
+Mark Dickson, Bruce Manson
+Robert Lutz, Robert Vant Hof
+Chris Johnstone, Nick Saviano
+Fritz Buehning, Tom Gullikson
+Eric Fromm, John Alexander
+Mike De Palmer, Marty Davis
+Mike Estep, Jeff Borowiak
+Tim Wilkison, Ben Testerman
+Mike Bauer, Sandy Mayer
+Johan Kriek, Vincent Van Patten
+John Fitzgerald, Vijay Amritraj
+Florin Segarceanu, Drew Gitlin
+Tom Cain, Mark Dickson
+Robert Lutz, Chris Johnstone
+Fritz Buehning, Eric Fromm
+Mike De Palmer, Mike Estep
+Tim Wilkison, Mike Bauer
+Johan Kriek, John Fitzgerald
+Florin Segarceanu, Tom Cain
+Robert Lutz, Fritz Buehning
+Mike De Palmer, Tim Wilkison
+Johan Kriek, Florin Segarceanu
+Robert Lutz, Mike De Palmer
+Johan Kriek, Robert Lutz
+Jose Higueras, Bernard Fritz
+Mike Myburg, Jose Luis Damiani
+Alejandro Ganzabal, Jonathan Smith
+Jaime Fillol, Jimmy Brown
+Chris Lewis, Manuel Orantes
+Stefan Edberg, Andrew Jarrett
+Wally Masur, Alberto Tous
+Balazs Taroczy, Carlos Kirmayr
+Victor Pecci, Florin Segarceanu
+Thierry Tulasne, Pat Cash
+Juan Avendano, Raul Antonio Viver
+Shlomo Glickstein, Claudio Panatta
+Buster C Mottram, Angel Gimenez
+Jeremy Bates, Gilles Moretton
+Chris Bradnam, Markus Gunthardt
+Tomas Smid, Sergio Casal
+Jose Higueras, Mike Myburg
+Jaime Fillol, Alejandro Ganzabal
+Stefan Edberg, Chris Lewis
+Balazs Taroczy, Wally Masur
+Victor Pecci, Thierry Tulasne
+Shlomo Glickstein, Juan Avendano
+Buster C Mottram, Jeremy Bates
+Tomas Smid, Chris Bradnam
+Jose Higueras, Jaime Fillol
+Stefan Edberg, Balazs Taroczy
+Victor Pecci, Shlomo Glickstein
+Tomas Smid, Buster C Mottram
+Jose Higueras, Stefan Edberg
+Tomas Smid, Victor Pecci
+Jose Higueras, Tomas Smid
+Brad Drewett, Johan Kriek
+Brad Gilbert, Trey Waltke
+Craig Wittus, Mark Wooldridge
+Matt Doyle, Jay Lapidus
+Paul Mcnamee, Mike Brunnberg
+Lloyd Bourne, Charles Buzz Strode
+Danny Saltz, Ilie Nastase
+Vijay Amritraj, Vincent Van Patten
+Fritz Buehning, Matt Anger
+Eric Fromm, Marc Flur
+Kim Warwick, Eddie Edwards
+John Fitzgerald, Jeff Borowiak
+Tom Gullikson, Wally Masur
+Robert Seguso, Tom Cain
+Derek Tarr, Andy Andrews
+Van Winitsky, Wojtek Fibak
+Brad Drewett, Brad Gilbert
+Matt Doyle, Craig Wittus
+Paul Mcnamee, Lloyd Bourne
+Vijay Amritraj, Danny Saltz
+Fritz Buehning, Eric Fromm
+John Fitzgerald, Kim Warwick
+Tom Gullikson, Robert Seguso
+Van Winitsky, Derek Tarr
+Matt Doyle, Brad Drewett
+Vijay Amritraj, Paul Mcnamee
+John Fitzgerald, Fritz Buehning
+Van Winitsky, Tom Gullikson
+Vijay Amritraj, Matt Doyle
+John Fitzgerald, Van Winitsky
+John Fitzgerald, Vijay Amritraj
+Van Winitsky, Sammy Giammalva Jr
+Roscoe Tanner, Jay Lapidus
+Nduka Odizor, Paul Mcnamee
+Glenn Michibata, Drew Gitlin
+Eric Korita, Broderick Dyke
+Rodney Harmon, Derek Tarr
+Tom Gullikson, Egan Adams
+Scott Davis, Stan Smith
+John Fitzgerald, Ramesh Krishnan
+Chris Lewis, John Alexander
+Brian Teacher, Eric Fromm
+Sandy Mayer, Lloyd Bourne
+Andres Gomez, Mike Bauer
+Tim Gullikson, Steve Denton
+Gene Mayer, Chip Hooper
+Jimmy Connors, Tony Giammalva
+Scott Davis, Tim Gullikson
+John Fitzgerald, Roscoe Tanner
+Chris Lewis, Tom Gullikson
+Brian Teacher, Nduka Odizor
+Sandy Mayer, Glenn Michibata
+Andres Gomez, Eric Korita
+Gene Mayer, Rodney Harmon
+Jimmy Connors, Van Winitsky
+Scott Davis, John Fitzgerald
+Andres Gomez, Chris Lewis
+Brian Teacher, Gene Mayer
+Sandy Mayer, Jimmy Connors
+Brian Teacher, Scott Davis
+Andres Gomez, Sandy Mayer
+Andres Gomez, Brian Teacher
+John Sadri, Bernard Mitton
+Mike De Palmer, Paul Mcnamee
+Fritz Buehning, Aaron Krickstein
+Eric Fromm, Anders Jarryd
+Brad Gilbert, Hans Simonsson
+Mike Bauer, Harold Solomon
+Lloyd Bourne, Pavel Slozil
+Jeff Borowiak, Chip Hooper
+Guy Forget, Van Winitsky
+Alberto Tous, Tom Gullikson
+Bill Scanlon, Rodney Harmon
+Robert Vant Hof, Victor Amaya
+Butch Walts, Phil Dent
+Mark Dickson, Chris Lewis
+David Carter, Tony Giammalva
+Scott Davis, Steve Meister
+John McEnroe, John Sadri
+Mike De Palmer, Mel Purcell
+Fritz Buehning, Kevin Curren
+Eliot Teltscher, Eric Fromm
+Gene Mayer, Brad Gilbert
+Tim Mayotte, Mike Bauer
+Brian Gottfried, Lloyd Bourne
+Steve Denton, Jeff Borowiak
+Peter Mcnamara, Guy Forget
+Tomas Smid, Alberto Tous
+Bill Scanlon, Jimmy Arias
+Mats Wilander, Robert Vant Hof
+Butch Walts, Sandy Mayer
+Wojtek Fibak, Mark Dickson
+Henri Leconte, David Carter
+Ivan Lendl, Scott Davis
+John McEnroe, Mike De Palmer
+Eliot Teltscher, Fritz Buehning
+Tim Mayotte, Gene Mayer
+Brian Gottfried, Steve Denton
+Peter Mcnamara, Tomas Smid
+Bill Scanlon, Mats Wilander
+Wojtek Fibak, Butch Walts
+Ivan Lendl, Henri Leconte
+John McEnroe, Eliot Teltscher
+Tim Mayotte, Brian Gottfried
+Bill Scanlon, Peter Mcnamara
+Ivan Lendl, Wojtek Fibak
+John McEnroe, Tim Mayotte
+Ivan Lendl, Bill Scanlon
+John McEnroe, Ivan Lendl
+Tim Wilkison, Tom Gullikson
+Jan Gunnarsson, Eric Fromm
+Robert Vant Hof, Andy Andrews
+Tony Giammalva, Brad Gilbert
+Mark Dickson, Peter Fleming
+Terry Moor, Peter Rennert
+Vijay Amritraj, Chris Lewis
+Mel Purcell, Hans Simonsson
+Chip Hooper, Marcos Hocevar
+Anders Jarryd, Pavel Slozil
+Henri Leconte, Victor Amaya
+Eddie Dibbs, Harold Solomon
+Mike De Palmer, Sammy Giammalva Jr
+Paul Mcnamee, John Sadri
+Guy Forget, Tim Mayotte
+Fritz Buehning, Phil Dent
+Jimmy Connors, Tim Wilkison
+Raul Ramirez, Jan Gunnarsson
+Tomas Smid, Robert Vant Hof
+Eliot Teltscher, Tony Giammalva
+Yannick Noah, Mark Dickson
+Buster C Mottram, Terry Moor
+Sandy Mayer, Vijay Amritraj
+Peter Mcnamara, Mel Purcell
+Chip Hooper, Johan Kriek
+Brian Teacher, Anders Jarryd
+Henri Leconte, Kevin Curren
+Gene Mayer, Eddie Dibbs
+Mike De Palmer, Steve Denton
+Paul Mcnamee, Jimmy Arias
+Brian Gottfried, Guy Forget
+Fritz Buehning, Mats Wilander
+Jimmy Connors, Raul Ramirez
+Eliot Teltscher, Tomas Smid
+Yannick Noah, Buster C Mottram
+Peter Mcnamara, Sandy Mayer
+Brian Teacher, Chip Hooper
+Gene Mayer, Henri Leconte
+Paul Mcnamee, Mike De Palmer
+Brian Gottfried, Fritz Buehning
+Jimmy Connors, Eliot Teltscher
+Peter Mcnamara, Yannick Noah
+Gene Mayer, Brian Teacher
+Brian Gottfried, Paul Mcnamee
+Jimmy Connors, Peter Mcnamara
+Gene Mayer, Brian Gottfried
+Jimmy Connors, Gene Mayer
+Ivan Lendl, Pablo Arraya
+Ramesh Krishnan, Van Winitsky
+Henri Leconte, Thomas Hogstedt
+Jose Luis Clerc, Andy Andrews
+Bill Scanlon, Vijay Amritraj
+Leo Palin, Mike Estep
+Tom Cain, Mike Brunnberg
+Sammy Giammalva Jr, Wojtek Fibak
+Steve Denton, Mike Cahill
+Peter Elter, Russell Simpson
+Eric Fromm, Andreas Maurer
+Paul Mcnamee, Kevin Curren
+Tomas Smid, Tony Giammalva
+John Alexander, Christophe Roger Vasselin
+Drew Gitlin, Chris Johnstone
+Mark Dickson, Guillermo Vilas
+Ivan Lendl, Ramesh Krishnan
+Henri Leconte, Jose Luis Clerc
+Bill Scanlon, Leo Palin
+Sammy Giammalva Jr, Tom Cain
+Steve Denton, Peter Elter
+Paul Mcnamee, Eric Fromm
+Tomas Smid, John Alexander
+Mark Dickson, Drew Gitlin
+Ivan Lendl, Henri Leconte
+Bill Scanlon, Sammy Giammalva Jr
+Paul Mcnamee, Steve Denton
+Mark Dickson, Tomas Smid
+Ivan Lendl, Bill Scanlon
+Paul Mcnamee, Mark Dickson
+Ivan Lendl, Paul Mcnamee
+Ivan Lendl, Brian Teacher
+Balazs Taroczy, Guy Forget
+Tim Mayotte, Tim Wilkison
+Johan Kriek, Jacques Grandjean
+Mats Wilander, Hans Simonsson
+Larry Stefanki, Colin Dowdeswell
+Vincent Van Patten, Wolfgang Popp
+Yannick Noah, Hans Gildemeister
+Steve Denton, Shlomo Glickstein
+Hank Pfister, Vijay Amritraj
+Dominique Bedel, Jairo Velasco
+Vitas Gerulaitis, Mike De Palmer
+Peter Mcnamara, Pat Dupre
+Fritz Buehning, Bernard Boileau
+Kevin Curren, John Sadri
+Jimmy Connors, Klaus Eberhard
+Ivan Lendl, Balazs Taroczy
+Johan Kriek, Tim Mayotte
+Mats Wilander, Larry Stefanki
+Yannick Noah, Vincent Van Patten
+Steve Denton, Hank Pfister
+Vitas Gerulaitis, Dominique Bedel
+Peter Mcnamara, Fritz Buehning
+Kevin Curren, Jimmy Connors
+Ivan Lendl, Johan Kriek
+Mats Wilander, Yannick Noah
+Vitas Gerulaitis, Steve Denton
+Peter Mcnamara, Kevin Curren
+Ivan Lendl, Mats Wilander
+Peter Mcnamara, Vitas Gerulaitis
+Peter Mcnamara, Ivan Lendl
+Guillermo Vilas, Pavel Slozil
+Jakob Hlasek, Andy Andrews
+Mike De Palmer, Marko Ostoja
+Tim Wilkison, Mel Purcell
+Jiri Granat, Peter Mcnamara
+John Fitzgerald, Brad Gilbert
+Jaime Fillol, Jairo Velasco
+Nick Saviano, Mark Edmondson
+Fritz Buehning, Tim Mayotte
+Victor Amaya, Erick Iskersky
+Hank Pfister, Vijay Amritraj
+Bernard Boileau, Sandy Mayer
+Vincent Van Patten, Buster C Mottram
+Tom Gullikson, Pat Dupre
+Russell Simpson, Sammy Giammalva Jr
+Gene Mayer, Michiel Schapers
+Guillermo Vilas, Jakob Hlasek
+Tim Wilkison, Mike De Palmer
+John Fitzgerald, Jiri Granat
+Nick Saviano, Jaime Fillol
+Fritz Buehning, Victor Amaya
+Hank Pfister, Bernard Boileau
+Vincent Van Patten, Tom Gullikson
+Gene Mayer, Russell Simpson
+Guillermo Vilas, Tim Wilkison
+John Fitzgerald, Nick Saviano
+Fritz Buehning, Hank Pfister
+Gene Mayer, Vincent Van Patten
+Guillermo Vilas, John Fitzgerald
+Gene Mayer, Fritz Buehning
+Gene Mayer, Guillermo Vilas
+Ivan Lendl, Vincent Van Patten
+Tim Mayotte, Adriano Panatta
+Hank Pfister, Chris Lewis
+Sandy Mayer, Mike De Palmer
+Russell Simpson, Vitas Gerulaitis
+Chip Hooper, Tim Wilkison
+Marcos Hocevar, Paolo Cane
+Thomas Hogstedt, Steve Denton
+Shlomo Glickstein, Mark Edmondson
+Tomas Smid, Fritz Buehning
+Bill Scanlon, Brad Drewett
+John Alexander, Gene Mayer
+Mark Dickson, Andres Gomez
+Eddie Edwards, Victor Amaya
+Kevin Curren, Paul Mcnamee
+Guillermo Vilas, Pavel Slozil
+Ivan Lendl, Tim Mayotte
+Sandy Mayer, Hank Pfister
+Chip Hooper, Russell Simpson
+Thomas Hogstedt, Marcos Hocevar
+Tomas Smid, Shlomo Glickstein
+Bill Scanlon, John Alexander
+Eddie Edwards, Mark Dickson
+Kevin Curren, Guillermo Vilas
+Ivan Lendl, Sandy Mayer
+Chip Hooper, Thomas Hogstedt
+Bill Scanlon, Tomas Smid
+Kevin Curren, Eddie Edwards
+Ivan Lendl, Chip Hooper
+Kevin Curren, Bill Scanlon
+Ivan Lendl, Kevin Curren
+Shlomo Glickstein, Ivan Lendl
+Pablo Arraya, Mark Dickson
+Ilie Nastase, Cassio Motta
+Mel Purcell, Jimmy Arias
+Manuel Orantes, Jose Higueras
+Bill Scanlon, Marcos Hocevar
+Wojtek Fibak, John Alexander
+Yannick Noah, Gilles Moretton
+Mats Wilander, Balazs Taroczy
+Henrik Sundstrom, Paul Mcnamee
+Henri Leconte, Chip Hooper
+Bjorn Borg, Jose Luis Clerc
+Mark Edmondson, Andres Gomez
+Corrado Barazzutti, Harold Solomon
+Tomas Smid, Hans Gildemeister
+Guillermo Vilas, Claudio Panatta
+Shlomo Glickstein, Pablo Arraya
+Mel Purcell, Ilie Nastase
+Manuel Orantes, Bill Scanlon
+Yannick Noah, Wojtek Fibak
+Mats Wilander, Henrik Sundstrom
+Henri Leconte, Bjorn Borg
+Corrado Barazzutti, Mark Edmondson
+Guillermo Vilas, Tomas Smid
+Mel Purcell, Shlomo Glickstein
+Manuel Orantes, Yannick Noah
+Mats Wilander, Henri Leconte
+Corrado Barazzutti, Guillermo Vilas
+Mel Purcell, Manuel Orantes
+Mats Wilander, Corrado Barazzutti
+Mats Wilander, Mel Purcell
+Jimmy Connors, Tim Wilkison
+Brian Teacher, Butch Walts
+Mel Purcell, Mike Bauer
+Steve Denton, Thomas Hogstedt
+Gene Mayer, Chip Hooper
+Hank Pfister, Johan Kriek
+Mike De Palmer, Nick Saviano
+Raul Ramirez, Brian Gottfried
+Sandy Mayer, Eliot Teltscher
+Tom Gullikson, Lloyd Bourne
+Robert Vant Hof, John Alexander
+Vitas Gerulaitis, Victor Amaya
+Henri Leconte, Kevin Curren
+Mark Edmondson, Brad Gilbert
+Sammy Giammalva Jr, Vincent Van Patten
+Trey Waltke, John McEnroe
+Jimmy Connors, Brian Teacher
+Steve Denton, Mel Purcell
+Hank Pfister, Gene Mayer
+Raul Ramirez, Mike De Palmer
+Sandy Mayer, Tom Gullikson
+Robert Vant Hof, Vitas Gerulaitis
+Mark Edmondson, Henri Leconte
+Sammy Giammalva Jr, Trey Waltke
+Jimmy Connors, Steve Denton
+Hank Pfister, Raul Ramirez
+Robert Vant Hof, Sandy Mayer
+Mark Edmondson, Sammy Giammalva Jr
+Jimmy Connors, Hank Pfister
+Mark Edmondson, Robert Vant Hof
+Jimmy Connors, Mark Edmondson
+Bruce Manson, Ricardo Acuna
+Balazs Taroczy, John Lloyd
+Eddie Edwards, Andres Gomez
+Eric Fromm, Buster C Mottram
+Michael Westphal, Trey Waltke
+Roberto Vizcaino, Ben Testerman
+Manuel Orantes, Fernando Luna
+Claudio Panatta, Magnus Tideman
+Mark Edmondson, Peter Elter
+Pavel Slozil, Henri Leconte
+Juan Aguilera, Loic Courteau
+Bernard Boileau, Christophe Bernelle
+Sergio Casal, Heinz Gunthardt
+Corrado Barazzutti, Karl Meiler
+Wojtek Fibak, Mark Dickson
+Jimmy Brown, Mel Purcell
+Alejandro Ganzabal, Joakim Nystrom
+Jairo Velasco, Wolfgang Popp
+Jeff Borowiak, Hans Simonsson
+Damir Keretic, Alberto Tous
+Pablo Arraya, Harold Solomon
+Tomas Smid, Chris Lewis
+Anders Jarryd, Harald Theissen
+Andreas Maurer, Guy Forget
+Ivan Lendl, Bruce Manson
+Balazs Taroczy, Eddie Edwards
+Eric Fromm, Michael Westphal
+Brian Gottfried, Roberto Vizcaino
+Mats Wilander, Manuel Orantes
+Claudio Panatta, Mark Edmondson
+Juan Aguilera, Pavel Slozil
+Yannick Noah, Bernard Boileau
+Eliot Teltscher, Sergio Casal
+Wojtek Fibak, Corrado Barazzutti
+Jimmy Brown, Alejandro Ganzabal
+Jose Higueras, Jairo Velasco
+Jeff Borowiak, Jose Luis Clerc
+Pablo Arraya, Damir Keretic
+Tomas Smid, Anders Jarryd
+Guillermo Vilas, Andreas Maurer
+Balazs Taroczy, Ivan Lendl
+Eric Fromm, Brian Gottfried
+Mats Wilander, Claudio Panatta
+Yannick Noah, Juan Aguilera
+Eliot Teltscher, Wojtek Fibak
+Jose Higueras, Jimmy Brown
+Jeff Borowiak, Pablo Arraya
+Guillermo Vilas, Tomas Smid
+Eric Fromm, Balazs Taroczy
+Yannick Noah, Mats Wilander
+Jose Higueras, Eliot Teltscher
+Guillermo Vilas, Jeff Borowiak
+Yannick Noah, Eric Fromm
+Jose Higueras, Guillermo Vilas
+Yannick Noah, Jose Higueras
+Mario Martinez, Florin Segarceanu
+Peter Bastiansen, Mike Bauer
+Jaime Fillol, Pablo Arraya
+Brad Gilbert, Nduka Odizor
+Craig Wittus, Rocky Royer
+Larry Stefanki, Ramesh Krishnan
+Michiel Schapers, Victor Pecci
+Van Winitsky, John Fitzgerald
+John Alexander, Julio Goes
+Jan Gunnarsson, Pat Dupre
+Ivan Lendl, Brent Pirow
+Henri Leconte, Mario Martinez
+Johan Kriek, Nick Saviano
+Peter Bastiansen, Brian Teacher
+Kevin Curren, Jaime Fillol
+Brad Gilbert, Balazs Taroczy
+Eddie Dibbs, Jose Luis Clerc
+Vitas Gerulaitis, Craig Wittus
+Paul Mcnamee, Larry Stefanki
+Jimmy Arias, Michiel Schapers
+Mark Dickson, Zoltan Kuharszky
+Guillermo Vilas, Van Winitsky
+Scott Mccain, Wojtek Fibak
+Tomas Smid, John Alexander
+Jan Gunnarsson, Sammy Giammalva Jr
+John McEnroe, Jairo Velasco
+Henri Leconte, Ivan Lendl
+Johan Kriek, Peter Bastiansen
+Brad Gilbert, Kevin Curren
+Vitas Gerulaitis, Eddie Dibbs
+Paul Mcnamee, Jimmy Arias
+Guillermo Vilas, Mark Dickson
+Tomas Smid, Scott Mccain
+John McEnroe, Jan Gunnarsson
+Johan Kriek, Henri Leconte
+Vitas Gerulaitis, Brad Gilbert
+Guillermo Vilas, Paul Mcnamee
+John McEnroe, Tomas Smid
+Vitas Gerulaitis, Johan Kriek
+John McEnroe, Guillermo Vilas
+John McEnroe, Vitas Gerulaitis
+Pat Cash, Wally Masur
+Corrado Barazzutti, Francisco Gonzalez
+Florin Segarceanu, Marcos Hocevar
+Paul Mcnamee, Mario Martinez
+Paolo Bertolucci, Gianluca Rinaldini
+Eddie Dibbs, Gianni Ocleppo
+Stefan Simonsson, Jan Gunnarsson
+Juan Avendano, Paolo Cane
+Balazs Taroczy, Manuel Orantes
+Hans Gildemeister, Dominique Bedel
+Jimmy Brown, Givaldo Barbosa
+Guy Forget, Jaime Fillol
+Heinz Gunthardt, Simone Ercoli
+Thomas Hogstedt, John Fitzgerald
+Pablo Arraya, Adriano Panatta
+Thierry Tulasne, Victor Pecci
+Libor Pimek, Loic Courteau
+Diego Perez, Claudio Panatta
+Mike Leach, Magnus Tideman
+Cassio Motta, Ben Testerman
+Mark Dickson, Edoardo Mazza
+Pender Murphy, Buster C Mottram
+Michiel Schapers, Carlos Kirmayr
+Francesco Cancellotti, Aaron Krickstein
+Jose Higueras, Pat Cash
+Corrado Barazzutti, Florin Segarceanu
+Paul Mcnamee, Paolo Bertolucci
+Eddie Dibbs, John Alexander
+Stefan Simonsson, Brian Gottfried
+Juan Avendano, Balazs Taroczy
+Hans Gildemeister, Jimmy Brown
+Guy Forget, Andres Gomez
+Heinz Gunthardt, Per Hjertquist
+Thomas Hogstedt, Pablo Arraya
+Thierry Tulasne, Libor Pimek
+Eliot Teltscher, Diego Perez
+Jimmy Arias, Mike Leach
+Mark Dickson, Cassio Motta
+Michiel Schapers, Pender Murphy
+Jose Luis Clerc, Francesco Cancellotti
+Jose Higueras, Corrado Barazzutti
+Eddie Dibbs, Paul Mcnamee
+Stefan Simonsson, Juan Avendano
+Guy Forget, Hans Gildemeister
+Heinz Gunthardt, Thomas Hogstedt
+Eliot Teltscher, Thierry Tulasne
+Jimmy Arias, Mark Dickson
+Jose Luis Clerc, Michiel Schapers
+Jose Higueras, Eddie Dibbs
+Stefan Simonsson, Guy Forget
+Heinz Gunthardt, Eliot Teltscher
+Jimmy Arias, Jose Luis Clerc
+Jose Higueras, Stefan Simonsson
+Jimmy Arias, Heinz Gunthardt
+Jimmy Arias, Jose Higueras
+Francesco Cancellotti, Robbie Weiss
+Diego Perez, Mike Leach
+Mario Martinez, Robbie Venter
+Gilles Moretton, Ramesh Krishnan
+Damir Keretic, Alejandro Ganzabal
+Ben Testerman, Derek Tarr
+Juan Avendano, John Ross
+Tom Cain, Jonathan Canter
+Eddie Dibbs, Stanislav Birner
+Fernando Luna, Bud Schultz
+Gianni Ocleppo, Gabriel Urpi
+Marcel Freeman, Juan Aguilera
+Jeff Borowiak, Egan Adams
+Brad Drewett, Eddie Edwards
+Mark Dickson, Carlos Castellan
+Scott Davis, Vincent Van Patten
+Craig A Miller, Bernard Fritz
+Claudio Panatta, Bill Csipkay
+Jimmy Brown, Cassio Motta
+Jon Levine, Paul Annacone
+Harold Solomon, Thierry Tulasne
+Dominique Bedel, Alberto Tous
+Pender Murphy, Michael Westphal
+Bruce Foxworth, Chris Johnstone
+Guillermo Vilas, Francesco Cancellotti
+Diego Perez, Mario Martinez
+Gilles Moretton, Damir Keretic
+Andres Gomez, Ben Testerman
+Jimmy Arias, Juan Avendano
+Eddie Dibbs, Tom Cain
+Gianni Ocleppo, Fernando Luna
+Marcel Freeman, Tim Mayotte
+Jeff Borowiak, Mel Purcell
+Mark Dickson, Brad Drewett
+Scott Davis, Craig A Miller
+Eliot Teltscher, Claudio Panatta
+Jimmy Brown, Hans Gildemeister
+Jon Levine, Harold Solomon
+Dominique Bedel, Pender Murphy
+Jose Luis Clerc, Bruce Foxworth
+Diego Perez, Guillermo Vilas
+Andres Gomez, Gilles Moretton
+Jimmy Arias, Eddie Dibbs
+Gianni Ocleppo, Marcel Freeman
+Jeff Borowiak, Mark Dickson
+Eliot Teltscher, Scott Davis
+Jimmy Brown, Jon Levine
+Jose Luis Clerc, Dominique Bedel
+Diego Perez, Andres Gomez
+Jimmy Arias, Gianni Ocleppo
+Eliot Teltscher, Jeff Borowiak
+Jose Luis Clerc, Jimmy Brown
+Jimmy Arias, Diego Perez
+Jose Luis Clerc, Eliot Teltscher
+Jose Luis Clerc, Jimmy Arias
+Eddie Dibbs, Jimmy Brown
+Derek Tarr, Jeff Borowiak
+Terry Moor, Mark Dickson
+Pablo Arraya, Alejandro Ganzabal
+Gilles Moretton, Nick Saviano
+Juan Aguilera, Gianni Ocleppo
+Tom Cain, Robbie Venter
+Claudio Panatta, Craig A Miller
+Rodney Harmon, Cassio Motta
+Mario Martinez, Dan Goldie
+Ramesh Krishnan, Eddie Edwards
+Diego Perez, Juan Avendano
+Harold Solomon, Jordi Arrese
+Eric Korita, Aaron Krickstein
+Bruce Foxworth, Eric Fromm
+Thierry Tulasne, Vincent Van Patten
+Carlos Castellan, Drew Gitlin
+Francesco Cancellotti, Stanislav Birner
+Brad Gilbert, Gabriel Urpi
+Chris Johnstone, Van Winitsky
+Brad Drewett, Manuel Orantes
+Dominique Bedel, John Ross
+Tomm Warneke, Damir Keretic
+John Mattke, Bernard Fritz
+Jose Luis Clerc, Eddie Dibbs
+Derek Tarr, Terry Moor
+Pablo Arraya, Gilles Moretton
+Juan Aguilera, Hans Gildemeister
+Brian Gottfried, Tom Cain
+Claudio Panatta, Rodney Harmon
+Mario Martinez, Ramesh Krishnan
+Mel Purcell, Diego Perez
+Fernando Luna, Harold Solomon
+Eric Korita, Bruce Foxworth
+Thierry Tulasne, Carlos Castellan
+Francesco Cancellotti, Charles Buzz Strode
+Andres Gomez, Brad Gilbert
+Chris Johnstone, Brad Drewett
+Dominique Bedel, Tomm Warneke
+Jimmy Arias, John Mattke
+Jose Luis Clerc, Derek Tarr
+Pablo Arraya, Juan Aguilera
+Claudio Panatta, Brian Gottfried
+Mario Martinez, Mel Purcell
+Eric Korita, Fernando Luna
+Francesco Cancellotti, Thierry Tulasne
+Andres Gomez, Chris Johnstone
+Jimmy Arias, Dominique Bedel
+Jose Luis Clerc, Pablo Arraya
+Mario Martinez, Claudio Panatta
+Eric Korita, Francesco Cancellotti
+Jimmy Arias, Andres Gomez
+Jose Luis Clerc, Mario Martinez
+Jimmy Arias, Eric Korita
+Jose Luis Clerc, Jimmy Arias
+Jimmy Brown, Jonathan Canter
+David Carter, Carlos Kirmayr
+Pablo Arraya, Greg Holmes
+Mario Martinez, Brad Drewett
+Thierry Tulasne, Todd Witsken
+Alejandro Ganzabal, Gabriel Mattos
+Jairo Velasco, Mike Cahill
+Zoltan Kuharszky, Loic Courteau
+Libor Pimek, Craig A Miller
+Diego Perez, Van Winitsky
+Claudio Panatta, Tim Gullikson
+Cassio Motta, Robbie Venter
+Manuel Orantes, Juan Avendano
+Scott Lipton, Dominique Bedel
+Corrado Barazzutti, Ramesh Krishnan
+Fernando Luna, Aaron Krickstein
+Derek Tarr, Terry Moor
+Pedro Rebolledo, Jon Levine
+Mark Dickson, Guy Forget
+Colin Dowdeswell, Jerome Vanier
+Stanislav Birner, Marcos Hocevar
+Francesco Cancellotti, John Alexander
+Roberto Arguello, Jan Gunnarsson
+Hans Simonsson, Chris Johnstone
+Jimmy Brown, Jose Higueras
+Pablo Arraya, David Carter
+Mario Martinez, Thierry Tulasne
+Andres Gomez, Alejandro Ganzabal
+Henrik Sundstrom, Jairo Velasco
+Libor Pimek, Zoltan Kuharszky
+Diego Perez, Claudio Panatta
+Mel Purcell, Cassio Motta
+Chris Lewis, Manuel Orantes
+Corrado Barazzutti, Scott Lipton
+Fernando Luna, Derek Tarr
+Jimmy Arias, Pedro Rebolledo
+Shlomo Glickstein, Mark Dickson
+Colin Dowdeswell, Stanislav Birner
+Roberto Arguello, Francesco Cancellotti
+Jose Luis Clerc, Hans Simonsson
+Jimmy Brown, Pablo Arraya
+Andres Gomez, Mario Martinez
+Henrik Sundstrom, Libor Pimek
+Mel Purcell, Diego Perez
+Chris Lewis, Corrado Barazzutti
+Jimmy Arias, Fernando Luna
+Shlomo Glickstein, Colin Dowdeswell
+Roberto Arguello, Jose Luis Clerc
+Andres Gomez, Jimmy Brown
+Mel Purcell, Henrik Sundstrom
+Jimmy Arias, Chris Lewis
+Shlomo Glickstein, Roberto Arguello
+Andres Gomez, Mel Purcell
+Jimmy Arias, Shlomo Glickstein
+Jimmy Arias, Andres Gomez
+Marcos Hocevar, Glenn Michibata
+Tim Mayotte, Mike Bauer
+Wojtek Fibak, Christophe Roger Vasselin
+Brian Teacher, Derek Segal
+Fritz Buehning, Mark Edmondson
+Gianni Ocleppo, Tim Wilkison
+Guy Forget, Todd Nelson
+Peter Fleming, Vincent Van Patten
+Tomas Smid, Hans Simonsson
+Eliot Teltscher, Larry Stefanki
+Anders Jarryd, Tom Gullikson
+Russell Simpson, Nduka Odizor
+Cassio Motta, Broderick Dyke
+Georges Goven, Martin Wostenholme
+Ramesh Krishnan, Henri Leconte
+Sammy Giammalva Jr, Hank Pfister
+Chip Hooper, Carlos Kirmayr
+Joakim Nystrom, Stefan Simonsson
+Paul Mcnamee, Pat Cash
+Rodney Harmon, John Mccurdy
+Robert Vant Hof, Scott Davis
+Sandy Mayer, John Picken
+Shlomo Glickstein, Brad Gilbert
+Stephane Bonneau, Dale Power
+John McEnroe, Marcos Hocevar
+Tim Mayotte, Wojtek Fibak
+Brian Teacher, Fritz Buehning
+Gianni Ocleppo, Mats Wilander
+Yannick Noah, Guy Forget
+Peter Fleming, Tomas Smid
+Anders Jarryd, Eliot Teltscher
+Vitas Gerulaitis, Russell Simpson
+Kevin Curren, Cassio Motta
+Georges Goven, Ramesh Krishnan
+Sammy Giammalva Jr, Chip Hooper
+Jimmy Connors, Joakim Nystrom
+Johan Kriek, Paul Mcnamee
+Rodney Harmon, Robert Vant Hof
+Sandy Mayer, Shlomo Glickstein
+Ivan Lendl, Stephane Bonneau
+John McEnroe, Tim Mayotte
+Brian Teacher, Gianni Ocleppo
+Peter Fleming, Yannick Noah
+Anders Jarryd, Vitas Gerulaitis
+Kevin Curren, Georges Goven
+Jimmy Connors, Sammy Giammalva Jr
+Johan Kriek, Rodney Harmon
+Ivan Lendl, Sandy Mayer
+John McEnroe, Brian Teacher
+Anders Jarryd, Peter Fleming
+Jimmy Connors, Kevin Curren
+Ivan Lendl, Johan Kriek
+Anders Jarryd, John McEnroe
+Ivan Lendl, Jimmy Connors
+Ivan Lendl, Anders Jarryd
+John McEnroe, Sashi Menon
+Nduka Odizor, John Mccurdy
+Thomas Hogstedt, Stan Smith
+Bill Scanlon, Ramesh Krishnan
+Eliot Teltscher, Frank Puncec
+Tim Mayotte, John Alexander
+Colin Dowdeswell, Carlos Kirmayr
+Jimmy Arias, Cassio Motta
+Jimmy Connors, Tim Wilkison
+Anders Jarryd, Christophe Roger Vasselin
+Mel Purcell, Harold Solomon
+Peter Fleming, Henrik Sundstrom
+Sandy Mayer, Erick Iskersky
+Larry Stefanki, Heinz Gunthardt
+Hans Simonsson, Loic Courteau
+Vitas Gerulaitis, Rodney Harmon
+Gene Mayer, Guy Forget
+Libor Pimek, Matt Mitchell
+Francisco Gonzalez, Stefan Simonsson
+Tomas Smid, Chris Lewis
+Robert Vant Hof, Brian Gottfried
+Mike Bauer, Drew Gitlin
+David Carter, Scott Davis
+Mats Wilander, Joakim Nystrom
+Kevin Curren, Tim Gullikson
+Pat Cash, Mike Leach
+Glenn Michibata, Mike De Palmer
+Steve Denton, Roscoe Tanner
+Sammy Giammalva Jr, Henri Leconte
+Florin Segarceanu, Brian Teacher
+Marcos Hocevar, Egan Adams
+Ivan Lendl, Chip Hooper
+John McEnroe, Nduka Odizor
+Thomas Hogstedt, Bill Scanlon
+Eliot Teltscher, Tim Mayotte
+Jimmy Arias, Colin Dowdeswell
+Jimmy Connors, Anders Jarryd
+Mel Purcell, Peter Fleming
+Sandy Mayer, Larry Stefanki
+Hans Simonsson, Vitas Gerulaitis
+Gene Mayer, Libor Pimek
+Francisco Gonzalez, Tomas Smid
+Robert Vant Hof, Mike Bauer
+Mats Wilander, David Carter
+Kevin Curren, Pat Cash
+Steve Denton, Glenn Michibata
+Florin Segarceanu, Sammy Giammalva Jr
+Ivan Lendl, Marcos Hocevar
+John McEnroe, Thomas Hogstedt
+Jimmy Arias, Eliot Teltscher
+Jimmy Connors, Mel Purcell
+Sandy Mayer, Hans Simonsson
+Francisco Gonzalez, Gene Mayer
+Mats Wilander, Robert Vant Hof
+Kevin Curren, Steve Denton
+Ivan Lendl, Florin Segarceanu
+John McEnroe, Jimmy Arias
+Jimmy Connors, Sandy Mayer
+Mats Wilander, Francisco Gonzalez
+Ivan Lendl, Kevin Curren
+John McEnroe, Jimmy Connors
+Mats Wilander, Ivan Lendl
+Mats Wilander, John McEnroe
+Eric Fromm, Drew Gitlin
+Brad Gilbert, Trey Waltke
+Roscoe Tanner, Tom Gullikson
+John Fitzgerald, Jaime Fillol
+Fritz Buehning, Peter Fleming
+Stan Smith, Victor Amaya
+Tom Cain, Jeff Borowiak
+Pat Dupre, Francisco Gonzalez
+Tim Wilkison, Harold Solomon
+Bruce Manson, Mike Estep
+Blaine Willenborg, Russell Simpson
+Matt Doyle, Phil Lehnhoff
+Todd Witsken, Mike Bauer
+Marcel Freeman, Ricardo Acuna
+Butch Walts, Lloyd Bourne
+Richard Gallien, Ben Testerman
+Jimmy Connors, Eric Fromm
+Raul Ramirez, Brad Gilbert
+Roscoe Tanner, Vincent Van Patten
+Sandy Mayer, John Fitzgerald
+Fritz Buehning, Eliot Teltscher
+Hank Pfister, Stan Smith
+Tom Cain, Thomas Hogstedt
+Johan Kriek, Pat Dupre
+Tim Wilkison, Mark Edmondson
+Mike De Palmer, Bruce Manson
+Chip Hooper, Blaine Willenborg
+Brian Gottfried, Matt Doyle
+Mel Purcell, Todd Witsken
+Tim Mayotte, Marcel Freeman
+Robert Vant Hof, Butch Walts
+Gene Mayer, Richard Gallien
+Jimmy Connors, Raul Ramirez
+Sandy Mayer, Roscoe Tanner
+Hank Pfister, Fritz Buehning
+Johan Kriek, Tom Cain
+Mike De Palmer, Tim Wilkison
+Brian Gottfried, Chip Hooper
+Tim Mayotte, Mel Purcell
+Gene Mayer, Robert Vant Hof
+Jimmy Connors, Sandy Mayer
+Johan Kriek, Hank Pfister
+Brian Gottfried, Mike De Palmer
+Gene Mayer, Tim Mayotte
+Johan Kriek, Jimmy Connors
+Gene Mayer, Brian Gottfried
+Gene Mayer, Johan Kriek
+John McEnroe, Brad Gilbert
+Roscoe Tanner, Matt Mitchell
+Marty Davis, Greg Holmes
+Sandy Mayer, Morris Skip Strode
+Kevin Curren, Pat Dupre
+Scott Davis, Butch Walts
+Tim Mayotte, Chip Hooper
+Gene Mayer, Mike Bauer
+Bill Scanlon, Eric Korita
+Eric Fromm, Jeff Borowiak
+Ramesh Krishnan, Jay Lapidus
+Bernard Mitton, John Alexander
+Eliot Teltscher, Vincent Van Patten
+Fritz Buehning, Brian Teacher
+Peter Fleming, Marcel Freeman
+Ivan Lendl, Steve Devries
+John McEnroe, Roscoe Tanner
+Sandy Mayer, Marty Davis
+Kevin Curren, Scott Davis
+Tim Mayotte, Gene Mayer
+Bill Scanlon, Eric Fromm
+Ramesh Krishnan, Bernard Mitton
+Fritz Buehning, Eliot Teltscher
+Ivan Lendl, Peter Fleming
+John McEnroe, Sandy Mayer
+Kevin Curren, Tim Mayotte
+Ramesh Krishnan, Bill Scanlon
+Ivan Lendl, Fritz Buehning
+John McEnroe, Kevin Curren
+Ivan Lendl, Ramesh Krishnan
+Ivan Lendl, John McEnroe
+Mats Wilander, Lorenzo Fargas
+Jim Gurfein, Morten Ronneberg
+Juan Avendano, Jose Lopez Maeso
+Fernando Luna, Jaroslav Navratil
+Jairo Velasco, Roberto Arguello
+Roberto Vizcaino, Pavel Slozil
+Erick Iskersky, Jorge Bardou
+Jan Gunnarsson, Henrik Sundstrom
+Andres Gomez, Blaine Willenborg
+Harold Solomon, Eddie Edwards
+Gabriel Urpi, Eduardo Osta
+Joakim Nystrom, Diego Perez
+Manuel Orantes, Alejandro Gattiker
+Miloslav Mecir, Carlos Castellan
+Thierry Tulasne, Georges Goven
+Anders Jarryd, Andreas Maurer
+Rolf Gehring, Heinz Gunthardt
+Roland Stadler, Dominique Bedel
+Alberto Tous, Scott Lipton
+Libor Pimek, Patrice Kuchna
+Pablo Arraya, Magnus Tideman
+Hans Schwaier, Michiel Schapers
+Mike Myburg, Ricardo Acuna
+Guillermo Vilas, Javier Soler
+Tomas Smid, Robbie Venter
+Fernando Soler, Alejandro Pierola
+Martin Jaite, Bill Csipkay
+Stefan Simonsson, Hans Simonsson
+Corrado Barazzutti, Claudio Panatta
+Juan Aguilera, Angel Gimenez
+Damir Keretic, Jose Garcia Requena
+Jose Higueras, Sergio Casal
+Mats Wilander, Jim Gurfein
+Juan Avendano, Fernando Luna
+Roberto Vizcaino, Jairo Velasco
+Jan Gunnarsson, Erick Iskersky
+Andres Gomez, Harold Solomon
+Joakim Nystrom, Gabriel Urpi
+Miloslav Mecir, Manuel Orantes
+Anders Jarryd, Thierry Tulasne
+Rolf Gehring, Roland Stadler
+Libor Pimek, Alberto Tous
+Pablo Arraya, Hans Schwaier
+Guillermo Vilas, Mike Myburg
+Tomas Smid, Fernando Soler
+Stefan Simonsson, Martin Jaite
+Juan Aguilera, Corrado Barazzutti
+Jose Higueras, Damir Keretic
+Mats Wilander, Juan Avendano
+Jan Gunnarsson, Roberto Vizcaino
+Andres Gomez, Joakim Nystrom
+Anders Jarryd, Miloslav Mecir
+Libor Pimek, Rolf Gehring
+Guillermo Vilas, Pablo Arraya
+Tomas Smid, Stefan Simonsson
+Juan Aguilera, Jose Higueras
+Mats Wilander, Jan Gunnarsson
+Andres Gomez, Anders Jarryd
+Guillermo Vilas, Libor Pimek
+Tomas Smid, Juan Aguilera
+Mats Wilander, Andres Gomez
+Guillermo Vilas, Tomas Smid
+Mats Wilander, Guillermo Vilas
+Jose Higueras, Fritz Buehning
+Claudio Panatta, Robbie Venter
+Danie Visser, Mike Myburg
+Johan Kriek, Michael Westphal
+Cassio Motta, Bill Scanlon
+Brad Gilbert, Henri De Wet
+Eddie Edwards, Shlomo Glickstein
+Brian Teacher, Mario Martinez
+Vitas Gerulaitis, Stuart Bale
+Kevin Moir, Christo Van Rensburg
+Carlos Kirmayr, Bernard Boileau
+Guillermo Vilas, Marcos Hocevar
+Steve Meister, Andres Gomez
+Tim Gullikson, Bruce Kleege
+Colin Dowdeswell, Jay Lapidus
+Kevin Curren, John Sadri
+Claudio Panatta, Jose Higueras
+Johan Kriek, Danie Visser
+Cassio Motta, Brad Gilbert
+Brian Teacher, Eddie Edwards
+Vitas Gerulaitis, Kevin Moir
+Guillermo Vilas, Carlos Kirmayr
+Tim Gullikson, Steve Meister
+Colin Dowdeswell, Kevin Curren
+Johan Kriek, Claudio Panatta
+Cassio Motta, Brian Teacher
+Vitas Gerulaitis, Guillermo Vilas
+Colin Dowdeswell, Tim Gullikson
+Johan Kriek, Cassio Motta
+Colin Dowdeswell, Vitas Gerulaitis
+Johan Kriek, Colin Dowdeswell
+John McEnroe, John Mccurdy
+Brad Gilbert, Vincent Van Patten
+Jonathan Canter, Mike Leach
+John Fitzgerald, Pat Cash
+Kevin Curren, Peter Johnston
+John Alexander, Craig Wittus
+Matt Mitchell, Kim Warwick
+Chip Hooper, Chris Lewis
+Mark Edmondson, Mike De Palmer
+Peter Rennert, Francisco Gonzalez
+Christophe Roger Vasselin, Simon Youl
+Paul Mcnamee, Steve Denton
+Henri Leconte, Wally Masur
+Brad Drewett, David Mustard
+Fritz Buehning, Ferdi Taygan
+Ivan Lendl, Rod Frawley
+John McEnroe, Brad Gilbert
+John Fitzgerald, Jonathan Canter
+John Alexander, Kevin Curren
+Chip Hooper, Matt Mitchell
+Peter Rennert, Mark Edmondson
+Paul Mcnamee, Christophe Roger Vasselin
+Henri Leconte, Brad Drewett
+Ivan Lendl, Fritz Buehning
+John McEnroe, John Fitzgerald
+Chip Hooper, John Alexander
+Paul Mcnamee, Peter Rennert
+Henri Leconte, Ivan Lendl
+John McEnroe, Chip Hooper
+Henri Leconte, Paul Mcnamee
+John McEnroe, Henri Leconte
+Ivan Lendl, Sammy Giammalva Jr
+Francisco Gonzalez, Tsuyoshi Fukui
+Chip Hooper, Brad Drewett
+Eliot Teltscher, John Fitzgerald
+Vitas Gerulaitis, Thomas Hogstedt
+Brad Gilbert, Fritz Buehning
+Tom Gullikson, Marcel Freeman
+Hank Pfister, Pat Dupre
+Scott Davis, Henri Leconte
+Thierry Tulasne, Gianni Ocleppo
+Mark Edmondson, Brian Teacher
+Andres Gomez, Christophe Roger Vasselin
+Glenn Michibata, Steve Denton
+Mike Bauer, Robert Vant Hof
+Van Winitsky, Vincent Van Patten
+Jimmy Connors, Hitoshi Shirato
+Ivan Lendl, Francisco Gonzalez
+Eliot Teltscher, Chip Hooper
+Brad Gilbert, Vitas Gerulaitis
+Tom Gullikson, Hank Pfister
+Scott Davis, Thierry Tulasne
+Andres Gomez, Mark Edmondson
+Glenn Michibata, Mike Bauer
+Jimmy Connors, Van Winitsky
+Ivan Lendl, Eliot Teltscher
+Brad Gilbert, Tom Gullikson
+Scott Davis, Andres Gomez
+Jimmy Connors, Glenn Michibata
+Ivan Lendl, Brad Gilbert
+Scott Davis, Jimmy Connors
+Ivan Lendl, Scott Davis
+Joakim Nystrom, Michael Westphal
+Jan Gunnarsson, Tim Wilkison
+Peter Lundgren, Christoph Zipf
+Nick Saviano, Ville Jansson
+Diego Perez, Roland Stadler
+Stefan Edberg, Corrado Barazzutti
+Mark Dickson, Anders Henricsson
+Marcos Hocevar, Thomas Hogstedt
+Stefan Simonsson, Mario Martinez
+Johan Carlsson, Florin Segarceanu
+Peter Fleming, Hans Simonsson
+Claudio Panatta, Carlos Kirmayr
+Christophe Roger Vasselin, Peter Carlsson
+Erick Iskersky, Eric Fromm
+Jaromir Becka, Bernard Boileau
+Gianni Ocleppo, Per Hjertquist
+Mats Wilander, Joakim Nystrom
+Anders Jarryd, Jan Gunnarsson
+Heinz Gunthardt, Peter Lundgren
+Hank Pfister, Nick Saviano
+Johan Kriek, Diego Perez
+Stefan Edberg, Steve Denton
+Henrik Sundstrom, Mark Dickson
+Vitas Gerulaitis, Marcos Hocevar
+Brian Gottfried, Stefan Simonsson
+Shlomo Glickstein, Johan Carlsson
+Peter Fleming, Mel Purcell
+Andres Gomez, Claudio Panatta
+Henri Leconte, Christophe Roger Vasselin
+Wojtek Fibak, Erick Iskersky
+Tomas Smid, Jaromir Becka
+Gianni Ocleppo, Gene Mayer
+Mats Wilander, Anders Jarryd
+Heinz Gunthardt, Hank Pfister
+Johan Kriek, Stefan Edberg
+Vitas Gerulaitis, Henrik Sundstrom
+Brian Gottfried, Shlomo Glickstein
+Peter Fleming, Andres Gomez
+Henri Leconte, Wojtek Fibak
+Tomas Smid, Gianni Ocleppo
+Mats Wilander, Heinz Gunthardt
+Vitas Gerulaitis, Johan Kriek
+Peter Fleming, Brian Gottfried
+Tomas Smid, Henri Leconte
+Mats Wilander, Vitas Gerulaitis
+Tomas Smid, Peter Fleming
+Mats Wilander, Tomas Smid
+John McEnroe, John Lloyd
+Vincent Van Patten, Sandy Mayer
+Steve Denton, Christophe Roger Vasselin
+Michiel Schapers, Johan Kriek
+Anders Jarryd, Mats Wilander
+Stefan Simonsson, Henri Leconte
+Shlomo Glickstein, Corrado Barazzutti
+Gene Mayer, Marcos Hocevar
+Andres Gomez, Heinz Gunthardt
+Tomas Smid, Libor Pimek
+Henrik Sundstrom, Mario Martinez
+Bill Scanlon, Roscoe Tanner
+Vitas Gerulaitis, Colin Dowdeswell
+Wojtek Fibak, Pavel Slozil
+Hank Pfister, Mel Purcell
+Jimmy Connors, Andreas Maurer
+John McEnroe, Vincent Van Patten
+Steve Denton, Michiel Schapers
+Anders Jarryd, Stefan Simonsson
+Gene Mayer, Shlomo Glickstein
+Andres Gomez, Tomas Smid
+Henrik Sundstrom, Bill Scanlon
+Vitas Gerulaitis, Wojtek Fibak
+Jimmy Connors, Hank Pfister
+John McEnroe, Steve Denton
+Anders Jarryd, Gene Mayer
+Andres Gomez, Henrik Sundstrom
+Jimmy Connors, Vitas Gerulaitis
+John McEnroe, Anders Jarryd
+Jimmy Connors, Andres Gomez
+John McEnroe, Jimmy Connors
+Jimmy Connors, Craig A Miller
+Paul Mcnamee, Zoltan Kuharszky
+Jairo Velasco, Chris Lewis
+Hans Gildemeister, Julio Goes
+Bernard Boileau, Per Hjertquist
+Eric Fromm, John Lloyd
+Pablo Arraya, Ulrich Pinner
+Tomas Smid, Claudio Panatta
+Bernard Fritz, Wojtek Fibak
+Christophe Roger Vasselin, Bernard Balleret
+Heinz Gunthardt, Jimmy Brown
+Pavel Slozil, Francisco Gonzalez
+Pascal Portes, Freddie Sauer
+Mike De Palmer, Bruce Manson
+Fernando Luna, Alejandro Ganzabal
+Jose Luis Clerc, Libor Pimek
+Ivan Lendl, Pedro Rebolledo
+Sergio Casal, Stanislav Birner
+Mario Martinez, Zeljko Franulovic
+Andreas Maurer, Karl Meiler
+Magnus Tideman, Trey Waltke
+Manuel Orantes, Morris Skip Strode
+Mark Dickson, Loic Courteau
+Brian Gottfried, Michiel Schapers
+Hans Simonsson, Vitas Gerulaitis
+John Alexander, Gianluca Rinaldini
+Mel Purcell, Tom Cain
+Wally Masur, Guy Forget
+Pat Dupre, Bruce Foxworth
+Damir Keretic, Gustavo Tiberti
+Victor Pecci, Matt Mitchell
+Yannick Noah, Anders Jarryd
+Jose Higueras, Carlos Kirmayr
+Henri Leconte, Chip Hooper
+Jaime Fillol, Joao Soares
+Peter Elter, Matt Doyle
+Shlomo Glickstein, Pender Murphy
+Jan Gunnarsson, Juan Aguilera
+Danie Visser, Frank Puncec
+Andres Gomez, Andy Andrews
+Jimmy Arias, Pat Cash
+John Fitzgerald, Brad Gilbert
+Thierry Tulasne, Jose Luis Damiani
+Marcos Hocevar, Carlos Gattiker
+Ilie Nastase, Jacques Hervet
+Thomas Hogstedt, Ricardo Cano
+Mike Myburg, Tim Mayotte
+Guillermo Vilas, Florin Segarceanu
+Mats Wilander, Juan Avendano
+Christophe Bernelle, Simon Youl
+Diego Perez, Cassio Motta
+Dominique Bedel, Jerome Potier
+Joakim Nystrom, Francois Errard
+Trevor Allan, Stefan Simonsson
+Eddie Edwards, John Feaver
+Henrik Sundstrom, Ricardo Acuna
+Eliot Teltscher, Derek Tarr
+Jim Gurfein, Gianni Ocleppo
+Patrice Kuchna, Paul Groth
+Brent Pirow, Gilles Moretton
+Tarik Benhabiles, Ramesh Krishnan
+Drew Gitlin, Christophe Freyss
+Alberto Tous, Givaldo Barbosa
+John McEnroe, Ben Testerman
+Jimmy Connors, Paul Mcnamee
+Hans Gildemeister, Jairo Velasco
+Eric Fromm, Bernard Boileau
+Pablo Arraya, Tomas Smid
+Christophe Roger Vasselin, Bernard Fritz
+Heinz Gunthardt, Pavel Slozil
+Mike De Palmer, Pascal Portes
+Fernando Luna, Jose Luis Clerc
+Ivan Lendl, Sergio Casal
+Mario Martinez, Andreas Maurer
+Magnus Tideman, Manuel Orantes
+Brian Gottfried, Mark Dickson
+John Alexander, Hans Simonsson
+Mel Purcell, Wally Masur
+Pat Dupre, Damir Keretic
+Yannick Noah, Victor Pecci
+Jose Higueras, Henri Leconte
+Jaime Fillol, Peter Elter
+Shlomo Glickstein, Jan Gunnarsson
+Andres Gomez, Danie Visser
+Jimmy Arias, John Fitzgerald
+Marcos Hocevar, Thierry Tulasne
+Ilie Nastase, Thomas Hogstedt
+Guillermo Vilas, Mike Myburg
+Mats Wilander, Christophe Bernelle
+Dominique Bedel, Diego Perez
+Joakim Nystrom, Trevor Allan
+Henrik Sundstrom, Eddie Edwards
+Eliot Teltscher, Jim Gurfein
+Patrice Kuchna, Brent Pirow
+Drew Gitlin, Tarik Benhabiles
+John McEnroe, Alberto Tous
+Jimmy Connors, Hans Gildemeister
+Eric Fromm, Pablo Arraya
+Christophe Roger Vasselin, Heinz Gunthardt
+Fernando Luna, Mike De Palmer
+Ivan Lendl, Mario Martinez
+Brian Gottfried, Magnus Tideman
+John Alexander, Mel Purcell
+Yannick Noah, Pat Dupre
+Jose Higueras, Jaime Fillol
+Andres Gomez, Shlomo Glickstein
+Jimmy Arias, Marcos Hocevar
+Guillermo Vilas, Ilie Nastase
+Mats Wilander, Dominique Bedel
+Henrik Sundstrom, Joakim Nystrom
+Eliot Teltscher, Patrice Kuchna
+John McEnroe, Drew Gitlin
+Jimmy Connors, Eric Fromm
+Christophe Roger Vasselin, Fernando Luna
+Ivan Lendl, Brian Gottfried
+Yannick Noah, John Alexander
+Jose Higueras, Andres Gomez
+Guillermo Vilas, Jimmy Arias
+Mats Wilander, Henrik Sundstrom
+John McEnroe, Eliot Teltscher
+Christophe Roger Vasselin, Jimmy Connors
+Yannick Noah, Ivan Lendl
+Jose Higueras, Guillermo Vilas
+Mats Wilander, John McEnroe
+Yannick Noah, Christophe Roger Vasselin
+Mats Wilander, Jose Higueras
+Yannick Noah, Mats Wilander
+Trey Waltke, Stan Smith
+Tian C Viljoen, Rod Frawley
+Robert Vant Hof, Chris Johnstone
+Brian Teacher, Marcos Hocevar
+Roscoe Tanner, Jan Gunnarsson
+Henrik Sundstrom, Vincent Van Patten
+Joao Soares, Eric Fromm
+Stefan Simonsson, Pat Dupre
+Florin Segarceanu, Jaime Fillol
+Nick Saviano, Jonathan Smith
+Mel Purcell, Tim Wilkison
+Gianni Ocleppo, Morris Skip Strode
+Cassio Motta, Raul Ramirez
+Craig A Miller, John Lloyd
+Paul Mcnamee, Eric Korita
+John Mccurdy, Juan Avendano
+Sandy Mayer, Scott Davis
+Andreas Maurer, Mike Brunnberg
+Wally Masur, Lloyd Bourne
+Henri Leconte, Danie Visser
+Mike Leach, Richard Lewis
+Andrew Jarrett, Bruce Foxworth
+Chip Hooper, Per Hjertquist
+Jakob Hlasek, Stanislav Birner
+Rodney Harmon, Robbie Venter
+Tom Gullikson, Sashi Menon
+Tim Gullikson, Tom Cain
+Drew Gitlin, John Sadri
+Brad Gilbert, Russell Simpson
+Tony Giammalva, Jeff Turpin
+Peter Fleming, Jeremy Bates
+Wojtek Fibak, Buster C Mottram
+Charlie Fancutt, Chris Bradnam
+Peter Elter, Michiel Schapers
+Mark Edmondson, Vijay Amritraj
+Stefan Edberg, Christophe Roger Vasselin
+Broderick Dyke, Guy Forget
+Brad Drewett, Alberto Tous
+Matt Doyle, Libor Pimek
+Mike De Palmer, Wayne Hampson
+Loic Courteau, Magnus Tideman
+Pat Cash, Julio Goes
+Sergio Casal, Hans Simonsson
+Fritz Buehning, Craig Wittus
+Mike Bauer, Damir Keretic
+Stuart Bale, Matt Mitchell
+Andy Andrews, Anders Jarryd
+Victor Amaya, Bruce Kleege
+John Alexander, Thomas Hogstedt
+Ricardo Acuna, Givaldo Barbosa
+Tim Mayotte, Mark Dickson
+Hank Pfister, Tomas Smid
+Bill Scanlon, Gilles Moretton
+Brian Gottfried, Shlomo Glickstein
+Kevin Curren, Jeff Borowiak
+Johan Kriek, Sammy Giammalva Jr
+Chris Lewis, Steve Denton
+Vitas Gerulaitis, Ramesh Krishnan
+Claudio Panatta, Jose Luis Clerc
+Mats Wilander, John Fitzgerald
+Nduka Odizor, Guillermo Vilas
+Ivan Lendl, Bernard Mitton
+John McEnroe, Ben Testerman
+Jimmy Connors, Eddie Edwards
+Robert Vant Hof, Henri Leconte
+Brian Teacher, Wojtek Fibak
+Roscoe Tanner, John Alexander
+Henrik Sundstrom, Stefan Edberg
+Joao Soares, Tony Giammalva
+Mel Purcell, Stuart Bale
+Nduka Odizor, Peter Fleming
+Cassio Motta, Tom Gullikson
+John Mccurdy, Claudio Panatta
+Sandy Mayer, Gianni Ocleppo
+Andreas Maurer, Victor Amaya
+Chris Lewis, Broderick Dyke
+Mike Leach, Paul Mcnamee
+Jakob Hlasek, Craig A Miller
+Rodney Harmon, Brad Drewett
+Tim Gullikson, Peter Elter
+Brad Gilbert, Drew Gitlin
+Mike De Palmer, Stefan Simonsson
+Loic Courteau, Andrew Jarrett
+Pat Cash, Fritz Buehning
+Mike Bauer, Charlie Fancutt
+Tim Mayotte, Andy Andrews
+Ricardo Acuna, Hank Pfister
+Bill Scanlon, Chip Hooper
+Brian Gottfried, Matt Doyle
+Kevin Curren, Sergio Casal
+Johan Kriek, Nick Saviano
+Mark Edmondson, Vitas Gerulaitis
+Mats Wilander, Tian C Viljoen
+Ivan Lendl, Trey Waltke
+John McEnroe, Florin Segarceanu
+Jimmy Connors, Wally Masur
+Mel Purcell, Andreas Maurer
+Nduka Odizor, Loic Courteau
+John Mccurdy, Cassio Motta
+Sandy Mayer, Mike De Palmer
+Chris Lewis, Mike Bauer
+Mike Leach, Mark Edmondson
+Pat Cash, Ricardo Acuna
+Tim Mayotte, Brian Teacher
+Bill Scanlon, Tim Gullikson
+Brian Gottfried, Joao Soares
+Kevin Curren, Rodney Harmon
+Robert Vant Hof, Johan Kriek
+Roscoe Tanner, Mats Wilander
+Ivan Lendl, Jakob Hlasek
+John McEnroe, Brad Gilbert
+Jimmy Connors, Henrik Sundstrom
+Roscoe Tanner, Robert Vant Hof
+Sandy Mayer, Mike Leach
+Chris Lewis, Nduka Odizor
+Tim Mayotte, John Mccurdy
+Mel Purcell, Brian Gottfried
+Ivan Lendl, Pat Cash
+John McEnroe, Bill Scanlon
+Kevin Curren, Jimmy Connors
+Chris Lewis, Mel Purcell
+Kevin Curren, Tim Mayotte
+Ivan Lendl, Roscoe Tanner
+John McEnroe, Sandy Mayer
+Chris Lewis, Kevin Curren
+John McEnroe, Ivan Lendl
+John McEnroe, Chris Lewis
+Kim Warwick, Brad Gilbert
+Danie Visser, Matt Mitchell
+Jerome Vanier, Robert Vant Hof
+Vincent Van Patten, Christophe Roger Vasselin
+Derek Tarr, Mike De Palmer
+Roscoe Tanner, Jimmy Brown
+Christo Steyn, Marcel Freeman
+Tomas Smid, Jeff Borowiak
+Hans Simonsson, Julio Goes
+Robert Seguso, Mike Leach
+John Sadri, Stan Smith
+Mel Purcell, Randy Druz
+Libor Pimek, Tim Gullikson
+Gianni Ocleppo, Pat Dupre
+Joakim Nystrom, Marty Davis
+Gilles Moretton, David Pate
+Terry Moor, Joao Soares
+Glenn Michibata, John Fitzgerald
+Steve Meister, Van Winitsky
+Paul Mcnamee, Jaime Fillol
+Sandy Mayer, Cassio Motta
+Bruce Manson, Bruce Kleege
+John Lloyd, Bernard Mitton
+Scott Lipton, Jim Gurfein
+Chris Lewis, Andy Andrews
+Jon Levine, Victor Amaya
+Aaron Krickstein, Stefan Edberg
+Eric Korita, Brian Teacher
+Carlos Kirmayr, Nick Saviano
+Anders Jarryd, Tony Giammalva
+Greg Holmes, Robert Lutz
+Thomas Hogstedt, Francisco Gonzalez
+Rodney Harmon, John Austin
+Heinz Gunthardt, Dick Stockton
+Tom Gullikson, Claudio Panatta
+Brian Gottfried, Tim Mayotte
+Andres Gomez, Drew Gitlin
+Shlomo Glickstein, Michael Westphal
+Sammy Giammalva Jr, Jay Lapidus
+Eric Fromm, Pablo Arraya
+Peter Fleming, Ilie Nastase
+Peter Feigl, Loic Courteau
+Brad Drewett, Thierry Tulasne
+Mark Dickson, Stefan Simonsson
+Pat Cash, Craig Wittus
+Tom Cain, Mike Bauer
+Fritz Buehning, Chip Hooper
+Lloyd Bourne, Nduka Odizor
+Ricardo Acuna, Todd Nelson
+Bill Scanlon, Henrik Sundstrom
+Vitas Gerulaitis, Marcos Hocevar
+Eliot Teltscher, John Mccurdy
+Steve Denton, Mike Gandolfo
+Johan Kriek, Harold Solomon
+Gene Mayer, Matt Doyle
+Jose Higueras, Matt Anger
+Jimmy Arias, Jonathan Canter
+Tim Wilkison, Jose Luis Clerc
+Guillermo Vilas, Eddie Edwards
+Mats Wilander, Guy Forget
+Yannick Noah, Scott Davis
+Jimmy Connors, Ramesh Krishnan
+Ivan Lendl, Florin Segarceanu
+John McEnroe, Trey Waltke
+Kim Warwick, Tim Wilkison
+Danie Visser, Derek Tarr
+Vincent Van Patten, Peter Feigl
+Roscoe Tanner, Sandy Mayer
+Gianni Ocleppo, Rodney Harmon
+Joakim Nystrom, Carlos Kirmayr
+Terry Moor, Paul Mcnamee
+Bruce Manson, Tomas Smid
+Jon Levine, Peter Fleming
+Aaron Krickstein, Scott Lipton
+Eric Korita, Libor Pimek
+Anders Jarryd, Steve Meister
+Greg Holmes, Hans Simonsson
+Heinz Gunthardt, Eric Fromm
+Andres Gomez, Gilles Moretton
+Mark Dickson, Mel Purcell
+Pat Cash, Glenn Michibata
+Ricardo Acuna, Robert Seguso
+Bill Scanlon, Chris Lewis
+Vitas Gerulaitis, Fritz Buehning
+Eliot Teltscher, Sammy Giammalva Jr
+Steve Denton, Brad Drewett
+Johan Kriek, Lloyd Bourne
+Gene Mayer, Christo Steyn
+John Lloyd, Jose Higueras
+Jimmy Arias, Tom Gullikson
+Guillermo Vilas, Tom Cain
+Mats Wilander, Brian Gottfried
+Yannick Noah, Jerome Vanier
+Jimmy Connors, Thomas Hogstedt
+Ivan Lendl, Shlomo Glickstein
+John McEnroe, John Sadri
+Joakim Nystrom, Kim Warwick
+John Lloyd, Terry Moor
+Mark Dickson, Danie Visser
+Bill Scanlon, Pat Cash
+Aaron Krickstein, Vitas Gerulaitis
+Eliot Teltscher, Anders Jarryd
+Andres Gomez, Steve Denton
+Johan Kriek, Roscoe Tanner
+Heinz Gunthardt, Gene Mayer
+Jimmy Arias, Gianni Ocleppo
+Greg Holmes, Guillermo Vilas
+Mats Wilander, Ricardo Acuna
+Yannick Noah, Eric Korita
+Jimmy Connors, Bruce Manson
+Ivan Lendl, Jon Levine
+John McEnroe, Vincent Van Patten
+Mark Dickson, John Lloyd
+Eliot Teltscher, Greg Holmes
+Jimmy Arias, Joakim Nystrom
+Mats Wilander, Andres Gomez
+Yannick Noah, Aaron Krickstein
+Jimmy Connors, Heinz Gunthardt
+Ivan Lendl, Johan Kriek
+Bill Scanlon, John McEnroe
+Bill Scanlon, Mark Dickson
+Jimmy Arias, Yannick Noah
+Jimmy Connors, Eliot Teltscher
+Ivan Lendl, Mats Wilander
+Jimmy Connors, Bill Scanlon
+Ivan Lendl, Jimmy Arias
+Jimmy Connors, Ivan Lendl
+Simon Youl, Jay Lapidus
+Roscoe Tanner, Kim Warwick
+Joakim Nystrom, Rolf Gehring
+Richard Meyer, Loic Courteau
+John Mccurdy, John Frawley
+Wally Masur, Eric Sherbeck
+Warren Maher, David Dowlen
+John Lloyd, Eduardo Oncins
+Mike Leach, Larry Stefanki
+Mark Kratzmann, Vijay Amritraj
+Chris Johnstone, Mike De Palmer
+Chip Hooper, Hans Simonsson
+Marcos Hocevar, Russell Simpson
+Jim Gurfein, Huub Van Boeckel
+Tom Gullikson, Greg Holmes
+Tim Gullikson, Eric Korita
+Drew Gitlin, Tarik Benhabiles
+Sammy Giammalva Jr, David Mustard
+Tony Giammalva, Leif Shiras
+Rod Frawley, Peter Doohan
+Peter Fleming, Craig A Miller
+John Fitzgerald, Greg Whitecross
+Mark Edmondson, Charles Buzz Strode
+Pat Dupre, Brad Gilbert
+Brad Drewett, John Austin
+Pat Cash, Wayne Hampson
+Fritz Buehning, David Macpherson
+Jeff Borowiak, Peter Feigl
+Mike Bauer, Charlie Fancutt
+Matt Anger, Miloslav Mecir
+Andy Andrews, Matt Mitchell
+John Alexander, Lloyd Bourne
+Roscoe Tanner, Mike Bauer
+Joakim Nystrom, Rod Frawley
+Wally Masur, Simon Youl
+John Lloyd, Robert Seguso
+Ramesh Krishnan, Drew Gitlin
+Marcos Hocevar, Nduka Odizor
+Tom Gullikson, John Alexander
+Tim Gullikson, Warren Maher
+Peter Fleming, Fritz Buehning
+Ken Flach, John Sadri
+John Fitzgerald, Phil Dent
+Mark Edmondson, David Pate
+Richard Meyer, Marty Davis
+Pat Cash, Mark Kratzmann
+Jeff Borowiak, Stefan Edberg
+Matt Anger, Mark Dickson
+Andy Andrews, John Mccurdy
+Paul Mcnamee, Chris Johnstone
+Tim Mayotte, Sammy Giammalva Jr
+Steve Denton, Pat Dupre
+Chris Lewis, Chip Hooper
+Marcel Freeman, Hank Pfister
+Brian Teacher, Bruce Derlin
+Mike Leach, Henrik Sundstrom
+Anders Jarryd, Brad Drewett
+Tomas Smid, Jim Gurfein
+Zoltan Kuharszky, Vitas Gerulaitis
+Johan Kriek, Morris Skip Strode
+Eliot Teltscher, Broderick Dyke
+Mats Wilander, Ben Testerman
+John McEnroe, Tony Giammalva
+Ivan Lendl, Jonathan Smith
+Joakim Nystrom, Zoltan Kuharszky
+Wally Masur, Ken Flach
+Tim Gullikson, Marcel Freeman
+Richard Meyer, Mike Leach
+Paul Mcnamee, Marcos Hocevar
+Tim Mayotte, Mark Edmondson
+John Lloyd, Steve Denton
+John Fitzgerald, Chris Lewis
+Pat Cash, Brian Teacher
+Anders Jarryd, Matt Anger
+Tomas Smid, Jeff Borowiak
+Johan Kriek, Andy Andrews
+Eliot Teltscher, Tom Gullikson
+Mats Wilander, Roscoe Tanner
+John McEnroe, Ramesh Krishnan
+Ivan Lendl, Peter Fleming
+Tim Mayotte, Joakim Nystrom
+Wally Masur, Anders Jarryd
+Tomas Smid, John Fitzgerald
+Johan Kriek, John Lloyd
+Eliot Teltscher, Richard Meyer
+Mats Wilander, Paul Mcnamee
+John McEnroe, Tim Gullikson
+Ivan Lendl, Pat Cash
+Tim Mayotte, Eliot Teltscher
+Mats Wilander, Johan Kriek
+John McEnroe, Wally Masur
+Ivan Lendl, Tomas Smid
+Mats Wilander, John McEnroe
+Ivan Lendl, Tim Mayotte
+Mats Wilander, Ivan Lendl
+Jose Higueras, Jose Luis Clerc
+Johan Kriek, Jimmy Arias
+Tomas Smid, Yannick Noah
+Andres Gomez, Eliot Teltscher
+Mats Wilander, Jose Higueras
+John McEnroe, Johan Kriek
+Jimmy Connors, Tomas Smid
+Ivan Lendl, Andres Gomez
+John McEnroe, Mats Wilander
+Ivan Lendl, Jimmy Connors
+John McEnroe, Ivan Lendl
+Steve Denton, Paul Mcnamee
+Bill Scanlon, Balazs Taroczy
+Vitas Gerulaitis, Jose Luis Clerc
+Tomas Smid, Wojtek Fibak
+Ivan Lendl, Steve Denton
+Bill Scanlon, Kevin Curren
+Vitas Gerulaitis, Guillermo Vilas
+John McEnroe, Tomas Smid
+Ivan Lendl, Bill Scanlon
+John McEnroe, Vitas Gerulaitis
+John McEnroe, Ivan Lendl
+Jose Higueras, Yannick Noah
+Damir Keretic, Yannick Noah
+Russell Simpson, Yannick Noah
+Jose Higueras, Russell Simpson
+Damir Keretic, Russell Simpson
+Mark Edmondson, Russell Simpson
+Dominique Bedel, Peter Elter
+Chris Lewis, Dominique Bedel
+Manuel Orantes, Dominique Bedel
+Chris Lewis, Peter Elter
+Manuel Orantes, Peter Elter
+Chris Lewis, Manuel Orantes
+Chris Lewis, Pat Cash
+Manuel Orantes, Brian Gottfried
+Manuel Orantes, Pat Cash
+Jose Higueras, Damir Keretic
+Jose Higueras, Eliot Teltscher
+Jose Higueras, Mark Edmondson
+Eliot Teltscher, Mark Edmondson
+Hans Gildemeister, Eliot Teltscher
+Mats Wilander, Eliot Teltscher
+Hans Gildemeister, Mark Edmondson
+Mats Wilander, Hans Gildemeister
+Brian Gottfried, Pat Cash
+Brian Gottfried, Joakim Nystrom
+Pedro Rebolledo, Brian Gottfried
+Pat Cash, Pedro Rebolledo
+Joakim Nystrom, Pedro Rebolledo
+Pat Cash, Joakim Nystrom
+Mats Wilander, Mark Edmondson
+Roberto Arguello, Eliot Teltscher
+Jairo Velasco, Paolo Bertolucci
+Diego Perez, Marko Ostoja
+Gianni Ocleppo, Edvaldo Oliveira
+Pender Murphy, Corrado Barazzutti
+Adriano Panatta, Jean Marc Piacentile
+Bernard Fritz, Antonio Zugarelli
+Gerald Mild, Guy Forget
+Dominique Bedel, Bernhard Pils
+Francesco Cancellotti, Paolo Cane
+Florin Segarceanu, Zeljko Franulovic
+Alejandro Ganzabal, Victor Pecci
+Jimmy Brown, Egan Adams
+Zoltan Kuharszky, Gustavo Tiberti
+Gianluca Rinaldini, Alejandro Cortes
+Carlos Castellan, Mel Purcell
+Roberto Arguello, Jairo Velasco
+Diego Perez, Gianni Ocleppo
+Adriano Panatta, Pender Murphy
+Bernard Fritz, Gerald Mild
+Dominique Bedel, Francesco Cancellotti
+Florin Segarceanu, Alejandro Ganzabal
+Jimmy Brown, Zoltan Kuharszky
+Carlos Castellan, Gianluca Rinaldini
+Roberto Arguello, Diego Perez
+Bernard Fritz, Adriano Panatta
+Florin Segarceanu, Dominique Bedel
+Jimmy Brown, Carlos Castellan
+Roberto Arguello, Bernard Fritz
+Jimmy Brown, Florin Segarceanu
+Roberto Arguello, Jimmy Brown
+Hank Pfister, Jay Lapidus
+Bernard Mitton, Christoph Zipf
+Butch Walts, Simone Colombo
+Stanislav Birner, Mario Martinez
+Jimmy Brown, Georges Goven
+Jakob Hlasek, Gianluca Rinaldini
+Vincent Van Patten, Francois Servelle
+Pavel Slozil, Bernard Fritz
+Mike Gandolfo, Francesco Cancellotti
+Sean Brawley, Hans Peter Kandler
+Paolo Cane, Guy Forget
+John Sadri, Stefan Simonsson
+Thomas Hogstedt, Richard Meyer
+Jiri Granat, Alejandro Pierola
+Hans Dieter Beutel, Peter Feigl
+Libor Pimek, Michele Fioroni
+Bernard Mitton, Hank Pfister
+Butch Walts, Stanislav Birner
+Jakob Hlasek, Jimmy Brown
+Pavel Slozil, Vincent Van Patten
+Sean Brawley, Mike Gandolfo
+John Sadri, Paolo Cane
+Thomas Hogstedt, Jiri Granat
+Libor Pimek, Hans Dieter Beutel
+Butch Walts, Bernard Mitton
+Pavel Slozil, Jakob Hlasek
+John Sadri, Sean Brawley
+Thomas Hogstedt, Libor Pimek
+Butch Walts, Pavel Slozil
+Thomas Hogstedt, John Sadri
+Thomas Hogstedt, Butch Walts
+Jan Gunnarsson, Craig A Miller
+Van Winitsky, Jairo Velasco
+Fernando Luna, Gabriel Urpi
+Mel Purcell, Ricardo Ycaza
+Alejandro Ganzabal, Eric Fromm
+Claudio Panatta, Greg Holmes
+Robbie Venter, Dominique Bedel
+Juan Aguilera, Carlos Castellan
+Belus Prajoux, Pablo Arraya
+Diego Perez, Cassio Motta
+Jim Gurfein, Bernard Fritz
+John Mattke, Manuel Rodriguez
+Jimmy Brown, Guy Forget
+Eddie Dibbs, Drew Gitlin
+Manuel Orantes, Francesco Cancellotti
+Corrado Barazzutti, Zoltan Kuharszky
+Gilles Moretton, Damir Keretic
+Gianni Ocleppo, Alberto Tous
+Thierry Tulasne, Harold Solomon
+Lorenzo Fargas, John Van Nostrand
+Andres Gomez, Juan Avendano
+Stanislav Birner, Victor Pecci
+Brad Gilbert, David Pate
+Roberto Arguello, Egan Adams
+Jose Higueras, Jan Gunnarsson
+Fernando Luna, Van Winitsky
+Mel Purcell, Alejandro Ganzabal
+Claudio Panatta, Johan Kriek
+Jose Luis Clerc, Robbie Venter
+Juan Aguilera, Belus Prajoux
+Jim Gurfein, Diego Perez
+Henri Leconte, John Mattke
+Jimmy Brown, Chris Lewis
+Eddie Dibbs, Manuel Orantes
+Corrado Barazzutti, Gilles Moretton
+Jimmy Arias, Gianni Ocleppo
+Henrik Sundstrom, Thierry Tulasne
+Andres Gomez, Lorenzo Fargas
+Stanislav Birner, Brad Gilbert
+Guillermo Vilas, Roberto Arguello
+Jose Higueras, Fernando Luna
+Mel Purcell, Claudio Panatta
+Jose Luis Clerc, Juan Aguilera
+Jim Gurfein, Henri Leconte
+Jimmy Brown, Eddie Dibbs
+Jimmy Arias, Corrado Barazzutti
+Andres Gomez, Henrik Sundstrom
+Guillermo Vilas, Stanislav Birner
+Jose Higueras, Mel Purcell
+Jose Luis Clerc, Jim Gurfein
+Jimmy Arias, Jimmy Brown
+Andres Gomez, Guillermo Vilas
+Jose Luis Clerc, Jose Higueras
+Andres Gomez, Jimmy Arias
+Jose Luis Clerc, Andres Gomez
+Michael Westphal, Brian Gottfried
+Mike Brunnberg, Nick Saviano
+Eric Korita, Rick Fagel
+John Lloyd, Fritz Buehning
+Erick Iskersky, Marcos Hocevar
+Terry Moor, Ken Flach
+Brad Drewett, Jeff Borowiak
+Mark Dickson, Derek Tarr
+Libor Pimek, Sashi Menon
+Paul Annacone, Chris Johnstone
+Wayne Hampson, Bernard Mitton
+John Alexander, Scott Lipton
+Paul Mcnamee, David Carter
+Mario Martinez, Ramesh Krishnan
+Armand Molino, Matt Anger
+Tom Cain, Shlomo Glickstein
+Michael Westphal, Mike Brunnberg
+Eric Korita, John Lloyd
+Terry Moor, Erick Iskersky
+Brad Drewett, Mark Dickson
+Libor Pimek, Paul Annacone
+John Alexander, Wayne Hampson
+Paul Mcnamee, Mario Martinez
+Tom Cain, Armand Molino
+Eric Korita, Michael Westphal
+Brad Drewett, Terry Moor
+John Alexander, Libor Pimek
+Paul Mcnamee, Tom Cain
+Brad Drewett, Eric Korita
+John Alexander, Paul Mcnamee
+Brad Drewett, John Alexander
+Jimmy Connors, Sammy Giammalva Jr
+Mike Bauer, Blaine Willenborg
+Mike Estep, Alberto Tous
+Chris Lewis, Egan Adams
+Brad Gilbert, Morris Skip Strode
+Marty Davis, Trey Waltke
+Dick Stockton, Butch Walts
+Drew Gitlin, Mel Purcell
+Jose Higueras, Jimmy Brown
+Matt Anger, Freddie Sauer
+Harold Solomon, Eddie Edwards
+Tom Gullikson, Mike Leach
+Raul Ramirez, Thierry Tulasne
+Scott Davis, Phil Dent
+Matt Mitchell, Ron Hightower
+Sandy Mayer, Cary Leeds
+Chris Dunk, Brian Teacher
+Bernard Fritz, Pat Dupre
+Schalk Van Der Merwe, Bruce Manson
+Victor Amaya, Jacques Manset
+Hank Pfister, John Lloyd
+Jan Gunnarsson, Erick Iskersky
+Robert Lutz, Nick Saviano
+Eliot Teltscher, Bruce Foxworth
+Robert Vant Hof, Brian Gottfried
+Ben Testerman, Gilles Moretton
+Ross Case, Danie Visser
+Russell Simpson, Bernard Mitton
+Henri Leconte, Stan Smith
+Jeff Borowiak, Peter Rennert
+Glenn Michibata, Bill Maze
+Yannick Noah, Damir Keretic
+Mike Bauer, Jimmy Connors
+Chris Lewis, Mike Estep
+Brad Gilbert, Marty Davis
+Drew Gitlin, Dick Stockton
+Jose Higueras, Matt Anger
+Tom Gullikson, Harold Solomon
+Raul Ramirez, Scott Davis
+Sandy Mayer, Matt Mitchell
+Bernard Fritz, Chris Dunk
+Victor Amaya, Schalk Van Der Merwe
+Jan Gunnarsson, Hank Pfister
+Eliot Teltscher, Robert Lutz
+Robert Vant Hof, Ben Testerman
+Russell Simpson, Ross Case
+Henri Leconte, Jeff Borowiak
+Yannick Noah, Glenn Michibata
+Mike Bauer, Chris Lewis
+Brad Gilbert, Drew Gitlin
+Jose Higueras, Tom Gullikson
+Sandy Mayer, Raul Ramirez
+Victor Amaya, Bernard Fritz
+Eliot Teltscher, Jan Gunnarsson
+Robert Vant Hof, Russell Simpson
+Yannick Noah, Henri Leconte
+Mike Bauer, Brad Gilbert
+Jose Higueras, Sandy Mayer
+Eliot Teltscher, Victor Amaya
+Yannick Noah, Robert Vant Hof
+Jose Higueras, Mike Bauer
+Eliot Teltscher, Yannick Noah
+Jose Higueras, Eliot Teltscher
+Jose Higueras, Pedro Cordeiro
+Diego Perez, Fernando Luna
+Damir Keretic, Magnus Tideman
+Shlomo Glickstein, Balazs Taroczy
+Yannick Noah, Juan Aguilera
+Jairo Velasco, Stefan Simonsson
+Corrado Barazzutti, Marcos Hocevar
+Henrik Sundstrom, Hans Simonsson
+Libor Pimek, Manuel Orantes
+Pavel Slozil, Wolfgang Popp
+Anders Jarryd, Pat Cash
+Andres Gomez, Carlos Kirmayr
+Jimmy Arias, Mario Martinez
+Victor Pecci, Guy Forget
+Cassio Motta, Heinz Gunthardt
+Mats Wilander, Harold Solomon
+Jose Higueras, Diego Perez
+Shlomo Glickstein, Damir Keretic
+Yannick Noah, Jairo Velasco
+Corrado Barazzutti, Henrik Sundstrom
+Libor Pimek, Pavel Slozil
+Anders Jarryd, Andres Gomez
+Victor Pecci, Jimmy Arias
+Mats Wilander, Cassio Motta
+Jose Higueras, Shlomo Glickstein
+Yannick Noah, Corrado Barazzutti
+Libor Pimek, Anders Jarryd
+Mats Wilander, Victor Pecci
+Yannick Noah, Jose Higueras
+Mats Wilander, Libor Pimek
+Mats Wilander, Yannick Noah
+Ivan Lendl, Mark Dickson
+Brian Teacher, Steve Denton
+Tomas Smid, Bill Scanlon
+Guillermo Vilas, Paul Mcnamee
+Ivan Lendl, Brian Teacher
+Guillermo Vilas, Tomas Smid
+Ivan Lendl, Guillermo Vilas
+Edson Krause, M Arenzon
+Carlos Chabalgoity, Eleuterio Martins
+Ivan Kley, Ney Keller
+Roger Guedes, Jose Daher
+Julio Goes, Renato Joaquim
+Thomas Stalhandske, Bruno Renoult
+Thomaz Koch, Javier Restrepo
+Fernando Roese, Edvaldo Oliveira
+Nelson Aerts, Joao Soares
+Paschoal Penetta, Daniel Montes De Oca
+Alvaro Fillol, Ricardo Cano
+Jaime Fillol, Carlos Gattiker
+Givaldo Barbosa, Marcelo Grassi
+Danilo Marcelino, Gabriel Mattos
+Pedro Rebolledo, Tadeu Luiz
+Ricardo Acuna, Gustavo Tiberti
+Carlos Chabalgoity, Edson Krause
+Ivan Kley, Roger Guedes
+Julio Goes, Thomas Stalhandske
+Fernando Roese, Thomaz Koch
+Nelson Aerts, Paschoal Penetta
+Alvaro Fillol, Jaime Fillol
+Givaldo Barbosa, Danilo Marcelino
+Pedro Rebolledo, Ricardo Acuna
+Ivan Kley, Carlos Chabalgoity
+Julio Goes, Fernando Roese
+Alvaro Fillol, Nelson Aerts
+Pedro Rebolledo, Givaldo Barbosa
+Julio Goes, Ivan Kley
+Pedro Rebolledo, Alvaro Fillol
+Pedro Rebolledo, Julio Goes
+John McEnroe, Mark Dickson
+Roscoe Tanner, Bruce Manson
+Jimmy Arias, John Sadri
+Steve Denton, Terry Moor
+Mike Bauer, Wojtek Fibak
+Eliot Teltscher, Nduka Odizor
+Bill Scanlon, Fritz Buehning
+Paul Mcnamee, Drew Gitlin
+Eric Fromm, Johan Kriek
+Jeff Borowiak, Tomas Smid
+Dominique Bedel, Shlomo Glickstein
+Kevin Curren, Peter Elter
+Brian Teacher, Van Winitsky
+Henri Leconte, Marcos Hocevar
+Lloyd Bourne, Tom Cain
+Guillermo Vilas, Cassio Motta
+Roscoe Tanner, John McEnroe
+Steve Denton, Jimmy Arias
+Eliot Teltscher, Mike Bauer
+Bill Scanlon, Paul Mcnamee
+Jeff Borowiak, Eric Fromm
+Kevin Curren, Dominique Bedel
+Brian Teacher, Henri Leconte
+Guillermo Vilas, Lloyd Bourne
+Steve Denton, Roscoe Tanner
+Eliot Teltscher, Bill Scanlon
+Kevin Curren, Jeff Borowiak
+Guillermo Vilas, Brian Teacher
+Steve Denton, Eliot Teltscher
+Guillermo Vilas, Kevin Curren
+Guillermo Vilas, Steve Denton
+Pavel Slozil, Ivan Lendl
+Tim Gullikson, Balazs Taroczy
+Henrik Sundstrom, Tom Cain
+Wojtek Fibak, Mark Dickson
+Van Winitsky, Jose Luis Clerc
+Eddie Dibbs, Mario Martinez
+Eric Fromm, Nduka Odizor
+Peter Fleming, Peter Mcnamara
+Johan Kriek, Hans Gildemeister
+Jimmy Arias, Ramesh Krishnan
+Dominique Bedel, Pablo Arraya
+Tomas Smid, Kevin Curren
+Bill Scanlon, Marcos Hocevar
+Cassio Motta, Guy Forget
+Buster C Mottram, Peter Elter
+Guillermo Vilas, Terry Moor
+Pavel Slozil, Tim Gullikson
+Henrik Sundstrom, Wojtek Fibak
+Eddie Dibbs, Van Winitsky
+Eric Fromm, Peter Fleming
+Johan Kriek, Jimmy Arias
+Tomas Smid, Dominique Bedel
+Cassio Motta, Bill Scanlon
+Guillermo Vilas, Buster C Mottram
+Pavel Slozil, Henrik Sundstrom
+Eddie Dibbs, Eric Fromm
+Tomas Smid, Johan Kriek
+Guillermo Vilas, Cassio Motta
+Pavel Slozil, Eddie Dibbs
+Guillermo Vilas, Tomas Smid
+Guillermo Vilas, Pavel Slozil
+Freddie Sauer, Nduka Odizor
+Ramesh Krishnan, Tom Cain
+Paul Mcnamee, Lloyd Bourne
+Wojtek Fibak, Chris Lewis
+Vitas Gerulaitis, Jaromir Becka
+Chip Hooper, Drew Gitlin
+Brian Teacher, Heinz Gunthardt
+Steve Denton, Dominique Bedel
+Bill Scanlon, Karl Meiler
+John Alexander, Cassio Motta
+Tomas Smid, Eric Fromm
+Shlomo Glickstein, Jose Luis Clerc
+Kevin Curren, Johan Kriek
+Balazs Taroczy, Hans Gildemeister
+Peter Elter, Bruce Manson
+Mark Dickson, Ivan Lendl
+Ramesh Krishnan, Freddie Sauer
+Wojtek Fibak, Paul Mcnamee
+Vitas Gerulaitis, Chip Hooper
+Brian Teacher, Steve Denton
+Bill Scanlon, John Alexander
+Shlomo Glickstein, Tomas Smid
+Kevin Curren, Balazs Taroczy
+Mark Dickson, Peter Elter
+Wojtek Fibak, Ramesh Krishnan
+Brian Teacher, Vitas Gerulaitis
+Bill Scanlon, Shlomo Glickstein
+Mark Dickson, Kevin Curren
+Brian Teacher, Wojtek Fibak
+Mark Dickson, Bill Scanlon
+Brian Teacher, Mark Dickson
+Ivan Lendl, Balazs Taroczy
+Kevin Curren, Brian Teacher
+Bill Scanlon, Wojtek Fibak
+Guillermo Vilas, Paul Mcnamee
+Ivan Lendl, Kevin Curren
+Guillermo Vilas, Bill Scanlon
+Ivan Lendl, Guillermo Vilas
+Julian Stamatov, Djamel Boudjemline
+Krassimir Lazarov, Kamel Harrad
+Julian Stamatov, Kamel Harrad
+Djamel Boudjemline, Krassimir Lazarov
+Guillermo Vilas, Adriano Panatta
+Jose Luis Clerc, Corrado Barazzutti
+Guillermo Vilas, Corrado Barazzutti
+Roberto Arguello, Francesco Cancellotti
+Mats Wilander, Guillermo Vilas
+Anders Jarryd, Jose Luis Clerc
+Guillermo Vilas, Anders Jarryd
+Mats Wilander, Jose Luis Clerc
+Guillermo Vilas, Gene Mayer
+Jose Luis Clerc, John McEnroe
+Guillermo Vilas, John McEnroe
+Gene Mayer, Alejandro Ganzabal
+Yannick Noah, Pat Cash
+John Fitzgerald, Henri Leconte
+John Fitzgerald, Yannick Noah
+Pat Cash, Henri Leconte
+Pat Cash, John Lloyd
+Paul Mcnamee, Buster C Mottram
+Buster C Mottram, Pat Cash
+Paul Mcnamee, John Lloyd
+Pat Cash, Florin Segarceanu
+Mark Edmondson, Ilie Nastase
+Pat Cash, Ilie Nastase
+Mark Edmondson, Florin Segarceanu
+Mats Wilander, Pat Cash
+John Fitzgerald, Joakim Nystrom
+Pat Cash, Joakim Nystrom
+Mats Wilander, John Fitzgerald
+Bernhard Pils, Robert Machan
+Balazs Taroczy, Peter Feigl
+Balazs Taroczy, Bernhard Pils
+Peter Feigl, Robert Machan
+Gerald Mild, Houcine Saber
+Robert Reininger, Omar Laimina
+Gerald Mild, Omar Laimina
+Robert Reininger, Houcine Saber
+Robert Reininger, Tony Jonsson
+Klaus Oberparleiter, Morten Ronneberg
+Per Hegna, Robert Reininger
+Gerald Mild, Tony Jonsson
+Michael Westphal, Jan Van Langendonck
+Damir Keretic, Jacques Grandjean
+Damir Keretic, Jan Van Langendonck
+Michael Westphal, Jacques Grandjean
+Jan Van Langendonck, Waldemar Rogowski
+Bernard Boileau, Leeh Bienkowski
+Bernard Boileau, Waldemar Rogowski
+Jan Van Langendonck, Leeh Bienkowski
+Cassio Motta, Javier Restrepo
+Carlos Kirmayr, Rene Gomez
+Carlos Kirmayr, Luis Arturo Gonzalez
+Cassio Motta, Rene Gomez
+Andres Gomez, Carlos Kirmayr
+Ricardo Ycaza, Marcos Hocevar
+Ricardo Ycaza, Carlos Kirmayr
+Raul Antonio Viver, Marcos Hocevar
+Carlos Kirmayr, Carlos Di Laura
+Pablo Arraya, Marcos Hocevar
+Carlos Kirmayr, Pablo Arraya
+Marcos Hocevar, Carlos Di Laura
+Marcos Hocevar, Jose Luis Damiani
+Diego Perez, Carlos Kirmayr
+Diego Perez, Marcos Hocevar
+Carlos Kirmayr, Jose Luis Damiani
+Leo Palin, Lyuben Petrov
+Krassimir Lazarov, Olli Rahnasto
+Olli Rahnasto, Lyuben Petrov
+Krassimir Lazarov, Leo Palin
+Marko Ostoja, Krassimir Lazarov
+Slobodan Zivojinovic, Julian Stamatov
+Goran Prpic, Marian Lazarov
+Marko Ostoja, Julian Stamatov
+Andres Gomez, Glenn Michibata
+Ricardo Ycaza, John Picken
+John Picken, Martin Aguirre
+Raul Antonio Viver, Glenn Michibata
+Martin Wostenholme, Jorge Andrew
+Rejean Genois, Carlos Claverie
+Carlos Claverie, Martin Wostenholme
+Rejean Genois, Jorge Andrew
+Andres Gomez, Adrian Clarke
+Raul Antonio Viver, Stuart Sarnia
+Ricardo Ycaza, Stuart Sarnia
+Raul Antonio Viver, Adrian Clarke
+Buster C Mottram, Ricardo Acuna
+Ricardo Acuna, Andrew Jarrett
+Florin Segarceanu, Hans Gildemeister
+Ilie Nastase, Ricardo Acuna
+Florin Segarceanu, Ricardo Acuna
+Ilie Nastase, Hans Gildemeister
+Tsuyoshi Fukui, Shi Qin Li
+Shu Hua Liu, Hitoshi Shirato
+Tsuyoshi Fukui, Shu Hua Liu
+Hitoshi Shirato, Shi Qin Li
+Michael Mortensen, Justedjo Tarik
+Peter Bastiansen, Tintus Arianto Wibowo
+Peter Bastiansen, Justedjo Tarik
+Tintus Arianto Wibowo, Michael Mortensen
+Russell Simpson, Michael Mortensen
+Russell Simpson, Peter Bastiansen
+Huub Van Boeckel, Ahmed El Mehelmy
+Michiel Schapers, Khaled Baligh
+Huub Van Boeckel, Khaled Baligh
+Ahmed El Mehelmy, Michiel Schapers
+Marko Ostoja, Sergio Casal
+Juan Avendano, Slobodan Zivojinovic
+Slobodan Zivojinovic, Sergio Casal
+Alberto Tous, Goran Prpic
+Thierry Tulasne, Francisco Gonzalez
+Henri Leconte, Victor Pecci
+Victor Pecci, Thierry Tulasne
+Henri Leconte, Francisco Gonzalez
+Yannick Noah, Konstantin Pugayev
+Henri Leconte, Vadim Borisov
+Yannick Noah, Vadim Borisov
+Konstantin Pugayev, Henri Leconte
+Damir Keretic, David Schneider
+Michael Westphal, Shlomo Glickstein
+Michael Westphal, Shahar Perkiss
+Shlomo Glickstein, Damir Keretic
+Heinz Gunthardt, Michael Westphal
+Damir Keretic, Roland Stadler
+Michael Westphal, Roland Stadler
+Heinz Gunthardt, Damir Keretic
+Roland Stadler, Fotis Vazeos
+Heinz Gunthardt, George Kalovelonis
+Heinz Gunthardt, Fotis Vazeos
+Roland Stadler, George Kalovelonis
+Mark Bailey, Arjun Fernando
+Frank Sebaratnam, Kelvin Ng
+Frank Sebaratnam, Mark Bailey
+Paul Bailey, Arjun Perera
+Marko Ostoja, Robert Machan
+Slobodan Zivojinovic, Janos Benyik
+Marko Ostoja, Janos Benyik
+Haroon Ismail, Robert Machan
+Balazs Taroczy, Phillip Tuckniss
+Robert Machan, Phillip Tuckniss
+Balazs Taroczy, Haroon Ismail
+Anders Jarryd, Tintus Arianto Wibowo
+Mats Wilander, Justedjo Tarik
+Mats Wilander, Tintus Arianto Wibowo
+Anders Jarryd, Justedjo Tarik
+Ramesh Krishnan, Tsuyoshi Fukui
+Vijay Amritraj, Hitoshi Shirato
+Hitoshi Shirato, Ramesh Krishnan
+Tsuyoshi Fukui, Vijay Amritraj
+Sashi Menon, Frank Sebaratnam
+Vijay Amritraj, Arjun Fernando
+Srinivasan Vasudevan, Frank Sebaratnam
+Arjun Fernando, Sashi Menon
+Vijay Amritraj, Sombat Uamongkol
+Sashi Menon, Supoj Meesawad
+Sashi Menon, Sombat Uamongkol
+Nandan Bal, Supoj Meesawad
+Sean Sorensen, Claudio Panatta
+Corrado Barazzutti, Matt Doyle
+Matt Doyle, Claudio Panatta
+Corrado Barazzutti, Sean Sorensen
+John McEnroe, Sean Sorensen
+Matt Doyle, Eliot Teltscher
+John McEnroe, Matt Doyle
+Eliot Teltscher, Sean Sorensen
+Shlomo Glickstein, Bernard Balleret
+Shahar Perkiss, Eric Carlier
+Bernard Balleret, Shahar Perkiss
+Shlomo Glickstein, Eric Carlier
+Tsuyoshi Fukui, Dong Wook Song
+Hitoshi Shirato, Woo Ryong Lee
+Tsuyoshi Fukui, Woo Ryong Lee
+Dong Wook Song, Hitoshi Shirato
+Young Dae Jeon, Beejong Sisson
+Choon Ho Kim, Romeo Rafon
+Dong Wook Song, Manuel Valleramos
+Beejong Sisson, Choon Ho Kim
+Bernard Balleret, Marcos Klensch
+Michel Borfiga, Johnny Goudenbour
+Michel Borfiga, Marcos Klensch
+Johnny Goudenbour, Albert Viviani
+Ody Gabriel, Adam Malik
+Romeo Rafon, Roy Anchant
+Ody Gabriel, Abdul Rahman Ramlal
+Romeo Rafon, Adam Malik
+Jose Luis Damiani, Jorge Lozano
+Diego Perez, Fernando Perez Pascal
+Jose Luis Damiani, Fernando Perez Pascal
+Diego Perez, Francisco Maciel
+Michiel Schapers, Pedro Cordeiro
+Eric Wilborts, Manuel De Sousa
+Michiel Schapers, Manuel De Sousa
+Pedro Cordeiro, Eric Wilborts
+Heinz Gunthardt, Huub Van Boeckel
+Roland Stadler, Michiel Schapers
+Roland Stadler, Huub Van Boeckel
+Russell Simpson, Henrik Sundstrom
+Mats Wilander, Russell Simpson
+Ivan Lendl, Francisco Gonzalez
+Victor Pecci, Tomas Smid
+Francisco Gonzalez, Tomas Smid
+Jaroslav Navratil, Victor Caballero
+Tomas Smid, Alexander Zverev Sr
+Miloslav Mecir, Andrei Chesnokov
+Tomas Smid, Andrei Chesnokov
+Alexander Zverev Sr, Miloslav Mecir
+Chang Rung Wu, Panomkorn Pladchunil
+Sombat Uamongkol, Huang Jung Hsu
+Chang Rung Wu, Sombat Uamongkol
+Panomkorn Pladchunil, Huang Jung Hsu
+Slobodan Zivojinovic, Hichem Riani
+Marko Ostoja, Abdel Majid Soudani
+Orlando Lourenco, Necvet Demir
+Phillip Tuckniss, Metin Gurel
+Phillip Tuckniss, Necvet Demir
+Orlando Lourenco, Metin Gurel

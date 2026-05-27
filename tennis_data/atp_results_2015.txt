@@ -1,0 +1,2943 @@
+John Millman, Rhyne Williams
+Jarkko Nieminen, Denis Kudla
+James Duckworth, Gilles Simon
+Jeremy Chardy, Andrey Golubev
+Martin Klizan, Jurgen Melzer
+Alexandr Dolgopolov, Carlos Berlocq
+Lukasz Kubot, Kevin Anderson
+Sam Groth, Lleyton Hewitt
+Mikhail Kukushkin, Marius Copil
+Thanasi Kokkinakis, Julien Benneteau
+Bernard Tomic, Sam Querrey
+Steve Johnson, Marinko Matosevic
+Roger Federer, John Millman
+James Duckworth, Jarkko Nieminen
+Grigor Dimitrov, Jeremy Chardy
+Martin Klizan, Alexandr Dolgopolov
+Sam Groth, Lukasz Kubot
+Milos Raonic, Mikhail Kukushkin
+Bernard Tomic, Thanasi Kokkinakis
+Kei Nishikori, Steve Johnson
+Roger Federer, James Duckworth
+Grigor Dimitrov, Martin Klizan
+Milos Raonic, Sam Groth
+Kei Nishikori, Bernard Tomic
+Roger Federer, Grigor Dimitrov
+Milos Raonic, Kei Nishikori
+Roger Federer, Milos Raonic
+Borna Coric, Robin Haase
+Elias Ymer, Igor Sijsling
+Gilles Muller, Edouard Roger-Vasselin
+Ricardas Berankis, Luca Vanni
+Jiri Vesely, N Vijay Sundar Prashanth
+Andreas Haider Maurer, Marcel Granollers
+Yen Hsun Lu, Somdev Devvarman
+Pablo Carreno Busta, Alejandro Gonzalez
+Peter Gojowczyk, Alejandro Falla
+Guillermo Garcia Lopez, Evgeny Donskoy
+Tatsuma Ito, Ramkumar Ramanathan
+Aljaz Bedene, Lukas Lacko
+Stan Wawrinka, Borna Coric
+Gilles Muller, Elias Ymer
+David Goffin, Ricardas Berankis
+Andreas Haider Maurer, Jiri Vesely
+Yen Hsun Lu, Pablo Carreno Busta
+Roberto Bautista Agut, Peter Gojowczyk
+Guillermo Garcia Lopez, Tatsuma Ito
+Aljaz Bedene, Feliciano Lopez
+Stan Wawrinka, Gilles Muller
+David Goffin, Andreas Haider Maurer
+Roberto Bautista Agut, Yen Hsun Lu
+Aljaz Bedene, Guillermo Garcia Lopez
+Stan Wawrinka, David Goffin
+Aljaz Bedene, Roberto Bautista Agut
+Stan Wawrinka, Aljaz Bedene
+Novak Djokovic, Dusan Lajovic
+Sergiy Stakhovsky, Jabor Al Mutawa
+Nikoloz Basilashvili, Mikhail Youzhny
+Ivo Karlovic, Lukas Rosol
+David Ferrer, Thiemo De Bakker
+Fernando Verdasco, Teymuraz Gabashvili
+Dustin Brown, Paolo Lorenzi
+Jan Lennard Struff, Philipp Kohlschreiber
+Richard Gasquet, Pablo Andujar
+Simone Bolelli, Benjamin Becker
+Blaz Kavcic, Juan Monaco
+Tomas Berdych, Denis Istomin
+Andreas Seppi, Leonardo Mayer
+Joao Souza, Malek Jaziri
+Ivan Dodig, Mohamed Safwat
+Michael Berrer, Rafael Nadal
+Novak Djokovic, Sergiy Stakhovsky
+Ivo Karlovic, Nikoloz Basilashvili
+David Ferrer, Fernando Verdasco
+Dustin Brown, Jan Lennard Struff
+Richard Gasquet, Simone Bolelli
+Tomas Berdych, Blaz Kavcic
+Andreas Seppi, Joao Souza
+Ivan Dodig, Michael Berrer
+Ivo Karlovic, Novak Djokovic
+David Ferrer, Dustin Brown
+Tomas Berdych, Richard Gasquet
+Andreas Seppi, Ivan Dodig
+David Ferrer, Ivo Karlovic
+Tomas Berdych, Andreas Seppi
+David Ferrer, Tomas Berdych
+Juan Martin del Potro, Sergiy Stakhovsky
+Mikhail Kukushkin, Denis Istomin
+Pablo Cuevas, Nicolas Almagro
+Vasek Pospisil, Andreas Seppi
+Jerzy Janowicz, Nick Kyrgios
+Leonardo Mayer, Benjamin Becker
+Jeremy Chardy, Sam Querrey
+Gilles Muller, Sam Groth
+Bernard Tomic, Igor Sijsling
+Viktor Troicki, Martin Klizan
+Pablo Andujar, Jarkko Nieminen
+Simone Bolelli, Marinko Matosevic
+Juan Martin del Potro, Fabio Fognini
+Mikhail Kukushkin, Pablo Cuevas
+Julien Benneteau, Vasek Pospisil
+Leonardo Mayer, Jerzy Janowicz
+Gilles Muller, Jeremy Chardy
+Bernard Tomic, Philipp Kohlschreiber
+Viktor Troicki, Pablo Andujar
+Simone Bolelli, David Goffin
+Mikhail Kukushkin, Juan Martin del Potro
+Leonardo Mayer, Julien Benneteau
+Gilles Muller, Bernard Tomic
+Viktor Troicki, Simone Bolelli
+Mikhail Kukushkin, Leonardo Mayer
+Viktor Troicki, Gilles Muller
+Viktor Troicki, Mikhail Kukushkin
+Michael Venus, Alejandro Gonzalez
+Albert Ramos, Paolo Lorenzi
+Yen Hsun Lu, Juan Monaco
+Adrian Mannarino, Federico Delbonis
+Alejandro Falla, Jose Rubin Statham
+Kenny De Schepper, Santiago Giraldo
+Steve Johnson, Joao Sousa
+Pablo Carreno Busta, Borna Coric
+Jan Lennard Struff, Dominic Thiem
+Diego Schwartzman, Guillermo Garcia Lopez
+Donald Young, Go Soeda
+Jiri Vesely, Thomaz Bellucci
+Lucas Pouille, Michael Venus
+Albert Ramos, Yen Hsun Lu
+Adrian Mannarino, Roberto Bautista Agut
+Alejandro Falla, Kenny De Schepper
+Steve Johnson, Pablo Carreno Busta
+Kevin Anderson, Jan Lennard Struff
+Donald Young, Diego Schwartzman
+Jiri Vesely, Ernests Gulbis
+Lucas Pouille, Albert Ramos
+Adrian Mannarino, Alejandro Falla
+Kevin Anderson, Steve Johnson
+Jiri Vesely, Donald Young
+Adrian Mannarino, Lucas Pouille
+Jiri Vesely, Kevin Anderson
+Jiri Vesely, Adrian Mannarino
+Novak Djokovic, Aljaz Bedene
+Andrey Kuznetsov, Albert Ramos
+Go Soeda, Elias Ymer
+Fernando Verdasco, James Ward
+John Isner, Jimmy Wang
+Andreas Haider Maurer, Laurent Lokoli
+Gilles Muller, Pablo Carreno Busta
+Roberto Bautista Agut, Dominic Thiem
+Feliciano Lopez, Denis Kudla
+Adrian Mannarino, Blaz Rola
+Jerzy Janowicz, Hiroki Moriya
+Gael Monfils, Lucas Pouille
+Benjamin Becker, Julien Benneteau
+Lleyton Hewitt, Ze Zhang
+Donald Young, Tim Puetz
+Milos Raonic, Illya Marchenko
+Stan Wawrinka, Marsel Ilhan
+Marius Copil, Pablo Andujar
+Jarkko Nieminen, Andrey Golubev
+Matthias Bachinger, Pablo Cuevas
+Paolo Lorenzi, Alexandr Dolgopolov
+Vasek Pospisil, Sam Querrey
+Guillermo Garcia Lopez, Peter Gojowczyk
+Alejandro Gonzalez, Fabio Fognini
+David Ferrer, Thomaz Bellucci
+Sergiy Stakhovsky, Dusan Lajovic
+Marcel Granollers, Stephane Robert
+Gilles Simon, Robin Haase
+Santiago Giraldo, Jan Hernych
+Steve Johnson, Kyle Edmund
+Ivan Dodig, Joao Souza
+Kei Nishikori, Nicolas Almagro
+Tomas Berdych, Alejandro Falla
+Jurgen Melzer, Victor Estrella
+Viktor Troicki, Jiri Vesely
+Leonardo Mayer, John Millman
+Philipp Kohlschreiber, Paul Henri Mathieu
+Bernard Tomic, Tobias Kamke
+Sam Groth, Filip Krajinovic
+Thanasi Kokkinakis, Ernests Gulbis
+Kevin Anderson, Diego Schwartzman
+Ricardas Berankis, Igor Sijsling
+James Duckworth, Blaz Kavcic
+Richard Gasquet, Carlos Berlocq
+Lukas Rosol, Kenny De Schepper
+Dudi Sela, Jan Lennard Struff
+Tim Smyczek, Luke Saville
+Rafael Nadal, Mikhail Youzhny
+Andy Murray, Yuki Bhambri
+Marinko Matosevic, Alexander Kudryavtsev
+Joao Sousa, Jordan Thompson
+Martin Klizan, Tatsuma Ito
+David Goffin, Michael Russell
+Marcos Baghdatis, Teymuraz Gabashvili
+Lukas Lacko, Maximo Gonzalez
+Grigor Dimitrov, Dustin Brown
+Edouard Roger-Vasselin, Tommy Robredo
+Malek Jaziri, Mikhail Kukushkin
+Nick Kyrgios, Federico Delbonis
+Ivo Karlovic, Ruben Bemelmans
+Jeremy Chardy, Borna Coric
+Andreas Seppi, Denis Istomin
+Simone Bolelli, Juan Monaco
+Roger Federer, Yen Hsun Lu
+Novak Djokovic, Andrey Kuznetsov
+Fernando Verdasco, Go Soeda
+John Isner, Andreas Haider Maurer
+Gilles Muller, Roberto Bautista Agut
+Feliciano Lopez, Adrian Mannarino
+Jerzy Janowicz, Gael Monfils
+Benjamin Becker, Lleyton Hewitt
+Milos Raonic, Donald Young
+Stan Wawrinka, Marius Copil
+Jarkko Nieminen, Matthias Bachinger
+Vasek Pospisil, Paolo Lorenzi
+Guillermo Garcia Lopez, Alejandro Gonzalez
+David Ferrer, Sergiy Stakhovsky
+Gilles Simon, Marcel Granollers
+Steve Johnson, Santiago Giraldo
+Kei Nishikori, Ivan Dodig
+Tomas Berdych, Jurgen Melzer
+Viktor Troicki, Leonardo Mayer
+Bernard Tomic, Philipp Kohlschreiber
+Sam Groth, Thanasi Kokkinakis
+Kevin Anderson, Ricardas Berankis
+Richard Gasquet, James Duckworth
+Dudi Sela, Lukas Rosol
+Rafael Nadal, Tim Smyczek
+Andy Murray, Marinko Matosevic
+Joao Sousa, Martin Klizan
+Marcos Baghdatis, David Goffin
+Grigor Dimitrov, Lukas Lacko
+Malek Jaziri, Edouard Roger-Vasselin
+Nick Kyrgios, Ivo Karlovic
+Andreas Seppi, Jeremy Chardy
+Roger Federer, Simone Bolelli
+Novak Djokovic, Fernando Verdasco
+Gilles Muller, John Isner
+Feliciano Lopez, Jerzy Janowicz
+Milos Raonic, Benjamin Becker
+Stan Wawrinka, Jarkko Nieminen
+Guillermo Garcia Lopez, Vasek Pospisil
+David Ferrer, Gilles Simon
+Kei Nishikori, Steve Johnson
+Tomas Berdych, Viktor Troicki
+Bernard Tomic, Sam Groth
+Kevin Anderson, Richard Gasquet
+Rafael Nadal, Dudi Sela
+Andy Murray, Joao Sousa
+Grigor Dimitrov, Marcos Baghdatis
+Nick Kyrgios, Malek Jaziri
+Andreas Seppi, Roger Federer
+Novak Djokovic, Gilles Muller
+Milos Raonic, Feliciano Lopez
+Stan Wawrinka, Guillermo Garcia Lopez
+Kei Nishikori, David Ferrer
+Tomas Berdych, Bernard Tomic
+Rafael Nadal, Kevin Anderson
+Andy Murray, Grigor Dimitrov
+Nick Kyrgios, Andreas Seppi
+Novak Djokovic, Milos Raonic
+Stan Wawrinka, Kei Nishikori
+Tomas Berdych, Rafael Nadal
+Andy Murray, Nick Kyrgios
+Novak Djokovic, Stan Wawrinka
+Andy Murray, Tomas Berdych
+Novak Djokovic, Andy Murray
+Kenny De Schepper, Marsel Ilhan
+Steve Darcis, Tatsuma Ito
+Jarkko Nieminen, Jan Lennard Struff
+Lucas Pouille, Alexander Kudryavtsev
+Dudi Sela, Jurgen Zopp
+Denis Istomin, Malek Jaziri
+Joao Sousa, Laurent Lokoli
+Tobias Kamke, Vincent Millot
+Paul Henri Mathieu, Taro Daniel
+Jerzy Janowicz, Dustin Brown
+Benoit Paire, Nikoloz Basilashvili
+Edouard Roger-Vasselin, Andreas Beck
+Gael Monfils, Kenny De Schepper
+Steve Darcis, Jarkko Nieminen
+Richard Gasquet, Lucas Pouille
+Denis Istomin, Dudi Sela
+Joao Sousa, Tobias Kamke
+Philipp Kohlschreiber, Paul Henri Mathieu
+Jerzy Janowicz, Benoit Paire
+Gilles Simon, Edouard Roger-Vasselin
+Gael Monfils, Steve Darcis
+Richard Gasquet, Denis Istomin
+Joao Sousa, Philipp Kohlschreiber
+Jerzy Janowicz, Gilles Simon
+Richard Gasquet, Gael Monfils
+Jerzy Janowicz, Joao Sousa
+Richard Gasquet, Jerzy Janowicz
+Alejandro Gonzalez, Facundo Bagnis
+Nicolas Jarry, Gonzalo Escobar
+Dusan Lajovic, Luca Vanni
+Gerald Melzer, Andreas Haider Maurer
+Alejandro Falla, Joao Souza
+Paolo Lorenzi, Adrian Menendez Maceiras
+Victor Estrella, Andre Ghem
+Renzo Olivo, Evgeny Donskoy
+Daniel Gimeno Traver, Marton Fucsovics
+Thomaz Bellucci, Giovanni Lapentti
+Horacio Zeballos, Austin Krajicek
+Albert Montanes, Facundo Arguello
+Feliciano Lopez, Alejandro Gonzalez
+Dusan Lajovic, Nicolas Jarry
+Fernando Verdasco, Gerald Melzer
+Paolo Lorenzi, Alejandro Falla
+Victor Estrella, Renzo Olivo
+Martin Klizan, Daniel Gimeno Traver
+Thomaz Bellucci, Horacio Zeballos
+Albert Montanes, Santiago Giraldo
+Feliciano Lopez, Dusan Lajovic
+Fernando Verdasco, Paolo Lorenzi
+Victor Estrella, Martin Klizan
+Thomaz Bellucci, Albert Montanes
+Feliciano Lopez, Fernando Verdasco
+Victor Estrella, Thomaz Bellucci
+Victor Estrella, Feliciano Lopez
+Marcos Baghdatis, Toni Androic
+Sergiy Stakhovsky, Borna Coric
+Mikhail Youzhny, Blaz Kavcic
+Damir Dzumhur, Michael Berrer
+Go Soeda, Matthias Bachinger
+Viktor Troicki, Illya Marchenko
+Andreas Seppi, Robin Haase
+James Ward, Antonio Veic
+Ricardas Berankis, Lukas Lacko
+Marcel Granollers, Jurgen Melzer
+Ivan Dodig, Mate Delic
+Igor Sijsling, Frank Dancevic
+Marcos Baghdatis, Ivo Karlovic
+Mikhail Youzhny, Sergiy Stakhovsky
+Guillermo Garcia Lopez, Damir Dzumhur
+Viktor Troicki, Go Soeda
+Andreas Seppi, James Ward
+Ricardas Berankis, Gilles Muller
+Marcel Granollers, Ivan Dodig
+Igor Sijsling, Adrian Mannarino
+Marcos Baghdatis, Mikhail Youzhny
+Guillermo Garcia Lopez, Viktor Troicki
+Andreas Seppi, Ricardas Berankis
+Marcel Granollers, Igor Sijsling
+Guillermo Garcia Lopez, Marcos Baghdatis
+Andreas Seppi, Marcel Granollers
+Guillermo Garcia Lopez, Andreas Seppi
+Ryan Harrison, Malek Jaziri
+Austin Krajicek, Mikhail Kukushkin
+Ivo Karlovic, Lukas Lacko
+Ivan Dodig, Teymuraz Gabashvili
+Jared Donaldson, Stefan Kozlov
+Sam Querrey, Benjamin Becker
+Donald Young, Adrian Mannarino
+Denis Kudla, Thanasi Kokkinakis
+Bernard Tomic, Igor Sijsling
+Steve Johnson, Filip Krajinovic
+Dustin Brown, Marinko Matosevic
+Sam Groth, Yen Hsun Lu
+Kei Nishikori, Ryan Harrison
+Austin Krajicek, Ivo Karlovic
+John Isner, Ivan Dodig
+Sam Querrey, Jared Donaldson
+Donald Young, Denis Kudla
+Bernard Tomic, Alexandr Dolgopolov
+Steve Johnson, Dustin Brown
+Kevin Anderson, Sam Groth
+Kei Nishikori, Austin Krajicek
+Sam Querrey, John Isner
+Donald Young, Bernard Tomic
+Kevin Anderson, Steve Johnson
+Kei Nishikori, Sam Querrey
+Kevin Anderson, Donald Young
+Kei Nishikori, Kevin Anderson
+Andy Murray, Nicolas Mahut
+Vasek Pospisil, Philipp Kohlschreiber
+Jeremy Chardy, Julien Benneteau
+Gilles Simon, Joao Sousa
+Tomas Berdych, Tobias Kamke
+Andreas Seppi, Robin Haase
+Gael Monfils, Edouard Roger-Vasselin
+Roberto Bautista Agut, Alexander Zverev
+Grigor Dimitrov, Paul Henri Mathieu
+Gilles Muller, David Goffin
+Guillermo Garcia Lopez, Denis Istomin
+Stan Wawrinka, Jesse Huta Galung
+Dominic Thiem, Ernests Gulbis
+Sergiy Stakhovsky, Marcel Granollers
+Simone Bolelli, Lukas Rosol
+Milos Raonic, Andrey Kuznetsov
+Andy Murray, Vasek Pospisil
+Gilles Simon, Jeremy Chardy
+Tomas Berdych, Andreas Seppi
+Gael Monfils, Roberto Bautista Agut
+Gilles Muller, Grigor Dimitrov
+Stan Wawrinka, Guillermo Garcia Lopez
+Sergiy Stakhovsky, Dominic Thiem
+Milos Raonic, Simone Bolelli
+Gilles Simon, Andy Murray
+Tomas Berdych, Gael Monfils
+Stan Wawrinka, Gilles Muller
+Milos Raonic, Sergiy Stakhovsky
+Tomas Berdych, Gilles Simon
+Stan Wawrinka, Milos Raonic
+Stan Wawrinka, Tomas Berdych
+Thiemo De Bakker, Juan Monaco
+Dusan Lajovic, Pablo Andujar
+Fernando Verdasco, Maximo Gonzalez
+Albert Ramos, Guilherme Clezar
+Joao Souza, Pablo Carreno Busta
+Martin Klizan, Thomaz Bellucci
+Santiago Giraldo, Kimmer Coppejans
+Carlos Berlocq, Guido Pella
+Diego Schwartzman, Paolo Lorenzi
+Pablo Cuevas, Jiri Vesely
+Facundo Bagnis, Federico Delbonis
+Nicolas Almagro, Blaz Rola
+Luca Vanni, Thiemo De Bakker
+Dusan Lajovic, Fernando Verdasco
+Leonardo Mayer, Albert Ramos
+Joao Souza, Martin Klizan
+Santiago Giraldo, Carlos Berlocq
+Fabio Fognini, Diego Schwartzman
+Pablo Cuevas, Facundo Bagnis
+Nicolas Almagro, Tommy Robredo
+Luca Vanni, Dusan Lajovic
+Joao Souza, Leonardo Mayer
+Santiago Giraldo, Fabio Fognini
+Pablo Cuevas, Nicolas Almagro
+Luca Vanni, Joao Souza
+Pablo Cuevas, Santiago Giraldo
+Pablo Cuevas, Luca Vanni
+Kevin Anderson, John Patrick Smith
+Yen Hsun Lu, Sam Groth
+Denis Kudla, Lukas Lacko
+Adrian Mannarino, Eric Quigley
+Ivo Karlovic, Dustin Brown
+Thanasi Kokkinakis, Filip Krajinovic
+Andrey Rublev, Dudi Sela
+Steve Johnson, Mikhail Kukushkin
+Alejandro Gonzalez, Sam Querrey
+Donald Young, Ivan Dodig
+Tim Smyczek, Stefan Kozlov
+Alexandr Dolgopolov, Teymuraz Gabashvili
+Viktor Troicki, Stephane Robert
+Bernard Tomic, Malek Jaziri
+Yoshihito Nishioka, Igor Sijsling
+Marinko Matosevic, John Isner
+Yen Hsun Lu, Kevin Anderson
+Adrian Mannarino, Denis Kudla
+Ivo Karlovic, Thanasi Kokkinakis
+Steve Johnson, Andrey Rublev
+Donald Young, Alejandro Gonzalez
+Alexandr Dolgopolov, Tim Smyczek
+Bernard Tomic, Viktor Troicki
+Yoshihito Nishioka, Marinko Matosevic
+Adrian Mannarino, Yen Hsun Lu
+Ivo Karlovic, Steve Johnson
+Donald Young, Alexandr Dolgopolov
+Bernard Tomic, Yoshihito Nishioka
+Ivo Karlovic, Adrian Mannarino
+Donald Young, Bernard Tomic
+Ivo Karlovic, Donald Young
+Simone Bolelli, Luca Vanni
+Andrey Kuznetsov, Andrey Golubev
+Gael Monfils, Alexander Zverev
+Vasek Pospisil, Robin Haase
+Dominic Thiem, Joao Sousa
+David Goffin, Jerzy Janowicz
+Gilles Simon, Pierre Hugues Herbert
+Borna Coric, Denis Istomin
+Jeremy Chardy, David Guez
+Sergiy Stakhovsky, Lukas Rosol
+Jan Lennard Struff, Nicolas Mahut
+Benoit Paire, Paul Henri Mathieu
+Simone Bolelli, Milos Raonic
+Gael Monfils, Andrey Kuznetsov
+Roberto Bautista Agut, Vasek Pospisil
+Dominic Thiem, David Goffin
+Gilles Simon, Borna Coric
+Jeremy Chardy, Ernests Gulbis
+Sergiy Stakhovsky, Jan Lennard Struff
+Stan Wawrinka, Benoit Paire
+Gael Monfils, Simone Bolelli
+Roberto Bautista Agut, Dominic Thiem
+Gilles Simon, Jeremy Chardy
+Sergiy Stakhovsky, Stan Wawrinka
+Gael Monfils, Roberto Bautista Agut
+Gilles Simon, Sergiy Stakhovsky
+Gilles Simon, Gael Monfils
+Rafael Nadal, Thomaz Bellucci
+Pablo Carreno Busta, Carlos Berlocq
+Albert Montanes, Maximo Gonzalez
+Pablo Cuevas, Nicolas Almagro
+Fabio Fognini, Jiri Vesely
+Pablo Andujar, Paolo Lorenzi
+Federico Delbonis, Diego Schwartzman
+Martin Klizan, Dusan Lajovic
+Blaz Rola, Leonardo Mayer
+Joao Souza, Facundo Arguello
+Andreas Haider Maurer, Albert Ramos
+Tommy Robredo, Elias Ymer
+Juan Monaco, Santiago Giraldo
+Jarkko Nieminen, Marco Cecchinato
+Thiemo De Bakker, Guilherme Clezar
+David Ferrer, Daniel Gimeno Traver
+Rafael Nadal, Pablo Carreno Busta
+Pablo Cuevas, Albert Montanes
+Fabio Fognini, Pablo Andujar
+Federico Delbonis, Martin Klizan
+Joao Souza, Blaz Rola
+Andreas Haider Maurer, Tommy Robredo
+Juan Monaco, Jarkko Nieminen
+David Ferrer, Thiemo De Bakker
+Rafael Nadal, Pablo Cuevas
+Fabio Fognini, Federico Delbonis
+Andreas Haider Maurer, Joao Souza
+David Ferrer, Juan Monaco
+Fabio Fognini, Rafael Nadal
+David Ferrer, Andreas Haider Maurer
+David Ferrer, Fabio Fognini
+Kei Nishikori, Alejandro Gonzalez
+Yen Hsun Lu, Victor Estrella
+Andreas Haider Maurer, Robin Haase
+Alexandr Dolgopolov, Sam Groth
+Kevin Anderson, Dustin Brown
+Steve Johnson, Ivan Dodig
+Viktor Troicki, Daniel Garza
+Santiago Giraldo, Austin Krajicek
+Ivo Karlovic, Teymuraz Gabashvili
+Dusan Lajovic, Thanasi Kokkinakis
+Ryan Harrison, Donald Young
+Grigor Dimitrov, Filip Krajinovic
+Benjamin Becker, Tobias Kamke
+Bernard Tomic, Adrian Mannarino
+Marinko Matosevic, Marcel Granollers
+David Ferrer, Igor Sijsling
+Kei Nishikori, Yen Hsun Lu
+Alexandr Dolgopolov, Andreas Haider Maurer
+Kevin Anderson, Steve Johnson
+Viktor Troicki, Santiago Giraldo
+Ivo Karlovic, Dusan Lajovic
+Ryan Harrison, Grigor Dimitrov
+Bernard Tomic, Benjamin Becker
+David Ferrer, Marinko Matosevic
+Kei Nishikori, Alexandr Dolgopolov
+Kevin Anderson, Viktor Troicki
+Ryan Harrison, Ivo Karlovic
+David Ferrer, Bernard Tomic
+Kei Nishikori, Kevin Anderson
+David Ferrer, Ryan Harrison
+David Ferrer, Kei Nishikori
+Facundo Arguello, Albert Montanes
+Paolo Lorenzi, Thomaz Bellucci
+Federico Delbonis, Pablo Carreno Busta
+Carlos Berlocq, Diego Schwartzman
+Facundo Bagnis, Marco Cecchinato
+Blaz Rola, Jiri Vesely
+Leonardo Mayer, Stephane Robert
+Juan Monaco, Maximo Gonzalez
+Guido Andreozzi, Andres Molteni
+Nicolas Almagro, Pablo Andujar
+Albert Ramos, Horacio Zeballos
+Renzo Olivo, Jarkko Nieminen
+Rafael Nadal, Facundo Arguello
+Federico Delbonis, Paolo Lorenzi
+Carlos Berlocq, Fabio Fognini
+Blaz Rola, Facundo Bagnis
+Juan Monaco, Leonardo Mayer
+Pablo Cuevas, Guido Andreozzi
+Nicolas Almagro, Albert Ramos
+Tommy Robredo, Renzo Olivo
+Rafael Nadal, Federico Delbonis
+Carlos Berlocq, Blaz Rola
+Juan Monaco, Pablo Cuevas
+Nicolas Almagro, Tommy Robredo
+Rafael Nadal, Carlos Berlocq
+Juan Monaco, Nicolas Almagro
+Rafael Nadal, Juan Monaco
+Novak Djokovic, Vasek Pospisil
+Andrey Golubev, Fabrice Martin
+Marsel Ilhan, Alexander Zverev
+Feliciano Lopez, James Ward
+Tomas Berdych, Jeremy Chardy
+Simone Bolelli, Lucas Pouille
+Sergiy Stakhovsky, Lukas Rosol
+Denis Istomin, Ernests Gulbis
+Marcos Baghdatis, David Goffin
+Borna Coric, Malek Jaziri
+Joao Sousa, James Mcgee
+Andy Murray, Gilles Muller
+Roberto Bautista Agut, Dominic Thiem
+Richard Gasquet, Andreas Seppi
+Fernando Verdasco, Guillermo Garcia Lopez
+Roger Federer, Mikhail Youzhny
+Novak Djokovic, Andrey Golubev
+Marsel Ilhan, Feliciano Lopez
+Tomas Berdych, Simone Bolelli
+Sergiy Stakhovsky, Denis Istomin
+Borna Coric, Marcos Baghdatis
+Andy Murray, Joao Sousa
+Richard Gasquet, Roberto Bautista Agut
+Roger Federer, Fernando Verdasco
+Novak Djokovic, Marsel Ilhan
+Tomas Berdych, Sergiy Stakhovsky
+Borna Coric, Andy Murray
+Roger Federer, Richard Gasquet
+Novak Djokovic, Tomas Berdych
+Roger Federer, Borna Coric
+Roger Federer, Novak Djokovic
+Victor Estrella, Seanon Williams
+Darian King, Jose Hernandez
+Victor Estrella, Darian King
+Jose Hernandez, Haydn Lewis
+Di Wu, Jose Rubin Statham
+Michael Venus, Ze Zhang
+Jose Rubin Statham, Zhe Li
+Michael Venus, Chuhan Wang
+Ricardas Berankis, Lukasz Kubot
+Jerzy Janowicz, Laurynas Grigelis
+Jerzy Janowicz, Ricardas Berankis
+Laurynas Grigelis, Kamil Majchrzak
+Adrian Ungur, Bar Tzuf Botzer
+Marius Copil, Dudi Sela
+Adrian Ungur, Edan Leshem
+Marius Copil, Bar Tzuf Botzer
+Frederik Nielsen, Evgeny Donskoy
+Andrey Kuznetsov, Martin Pedersen
+Andrey Kuznetsov, Frederik Nielsen
+Andrey Rublev, Martin Pedersen
+Martin Klizan, Grega Zemlja
+Norbert Gombos, Tom Kocevar Desman
+Martin Klizan, Tom Kocevar Desman
+Lukas Lacko, Mike Urbanija
+Elias Ymer, Jurgen Melzer
+Andreas Haider Maurer, Christian Lindell
+Andreas Haider Maurer, Elias Ymer
+Gerald Melzer, Christian Lindell
+Yong Kyu Lim, Danai Udomchoke
+Hyeon Chung, Warit Sornbutnark
+Hyeon Chung, Danai Udomchoke
+Warit Sornbutnark, Ji Sung Nam
+Alejandro Gonzalez, Pablo Cuevas
+Santiago Giraldo, Martin Cuevas
+Pablo Cuevas, Santiago Giraldo
+Alejandro Gonzalez, Martin Cuevas
+Cristian Garin, Duilio Beretta
+Nicolas Jarry, Juan Pablo Varillas
+Nicolas Jarry, Duilio Vallebuona
+Hans Podlipnik Castillo, Juan Pablo Varillas
+Radu Albot, Gabor Borsos
+Marton Fucsovics, Andrei Ciumac
+Marton Fucsovics, Radu Albot
+Gabor Borsos, Maxim Bulat
+Christopher Rungkat, Shahin Khaledan
+Sunu Wahyu Trijati, Anoosha Shahgholi
+David Agung Susanto, Mohsen Hossein Zade
+Aditya Hari Sasongko, Shahin Khaledan
+Dzmitry Zhyrmont, Sam Barry
+Egor Gerasimov, Daniel Glancy
+Egor Gerasimov, Sam Barry
+Dzmitry Zhyrmont, Daniel Glancy
+Martins Podzus, Alexandar Lazov
+Dimitar Kuzmanov, Janis Podzus
+Dimitar Kuzmanov, Martins Podzus
+Alexandar Lazov, Rudolfs Mednis
+Gilles Muller, Jacob Rasolondrazana
+Antso Rakotondramanga, Ugo Nastasi
+Gilles Muller, Antso Rakotondramanga
+Lofo Ramiaramanana, Gilles Kremer
+Daniel Garza, Federico Zeballos
+Hugo Dellien, Tigre Hank
+Daniel Garza, Hugo Dellien
+Jarkko Nieminen, Romain Arneodo
+Benjamin Balleret, Micke Kontinen
+Jarkko Nieminen, Benjamin Balleret
+Romain Arneodo, Henrik Sillanpaa
+Aisam Ul Haq Qureshi, Naser Al Obaidly
+Mohammad Ghareeb, Aqeel Khan
+Mohammad Ghareeb, M Abid Ali Khan Akbar
+Aqeel Khan, Dawood Sayed Hashim
+Patrick Tierro, Harshana Godamanna
+Ruben Gonzales, Sharmal Dissanayake
+Treat Conrad Huey, Sharmal Dissanayake
+Francis Casey Alcantara, Dineshkanthan Thangarajah
+Joao Sousa, Yassine Idmbarek
+Rui Machado, Lamine Ouahab
+Lamine Ouahab, Frederico Ferreira Silva
+Joao Domingues, Mehdi Jdi
+Marcelo Arevalo, Gabriel Flores Ruiz
+Alex Llompart, Rafa Orantes
+Marcelo Arevalo, Alex Llompart
+Christian Garay, Alberto Emmanuel Alvarado Larin
+Yen Hsun Lu, Ibrahim Abou Chahine
+Jui Chen Hung, Karim Alayli
+Chieh Fu Wang, Nour Nehme
+Jui Chen Hung, Ibrahim Abou Chahine
+Fritz Wolmarans, Cem Ilkel
+Marsel Ilhan, Tucker Vorster
+Marsel Ilhan, Fritz Wolmarans
+Cem Ilkel, Ruan Roelofse
+David Souto, Julian Saborio
+Ricardo Rodriguez, Ignaci Roca
+Ricardo Rodriguez, Pablo Nunez
+Luis David Martinez, Ignaci Roca
+Mirza Basic, Takanyi Garanganga
+Damir Dzumhur, Benjamin Lock
+Tomislav Brkic, Takanyi Garanganga
+Benjamin Lock, Nerman Fatic
+Joao Souza, Carlos Berlocq
+Leonardo Mayer, Thomaz Bellucci
+Leonardo Mayer, Joao Souza
+Federico Delbonis, Thomaz Bellucci
+Henri Laaksonen, Ruben Bemelmans
+Steve Darcis, Michael Lammer
+Henri Laaksonen, Steve Darcis
+David Goffin, Adrien Bossel
+Milos Raonic, Tatsuma Ito
+Kei Nishikori, Vasek Pospisil
+Kei Nishikori, Milos Raonic
+Vasek Pospisil, Go Soeda
+Thanasi Kokkinakis, Lukas Rosol
+Bernard Tomic, Jiri Vesely
+Bernard Tomic, Lukas Rosol
+Jan Mertl, Sam Groth
+Andy Murray, Donald Young
+James Ward, John Isner
+Andy Murray, John Isner
+Donald Young, James Ward
+Gilles Simon, Jan Lennard Struff
+Gael Monfils, Philipp Kohlschreiber
+Philipp Kohlschreiber, Gilles Simon
+Jan Lennard Struff, Nicolas Mahut
+Mikhail Kukushkin, Simone Bolelli
+Andreas Seppi, Andrey Golubev
+Mikhail Kukushkin, Andreas Seppi
+Aleksandr Nedovyesov, Fabio Fognini
+Novak Djokovic, Mate Delic
+Viktor Troicki, Borna Coric
+Filip Krajinovic, Franko Skugor
+Viktor Troicki, Mate Delic
+Marcos Baghdatis, Jiri Vesely
+Albert Ramos, Viktor Troicki
+Jurgen Melzer, Dennis Novikov
+Federico Delbonis, Dusan Lajovic
+Juan Monaco, Teymuraz Gabashvili
+Thanasi Kokkinakis, Jan Lennard Struff
+Borna Coric, Andreas Haider Maurer
+Ivan Dodig, Joao Sousa
+Vasek Pospisil, Mikhail Kukushkin
+Tim Smyczek, Benjamin Becker
+Adrian Mannarino, Mischa Zverev
+Daniel Gimeno Traver, Sam Groth
+Edouard Roger-Vasselin, Marinko Matosevic
+Jarkko Nieminen, Thiemo De Bakker
+James Duckworth, Dominic Thiem
+Ryan Harrison, Mardy Fish
+Simone Bolelli, Thomaz Bellucci
+Alexandr Dolgopolov, Frank Dancevic
+Andrey Golubev, Dustin Brown
+Nick Kyrgios, Denis Kudla
+Malek Jaziri, Tatsuma Ito
+Michael Berrer, Victor Estrella
+Donald Young, Pablo Carreno Busta
+Igor Sijsling, Filip Krajinovic
+Robin Haase, Alex Bolt
+Martin Klizan, Pablo Andujar
+Steve Johnson, Marcel Granollers
+Sergiy Stakhovsky, Sam Querrey
+Denis Istomin, Austin Krajicek
+Jack Sock, Yen Hsun Lu
+Victor Hanescu, Mikhail Youzhny
+Diego Schwartzman, Jerzy Janowicz
+Novak Djokovic, Marcos Baghdatis
+Albert Ramos, Julien Benneteau
+John Isner, Jurgen Melzer
+Kevin Anderson, Federico Delbonis
+Juan Monaco, Marin Cilic
+Thanasi Kokkinakis, Guillermo Garcia Lopez
+Bernard Tomic, Borna Coric
+David Ferrer, Ivan Dodig
+Andy Murray, Vasek Pospisil
+Philipp Kohlschreiber, Tim Smyczek
+Adrian Mannarino, Fabio Fognini
+Ernests Gulbis, Daniel Gimeno Traver
+Feliciano Lopez, Edouard Roger-Vasselin
+Pablo Cuevas, Jarkko Nieminen
+Fernando Verdasco, James Duckworth
+Kei Nishikori, Ryan Harrison
+Milos Raonic, Simone Bolelli
+Alexandr Dolgopolov, Santiago Giraldo
+Tommy Robredo, Andrey Golubev
+Grigor Dimitrov, Nick Kyrgios
+Gilles Simon, Malek Jaziri
+Michael Berrer, Richard Gasquet
+Donald Young, Jeremy Chardy
+Rafael Nadal, Igor Sijsling
+Robin Haase, Stan Wawrinka
+Lukas Rosol, Martin Klizan
+Steve Johnson, Ivo Karlovic
+Tomas Berdych, Sergiy Stakhovsky
+Roberto Bautista Agut, Denis Istomin
+Jack Sock, Gilles Muller
+Andreas Seppi, Victor Hanescu
+Roger Federer, Diego Schwartzman
+Novak Djokovic, Albert Ramos
+John Isner, Kevin Anderson
+Thanasi Kokkinakis, Juan Monaco
+Bernard Tomic, David Ferrer
+Andy Murray, Philipp Kohlschreiber
+Adrian Mannarino, Ernests Gulbis
+Feliciano Lopez, Pablo Cuevas
+Kei Nishikori, Fernando Verdasco
+Milos Raonic, Alexandr Dolgopolov
+Tommy Robredo, Grigor Dimitrov
+Gilles Simon, Michael Berrer
+Rafael Nadal, Donald Young
+Lukas Rosol, Robin Haase
+Tomas Berdych, Steve Johnson
+Jack Sock, Roberto Bautista Agut
+Roger Federer, Andreas Seppi
+Novak Djokovic, John Isner
+Bernard Tomic, Thanasi Kokkinakis
+Andy Murray, Adrian Mannarino
+Feliciano Lopez, Kei Nishikori
+Milos Raonic, Tommy Robredo
+Rafael Nadal, Gilles Simon
+Tomas Berdych, Lukas Rosol
+Roger Federer, Jack Sock
+Novak Djokovic, Bernard Tomic
+Andy Murray, Feliciano Lopez
+Milos Raonic, Rafael Nadal
+Roger Federer, Tomas Berdych
+Novak Djokovic, Andy Murray
+Roger Federer, Milos Raonic
+Novak Djokovic, Roger Federer
+Martin Klizan, Paolo Lorenzi
+Steve Darcis, Malek Jaziri
+Thomaz Bellucci, Lleyton Hewitt
+Alexandr Dolgopolov, Ricardas Berankis
+Mikhail Kukushkin, Steve Johnson
+Alejandro Falla, Michael Berrer
+Alexander Zverev, Sam Groth
+Federico Delbonis, Jiri Vesely
+Mikhail Youzhny, Andrey Golubev
+Simone Bolelli, Marcos Baghdatis
+Borna Coric, Andreas Haider Maurer
+Jerzy Janowicz, Edouard Roger-Vasselin
+Vasek Pospisil, Juan Martin del Potro
+Andrey Rublev, Pablo Carreno Busta
+Jurgen Melzer, Ryan Harrison
+Teymuraz Gabashvili, Pablo Andujar
+Carlos Berlocq, Thanasi Kokkinakis
+Albert Ramos, Joao Sousa
+Jack Sock, Go Soeda
+Dominic Thiem, Diego Schwartzman
+Sam Querrey, Victor Estrella
+Jarkko Nieminen, Marinko Matosevic
+Robin Haase, Kyle Edmund
+Donald Young, Yen Hsun Lu
+Hyeon Chung, Marcel Granollers
+Austin Krajicek, Denis Istomin
+Filip Krajinovic, Dusan Lajovic
+Tim Smyczek, Adrian Menendez Maceiras
+Juan Monaco, Ruben Bemelmans
+Jan Lennard Struff, Benjamin Becker
+James Duckworth, Damir Dzumhur
+Nicolas Almagro, Sergiy Stakhovsky
+Novak Djokovic, Martin Klizan
+Steve Darcis, Gilles Muller
+Thomaz Bellucci, Pablo Cuevas
+Alexandr Dolgopolov, Tommy Robredo
+Gilles Simon, Mikhail Kukushkin
+Alejandro Falla, Ivo Karlovic
+Lukas Rosol, Alexander Zverev
+David Ferrer, Federico Delbonis
+Kei Nishikori, Mikhail Youzhny
+Viktor Troicki, Simone Bolelli
+David Goffin, Borna Coric
+Jerzy Janowicz, Roberto Bautista Agut
+Grigor Dimitrov, Vasek Pospisil
+John Isner, Andrey Rublev
+Jeremy Chardy, Jurgen Melzer
+Milos Raonic, Teymuraz Gabashvili
+Stan Wawrinka, Carlos Berlocq
+Adrian Mannarino, Albert Ramos
+Jack Sock, Fabio Fognini
+Dominic Thiem, Feliciano Lopez
+Kevin Anderson, Sam Querrey
+Leonardo Mayer, Jarkko Nieminen
+Santiago Giraldo, Robin Haase
+Andy Murray, Donald Young
+Tomas Berdych, Hyeon Chung
+Bernard Tomic, Austin Krajicek
+Gael Monfils, Filip Krajinovic
+Jo-Wilfried Tsonga, Tim Smyczek
+Juan Monaco, Ernests Gulbis
+Guillermo Garcia Lopez, Jan Lennard Struff
+Fernando Verdasco, James Duckworth
+Rafael Nadal, Nicolas Almagro
+Novak Djokovic, Steve Darcis
+Alexandr Dolgopolov, Thomaz Bellucci
+Gilles Simon, Alejandro Falla
+David Ferrer, Lukas Rosol
+Kei Nishikori, Viktor Troicki
+David Goffin, Jerzy Janowicz
+John Isner, Grigor Dimitrov
+Milos Raonic, Jeremy Chardy
+Adrian Mannarino, Stan Wawrinka
+Dominic Thiem, Jack Sock
+Kevin Anderson, Leonardo Mayer
+Andy Murray, Santiago Giraldo
+Tomas Berdych, Bernard Tomic
+Gael Monfils, Jo-Wilfried Tsonga
+Juan Monaco, Guillermo Garcia Lopez
+Fernando Verdasco, Rafael Nadal
+Novak Djokovic, Alexandr Dolgopolov
+David Ferrer, Gilles Simon
+Kei Nishikori, David Goffin
+John Isner, Milos Raonic
+Dominic Thiem, Adrian Mannarino
+Andy Murray, Kevin Anderson
+Tomas Berdych, Gael Monfils
+Juan Monaco, Fernando Verdasco
+Novak Djokovic, David Ferrer
+John Isner, Kei Nishikori
+Andy Murray, Dominic Thiem
+Tomas Berdych, Juan Monaco
+Novak Djokovic, John Isner
+Andy Murray, Tomas Berdych
+Novak Djokovic, Andy Murray
+Lamine Ouahab, Robin Haase
+Daniel Gimeno Traver, Malek Jaziri
+Mikhail Kukushkin, Albert Ramos
+Mikhail Youzhny, Yassine Idmbarek
+Aljaz Bedene, Maximo Gonzalez
+Arthur De Greef, Diego Schwartzman
+Andreas Haider Maurer, Jan Lennard Struff
+Pablo Andujar, Tobias Kamke
+Damir Dzumhur, Paul Henri Mathieu
+Carlos Berlocq, Pablo Carreno Busta
+Nicolas Almagro, Taro Daniel
+Dustin Brown, Andrey Kuznetsov
+Lamine Ouahab, Guillermo Garcia Lopez
+Daniel Gimeno Traver, Mikhail Kukushkin
+Jiri Vesely, Mikhail Youzhny
+Aljaz Bedene, Arthur De Greef
+Andreas Haider Maurer, Pablo Andujar
+Damir Dzumhur, Marcel Granollers
+Nicolas Almagro, Carlos Berlocq
+Martin Klizan, Dustin Brown
+Daniel Gimeno Traver, Lamine Ouahab
+Jiri Vesely, Aljaz Bedene
+Damir Dzumhur, Andreas Haider Maurer
+Martin Klizan, Nicolas Almagro
+Daniel Gimeno Traver, Jiri Vesely
+Martin Klizan, Damir Dzumhur
+Martin Klizan, Daniel Gimeno Traver
+Sam Groth, Victor Estrella
+Steve Johnson, Donald Young
+Sam Querrey, Marinko Matosevic
+Teymuraz Gabashvili, Tim Smyczek
+Hyeon Chung, Facundo Arguello
+Fernando Verdasco, Paolo Lorenzi
+Jeremy Chardy, Dusan Lajovic
+Go Soeda, Lleyton Hewitt
+Federico Delbonis, Ricardas Berankis
+Santiago Giraldo, Rogerio Dutra Silva
+Janko Tipsarevic, Guilherme Clezar
+Jack Sock, Joao Souza
+Feliciano Lopez, Sam Groth
+Sam Querrey, Steve Johnson
+Teymuraz Gabashvili, John Isner
+Fernando Verdasco, Hyeon Chung
+Jeremy Chardy, Go Soeda
+Kevin Anderson, Federico Delbonis
+Santiago Giraldo, Janko Tipsarevic
+Jack Sock, Roberto Bautista Agut
+Sam Querrey, Feliciano Lopez
+Fernando Verdasco, Teymuraz Gabashvili
+Kevin Anderson, Jeremy Chardy
+Jack Sock, Santiago Giraldo
+Sam Querrey, Fernando Verdasco
+Jack Sock, Kevin Anderson
+Jack Sock, Sam Querrey
+Albert Ramos, Robin Haase
+Bernard Tomic, Lukas Rosol
+Andreas Haider Maurer, Ernests Gulbis
+Jo-Wilfried Tsonga, Jan Lennard Struff
+David Goffin, Norbert Gombos
+Florian Mayer, Mikhail Youzhny
+Lucas Pouille, Dominic Thiem
+Viktor Troicki, Martin Klizan
+John Isner, Steve Johnson
+Gilles Simon, Benjamin Balleret
+Benoit Paire, Denis Kudla
+Victor Estrella, Simone Bolelli
+Sergiy Stakhovsky, Pablo Carreno Busta
+Philipp Kohlschreiber, Mikhail Kukushkin
+Roberto Bautista Agut, Benjamin Becker
+Tommy Robredo, Andreas Seppi
+Marcel Granollers, Adrian Mannarino
+Joao Sousa, Edouard Roger-Vasselin
+Juan Monaco, Jiri Vesely
+Fabio Fognini, Jerzy Janowicz
+Grigor Dimitrov, Fernando Verdasco
+Gael Monfils, Andrey Kuznetsov
+Alexandr Dolgopolov, Borna Coric
+Jeremy Chardy, Diego Schwartzman
+Novak Djokovic, Albert Ramos
+Andreas Haider Maurer, Bernard Tomic
+Jo-Wilfried Tsonga, David Goffin
+Marin Cilic, Florian Mayer
+Rafael Nadal, Lucas Pouille
+John Isner, Viktor Troicki
+Gilles Simon, Benoit Paire
+David Ferrer, Victor Estrella
+Tomas Berdych, Sergiy Stakhovsky
+Roberto Bautista Agut, Philipp Kohlschreiber
+Tommy Robredo, Marcel Granollers
+Milos Raonic, Joao Sousa
+Stan Wawrinka, Juan Monaco
+Grigor Dimitrov, Fabio Fognini
+Gael Monfils, Alexandr Dolgopolov
+Roger Federer, Jeremy Chardy
+Novak Djokovic, Andreas Haider Maurer
+Marin Cilic, Jo-Wilfried Tsonga
+Rafael Nadal, John Isner
+David Ferrer, Gilles Simon
+Tomas Berdych, Roberto Bautista Agut
+Milos Raonic, Tommy Robredo
+Grigor Dimitrov, Stan Wawrinka
+Gael Monfils, Roger Federer
+Novak Djokovic, Marin Cilic
+Rafael Nadal, David Ferrer
+Tomas Berdych, Milos Raonic
+Gael Monfils, Grigor Dimitrov
+Novak Djokovic, Rafael Nadal
+Tomas Berdych, Gael Monfils
+Novak Djokovic, Tomas Berdych
+Teymuraz Gabashvili, Pablo Carreno Busta
+Joao Sousa, Kenny De Schepper
+Roberto Carballes Baena, Jan Lennard Struff
+Thomaz Bellucci, Yuichi Sugita
+Victor Estrella, Dominic Thiem
+Juan Monaco, Alejandro Gonzalez
+Mikhail Kukushkin, Joao Souza
+Marcel Granollers, Marinko Matosevic
+Benoit Paire, Jaume Munar
+Andrey Kuznetsov, Marton Fucsovics
+Elias Ymer, Thiemo De Bakker
+Albert Montanes, Ricardas Berankis
+Marsel Ilhan, James Ward
+Pablo Andujar, Albert Ramos
+Andrey Rublev, Fernando Verdasco
+Nicolas Almagro, Paolo Lorenzi
+Kei Nishikori, Teymuraz Gabashvili
+Santiago Giraldo, Joao Sousa
+Pablo Cuevas, Roberto Carballes Baena
+Roberto Bautista Agut, Thomaz Bellucci
+Victor Estrella, Marin Cilic
+Martin Klizan, Juan Monaco
+Tommy Robredo, Mikhail Kukushkin
+Marcel Granollers, Jo-Wilfried Tsonga
+Benoit Paire, Ernests Gulbis
+Philipp Kohlschreiber, Andrey Kuznetsov
+Elias Ymer, Nick Kyrgios
+David Ferrer, Albert Montanes
+Feliciano Lopez, Marsel Ilhan
+Pablo Andujar, Leonardo Mayer
+Fabio Fognini, Andrey Rublev
+Rafael Nadal, Nicolas Almagro
+Kei Nishikori, Santiago Giraldo
+Roberto Bautista Agut, Pablo Cuevas
+Martin Klizan, Victor Estrella
+Tommy Robredo, Marcel Granollers
+Philipp Kohlschreiber, Benoit Paire
+David Ferrer, Elias Ymer
+Pablo Andujar, Feliciano Lopez
+Fabio Fognini, Rafael Nadal
+Kei Nishikori, Roberto Bautista Agut
+Martin Klizan, Tommy Robredo
+David Ferrer, Philipp Kohlschreiber
+Pablo Andujar, Fabio Fognini
+Kei Nishikori, Martin Klizan
+Pablo Andujar, David Ferrer
+Kei Nishikori, Pablo Andujar
+Janko Tipsarevic, Thomas Fabbiano
+Nikola Mektic, Denis Istomin
+Daniel Gimeno Traver, Viktor Troicki
+Borna Coric, Sergiy Stakhovsky
+Malek Jaziri, Florian Mayer
+Jiri Vesely, Diego Schwartzman
+Guillermo Garcia Lopez, Lorenzo Giustino
+Marcos Baghdatis, Steve Darcis
+Dusan Lajovic, Jurgen Zopp
+Simone Bolelli, Andrey Golubev
+Andreas Haider Maurer, Ivan Dodig
+Mikhail Youzhny, Marius Copil
+Gilles Simon, Janko Tipsarevic
+Daniel Gimeno Traver, Nikola Mektic
+Ivo Karlovic, Borna Coric
+Jiri Vesely, Malek Jaziri
+Guillermo Garcia Lopez, Marcos Baghdatis
+Lukas Rosol, Dusan Lajovic
+Simone Bolelli, Andreas Haider Maurer
+Gael Monfils, Mikhail Youzhny
+Daniel Gimeno Traver, Gilles Simon
+Jiri Vesely, Ivo Karlovic
+Guillermo Garcia Lopez, Lukas Rosol
+Gael Monfils, Simone Bolelli
+Jiri Vesely, Daniel Gimeno Traver
+Guillermo Garcia Lopez, Gael Monfils
+Guillermo Garcia Lopez, Jiri Vesely
+Robin Haase, Ricardas Berankis
+Filip Krajinovic, Alejandro Gonzalez
+Nick Kyrgios, Albert Ramos
+Pablo Carreno Busta, Constant Lestienne
+Albert Montanes, Martin Fischer
+Gilles Muller, Frederico Ferreira Silva
+Richard Gasquet, Marinko Matosevic
+Kenny De Schepper, Gastao Elias
+Nicolas Almagro, Stephane Robert
+Borna Coric, Jeremy Chardy
+Rui Machado, Joao Sousa
+Guillermo Garcia Lopez, Roberto Carballes Baena
+Robin Haase, Feliciano Lopez
+Nick Kyrgios, Filip Krajinovic
+Pablo Carreno Busta, David Vega Hernandez
+Gilles Muller, Albert Montanes
+Richard Gasquet, Kenny De Schepper
+Nicolas Almagro, Leonardo Mayer
+Borna Coric, Rui Machado
+Guillermo Garcia Lopez, Kevin Anderson
+Nick Kyrgios, Robin Haase
+Pablo Carreno Busta, Gilles Muller
+Richard Gasquet, Nicolas Almagro
+Guillermo Garcia Lopez, Borna Coric
+Nick Kyrgios, Pablo Carreno Busta
+Richard Gasquet, Guillermo Garcia Lopez
+Richard Gasquet, Nick Kyrgios
+Jarkko Nieminen, Marsel Ilhan
+Daniel Gimeno Traver, Cem Ilkel
+Mikhail Kukushkin, Aleksandr Nedovyesov
+Andrey Rublev, Damir Dzumhur
+Jurgen Melzer, Steve Darcis
+Diego Schwartzman, Blaz Kavcic
+Thomaz Bellucci, Mikhail Youzhny
+Denis Istomin, Benoit Paire
+Teymuraz Gabashvili, Andrey Kuznetsov
+Ivan Dodig, Andreas Haider Maurer
+Dusan Lajovic, Thanasi Kokkinakis
+Andrey Golubev, Nikoloz Basilashvili
+Roger Federer, Jarkko Nieminen
+Daniel Gimeno Traver, Mikhail Kukushkin
+Santiago Giraldo, Andrey Rublev
+Diego Schwartzman, Jurgen Melzer
+Thomaz Bellucci, Denis Istomin
+Pablo Cuevas, Teymuraz Gabashvili
+Ivan Dodig, Dusan Lajovic
+Grigor Dimitrov, Andrey Golubev
+Roger Federer, Daniel Gimeno Traver
+Diego Schwartzman, Santiago Giraldo
+Pablo Cuevas, Thomaz Bellucci
+Grigor Dimitrov, Ivan Dodig
+Roger Federer, Diego Schwartzman
+Pablo Cuevas, Grigor Dimitrov
+Roger Federer, Pablo Cuevas
+Mischa Zverev, Jan Lennard Struff
+Sergiy Stakhovsky, Mikhail Ledovskikh
+Lukas Rosol, Florian Mayer
+Radek Stepanek, Farrukh Dustov
+Victor Estrella, Viktor Troicki
+Janko Tipsarevic, Bernard Tomic
+Philipp Kohlschreiber, Jiri Vesely
+Alexander Zverev, Benjamin Becker
+Simone Bolelli, Dustin Brown
+Fabio Fognini, Bastian Trinker
+Dominic Thiem, Vasek Pospisil
+Pablo Andujar, Joao Souza
+Andy Murray, Mischa Zverev
+Lukas Rosol, Sergiy Stakhovsky
+Roberto Bautista Agut, Radek Stepanek
+Victor Estrella, Janko Tipsarevic
+Philipp Kohlschreiber, Alexander Zverev
+David Goffin, Simone Bolelli
+Dominic Thiem, Fabio Fognini
+Gerald Melzer, Pablo Andujar
+Andy Murray, Lukas Rosol
+Roberto Bautista Agut, Victor Estrella
+Philipp Kohlschreiber, David Goffin
+Gerald Melzer, Dominic Thiem
+Andy Murray, Roberto Bautista Agut
+Philipp Kohlschreiber, Gerald Melzer
+Andy Murray, Philipp Kohlschreiber
+Nick Kyrgios, Daniel Gimeno Traver
+Thomaz Bellucci, Jeremy Chardy
+John Isner, Adrian Mannarino
+Jo-Wilfried Tsonga, Lukas Rosol
+Jack Sock, Pablo Andujar
+Richard Gasquet, Ivo Karlovic
+Steve Johnson, Alejandro Gonzalez
+Luca Vanni, Bernard Tomic
+Simone Bolelli, Kevin Anderson
+Grigor Dimitrov, Donald Young
+Fabio Fognini, Santiago Giraldo
+Joao Sousa, Jerzy Janowicz
+Albert Ramos, Pablo Cuevas
+Fernando Verdasco, Guillermo Garcia Lopez
+Marin Cilic, Jiri Vesely
+Roberto Bautista Agut, Marius Copil
+Sam Querrey, Thanasi Kokkinakis
+David Goffin, Ernests Gulbis
+Juan Monaco, Nicolas Almagro
+Leonardo Mayer, Gilles Muller
+Feliciano Lopez, Benjamin Becker
+Gael Monfils, Viktor Troicki
+Marcel Granollers, Martin Klizan
+Philipp Kohlschreiber, Alejandro Falla
+Nick Kyrgios, Roger Federer
+John Isner, Thomaz Bellucci
+Jo-Wilfried Tsonga, Jack Sock
+Tomas Berdych, Richard Gasquet
+Rafael Nadal, Steve Johnson
+Simone Bolelli, Luca Vanni
+Grigor Dimitrov, Fabio Fognini
+Stan Wawrinka, Joao Sousa
+David Ferrer, Albert Ramos
+Fernando Verdasco, Marin Cilic
+Roberto Bautista Agut, Sam Querrey
+Kei Nishikori, David Goffin
+Milos Raonic, Juan Monaco
+Leonardo Mayer, Feliciano Lopez
+Marcel Granollers, Gael Monfils
+Andy Murray, Philipp Kohlschreiber
+John Isner, Nick Kyrgios
+Tomas Berdych, Jo-Wilfried Tsonga
+Rafael Nadal, Simone Bolelli
+Grigor Dimitrov, Stan Wawrinka
+David Ferrer, Fernando Verdasco
+Kei Nishikori, Roberto Bautista Agut
+Milos Raonic, Leonardo Mayer
+Andy Murray, Marcel Granollers
+Tomas Berdych, John Isner
+Rafael Nadal, Grigor Dimitrov
+Kei Nishikori, David Ferrer
+Andy Murray, Milos Raonic
+Rafael Nadal, Tomas Berdych
+Andy Murray, Kei Nishikori
+Andy Murray, Rafael Nadal
+Nicolas Almagro, Luca Vanni
+Thomaz Bellucci, Diego Schwartzman
+Roberto Bautista Agut, Marcel Granollers
+Feliciano Lopez, Nick Kyrgios
+Viktor Troicki, Bernard Tomic
+Jiri Vesely, Ernests Gulbis
+Jeremy Chardy, Lukas Rosol
+David Goffin, Andrea Arnaboldi
+Jo-Wilfried Tsonga, Sam Querrey
+Guillermo Garcia Lopez, Marin Cilic
+Alexandr Dolgopolov, Martin Klizan
+Richard Gasquet, Thomas Fabbiano
+Juan Monaco, Dusan Lajovic
+Dominic Thiem, Simone Bolelli
+Gilles Simon, Jack Sock
+John Isner, Joao Sousa
+Leonardo Mayer, Federico Gaio
+Marsel Ilhan, Adrian Mannarino
+Matteo Donati, Santiago Giraldo
+Fabio Fognini, Steve Johnson
+Grigor Dimitrov, Jerzy Janowicz
+Kevin Anderson, Florian Mayer
+Philipp Kohlschreiber, Donald Young
+Pablo Cuevas, Paolo Lorenzi
+Novak Djokovic, Nicolas Almagro
+Thomaz Bellucci, Roberto Bautista Agut
+Viktor Troicki, Feliciano Lopez
+Kei Nishikori, Jiri Vesely
+Andy Murray, Jeremy Chardy
+David Goffin, Jo-Wilfried Tsonga
+Guillermo Garcia Lopez, Alexandr Dolgopolov
+David Ferrer, Richard Gasquet
+Stan Wawrinka, Juan Monaco
+Dominic Thiem, Gilles Simon
+John Isner, Leonardo Mayer
+Rafael Nadal, Marsel Ilhan
+Tomas Berdych, Matteo Donati
+Fabio Fognini, Grigor Dimitrov
+Kevin Anderson, Philipp Kohlschreiber
+Roger Federer, Pablo Cuevas
+Novak Djokovic, Thomaz Bellucci
+Kei Nishikori, Viktor Troicki
+David Goffin, Andy Murray
+David Ferrer, Guillermo Garcia Lopez
+Stan Wawrinka, Dominic Thiem
+Rafael Nadal, John Isner
+Tomas Berdych, Fabio Fognini
+Roger Federer, Kevin Anderson
+Novak Djokovic, Kei Nishikori
+David Ferrer, David Goffin
+Stan Wawrinka, Rafael Nadal
+Roger Federer, Tomas Berdych
+Novak Djokovic, David Ferrer
+Roger Federer, Stan Wawrinka
+Novak Djokovic, Roger Federer
+Lukas Rosol, Yen Hsun Lu
+Federico Delbonis, Teymuraz Gabashvili
+Andrey Kuznetsov, Andreas Haider Maurer
+Adrian Mannarino, Carlos Berlocq
+Jurgen Melzer, Damir Dzumhur
+Joao Sousa, Joao Souza
+Thomaz Bellucci, Marcos Baghdatis
+Denis Istomin, Janko Tipsarevic
+Albert Ramos, Marinko Matosevic
+Mikhail Youzhny, Jan Lennard Struff
+Santiago Giraldo, Ricardas Berankis
+Andrey Rublev, Jarkko Nieminen
+Stan Wawrinka, Lukas Rosol
+Federico Delbonis, Andrey Kuznetsov
+Pablo Andujar, Adrian Mannarino
+Joao Sousa, Jurgen Melzer
+Thomaz Bellucci, Denis Istomin
+Albert Ramos, Benjamin Becker
+Santiago Giraldo, Mikhail Youzhny
+Marin Cilic, Andrey Rublev
+Federico Delbonis, Stan Wawrinka
+Joao Sousa, Pablo Andujar
+Thomaz Bellucci, Albert Ramos
+Santiago Giraldo, Marin Cilic
+Joao Sousa, Federico Delbonis
+Thomaz Bellucci, Santiago Giraldo
+Thomaz Bellucci, Joao Sousa
+James Duckworth, Frances Tiafoe
+Borna Coric, Sam Groth
+Gianni Mina, Bernard Tomic
+Lucas Pouille, Tim Smyczek
+Sam Querrey, Ruben Bemelmans
+Juan Monaco, Benoit Paire
+Nick Kyrgios, Mikhail Kukushkin
+Dominic Thiem, Victor Estrella
+Alexandr Dolgopolov, Sergiy Stakhovsky
+Dusan Lajovic, Jack Sock
+Pablo Carreno Busta, Maxime Hamou
+Steve Johnson, Michael Venus
+James Duckworth, Quentin Halys
+Borna Coric, Gianni Mina
+Leonardo Mayer, Lucas Pouille
+Juan Monaco, Sam Querrey
+Dominic Thiem, Nick Kyrgios
+Ernests Gulbis, Alexandr Dolgopolov
+Dusan Lajovic, Pablo Carreno Busta
+John Isner, Steve Johnson
+Borna Coric, James Duckworth
+Leonardo Mayer, Juan Monaco
+Dominic Thiem, Ernests Gulbis
+John Isner, Dusan Lajovic
+Leonardo Mayer, Borna Coric
+Dominic Thiem, John Isner
+Dominic Thiem, Leonardo Mayer
+Novak Djokovic, Jarkko Nieminen
+Gilles Muller, Paolo Lorenzi
+Thanasi Kokkinakis, Nikoloz Basilashvili
+Bernard Tomic, Luca Vanni
+Richard Gasquet, Germain Gigounon
+Carlos Berlocq, Illya Marchenko
+Yen Hsun Lu, Blaz Kavcic
+Kevin Anderson, Tim Smyczek
+Jack Sock, Grigor Dimitrov
+Pablo Carreno Busta, Victor Estrella
+Borna Coric, Sam Querrey
+Tommy Robredo, Andrey Golubev
+Jurgen Melzer, Adrian Mannarino
+Andrey Kuznetsov, Malek Jaziri
+Nicolas Almagro, Alexandr Dolgopolov
+Rafael Nadal, Quentin Halys
+Andy Murray, Facundo Arguello
+Joao Sousa, Vasek Pospisil
+Kyle Edmund, Stephane Robert
+Nick Kyrgios, Denis Istomin
+David Goffin, Filip Krajinovic
+Santiago Giraldo, Donald Young
+Jeremy Chardy, Michael Berrer
+John Isner, Andreas Seppi
+Marin Cilic, Robin Haase
+Andrea Arnaboldi, James Duckworth
+Jerzy Janowicz, Maxime Hamou
+Leonardo Mayer, Jiri Vesely
+Viktor Troicki, Jan Lennard Struff
+Simone Bolelli, Steve Darcis
+Daniel Gimeno Traver, Joao Souza
+David Ferrer, Lukas Lacko
+Kei Nishikori, Paul Henri Mathieu
+Thomaz Bellucci, Marinko Matosevic
+Benjamin Becker, Ruben Bemelmans
+Fernando Verdasco, Taro Daniel
+Roberto Bautista Agut, Florian Mayer
+Lukas Rosol, Elias Ymer
+Juan Monaco, Federico Delbonis
+Teymuraz Gabashvili, Feliciano Lopez
+Jo-Wilfried Tsonga, Christian Lindell
+Dudi Sela, Mikhail Kukushkin
+Pablo Andujar, Albert Ramos
+Philipp Kohlschreiber, Go Soeda
+Fabio Fognini, Tatsuma Ito
+Benoit Paire, Gastao Elias
+Radek Stepanek, Ivan Dodig
+Tomas Berdych, Yoshihito Nishioka
+Stan Wawrinka, Marsel Ilhan
+Dusan Lajovic, Maximo Gonzalez
+Sergiy Stakhovsky, Ricardas Berankis
+Steve Johnson, Guillermo Garcia Lopez
+Ernests Gulbis, Igor Sijsling
+Nicolas Mahut, Kimmer Coppejans
+Martin Klizan, Frances Tiafoe
+Gilles Simon, Lucas Pouille
+Gael Monfils, Edouard Roger-Vasselin
+Diego Schwartzman, Andreas Haider Maurer
+Dominic Thiem, Aljaz Bedene
+Pablo Cuevas, Sam Groth
+Marcos Baghdatis, Ivo Karlovic
+Damir Dzumhur, Mikhail Youzhny
+Marcel Granollers, Matthias Bachinger
+Roger Federer, Alejandro Falla
+Novak Djokovic, Gilles Muller
+Thanasi Kokkinakis, Bernard Tomic
+Richard Gasquet, Carlos Berlocq
+Kevin Anderson, Yen Hsun Lu
+Jack Sock, Pablo Carreno Busta
+Borna Coric, Tommy Robredo
+Andrey Kuznetsov, Jurgen Melzer
+Rafael Nadal, Nicolas Almagro
+Andy Murray, Joao Sousa
+Nick Kyrgios, Kyle Edmund
+David Goffin, Santiago Giraldo
+Jeremy Chardy, John Isner
+Marin Cilic, Andrea Arnaboldi
+Leonardo Mayer, Jerzy Janowicz
+Simone Bolelli, Viktor Troicki
+David Ferrer, Daniel Gimeno Traver
+Kei Nishikori, Thomaz Bellucci
+Benjamin Becker, Fernando Verdasco
+Lukas Rosol, Roberto Bautista Agut
+Teymuraz Gabashvili, Juan Monaco
+Jo-Wilfried Tsonga, Dudi Sela
+Pablo Andujar, Philipp Kohlschreiber
+Benoit Paire, Fabio Fognini
+Tomas Berdych, Radek Stepanek
+Stan Wawrinka, Dusan Lajovic
+Steve Johnson, Sergiy Stakhovsky
+Nicolas Mahut, Ernests Gulbis
+Gilles Simon, Martin Klizan
+Gael Monfils, Diego Schwartzman
+Pablo Cuevas, Dominic Thiem
+Damir Dzumhur, Marcos Baghdatis
+Roger Federer, Marcel Granollers
+Novak Djokovic, Thanasi Kokkinakis
+Richard Gasquet, Kevin Anderson
+Jack Sock, Borna Coric
+Rafael Nadal, Andrey Kuznetsov
+Andy Murray, Nick Kyrgios
+Jeremy Chardy, David Goffin
+Marin Cilic, Leonardo Mayer
+David Ferrer, Simone Bolelli
+Kei Nishikori, Benjamin Becker
+Teymuraz Gabashvili, Lukas Rosol
+Jo-Wilfried Tsonga, Pablo Andujar
+Tomas Berdych, Benoit Paire
+Stan Wawrinka, Steve Johnson
+Gilles Simon, Nicolas Mahut
+Gael Monfils, Pablo Cuevas
+Roger Federer, Damir Dzumhur
+Novak Djokovic, Richard Gasquet
+Rafael Nadal, Jack Sock
+Andy Murray, Jeremy Chardy
+David Ferrer, Marin Cilic
+Kei Nishikori, Teymuraz Gabashvili
+Jo-Wilfried Tsonga, Tomas Berdych
+Stan Wawrinka, Gilles Simon
+Roger Federer, Gael Monfils
+Novak Djokovic, Rafael Nadal
+Andy Murray, David Ferrer
+Jo-Wilfried Tsonga, Kei Nishikori
+Stan Wawrinka, Roger Federer
+Novak Djokovic, Andy Murray
+Stan Wawrinka, Jo-Wilfried Tsonga
+Stan Wawrinka, Novak Djokovic
+Tatsuma Ito, Ricardas Berankis
+Robin Haase, Blaz Kavcic
+Fernando Verdasco, Daniel Gimeno Traver
+Nicolas Mahut, Lleyton Hewitt
+Marco Chiudinelli, Benoit Paire
+Adrian Mannarino, Yen Hsun Lu
+Vasek Pospisil, Marinko Matosevic
+Gilles Muller, Marsel Ilhan
+Marius Copil, Jarkko Nieminen
+Joao Sousa, Denis Istomin
+Illya Marchenko, Mikhail Youzhny
+Jurgen Melzer, Kenny De Schepper
+Ivo Karlovic, Tatsuma Ito
+Robin Haase, Fernando Verdasco
+Nicolas Mahut, Roberto Bautista Agut
+Adrian Mannarino, Marco Chiudinelli
+Gilles Muller, Vasek Pospisil
+Marius Copil, Guillermo Garcia Lopez
+Illya Marchenko, Joao Sousa
+David Goffin, Jurgen Melzer
+Robin Haase, Ivo Karlovic
+Nicolas Mahut, Adrian Mannarino
+Gilles Muller, Marius Copil
+David Goffin, Illya Marchenko
+Nicolas Mahut, Robin Haase
+David Goffin, Gilles Muller
+Nicolas Mahut, David Goffin
+Marcos Baghdatis, Lukas Rosol
+Tommy Haas, Mikhail Kukushkin
+Bernard Tomic, Jan Lennard Struff
+Andreas Haider Maurer, Maximilian Marterer
+Jerzy Janowicz, Dustin Brown
+Philipp Kohlschreiber, Alexandr Dolgopolov
+Viktor Troicki, Borna Coric
+Alexander Zverev, Mate Pavic
+Sam Groth, Sergiy Stakhovsky
+Mischa Zverev, Dominic Thiem
+Andreas Seppi, Benjamin Becker
+Matthias Bachinger, Peter Gojowczyk
+Rafael Nadal, Marcos Baghdatis
+Bernard Tomic, Tommy Haas
+Gael Monfils, Andreas Haider Maurer
+Philipp Kohlschreiber, Jerzy Janowicz
+Viktor Troicki, Alexander Zverev
+Sam Groth, Feliciano Lopez
+Mischa Zverev, Andreas Seppi
+Marin Cilic, Matthias Bachinger
+Rafael Nadal, Bernard Tomic
+Gael Monfils, Philipp Kohlschreiber
+Viktor Troicki, Sam Groth
+Marin Cilic, Mischa Zverev
+Rafael Nadal, Gael Monfils
+Viktor Troicki, Marin Cilic
+Rafael Nadal, Viktor Troicki
+Roger Federer, Philipp Kohlschreiber
+Ernests Gulbis, Sergiy Stakhovsky
+Florian Mayer, Jan Lennard Struff
+Steve Johnson, Bernard Tomic
+Tomas Berdych, Victor Estrella
+Borna Coric, Donald Young
+Alexander Zverev, Jarkko Nieminen
+Ivo Karlovic, Santiago Giraldo
+Tommy Robredo, Ricardas Berankis
+Andreas Seppi, Tommy Haas
+Mikhail Kukushkin, Jiri Vesely
+Gael Monfils, Lukas Rosol
+Jerzy Janowicz, Pablo Cuevas
+Alejandro Falla, Lukas Lacko
+Dustin Brown, Andreas Haider Maurer
+Kei Nishikori, Dominic Thiem
+Roger Federer, Ernests Gulbis
+Florian Mayer, Steve Johnson
+Tomas Berdych, Borna Coric
+Ivo Karlovic, Alexander Zverev
+Andreas Seppi, Tommy Robredo
+Gael Monfils, Mikhail Kukushkin
+Jerzy Janowicz, Alejandro Falla
+Kei Nishikori, Dustin Brown
+Roger Federer, Florian Mayer
+Ivo Karlovic, Tomas Berdych
+Andreas Seppi, Gael Monfils
+Kei Nishikori, Jerzy Janowicz
+Roger Federer, Ivo Karlovic
+Andreas Seppi, Kei Nishikori
+Roger Federer, Andreas Seppi
+Andy Murray, Yen Hsun Lu
+Fernando Verdasco, Roberto Bautista Agut
+Gilles Muller, Mikhail Youzhny
+Grigor Dimitrov, Sam Querrey
+Marin Cilic, Adrian Mannarino
+Viktor Troicki, Paul Henri Mathieu
+John Isner, Jared Donaldson
+Feliciano Lopez, Joao Sousa
+Gilles Simon, David Goffin
+Thanasi Kokkinakis, Jeremy Chardy
+Richard Gasquet, Simone Bolelli
+Milos Raonic, James Ward
+Alexandr Dolgopolov, Rafael Nadal
+Guillermo Garcia Lopez, Pablo Andujar
+Kevin Anderson, Lleyton Hewitt
+Stan Wawrinka, Nick Kyrgios
+Andy Murray, Fernando Verdasco
+Gilles Muller, Grigor Dimitrov
+Viktor Troicki, Marin Cilic
+John Isner, Feliciano Lopez
+Gilles Simon, Thanasi Kokkinakis
+Milos Raonic, Richard Gasquet
+Guillermo Garcia Lopez, Alexandr Dolgopolov
+Kevin Anderson, Stan Wawrinka
+Andy Murray, Gilles Muller
+Viktor Troicki, John Isner
+Gilles Simon, Milos Raonic
+Kevin Anderson, Guillermo Garcia Lopez
+Andy Murray, Viktor Troicki
+Kevin Anderson, Gilles Simon
+Andy Murray, Kevin Anderson
+Marcos Baghdatis, Victor Estrella
+Alexander Zverev, Mikhail Kukushkin
+Simone Bolelli, Go Soeda
+Aljaz Bedene, Diego Schwartzman
+Hyeon Chung, Albert Ramos
+Tim Smyczek, James Ward
+Denis Istomin, Nicolas Almagro
+Sergiy Stakhovsky, Steve Johnson
+Malek Jaziri, Kyle Edmund
+Alexandr Dolgopolov, Donald Young
+Yen Hsun Lu, Ruben Bemelmans
+Taylor Fritz, Pablo Carreno Busta
+Dudi Sela, Daniel Gimeno Traver
+Santiago Giraldo, Andreas Haider Maurer
+Sam Groth, Mischa Zverev
+Marcel Granollers, Vasek Pospisil
+Marcos Baghdatis, David Ferrer
+Alexander Zverev, Thomaz Bellucci
+Simone Bolelli, Martin Klizan
+Adrian Mannarino, Aljaz Bedene
+Leonardo Mayer, Hyeon Chung
+Jiri Vesely, Tim Smyczek
+Denis Istomin, Juan Monaco
+Sergiy Stakhovsky, Viktor Troicki
+Dominic Thiem, Malek Jaziri
+Alexandr Dolgopolov, Pablo Andujar
+Yen Hsun Lu, Andreas Seppi
+Feliciano Lopez, Taylor Fritz
+Pablo Cuevas, Dudi Sela
+Sam Querrey, Santiago Giraldo
+Joao Sousa, Sam Groth
+Gilles Simon, Marcel Granollers
+Marcos Baghdatis, Alexander Zverev
+Simone Bolelli, Adrian Mannarino
+Leonardo Mayer, Jiri Vesely
+Denis Istomin, Sergiy Stakhovsky
+Alexandr Dolgopolov, Dominic Thiem
+Yen Hsun Lu, Feliciano Lopez
+Sam Querrey, Pablo Cuevas
+Gilles Simon, Joao Sousa
+Marcos Baghdatis, Simone Bolelli
+Denis Istomin, Leonardo Mayer
+Alexandr Dolgopolov, Yen Hsun Lu
+Sam Querrey, Gilles Simon
+Denis Istomin, Marcos Baghdatis
+Sam Querrey, Alexandr Dolgopolov
+Denis Istomin, Sam Querrey
+Novak Djokovic, Philipp Kohlschreiber
+Jarkko Nieminen, Lleyton Hewitt
+Pierre Hugues Herbert, Hyeon Chung
+Bernard Tomic, Jan Lennard Struff
+Leonardo Mayer, Thanasi Kokkinakis
+Marcel Granollers, Janko Tipsarevic
+Marsel Ilhan, Jerzy Janowicz
+Kevin Anderson, Lucas Pouille
+Marin Cilic, Hiroki Moriya
+Ricardas Berankis, Andreas Haider Maurer
+Matthew Ebden, Blaz Rola
+John Isner, Go Soeda
+Denis Kudla, Pablo Cuevas
+Alexander Zverev, Teymuraz Gabashvili
+Santiago Giraldo, Joao Souza
+Kei Nishikori, Simone Bolelli
+Stan Wawrinka, Joao Sousa
+Victor Estrella, Benjamin Becker
+Fernando Verdasco, Martin Klizan
+Dominic Thiem, Dudi Sela
+John Millman, Tommy Robredo
+Marcos Baghdatis, Donald Young
+Liam Broady, Marinko Matosevic
+David Goffin, Horacio Zeballos
+Grigor Dimitrov, Federico Delbonis
+Steve Johnson, Lukas Lacko
+Kenny De Schepper, John Patrick Smith
+Richard Gasquet, Luke Saville
+Nick Kyrgios, Diego Schwartzman
+Juan Monaco, Florian Mayer
+Tommy Haas, Dusan Lajovic
+Milos Raonic, Daniel Gimeno Traver
+James Ward, Luca Vanni
+Jiri Vesely, Paolo Lorenzi
+Vasek Pospisil, Vincent Millot
+Fabio Fognini, Tim Smyczek
+Viktor Troicki, Aleksandr Nedovyesov
+Aljaz Bedene, Radek Stepanek
+Dustin Brown, Yen Hsun Lu
+Rafael Nadal, Thomaz Bellucci
+Jo-Wilfried Tsonga, Gilles Muller
+Albert Ramos, Denis Istomin
+Alexandr Dolgopolov, Kyle Edmund
+Ivo Karlovic, Elias Ymer
+Andreas Seppi, Brydan Klein
+Borna Coric, Sergiy Stakhovsky
+Robin Haase, Alejandro Falla
+Andy Murray, Mikhail Kukushkin
+Tomas Berdych, Jeremy Chardy
+Nicolas Mahut, Filip Krajinovic
+Lukas Rosol, Ernests Gulbis
+Pablo Andujar, Guillermo Garcia Lopez
+Gael Monfils, Pablo Carreno Busta
+Adrian Mannarino, Michael Berrer
+Blaz Kavcic, Yuichi Sugita
+Gilles Simon, Nicolas Almagro
+Feliciano Lopez, Steve Darcis
+Nikoloz Basilashvili, Facundo Bagnis
+Benoit Paire, Mikhail Youzhny
+Roberto Bautista Agut, Ruben Bemelmans
+Sam Groth, Jack Sock
+James Duckworth, Malek Jaziri
+Sam Querrey, Igor Sijsling
+Roger Federer, Damir Dzumhur
+Novak Djokovic, Jarkko Nieminen
+Bernard Tomic, Pierre Hugues Herbert
+Leonardo Mayer, Marcel Granollers
+Kevin Anderson, Marsel Ilhan
+Marin Cilic, Ricardas Berankis
+John Isner, Matthew Ebden
+Denis Kudla, Alexander Zverev
+Santiago Giraldo, Kei Nishikori
+Stan Wawrinka, Victor Estrella
+Fernando Verdasco, Dominic Thiem
+Marcos Baghdatis, John Millman
+David Goffin, Liam Broady
+Grigor Dimitrov, Steve Johnson
+Richard Gasquet, Kenny De Schepper
+Nick Kyrgios, Juan Monaco
+Milos Raonic, Tommy Haas
+James Ward, Jiri Vesely
+Vasek Pospisil, Fabio Fognini
+Viktor Troicki, Aljaz Bedene
+Dustin Brown, Rafael Nadal
+Jo-Wilfried Tsonga, Albert Ramos
+Ivo Karlovic, Alexandr Dolgopolov
+Andreas Seppi, Borna Coric
+Andy Murray, Robin Haase
+Tomas Berdych, Nicolas Mahut
+Pablo Andujar, Lukas Rosol
+Gael Monfils, Adrian Mannarino
+Gilles Simon, Blaz Kavcic
+Nikoloz Basilashvili, Feliciano Lopez
+Roberto Bautista Agut, Benoit Paire
+Sam Groth, James Duckworth
+Roger Federer, Sam Querrey
+Novak Djokovic, Bernard Tomic
+Kevin Anderson, Leonardo Mayer
+Marin Cilic, John Isner
+Denis Kudla, Santiago Giraldo
+Stan Wawrinka, Fernando Verdasco
+David Goffin, Marcos Baghdatis
+Richard Gasquet, Grigor Dimitrov
+Nick Kyrgios, Milos Raonic
+Vasek Pospisil, James Ward
+Viktor Troicki, Dustin Brown
+Ivo Karlovic, Jo-Wilfried Tsonga
+Andy Murray, Andreas Seppi
+Tomas Berdych, Pablo Andujar
+Gilles Simon, Gael Monfils
+Roberto Bautista Agut, Nikoloz Basilashvili
+Roger Federer, Sam Groth
+Novak Djokovic, Kevin Anderson
+Marin Cilic, Denis Kudla
+Stan Wawrinka, David Goffin
+Richard Gasquet, Nick Kyrgios
+Vasek Pospisil, Viktor Troicki
+Andy Murray, Ivo Karlovic
+Gilles Simon, Tomas Berdych
+Roger Federer, Roberto Bautista Agut
+Novak Djokovic, Marin Cilic
+Richard Gasquet, Stan Wawrinka
+Andy Murray, Vasek Pospisil
+Roger Federer, Gilles Simon
+Novak Djokovic, Richard Gasquet
+Roger Federer, Andy Murray
+Novak Djokovic, Roger Federer
+Rajeev Ram, John Isner
+Yuichi Sugita, Ryan Harrison
+Edouard Roger-Vasselin, Blaz Kavcic
+Adrian Mannarino, Tommy Haas
+John Patrick Smith, Bernard Tomic
+Jared Donaldson, Austin Krajicek
+Tatsuma Ito, Noah Rubin
+Steve Johnson, Michael Berrer
+Jan Hernych, Tim Smyczek
+Alejandro Falla, Adrian Menendez Maceiras
+Lukas Lacko, Niels Desein
+Jack Sock, Radek Stepanek
+Sam Querrey, Matthew Ebden
+Dustin Brown, Adrien Bossel
+Malek Jaziri, Ante Pavic
+Ivo Karlovic, Illya Marchenko
+Rajeev Ram, Yuichi Sugita
+Adrian Mannarino, Edouard Roger-Vasselin
+John Patrick Smith, Jared Donaldson
+Tatsuma Ito, Steve Johnson
+Jan Hernych, Alejandro Falla
+Jack Sock, Lukas Lacko
+Dustin Brown, Sam Querrey
+Ivo Karlovic, Malek Jaziri
+Rajeev Ram, Adrian Mannarino
+John Patrick Smith, Tatsuma Ito
+Jack Sock, Jan Hernych
+Ivo Karlovic, Dustin Brown
+Rajeev Ram, John Patrick Smith
+Ivo Karlovic, Jack Sock
+Rajeev Ram, Ivo Karlovic
+Aqeel Khan, Aditya Hari Sasongko
+Samir Iftikhar, David Agung Susanto
+M Abid Ali Khan Akbar, David Agung Susanto
+Dudi Sela, Nik Razborsek
+Amir Weintraub, Grega Zemlja
+Aljaz Radinski, Ben Patael
+Nik Razborsek, Amir Weintraub
+Thiemo De Bakker, Dominic Thiem
+Andreas Haider Maurer, Robin Haase
+Robin Haase, Dominic Thiem
+Oliver Marach, Jesse Huta Galung
+Victor Estrella, Ivan Endara
+Gonzalo Escobar, Jose Hernandez
+Victor Estrella, Gonzalo Escobar
+Emilio Gomez, Roberto Cid
+Michael Venus, Somdev Devvarman
+Yuki Bhambri, Jose Rubin Statham
+Somdev Devvarman, Marcus Daniell
+Yuki Bhambri, Michael Venus
+Alexandr Dolgopolov, Jerzy Janowicz
+Michal Przysiezny, Sergiy Stakhovsky
+Jerzy Janowicz, Sergiy Stakhovsky
+Marius Copil, Norbert Gombos
+Martin Klizan, Adrian Ungur
+Martin Klizan, Marius Copil
+Adrian Ungur, Norbert Gombos
+Tommy Robredo, Andrey Rublev
+Pablo Andujar, Karen Khachanov
+Evgeny Donskoy, Tommy Robredo
+Andrey Rublev, Pablo Andujar
+Hyeon Chung, Farrukh Dustov
+Denis Istomin, Seong Chan Hong
+Denis Istomin, Hyeon Chung
+Seong Chan Hong, Temur Ismailov
+Shahin Khaledan, Abdullah Maqdas
+Mohammad Ghareeb, Mohsen Hossein Zade
+Abdullah Maqdas, Anoosha Shahgholi
+Martins Podzus, Jacob Rasolondrazana
+Antso Rakotondramanga, Mikelis Libietis
+Martins Podzus, Antso Rakotondramanga
+Jean Jacques Rakotohasy, Janis Podzus
+Yassine Idmbarek, Benjamin Balleret
+Romain Arneodo, Lamine Ouahab
+Benjamin Balleret, Lamine Ouahab
+Federico Zeballos, Duilio Beretta
+Hugo Dellien, Juan Pablo Varillas
+Duilio Beretta, Hugo Dellien
+Mauricio Echazu, Rodrigo Banzer
+Alex Llompart, Ignaci Roca
+Alex Diaz, Pablo Nunez
+Christian Garay, Julian Saborio
+Alex Diaz, Ignaci Roca
+Fritz Wolmarans, James Mcgee
+Tucker Vorster, Sam Barry
+Tucker Vorster, James Mcgee
+Ruan Roelofse, Sam Barry
+Sharmal Dissanayake, Jad Ballout
+Harshana Godamanna, Hady Habib
+Hady Habib, Sharmal Dissanayake
+Harshana Godamanna, Giovani Samaha
+Takanyi Garanganga, Maxim Bulat
+Benjamin Lock, Dmitrii Baskov
+Takanyi Garanganga, Andrei Soltoianu
+Benjamin Lock, Egor Matvievici
+Juan Carlos Saez, Lucas Gomez
+Cristian Garin, Tigre Hank
+Juan Carlos Saez, Tigre Hank
+Cristian Garin, Gerardo Lopez Villasenor
+Marton Fucsovics, Tomislav Brkic
+Mirza Basic, Peter Nagy
+Marton Fucsovics, Mirza Basic
+Peter Nagy, Tomislav Brkic
+Dimitar Kuzmanov, Ugo Nastasi
+Grigor Dimitrov, Gilles Kremer
+Dimitar Kutrovsky, Ugo Nastasi
+Tihomir Grozdanov, Alex Knaff
+Joao Sousa, Henrik Sillanpaa
+Jarkko Nieminen, Rui Machado
+Joao Sousa, Jarkko Nieminen
+Frederico Ferreira Silva, Micke Kontinen
+Jui Chen Hung, Jeson Patrombon
+Yen Hsun Lu, Patrick Tierro
+Yen Hsun Lu, Ruben Gonzales
+Marsel Ilhan, Egor Gerasimov
+Dzmitry Zhyrmont, Cem Ilkel
+Marsel Ilhan, Dzmitry Zhyrmont
+Egor Gerasimov, Cem Ilkel
+Marcelo Arevalo, David Souto
+Ricardo Rodriguez, Rafael Arevalo
+Marcelo Arevalo, Ricardo Rodriguez
+David Souto, Rafael Arevalo
+Leonardo Mayer, Filip Krajinovic
+Federico Delbonis, Viktor Troicki
+Dusan Lajovic, Diego Schwartzman
+Carlos Berlocq, Filip Krajinovic
+Mikhail Kukushkin, Thanasi Kokkinakis
+Aleksandr Nedovyesov, Nick Kyrgios
+Sam Groth, Mikhail Kukushkin
+Lleyton Hewitt, Aleksandr Nedovyesov
+Steve Darcis, Frank Dancevic
+David Goffin, Filip Peliwo
+Kimmer Coppejans, Frank Dancevic
+Steve Darcis, Filip Peliwo
+Gilles Simon, James Ward
+Andy Murray, Jo-Wilfried Tsonga
+Andy Murray, Gilles Simon
+Benoit Paire, Markus Eriksson
+Denis Istomin, Diego Schwartzman
+Nicolas Almagro, Fernando Verdasco
+Federico Delbonis, Rogerio Dutra Silva
+Steve Darcis, Daniel Gimeno Traver
+Jerzy Janowicz, Andrea Arnaboldi
+Thomaz Bellucci, Elias Ymer
+Christian Lindell, Joao Souza
+Alexander Zverev, Julian Reister
+Paul Henri Mathieu, Jeremy Chardy
+Ernests Gulbis, Marsel Ilhan
+Albert Ramos, Luca Vanni
+Benoit Paire, David Goffin
+Denis Istomin, Nicolas Almagro
+Pablo Cuevas, Federico Delbonis
+Steve Darcis, Jerzy Janowicz
+Thomaz Bellucci, Christian Lindell
+Alexander Zverev, Juan Monaco
+Paul Henri Mathieu, Ernests Gulbis
+Tommy Robredo, Albert Ramos
+Benoit Paire, Denis Istomin
+Pablo Cuevas, Steve Darcis
+Alexander Zverev, Thomaz Bellucci
+Tommy Robredo, Paul Henri Mathieu
+Benoit Paire, Pablo Cuevas
+Tommy Robredo, Alexander Zverev
+Benoit Paire, Tommy Robredo
+Daniel Elahi Galan, Pere Riba
+Radek Stepanek, Edouard Roger-Vasselin
+Sam Groth, Guido Pella
+Rajeev Ram, Alejandro Falla
+Alexander Sarkissian, John Millman
+Malek Jaziri, Austin Krajicek
+Michael Berrer, James Ward
+Marcelo Demoliner, Illya Marchenko
+Yuichi Sugita, Nicolas Barrientos
+Alejandro Gomez Gb42, Marcos Baghdatis
+Tatsuma Ito, Matthew Ebden
+Adrian Menendez Maceiras, Alejandro Gonzalez
+Ivo Karlovic, Daniel Elahi Galan
+Radek Stepanek, Sam Groth
+Adrian Mannarino, Rajeev Ram
+Malek Jaziri, Alexander Sarkissian
+Michael Berrer, Marcelo Demoliner
+Victor Estrella, Yuichi Sugita
+Tatsuma Ito, Alejandro Gomez Gb42
+Bernard Tomic, Adrian Menendez Maceiras
+Ivo Karlovic, Radek Stepanek
+Adrian Mannarino, Malek Jaziri
+Michael Berrer, Victor Estrella
+Bernard Tomic, Tatsuma Ito
+Adrian Mannarino, Ivo Karlovic
+Bernard Tomic, Michael Berrer
+Bernard Tomic, Adrian Mannarino
+Bastian Trinker, Mikhail Youzhny
+Paolo Lorenzi, Matteo Trevisan
+Philipp Kohlschreiber, Santiago Giraldo
+Dusan Lajovic, Laslo Djere
+Andreas Haider Maurer, Thomas Fabbiano
+Martin Klizan, Pablo Carreno Busta
+Fabio Fognini, Jiri Vesely
+Damir Dzumhur, Lukas Rosol
+Joao Sousa, Toni Androic
+Borna Coric, Marcel Granollers
+Aljaz Bedene, Mate Delic
+Blaz Kavcic, Andrey Rublev
+Gael Monfils, Bastian Trinker
+Philipp Kohlschreiber, Paolo Lorenzi
+Dominic Thiem, Dusan Lajovic
+Andreas Haider Maurer, Martin Klizan
+Fabio Fognini, Damir Dzumhur
+Joao Sousa, Andreas Seppi
+Borna Coric, Aljaz Bedene
+Roberto Bautista Agut, Blaz Kavcic
+Gael Monfils, Philipp Kohlschreiber
+Dominic Thiem, Andreas Haider Maurer
+Joao Sousa, Fabio Fognini
+Roberto Bautista Agut, Borna Coric
+Dominic Thiem, Gael Monfils
+Joao Sousa, Roberto Bautista Agut
+Dominic Thiem, Joao Sousa
+Radek Stepanek, Christopher Eubanks
+Ricardas Berankis, Tim Smyczek
+Steve Johnson, Lukas Lacko
+Denis Kudla, Ryan Harrison
+Dudi Sela, Mardy Fish
+Benjamin Becker, Michael Berrer
+Gilles Muller, Donald Young
+Jared Donaldson, Somdev Devvarman
+Go Soeda, Alexandr Dolgopolov
+Marcos Baghdatis, Austin Krajicek
+Sam Groth, Frances Tiafoe
+Yen Hsun Lu, Malek Jaziri
+John Isner, Radek Stepanek
+Ricardas Berankis, Steve Johnson
+Denis Kudla, Jack Sock
+Dudi Sela, Benjamin Becker
+Gilles Muller, Jared Donaldson
+Go Soeda, Adrian Mannarino
+Marcos Baghdatis, Sam Groth
+Vasek Pospisil, Yen Hsun Lu
+John Isner, Ricardas Berankis
+Denis Kudla, Dudi Sela
+Gilles Muller, Go Soeda
+Marcos Baghdatis, Vasek Pospisil
+John Isner, Denis Kudla
+Marcos Baghdatis, Gilles Muller
+John Isner, Marcos Baghdatis
+Horacio Zeballos, Andrey Rublev
+Denis Istomin, Maxime Teixeira
+Joao Sousa, Henri Laaksonen
+Dusan Lajovic, Calvin Hemery
+Stephane Robert, Joao Souza
+Thomaz Bellucci, Kimmer Coppejans
+Pablo Carreno Busta, Mikhail Youzhny
+Robin Haase, Marcel Granollers
+Federico Delbonis, Marco Chiudinelli
+Santiago Giraldo, Paolo Lorenzi
+Marsel Ilhan, Andrey Kuznetsov
+Julian Reister, Blaz Kavcic
+David Goffin, Horacio Zeballos
+Joao Sousa, Denis Istomin
+Pablo Andujar, Dusan Lajovic
+Thomaz Bellucci, Stephane Robert
+Pablo Carreno Busta, Robin Haase
+Dominic Thiem, Federico Delbonis
+Santiago Giraldo, Marsel Ilhan
+Feliciano Lopez, Julian Reister
+David Goffin, Joao Sousa
+Thomaz Bellucci, Pablo Andujar
+Dominic Thiem, Pablo Carreno Busta
+Feliciano Lopez, Santiago Giraldo
+David Goffin, Thomaz Bellucci
+Dominic Thiem, Feliciano Lopez
+Dominic Thiem, David Goffin
+Rafael Nadal, Fernando Verdasco
+Jiri Vesely, Andreas Haider Maurer
+Jerzy Janowicz, Taro Daniel
+Pablo Cuevas, Diego Schwartzman
+Andreas Seppi, Martin Klizan
+Florian Mayer, Albert Montanes
+Simone Bolelli, Lukas Rosol
+Jaume Munar, Guillermo Garcia Lopez
+Fabio Fognini, Jeremy Chardy
+Albert Ramos, Nicolas Almagro
+Aljaz Bedene, Daniel Gimeno Traver
+Roberto Bautista Agut, Borna Coric
+Juan Monaco, Ernests Gulbis
+Lucas Pouille, Inigo Cervantes Huegun
+Benoit Paire, Philipp Kohlschreiber
+Tommy Robredo, Alexander Zverev
+Rafael Nadal, Jiri Vesely
+Pablo Cuevas, Jerzy Janowicz
+Andreas Seppi, Florian Mayer
+Simone Bolelli, Jaume Munar
+Fabio Fognini, Albert Ramos
+Aljaz Bedene, Roberto Bautista Agut
+Lucas Pouille, Juan Monaco
+Benoit Paire, Tommy Robredo
+Rafael Nadal, Pablo Cuevas
+Andreas Seppi, Simone Bolelli
+Fabio Fognini, Aljaz Bedene
+Lucas Pouille, Benoit Paire
+Rafael Nadal, Andreas Seppi
+Fabio Fognini, Lucas Pouille
+Rafael Nadal, Fabio Fognini
+Andreas Haider Maurer, Joao Souza
+Albert Montanes, Gerald Melzer
+Diego Schwartzman, Albert Ramos
+Dennis Novak, Aljaz Bedene
+Santiago Giraldo, Rogerio Dutra Silva
+Philipp Kohlschreiber, Jan Lennard Struff
+Robin Haase, Juan Monaco
+Federico Delbonis, Pablo Carreno Busta
+Paul Henri Mathieu, Kenny De Schepper
+Nicolas Almagro, Jiri Vesely
+Jurgen Melzer, Daniel Gimeno Traver
+Dusan Lajovic, Mikhail Youzhny
+Dominic Thiem, Andreas Haider Maurer
+Albert Montanes, Diego Schwartzman
+Fabio Fognini, Dennis Novak
+Philipp Kohlschreiber, Santiago Giraldo
+Federico Delbonis, Robin Haase
+Paul Henri Mathieu, Martin Klizan
+Nicolas Almagro, Jurgen Melzer
+Dusan Lajovic, Andreas Seppi
+Dominic Thiem, Albert Montanes
+Philipp Kohlschreiber, Fabio Fognini
+Paul Henri Mathieu, Federico Delbonis
+Nicolas Almagro, Dusan Lajovic
+Philipp Kohlschreiber, Dominic Thiem
+Paul Henri Mathieu, Nicolas Almagro
+Philipp Kohlschreiber, Paul Henri Mathieu
+Teymuraz Gabashvili, Benjamin Becker
+Ricardas Berankis, Yen Hsun Lu
+Donald Young, Tommy Haas
+Victor Estrella, Nicolas Jarry
+Gilles Muller, Malek Jaziri
+Ruben Bemelmans, Marinko Matosevic
+Steve Johnson, Lukas Lacko
+Guido Pella, Ivan Dodig
+Alexander Zverev, Yoshihito Nishioka
+Alexandr Dolgopolov, Tim Smyczek
+Go Soeda, Darian King
+Hyeon Chung, Dudi Sela
+Lleyton Hewitt, John Patrick Smith
+Sam Groth, Thomaz Bellucci
+Blaz Rola, Denis Kudla
+James Duckworth, Ryan Harrison
+Teymuraz Gabashvili, Andy Murray
+Ricardas Berankis, Pablo Cuevas
+Vasek Pospisil, Donald Young
+John Isner, Victor Estrella
+Richard Gasquet, Gilles Muller
+Jack Sock, Ruben Bemelmans
+Steve Johnson, Bernard Tomic
+Grigor Dimitrov, Guido Pella
+Alexander Zverev, Kevin Anderson
+Alexandr Dolgopolov, Ivo Karlovic
+Sam Querrey, Go Soeda
+Marin Cilic, Hyeon Chung
+Feliciano Lopez, Lleyton Hewitt
+Sam Groth, Viktor Troicki
+Leonardo Mayer, Blaz Rola
+Kei Nishikori, James Duckworth
+Ricardas Berankis, Teymuraz Gabashvili
+John Isner, Vasek Pospisil
+Jack Sock, Richard Gasquet
+Steve Johnson, Grigor Dimitrov
+Alexander Zverev, Alexandr Dolgopolov
+Marin Cilic, Sam Querrey
+Sam Groth, Feliciano Lopez
+Kei Nishikori, Leonardo Mayer
+John Isner, Ricardas Berankis
+Steve Johnson, Jack Sock
+Marin Cilic, Alexander Zverev
+Kei Nishikori, Sam Groth
+John Isner, Steve Johnson
+Kei Nishikori, Marin Cilic
+Kei Nishikori, John Isner
+Thomaz Bellucci, Pablo Cuevas
+Jack Sock, Adrian Mannarino
+Grigor Dimitrov, Alexandr Dolgopolov
+Lukas Rosol, Kevin Anderson
+Ernests Gulbis, Dominic Thiem
+Donald Young, Denis Kudla
+Nick Kyrgios, Fernando Verdasco
+Vasek Pospisil, Yen Hsun Lu
+John Isner, Benjamin Becker
+Jeremy Chardy, Nicolas Mahut
+Leonardo Mayer, Hyeon Chung
+Ivo Karlovic, Jerzy Janowicz
+Sergiy Stakhovsky, Filip Peliwo
+Mikhail Youzhny, Viktor Troicki
+Gilles Simon, Andreas Seppi
+David Goffin, Steve Johnson
+Sam Querrey, Martin Klizan
+Pablo Andujar, Frank Dancevic
+Bernard Tomic, Joao Sousa
+Roberto Bautista Agut, Janko Tipsarevic
+Jo-Wilfried Tsonga, Borna Coric
+Gael Monfils, Fabio Fognini
+Gilles Muller, Philip Bester
+Tommy Robredo, Feliciano Lopez
+Novak Djokovic, Thomaz Bellucci
+Jack Sock, Grigor Dimitrov
+Ernests Gulbis, Lukas Rosol
+Donald Young, Tomas Berdych
+Nick Kyrgios, Stan Wawrinka
+John Isner, Vasek Pospisil
+Jeremy Chardy, Leonardo Mayer
+Ivo Karlovic, Milos Raonic
+Rafael Nadal, Sergiy Stakhovsky
+Mikhail Youzhny, Gilles Simon
+David Goffin, Sam Querrey
+Kei Nishikori, Pablo Andujar
+Bernard Tomic, Marin Cilic
+Jo-Wilfried Tsonga, Roberto Bautista Agut
+Gilles Muller, Gael Monfils
+Andy Murray, Tommy Robredo
+Novak Djokovic, Jack Sock
+Ernests Gulbis, Donald Young
+John Isner, Nick Kyrgios
+Jeremy Chardy, Ivo Karlovic
+Rafael Nadal, Mikhail Youzhny
+Kei Nishikori, David Goffin
+Jo-Wilfried Tsonga, Bernard Tomic
+Andy Murray, Gilles Muller
+Novak Djokovic, Ernests Gulbis
+Jeremy Chardy, John Isner
+Kei Nishikori, Rafael Nadal
+Andy Murray, Jo-Wilfried Tsonga
+Novak Djokovic, Jeremy Chardy
+Andy Murray, Kei Nishikori
+Andy Murray, Novak Djokovic
+Benoit Paire, Gilles Muller
+Fernando Verdasco, Jo-Wilfried Tsonga
+David Goffin, Yen Hsun Lu
+Ivo Karlovic, Gilles Simon
+Martin Klizan, Dominic Thiem
+Borna Coric, Alexander Zverev
+Bernard Tomic, Sergiy Stakhovsky
+Jared Donaldson, Nicolas Mahut
+Jerzy Janowicz, Gael Monfils
+Sam Querrey, John Isner
+Tommy Robredo, Pablo Andujar
+Thomaz Bellucci, Jiri Vesely
+Joao Sousa, Philipp Kohlschreiber
+Thanasi Kokkinakis, Fabio Fognini
+Richard Gasquet, Nick Kyrgios
+Grigor Dimitrov, Lukas Rosol
+Vasek Pospisil, Denis Kudla
+Mardy Fish, Viktor Troicki
+Jeremy Chardy, Rajeev Ram
+Andreas Seppi, Adrian Mannarino
+Feliciano Lopez, Milos Raonic
+Kevin Anderson, Leonardo Mayer
+Jack Sock, Bjorn Fratangelo
+Roberto Bautista Agut, Pablo Cuevas
+Novak Djokovic, Benoit Paire
+David Goffin, Fernando Verdasco
+Ivo Karlovic, Martin Klizan
+Stan Wawrinka, Borna Coric
+Alexandr Dolgopolov, Bernard Tomic
+Jerzy Janowicz, Jared Donaldson
+Tommy Robredo, Sam Querrey
+Tomas Berdych, Thomaz Bellucci
+Marin Cilic, Joao Sousa
+Richard Gasquet, Thanasi Kokkinakis
+Grigor Dimitrov, Vasek Pospisil
+Andy Murray, Mardy Fish
+Rafael Nadal, Jeremy Chardy
+Feliciano Lopez, Andreas Seppi
+Kevin Anderson, Jack Sock
+Roger Federer, Roberto Bautista Agut
+Novak Djokovic, David Goffin
+Stan Wawrinka, Ivo Karlovic
+Alexandr Dolgopolov, Jerzy Janowicz
+Tomas Berdych, Tommy Robredo
+Richard Gasquet, Marin Cilic
+Andy Murray, Grigor Dimitrov
+Feliciano Lopez, Rafael Nadal
+Roger Federer, Kevin Anderson
+Novak Djokovic, Stan Wawrinka
+Alexandr Dolgopolov, Tomas Berdych
+Andy Murray, Richard Gasquet
+Roger Federer, Feliciano Lopez
+Novak Djokovic, Alexandr Dolgopolov
+Roger Federer, Andy Murray
+Roger Federer, Novak Djokovic
+Aljaz Bedene, Marco Cecchinato
+Pierre Hugues Herbert, Sergiy Stakhovsky
+Pablo Carreno Busta, Tommy Haas
+Simone Bolelli, Federico Delbonis
+Denis Istomin, Donald Young
+Sam Groth, Jared Donaldson
+Hyeon Chung, James Ward
+Yen Hsun Lu, Robin Haase
+Frances Tiafoe, James Duckworth
+Martin Klizan, Marsel Ilhan
+Thanasi Kokkinakis, Alexandr Dolgopolov
+Malek Jaziri, Joao Souza
+Santiago Giraldo, Steve Darcis
+Diego Schwartzman, Daniel Gimeno Traver
+Lukas Rosol, Ernests Gulbis
+Mikhail Kukushkin, Nicolas Mahut
+Aljaz Bedene, Gilles Simon
+Pierre Hugues Herbert, Marcos Baghdatis
+Pablo Carreno Busta, Joao Sousa
+Simone Bolelli, Sam Querrey
+Jo-Wilfried Tsonga, Denis Istomin
+Steve Johnson, Sam Groth
+Hyeon Chung, Benoit Paire
+Yen Hsun Lu, Guillermo Garcia Lopez
+Thomaz Bellucci, Frances Tiafoe
+Jiri Vesely, Martin Klizan
+Teymuraz Gabashvili, Thanasi Kokkinakis
+Malek Jaziri, Viktor Troicki
+Borna Coric, Santiago Giraldo
+Diego Schwartzman, Pablo Andujar
+Jerzy Janowicz, Lukas Rosol
+Kevin Anderson, Mikhail Kukushkin
+Pierre Hugues Herbert, Aljaz Bedene
+Pablo Carreno Busta, Simone Bolelli
+Steve Johnson, Jo-Wilfried Tsonga
+Yen Hsun Lu, Hyeon Chung
+Thomaz Bellucci, Jiri Vesely
+Malek Jaziri, Teymuraz Gabashvili
+Borna Coric, Diego Schwartzman
+Kevin Anderson, Jerzy Janowicz
+Pierre Hugues Herbert, Pablo Carreno Busta
+Steve Johnson, Yen Hsun Lu
+Malek Jaziri, Thomaz Bellucci
+Kevin Anderson, Borna Coric
+Pierre Hugues Herbert, Steve Johnson
+Kevin Anderson, Malek Jaziri
+Kevin Anderson, Pierre Hugues Herbert
+Novak Djokovic, Joao Souza
+Andreas Haider Maurer, Vasek Pospisil
+Teymuraz Gabashvili, Pablo Andujar
+Andreas Seppi, Tommy Paul
+Roberto Bautista Agut, Pierre Hugues Herbert
+Pablo Carreno Busta, Jerzy Janowicz
+Ricardas Berankis, Joao Sousa
+David Goffin, Simone Bolelli
+Milos Raonic, Tim Smyczek
+Fernando Verdasco, Tommy Haas
+Mardy Fish, Marco Cecchinato
+Feliciano Lopez, Nikoloz Basilashvili
+Fabio Fognini, Steve Johnson
+Pablo Cuevas, Dudi Sela
+Diego Schwartzman, Elias Ymer
+Rafael Nadal, Borna Coric
+Benoit Paire, Kei Nishikori
+Marsel Ilhan, Radek Stepanek
+Sam Groth, Alexandr Dolgopolov
+Tommy Robredo, Michael Berrer
+Jo-Wilfried Tsonga, Jarkko Nieminen
+Marcel Granollers, Lukas Lacko
+Sergiy Stakhovsky, John Millman
+Illya Marchenko, Gael Monfils
+Marin Cilic, Guido Pella
+Evgeny Donskoy, Lucas Pouille
+Mikhail Kukushkin, Yen Hsun Lu
+Grigor Dimitrov, Matthew Ebden
+Jeremy Chardy, Ryan Shane
+Martin Klizan, Florian Mayer
+Filip Krajinovic, Alejandro Gonzalez
+David Ferrer, Radu Albot
+Stan Wawrinka, Albert Ramos
+Hyeon Chung, James Duckworth
+Ruben Bemelmans, Gilles Muller
+Jack Sock, Victor Estrella
+Viktor Troicki, Frances Tiafoe
+Rajeev Ram, Ryan Harrison
+Aljaz Bedene, Ernests Gulbis
+Donald Young, Gilles Simon
+Kevin Anderson, Andrey Rublev
+Austin Krajicek, Santiago Giraldo
+Denis Istomin, Benjamin Becker
+Dominic Thiem, Daniel Gimeno Traver
+Thomaz Bellucci, James Ward
+Yoshihito Nishioka, Paul Henri Mathieu
+Adrian Mannarino, Konstantin Kravchuk
+Andy Murray, Nick Kyrgios
+Tomas Berdych, Bjorn Fratangelo
+Jurgen Melzer, Denis Kudla
+Nicolas Mahut, Sam Querrey
+Guillermo Garcia Lopez, Janko Tipsarevic
+Bernard Tomic, Damir Dzumhur
+Lleyton Hewitt, Aleksandr Nedovyesov
+Robin Haase, Dustin Brown
+Richard Gasquet, Thanasi Kokkinakis
+John Isner, Malek Jaziri
+Mikhail Youzhny, John Patrick Smith
+Jiri Vesely, Paolo Lorenzi
+Ivo Karlovic, Federico Delbonis
+Philipp Kohlschreiber, Alexander Zverev
+Lukas Rosol, Jared Donaldson
+Steve Darcis, Marcos Baghdatis
+Roger Federer, Leonardo Mayer
+Novak Djokovic, Andreas Haider Maurer
+Andreas Seppi, Teymuraz Gabashvili
+Roberto Bautista Agut, Pablo Carreno Busta
+David Goffin, Ricardas Berankis
+Milos Raonic, Fernando Verdasco
+Feliciano Lopez, Mardy Fish
+Fabio Fognini, Pablo Cuevas
+Rafael Nadal, Diego Schwartzman
+Benoit Paire, Marsel Ilhan
+Tommy Robredo, Sam Groth
+Jo-Wilfried Tsonga, Marcel Granollers
+Sergiy Stakhovsky, Illya Marchenko
+Marin Cilic, Evgeny Donskoy
+Mikhail Kukushkin, Grigor Dimitrov
+Jeremy Chardy, Martin Klizan
+David Ferrer, Filip Krajinovic
+Stan Wawrinka, Hyeon Chung
+Ruben Bemelmans, Jack Sock
+Viktor Troicki, Rajeev Ram
+Donald Young, Aljaz Bedene
+Kevin Anderson, Austin Krajicek
+Dominic Thiem, Denis Istomin
+Thomaz Bellucci, Yoshihito Nishioka
+Andy Murray, Adrian Mannarino
+Tomas Berdych, Jurgen Melzer
+Guillermo Garcia Lopez, Nicolas Mahut
+Bernard Tomic, Lleyton Hewitt
+Richard Gasquet, Robin Haase
+John Isner, Mikhail Youzhny
+Jiri Vesely, Ivo Karlovic
+Philipp Kohlschreiber, Lukas Rosol
+Roger Federer, Steve Darcis
+Novak Djokovic, Andreas Seppi
+Roberto Bautista Agut, David Goffin
+Feliciano Lopez, Milos Raonic
+Fabio Fognini, Rafael Nadal
+Benoit Paire, Tommy Robredo
+Jo-Wilfried Tsonga, Sergiy Stakhovsky
+Marin Cilic, Mikhail Kukushkin
+Jeremy Chardy, David Ferrer
+Stan Wawrinka, Ruben Bemelmans
+Donald Young, Viktor Troicki
+Kevin Anderson, Dominic Thiem
+Andy Murray, Thomaz Bellucci
+Tomas Berdych, Guillermo Garcia Lopez
+Richard Gasquet, Bernard Tomic
+John Isner, Jiri Vesely
+Roger Federer, Philipp Kohlschreiber
+Novak Djokovic, Roberto Bautista Agut
+Feliciano Lopez, Fabio Fognini
+Jo-Wilfried Tsonga, Benoit Paire
+Marin Cilic, Jeremy Chardy
+Stan Wawrinka, Donald Young
+Kevin Anderson, Andy Murray
+Richard Gasquet, Tomas Berdych
+Roger Federer, John Isner
+Novak Djokovic, Feliciano Lopez
+Marin Cilic, Jo-Wilfried Tsonga
+Stan Wawrinka, Kevin Anderson
+Roger Federer, Richard Gasquet
+Novak Djokovic, Marin Cilic
+Roger Federer, Stan Wawrinka
+Novak Djokovic, Roger Federer
+Darian King, Ivan Endara
+Emilio Gomez, Haydn Lewis
+Darian King, Emilio Gomez
+Gonzalo Escobar, Seanon Williams
+Rafael Nadal, Mikael Torpegaard
+David Ferrer, Frederik Nielsen
+Roberto Bautista Agut, Frederik Nielsen
+David Ferrer, Mikael Torpegaard
+Ricardas Berankis, Vladyslav Manafov
+Illya Marchenko, Laurynas Grigelis
+Illya Marchenko, Ricardas Berankis
+Marat Deviatiarov, Lukas Mugevicius
+Ze Zhang, Warit Sornbutnark
+Di Wu, Pruchya Isarow
+Ze Zhang, Pruchya Isarow
+Zhe Li, Warit Sornbutnark
+Peter Nagy, Dimitar Kutrovsky
+Marton Fucsovics, Dimitar Kuzmanov
+Marton Fucsovics, Alexandar Lazov
+Dimitar Kuzmanov, Gabor Borsos
+Gonzalo Lama, Ricardo Rodriguez
+Hans Podlipnik Castillo, Jordi Munoz Abreu
+Juan Carlos Saez, Miguel Angel Este
+Gonzalo Lama, Jordi Munoz Abreu
+Aqeel Khan, Jui Chen Hung
+Jimmy Wang, Samir Iftikhar
+Chieh Fu Wang, Aqeel Khan
+Aisam Ul Haq Qureshi, Jui Chen Hung
+Egor Gerasimov, Joao Sousa
+Gastao Elias, Uladzimir Ignatik
+Joao Sousa, Uladzimir Ignatik
+Egor Gerasimov, Rui Machado
+Thomaz Bellucci, Mate Delic
+Borna Coric, Joao Souza
+Borna Coric, Thomaz Bellucci
+Santiago Giraldo, Taro Daniel
+Kei Nishikori, Alejandro Falla
+Kei Nishikori, Santiago Giraldo
+Taro Daniel, Alejandro Falla
+Victor Estrella, Dustin Brown
+Philipp Kohlschreiber, Jose Hernandez
+Philipp Kohlschreiber, Victor Estrella
+Benjamin Becker, Roberto Cid
+Lukas Rosol, Yuki Bhambri
+Somdev Devvarman, Jiri Vesely
+Jiri Vesely, Yuki Bhambri
+Martin Klizan, Michal Przysiezny
+Jerzy Janowicz, Norbert Gombos
+Martin Klizan, Jerzy Janowicz
+Michal Przysiezny, Norbert Gombos
+Teymuraz Gabashvili, Simone Bolelli
+Fabio Fognini, Andrey Rublev
+Fabio Fognini, Teymuraz Gabashvili
+Paolo Lorenzi, Konstantin Kravchuk
+Stan Wawrinka, Thiemo De Bakker
+Roger Federer, Jesse Huta Galung
+Roger Federer, Thiemo De Bakker
+Henri Laaksonen, Tim Van Rijthoven
+Denis Istomin, Steve Johnson
+Jack Sock, Farrukh Dustov
+Jack Sock, Denis Istomin
+David Goffin, Federico Delbonis
+Leonardo Mayer, Steve Darcis
+David Goffin, Diego Schwartzman
+Steve Darcis, Federico Delbonis
+Andy Murray, Thanasi Kokkinakis
+Bernard Tomic, Daniel Evans
+Andy Murray, Bernard Tomic
+Thanasi Kokkinakis, Daniel Evans
+Dustin Brown, Rajeev Ram
+Paolo Lorenzi, Steve Darcis
+Philipp Kohlschreiber, John Millman
+Mischa Zverev, Pablo Carreno Busta
+Nicolas Mahut, Federico Delbonis
+Adrian Mannarino, Vincent Millot
+Martin Klizan, Paul Henri Mathieu
+Vasek Pospisil, Aleksandr Nedovyesov
+Pierre Hugues Herbert, Sergiy Stakhovsky
+Fernando Verdasco, Alexander Zverev
+Gilles Muller, Aljaz Bedene
+Edouard Roger-Vasselin, Kenny De Schepper
+Stan Wawrinka, Dustin Brown
+Philipp Kohlschreiber, Paolo Lorenzi
+Jo-Wilfried Tsonga, Mischa Zverev
+Nicolas Mahut, Adrian Mannarino
+Martin Klizan, Vasek Pospisil
+Guillermo Garcia Lopez, Pierre Hugues Herbert
+Gilles Muller, Fernando Verdasco
+Gilles Simon, Edouard Roger-Vasselin
+Philipp Kohlschreiber, Stan Wawrinka
+Jo-Wilfried Tsonga, Nicolas Mahut
+Martin Klizan, Guillermo Garcia Lopez
+Gilles Simon, Gilles Muller
+Jo-Wilfried Tsonga, Philipp Kohlschreiber
+Gilles Simon, Martin Klizan
+Jo-Wilfried Tsonga, Gilles Simon
+Simone Bolelli, Andrey Rublev
+Marcel Granollers, Thanasi Kokkinakis
+Joao Sousa, Radu Albot
+Andreas Haider Maurer, Daniel Gimeno Traver
+Benjamin Becker, Andrey Golubev
+Denis Istomin, Mikhail Kukushkin
+Jerzy Janowicz, Benoit Paire
+Lucas Pouille, Ricardas Berankis
+Teymuraz Gabashvili, Yaraslav Shyla
+Tommy Robredo, Mikhail Youzhny
+Marcos Baghdatis, Ernests Gulbis
+Evgeny Donskoy, Alexandre Sidorenko
+Simone Bolelli, Tomas Berdych
+Joao Sousa, Marcel Granollers
+Dominic Thiem, Andreas Haider Maurer
+Denis Istomin, Benjamin Becker
+Lucas Pouille, Jerzy Janowicz
+Roberto Bautista Agut, Teymuraz Gabashvili
+Tommy Robredo, Marcos Baghdatis
+Milos Raonic, Evgeny Donskoy
+Joao Sousa, Simone Bolelli
+Dominic Thiem, Denis Istomin
+Roberto Bautista Agut, Lucas Pouille
+Milos Raonic, Tommy Robredo
+Joao Sousa, Dominic Thiem
+Milos Raonic, Roberto Bautista Agut
+Milos Raonic, Joao Sousa
+Radek Stepanek, Yuichi Sugita
+Mikhail Kukushkin, Ramkumar Ramanathan
+Radu Albot, Viktor Troicki
+Joao Sousa, Michal Przysiezny
+Benjamin Becker, Sam Groth
+Jeremy Chardy, Alexander Zverev
+Nick Kyrgios, Santiago Giraldo
+Tatsuma Ito, Jarkko Nieminen
+Nikoloz Basilashvili, Aleksandr Nedovyesov
+Vasek Pospisil, Yasutaka Uchiyama
+Marcos Baghdatis, Nicolas Almagro
+Mischa Zverev, Rajeev Ram
+David Ferrer, Radek Stepanek
+Mikhail Kukushkin, Radu Albot
+Grigor Dimitrov, Joao Sousa
+Benjamin Becker, Jeremy Chardy
+Nick Kyrgios, Tatsuma Ito
+Ivo Karlovic, Nikoloz Basilashvili
+Vasek Pospisil, Marcos Baghdatis
+Feliciano Lopez, Mischa Zverev
+David Ferrer, Mikhail Kukushkin
+Benjamin Becker, Grigor Dimitrov
+Nick Kyrgios, Ivo Karlovic
+Feliciano Lopez, Vasek Pospisil
+David Ferrer, Benjamin Becker
+Feliciano Lopez, Nick Kyrgios
+David Ferrer, Feliciano Lopez
+Austin Krajicek, James Duckworth
+Zhizhen Zhang, Go Soeda
+Jiri Vesely, Ze Zhang
+Hiroki Moriya, Ricardas Berankis
+Simone Bolelli, Andreas Haider Maurer
+Victor Estrella, Matthew Ebden
+Adrian Mannarino, Lucas Pouille
+Yan Bai, Takuto Niki
+Lukas Rosol, Denis Istomin
+Aljaz Bedene, Mikhail Youzhny
+Hyeon Chung, Di Wu
+John Millman, Ernests Gulbis
+Tomas Berdych, Austin Krajicek
+Jiri Vesely, Zhizhen Zhang
+Tommy Robredo, Hiroki Moriya
+Simone Bolelli, Victor Estrella
+Adrian Mannarino, Yan Bai
+Guillermo Garcia Lopez, Lukas Rosol
+Hyeon Chung, Aljaz Bedene
+Marin Cilic, John Millman
+Tomas Berdych, Jiri Vesely
+Tommy Robredo, Simone Bolelli
+Guillermo Garcia Lopez, Adrian Mannarino
+Marin Cilic, Hyeon Chung
+Tomas Berdych, Tommy Robredo
+Guillermo Garcia Lopez, Marin Cilic
+Tomas Berdych, Guillermo Garcia Lopez
+Novak Djokovic, Simone Bolelli
+Ze Zhang, Denis Istomin
+John Millman, Tommy Robredo
+John Isner, Dominic Thiem
+David Ferrer, Thomaz Bellucci
+Lukas Rosol, Aljaz Bedene
+Yen Hsun Lu, Adrian Mannarino
+Viktor Troicki, Milos Raonic
+Andreas Haider Maurer, Jo-Wilfried Tsonga
+Jack Sock, Teymuraz Gabashvili
+Vasek Pospisil, Victor Estrella
+Rafael Nadal, Di Wu
+David Goffin, Andreas Seppi
+Fabio Fognini, Martin Klizan
+Ivo Karlovic, Guillermo Garcia Lopez
+Pablo Cuevas, Tomas Berdych
+Novak Djokovic, Ze Zhang
+John Isner, John Millman
+David Ferrer, Lukas Rosol
+Yen Hsun Lu, Viktor Troicki
+Jack Sock, Andreas Haider Maurer
+Rafael Nadal, Vasek Pospisil
+Fabio Fognini, David Goffin
+Pablo Cuevas, Ivo Karlovic
+Novak Djokovic, John Isner
+David Ferrer, Yen Hsun Lu
+Rafael Nadal, Jack Sock
+Fabio Fognini, Pablo Cuevas
+Novak Djokovic, David Ferrer
+Rafael Nadal, Fabio Fognini
+Novak Djokovic, Rafael Nadal
+Stan Wawrinka, Radek Stepanek
+Tatsuma Ito, Yoshihito Nishioka
+Austin Krajicek, Matthew Ebden
+Joao Sousa, Feliciano Lopez
+Gilles Simon, Mikhail Youzhny
+Jiri Vesely, Yasutaka Uchiyama
+Jeremy Chardy, Sam Groth
+Gilles Muller, Kevin Anderson
+Benoit Paire, Grigor Dimitrov
+Marcos Baghdatis, Fernando Verdasco
+Nick Kyrgios, Albert Ramos
+Roberto Bautista Agut, Richard Gasquet
+Marin Cilic, Donald Young
+Steve Johnson, Bernard Tomic
+Sam Querrey, Alexandr Dolgopolov
+Kei Nishikori, Borna Coric
+Stan Wawrinka, Tatsuma Ito
+Austin Krajicek, Joao Sousa
+Gilles Simon, Jiri Vesely
+Gilles Muller, Jeremy Chardy
+Benoit Paire, Marcos Baghdatis
+Nick Kyrgios, Roberto Bautista Agut
+Marin Cilic, Steve Johnson
+Kei Nishikori, Sam Querrey
+Stan Wawrinka, Austin Krajicek
+Gilles Muller, Gilles Simon
+Benoit Paire, Nick Kyrgios
+Kei Nishikori, Marin Cilic
+Stan Wawrinka, Gilles Muller
+Benoit Paire, Kei Nishikori
+Stan Wawrinka, Benoit Paire
+Martin Klizan, Ze Zhang
+Dominic Thiem, Yen Hsun Lu
+Feliciano Lopez, Andrey Kuznetsov
+Richard Gasquet, Gilles Muller
+Vasek Pospisil, Simone Bolelli
+Bernard Tomic, Fernando Verdasco
+Steve Johnson, Andreas Seppi
+David Goffin, Go Soeda
+John Isner, Adrian Mannarino
+Gilles Simon, Nikoloz Basilashvili
+Leonardo Mayer, Yan Bai
+Jack Sock, Lukasz Kubot
+Ivo Karlovic, Jeremy Chardy
+Roberto Bautista Agut, Guillermo Garcia Lopez
+Milos Raonic, Thomaz Bellucci
+Marin Cilic, Di Wu
+Borna Coric, Alexandr Dolgopolov
+Viktor Troicki, Pablo Cuevas
+Nick Kyrgios, Andreas Haider Maurer
+Fabio Fognini, Joao Sousa
+Kevin Anderson, Tommy Haas
+Jo-Wilfried Tsonga, Tommy Robredo
+Victor Estrella, Donald Young
+Albert Ramos, Sam Querrey
+Novak Djokovic, Martin Klizan
+Feliciano Lopez, Dominic Thiem
+Richard Gasquet, Vasek Pospisil
+Bernard Tomic, David Ferrer
+Andy Murray, Steve Johnson
+John Isner, David Goffin
+Gilles Simon, Leonardo Mayer
+Tomas Berdych, Jack Sock
+Rafael Nadal, Ivo Karlovic
+Milos Raonic, Roberto Bautista Agut
+Marin Cilic, Borna Coric
+Stan Wawrinka, Viktor Troicki
+Kei Nishikori, Nick Kyrgios
+Kevin Anderson, Fabio Fognini
+Jo-Wilfried Tsonga, Victor Estrella
+Albert Ramos, Roger Federer
+Novak Djokovic, Feliciano Lopez
+Bernard Tomic, Richard Gasquet
+Andy Murray, John Isner
+Tomas Berdych, Gilles Simon
+Rafael Nadal, Milos Raonic
+Stan Wawrinka, Marin Cilic
+Kevin Anderson, Kei Nishikori
+Jo-Wilfried Tsonga, Albert Ramos
+Novak Djokovic, Bernard Tomic
+Andy Murray, Tomas Berdych
+Rafael Nadal, Stan Wawrinka
+Jo-Wilfried Tsonga, Kevin Anderson
+Novak Djokovic, Andy Murray
+Jo-Wilfried Tsonga, Rafael Nadal
+Novak Djokovic, Jo-Wilfried Tsonga
+Denis Istomin, Aljaz Bedene
+Andrey Kuznetsov, Radu Albot
+Mikhail Kukushkin, Andrey Rublev
+Teymuraz Gabashvili, Cem Ilkel
+Ricardas Berankis, Malek Jaziri
+Evgeny Donskoy, Borna Coric
+Pablo Cuevas, Pere Riba
+Robin Haase, Dusan Lajovic
+Aslan Karatsev, Mikhail Youzhny
+Daniel Gimeno Traver, Joao Sousa
+Lucas Pouille, Simone Bolelli
+Marsel Ilhan, Tatsuma Ito
+Marin Cilic, Denis Istomin
+Andrey Kuznetsov, Mikhail Kukushkin
+Teymuraz Gabashvili, Viktor Troicki
+Evgeny Donskoy, Ricardas Berankis
+Robin Haase, Pablo Cuevas
+Philipp Kohlschreiber, Aslan Karatsev
+Lucas Pouille, Daniel Gimeno Traver
+Roberto Bautista Agut, Marsel Ilhan
+Marin Cilic, Andrey Kuznetsov
+Evgeny Donskoy, Teymuraz Gabashvili
+Philipp Kohlschreiber, Robin Haase
+Roberto Bautista Agut, Lucas Pouille
+Marin Cilic, Evgeny Donskoy
+Roberto Bautista Agut, Philipp Kohlschreiber
+Marin Cilic, Roberto Bautista Agut
+Alexander Zverev, Mikael Ymer
+Nicolas Almagro, Jarkko Nieminen
+Grigor Dimitrov, Filip Krajinovic
+Marcos Baghdatis, Sam Querrey
+John Millman, Benjamin Becker
+Gilles Muller, Mischa Zverev
+Jack Sock, Pablo Carreno Busta
+Fernando Verdasco, Denis Kudla
+Leonardo Mayer, Maximilian Marterer
+Jeremy Chardy, Thanasi Kokkinakis
+Federico Delbonis, Ante Pavic
+Steve Darcis, Adrian Mannarino
+Tomas Berdych, Alexander Zverev
+Grigor Dimitrov, Nicolas Almagro
+Marcos Baghdatis, Bernard Tomic
+Gilles Muller, John Millman
+Jack Sock, Fernando Verdasco
+Gilles Simon, Leonardo Mayer
+Jeremy Chardy, Federico Delbonis
+Richard Gasquet, Steve Darcis
+Tomas Berdych, Grigor Dimitrov
+Marcos Baghdatis, Gilles Muller
+Jack Sock, Gilles Simon
+Richard Gasquet, Jeremy Chardy
+Tomas Berdych, Marcos Baghdatis
+Jack Sock, Richard Gasquet
+Tomas Berdych, Jack Sock
+David Ferrer, Albert Ramos
+Guillermo Garcia Lopez, Santiago Giraldo
+Radek Stepanek, Dennis Novak
+Fabio Fognini, Paul Henri Mathieu
+Jo-Wilfried Tsonga, Tommy Haas
+Lukas Rosol, Yuichi Sugita
+Paolo Lorenzi, Rajeev Ram
+Gael Monfils, Thomaz Bellucci
+Ivo Karlovic, Andreas Seppi
+Sergiy Stakhovsky, Jan Lennard Struff
+Ernests Gulbis, Lucas Miedler
+John Isner, Kenny De Schepper
+Jerzy Janowicz, Dominic Thiem
+Steve Johnson, Alexandr Dolgopolov
+Jiri Vesely, Gerald Melzer
+Kevin Anderson, Andreas Haider Maurer
+David Ferrer, Guillermo Garcia Lopez
+Fabio Fognini, Radek Stepanek
+Lukas Rosol, Jo-Wilfried Tsonga
+Gael Monfils, Paolo Lorenzi
+Ivo Karlovic, Sergiy Stakhovsky
+Ernests Gulbis, John Isner
+Steve Johnson, Jerzy Janowicz
+Kevin Anderson, Jiri Vesely
+David Ferrer, Fabio Fognini
+Gael Monfils, Lukas Rosol
+Ernests Gulbis, Ivo Karlovic
+Steve Johnson, Kevin Anderson
+David Ferrer, Gael Monfils
+Steve Johnson, Ernests Gulbis
+David Ferrer, Steve Johnson
+Roger Federer, Mikhail Kukushkin
+Philipp Kohlschreiber, Jerzy Janowicz
+Adrian Mannarino, Viktor Troicki
+David Goffin, Andreas Seppi
+Kevin Anderson, Borna Coric
+Donald Young, Henri Laaksonen
+Jack Sock, Denis Kudla
+John Isner, Ernests Gulbis
+Marin Cilic, Marco Chiudinelli
+Teymuraz Gabashvili, Leonardo Mayer
+Grigor Dimitrov, Sergiy Stakhovsky
+Rafael Nadal, Lukas Rosol
+Richard Gasquet, Jiri Vesely
+Dominic Thiem, Robin Haase
+Dusan Lajovic, Alexandr Dolgopolov
+Ivo Karlovic, Stan Wawrinka
+Roger Federer, Philipp Kohlschreiber
+David Goffin, Adrian Mannarino
+Donald Young, Kevin Anderson
+Jack Sock, John Isner
+Marin Cilic, Teymuraz Gabashvili
+Rafael Nadal, Grigor Dimitrov
+Richard Gasquet, Dominic Thiem
+Ivo Karlovic, Dusan Lajovic
+Roger Federer, David Goffin
+Jack Sock, Donald Young
+Rafael Nadal, Marin Cilic
+Richard Gasquet, Ivo Karlovic
+Roger Federer, Jack Sock
+Rafael Nadal, Richard Gasquet
+Roger Federer, Rafael Nadal
+Daniel Brands, Nick Kyrgios
+Vasek Pospisil, Santiago Giraldo
+Aljaz Bedene, Jeremy Chardy
+Pablo Cuevas, Pablo Carreno Busta
+Joao Sousa, Gilles Muller
+Benoit Paire, Norbert Gombos
+Roberto Bautista Agut, Nicolas Almagro
+Andrey Rublev, Marcel Granollers
+Mischa Zverev, Thomaz Bellucci
+Guillermo Garcia Lopez, Fernando Verdasco
+Taro Daniel, Michal Przysiezny
+Steve Johnson, Martin Klizan
+Daniel Brands, Albert Montanes
+Vasek Pospisil, Aljaz Bedene
+Pablo Cuevas, Bernard Tomic
+Joao Sousa, Benoit Paire
+Roberto Bautista Agut, Andrey Rublev
+Mischa Zverev, Fabio Fognini
+Guillermo Garcia Lopez, Taro Daniel
+Steve Johnson, Feliciano Lopez
+Vasek Pospisil, Daniel Brands
+Joao Sousa, Pablo Cuevas
+Roberto Bautista Agut, Mischa Zverev
+Steve Johnson, Guillermo Garcia Lopez
+Joao Sousa, Vasek Pospisil
+Roberto Bautista Agut, Steve Johnson
+Joao Sousa, Roberto Bautista Agut
+Santiago Maresca, Seanon Williams
+Darian King, Rodrigo Arus
+Darian King, Santiago Maresca
+Nicolas Xiviller, Russell Moseley
+Thomaz Bellucci, Teymuraz Gabashvili
+Benoit Paire, Gael Monfils
+Roberto Bautista Agut, Pierre Hugues Herbert
+Edouard Roger-Vasselin, Ivo Karlovic
+Bernard Tomic, Fabio Fognini
+Viktor Troicki, Jack Sock
+Dominic Thiem, Adrian Mannarino
+Lukas Rosol, Guillermo Garcia Lopez
+Alexandr Dolgopolov, Jiri Vesely
+Grigor Dimitrov, Pablo Carreno Busta
+Aljaz Bedene, Marcel Granollers
+Andreas Seppi, Pablo Cuevas
+Jeremy Chardy, Lucas Pouille
+Leonardo Mayer, Martin Klizan
+Dusan Lajovic, Nicolas Mahut
+Borna Coric, Fernando Verdasco
+Novak Djokovic, Thomaz Bellucci
+Gilles Simon, Benoit Paire
+Jo-Wilfried Tsonga, Roberto Bautista Agut
+Tomas Berdych, Edouard Roger-Vasselin
+Stan Wawrinka, Bernard Tomic
+Viktor Troicki, Feliciano Lopez
+Kevin Anderson, Dominic Thiem
+Rafael Nadal, Lukas Rosol
+David Ferrer, Alexandr Dolgopolov
+Grigor Dimitrov, Marin Cilic
+John Isner, Aljaz Bedene
+Roger Federer, Andreas Seppi
+Kei Nishikori, Jeremy Chardy
+Richard Gasquet, Leonardo Mayer
+David Goffin, Dusan Lajovic
+Andy Murray, Borna Coric
+Novak Djokovic, Gilles Simon
+Tomas Berdych, Jo-Wilfried Tsonga
+Stan Wawrinka, Viktor Troicki
+Rafael Nadal, Kevin Anderson
+David Ferrer, Grigor Dimitrov
+John Isner, Roger Federer
+Richard Gasquet, Kei Nishikori
+Andy Murray, David Goffin
+Novak Djokovic, Tomas Berdych
+Stan Wawrinka, Rafael Nadal
+David Ferrer, John Isner
+Andy Murray, Richard Gasquet
+Novak Djokovic, Stan Wawrinka
+Andy Murray, David Ferrer
+Novak Djokovic, Andy Murray
+Novak Djokovic, Kei Nishikori
+Roger Federer, Tomas Berdych
+Andy Murray, David Ferrer
+Rafael Nadal, Stan Wawrinka
+Kei Nishikori, Tomas Berdych
+Roger Federer, Novak Djokovic
+Rafael Nadal, Andy Murray
+Stan Wawrinka, David Ferrer
+Roger Federer, Kei Nishikori
+Novak Djokovic, Tomas Berdych
+Rafael Nadal, David Ferrer
+Stan Wawrinka, Andy Murray
+Roger Federer, Stan Wawrinka
+Novak Djokovic, Rafael Nadal
+Novak Djokovic, Roger Federer
+David Goffin, Kyle Edmund
+Andy Murray, Ruben Bemelmans
+Andy Murray, David Goffin

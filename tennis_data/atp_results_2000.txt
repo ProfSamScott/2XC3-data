@@ -1,0 +1,3378 @@
+Tommy Haas, Jeff Tarango
+Juan Balcells, Franco Squillari
+Alberto Martin, Alberto Berasategui
+Juan Carlos Ferrero, Roger Federer
+Michael Sell, Nicolas Escude
+Michael Chang, Byron Black
+Magnus Gustafsson, Mark Nielsen
+Thomas Johansson, Glenn Weiner
+Sjeng Schalken, Goran Ivanisevic
+Tomas Behrend, Markus Hantschk
+Gaston Gaudio, Sargis Sargsian
+Jiri Novak, Jonas Bjorkman
+Marc Rosset, Fernando Vicente
+John Van Lottum, Chris Woodruff
+Jan Michael Gambill, Richard Fromberg
+Magnus Norman, Francisco Costa
+Juan Balcells, Tommy Haas
+Juan Carlos Ferrero, Alberto Martin
+Michael Chang, Michael Sell
+Magnus Gustafsson, Thomas Johansson
+Sjeng Schalken, Tomas Behrend
+Gaston Gaudio, Jiri Novak
+Marc Rosset, John Van Lottum
+Magnus Norman, Jan Michael Gambill
+Juan Balcells, Juan Carlos Ferrero
+Michael Chang, Magnus Gustafsson
+Gaston Gaudio, Sjeng Schalken
+Magnus Norman, Marc Rosset
+Michael Chang, Juan Balcells
+Magnus Norman, Gaston Gaudio
+Magnus Norman, Michael Chang
+Andrea Gaudenzi, Nicolas Kiefer
+Albert Portas, Juan Giner
+Galo Blanco, Andre Sa
+Markus Hantschk, Roger Federer
+Andrei Medvedev, Scott Humphries
+Christophe Rochus, Paul Goldstein
+Jan Michael Gambill, Ivan Ljubicic
+Andrei Pavel, Fernando Vicente
+Sjeng Schalken, Hernan Gumy
+Juan Antonio Marin, Jens Knippschild
+Markus Hipfl, Marc Kevin Goellner
+Stefan Koubek, Christian Ruud
+Andrew Ilie, Jurgen Melzer
+Orlin Stanoytchev, George Bastl
+Sergi Bruguera, Alberto Berasategui
+Jeff Tarango, Mark Philippoussis
+Albert Portas, Andrea Gaudenzi
+Galo Blanco, Markus Hantschk
+Andrei Medvedev, Christophe Rochus
+Andrei Pavel, Jan Michael Gambill
+Juan Antonio Marin, Sjeng Schalken
+Markus Hipfl, Stefan Koubek
+Andrew Ilie, Orlin Stanoytchev
+Jeff Tarango, Sergi Bruguera
+Albert Portas, Galo Blanco
+Andrei Pavel, Andrei Medvedev
+Juan Antonio Marin, Markus Hipfl
+Andrew Ilie, Jeff Tarango
+Andrei Pavel, Albert Portas
+Andrew Ilie, Juan Antonio Marin
+Andrei Pavel, Andrew Ilie
+Thomas Enqvist, Andrei Pavel
+Ivan Ljubicic, Andy Fahlke
+Jiri Novak, Rainer Schuettler
+Slava Dosedel, Oliver Gross
+Tommy Haas, David Prinosil
+Bohdan Ulihrach, Filip Dewulf
+Federico Browne, Tomas Behrend
+Jonas Bjorkman, Andrei Medvedev
+Fernando Meligeni, Marc Rosset
+Gaston Etlis, Goran Ivanisevic
+Hernan Gumy, Daniel Vacek
+Max Mirnyi, Mariano Zabaleta
+Franco Squillari, Jens Knippschild
+Martin Damm Sr, Thomas Johansson
+Richard Fromberg, Arnaud Clement
+Younes El Aynaoui, Arnaud Di Pasquale
+Thomas Enqvist, Ivan Ljubicic
+Jiri Novak, Slava Dosedel
+Tommy Haas, Bohdan Ulihrach
+Federico Browne, Jonas Bjorkman
+Fernando Meligeni, Gaston Etlis
+Max Mirnyi, Hernan Gumy
+Franco Squillari, Martin Damm Sr
+Younes El Aynaoui, Richard Fromberg
+Thomas Enqvist, Jiri Novak
+Tommy Haas, Federico Browne
+Max Mirnyi, Fernando Meligeni
+Franco Squillari, Younes El Aynaoui
+Tommy Haas, Thomas Enqvist
+Franco Squillari, Max Mirnyi
+Franco Squillari, Tommy Haas
+Antony Dupuis, Magnus Gustafsson
+Gianluca Pozzi, Jan Siemerink
+Ronald Agenor, Marc Rosset
+Greg Rusedski, Wayne Ferreira
+Jens Knippschild, Alex Witt
+Julien Boutter, Lorenzo Manta
+Jan Michael Gambill, Adrian Voinea
+Justin Gimelstob, Vincent Spadea
+Fabrice Santoro, Paul Goldstein
+Mark Philippoussis, Wayne Arthurs
+Goran Ivanisevic, Laurence Tieleman
+David Wheaton, Andreas Vinciguerra
+Karol Kucera, Barry Cowan
+Byron Black, Stephane Huet
+Andrei Pavel, Raemon Sluiter
+Sebastien Grosjean, George Bastl
+Davide Sanguinetti, Martin Lee
+Daniel Nestor, Sebastien Lareau
+Bob Bryan, Sargis Sargsian
+Max Mirnyi, Markus Hantschk
+Todd Martin, Paradorn Srichaphan
+Andre Sa, Andrew Ilie
+Michael Llodra, Christophe Rochus
+Arvind Parmar, Scott Draper
+Andre Agassi, Antony Dupuis
+Gianluca Pozzi, Ronald Agenor
+Greg Rusedski, Jens Knippschild
+Marat Safin, Julien Boutter
+Cedric Pioline, Jan Michael Gambill
+Justin Gimelstob, Fabrice Santoro
+Goran Ivanisevic, Mark Philippoussis
+Lleyton Hewitt, David Wheaton
+Karol Kucera, Thomas Enqvist
+Andrei Pavel, Byron Black
+Davide Sanguinetti, Sebastien Grosjean
+Daniel Nestor, Michael Hill
+Bob Bryan, Tim Henman
+Max Mirnyi, Todd Martin
+Michael Llodra, Andre Sa
+Pete Sampras, Arvind Parmar
+Gianluca Pozzi, Andre Agassi
+Marat Safin, Greg Rusedski
+Cedric Pioline, Justin Gimelstob
+Lleyton Hewitt, Goran Ivanisevic
+Andrei Pavel, Karol Kucera
+Davide Sanguinetti, Daniel Nestor
+Bob Bryan, Max Mirnyi
+Pete Sampras, Michael Llodra
+Gianluca Pozzi, Marat Safin
+Lleyton Hewitt, Cedric Pioline
+Davide Sanguinetti, Andrei Pavel
+Pete Sampras, Bob Bryan
+Lleyton Hewitt, Gianluca Pozzi
+Pete Sampras, Davide Sanguinetti
+Lleyton Hewitt, Pete Sampras
+Alex Corretja, Roger Federer
+Vincent Spadea, Sergi Bruguera
+George Bastl, Lucas Arnold Ker
+Marcelo Rios, Slava Dosedel
+Gaston Gaudio, Juan Carlos Ferrero
+Max Mirnyi, Mariano Zabaleta
+Marc Rosset, Michel Kratochvil
+Franco Squillari, Rainer Schuettler
+Francisco Clavet, Younes El Aynaoui
+Jiri Novak, Hicham Arazi
+Jerome Golmard, Nicolas Thomann
+Albert Costa, Stefan Koubek
+Mariano Puerta, Arnaud Di Pasquale
+Felix Mantilla, Fernando Vicente
+Sebastien Grosjean, Ivo Heuberger
+Nicolas Kiefer, Alex Calatrava
+Alex Corretja, Vincent Spadea
+Marcelo Rios, George Bastl
+Gaston Gaudio, Max Mirnyi
+Franco Squillari, Marc Rosset
+Jiri Novak, Francisco Clavet
+Albert Costa, Jerome Golmard
+Mariano Puerta, Felix Mantilla
+Sebastien Grosjean, Nicolas Kiefer
+Alex Corretja, Marcelo Rios
+Gaston Gaudio, Franco Squillari
+Albert Costa, Jiri Novak
+Mariano Puerta, Sebastien Grosjean
+Alex Corretja, Gaston Gaudio
+Mariano Puerta, Albert Costa
+Alex Corretja, Mariano Puerta
+Chris Woodruff, Michael Russell
+Mardy Fish, Cristiano Caratti
+Bob Bryan, Jim Thomas
+Wayne Arthurs, James Sekulov
+Jonas Bjorkman, Axel Pretzsch
+Christian Vinck, Jeff Morrison
+Peter Wessels, Daniel Nestor
+David Prinosil, Harel Levy
+Jason Stoltenberg, Neville Godwin
+Dejan Petrovic, Andrei Stoliarov
+Tuomas Ketola, Justin Gimelstob
+Paul Goldstein, Gouichi Motomura
+Laurence Tieleman, Lorenzo Manta
+Jens Knippschild, Marcos Ondruska
+Scott Draper, Oscar Burrieza
+Gianluca Pozzi, Antony Dupuis
+Mardy Fish, Chris Woodruff
+Wayne Arthurs, Bob Bryan
+Jonas Bjorkman, Christian Vinck
+Peter Wessels, David Prinosil
+Jason Stoltenberg, Dejan Petrovic
+Paul Goldstein, Tuomas Ketola
+Jens Knippschild, Laurence Tieleman
+Scott Draper, Gianluca Pozzi
+Wayne Arthurs, Mardy Fish
+Peter Wessels, Jonas Bjorkman
+Jason Stoltenberg, Paul Goldstein
+Jens Knippschild, Scott Draper
+Peter Wessels, Wayne Arthurs
+Jens Knippschild, Jason Stoltenberg
+Peter Wessels, Jens Knippschild
+Magnus Norman, Christophe Rochus
+Jiri Vanek, Galo Blanco
+Nicolas Massu, Hernan Gumy
+Bohdan Ulihrach, Richard Fromberg
+Ivan Ljubicic, Juan Ignacio Chela
+Davide Sanguinetti, Alberto Martin
+Fredrik Jonsson, Nicklas Kulti
+Albert Portas, Sargis Sargsian
+Jeff Tarango, Ronald Agenor
+Christian Ruud, Timo Fleischfresser
+Andrea Gaudenzi, Nicklas Timfjord
+Andreas Vinciguerra, Juan Antonio Marin
+Magnus Gustafsson, Mikael Tillstrom
+Guillermo Canas, Tomas Zib
+Markus Hipfl, Joachim Johansson
+Dominik Hrbaty, Julien Boutter
+Magnus Norman, Jiri Vanek
+Nicolas Massu, Bohdan Ulihrach
+Ivan Ljubicic, Davide Sanguinetti
+Albert Portas, Fredrik Jonsson
+Jeff Tarango, Christian Ruud
+Andreas Vinciguerra, Andrea Gaudenzi
+Magnus Gustafsson, Guillermo Canas
+Markus Hipfl, Dominik Hrbaty
+Magnus Norman, Nicolas Massu
+Ivan Ljubicic, Albert Portas
+Andreas Vinciguerra, Jeff Tarango
+Markus Hipfl, Magnus Gustafsson
+Magnus Norman, Ivan Ljubicic
+Andreas Vinciguerra, Markus Hipfl
+Magnus Norman, Andreas Vinciguerra
+Christian Ruud, Nicolas Lapentti
+Federico Browne, Stephane Huet
+Edwin Kempes, Ronald Agenor
+Adrian Voinea, Orlin Stanoytchev
+Magnus Gustafsson, Gaston Etlis
+Dennis Van Scheppingen, Wayne Arthurs
+Adrian Garcia, Kim Tiilikainen
+Nicolas Massu, Marcelo Filippini
+Richard Fromberg, Andrei Stoliarov
+Alex Calatrava, Martin Verkerk
+Raemon Sluiter, Jens Knippschild
+Arnaud Di Pasquale, Rodolphe Cadart
+Sergio Roitman, Andre Sa
+Tomas Behrend, Thierry Guardiola
+Jan Siemerink, Emilio Benfele Alvarez
+Nikolay Davydenko, Mariano Zabaleta
+Christian Ruud, Federico Browne
+Edwin Kempes, Adrian Voinea
+Magnus Gustafsson, Dennis Van Scheppingen
+Nicolas Massu, Adrian Garcia
+Alex Calatrava, Richard Fromberg
+Raemon Sluiter, Arnaud Di Pasquale
+Tomas Behrend, Sergio Roitman
+Nikolay Davydenko, Jan Siemerink
+Edwin Kempes, Christian Ruud
+Magnus Gustafsson, Nicolas Massu
+Raemon Sluiter, Alex Calatrava
+Nikolay Davydenko, Tomas Behrend
+Magnus Gustafsson, Edwin Kempes
+Raemon Sluiter, Nikolay Davydenko
+Magnus Gustafsson, Raemon Sluiter
+Hernan Gumy, Andre Sa
+Sargis Sargsian, Jurgen Melzer
+Alberto Berasategui, Alex Lopez Moron
+Paul Henri Mathieu, Orlin Stanoytchev
+Michel Kratochvil, Radomir Vasek
+Bohdan Ulihrach, Marcelo Filippini
+Adrian Voinea, Thierry Guardiola
+Emilio Benfele Alvarez, Markus Hipfl
+Alberto Martin, Francisco Cabello
+Nicolas Massu, Wayne Arthurs
+Fernando Meligeni, Federico Browne
+Agustin Calleri, Hector Moretti
+Federico Luzzi, Guillermo Coria
+Christian Ruud, Juan Balcells
+Ivan Ljubicic, Andreas Fasching
+Fernando Gonzalez, Clemens Trimmel
+Yevgeny Kafelnikov, Hernan Gumy
+Sargis Sargsian, Herbert Wiltschnig
+Francisco Clavet, Alberto Berasategui
+Albert Costa, Paul Henri Mathieu
+Nicolas Lapentti, Michel Kratochvil
+Bohdan Ulihrach, Jeff Tarango
+Adrian Voinea, Carlos Moya
+Emilio Benfele Alvarez, Francisco Costa
+Alberto Martin, Younes El Aynaoui
+Nicolas Massu, Albert Portas
+Slava Dosedel, Fernando Meligeni
+Agustin Calleri, Marat Safin
+Federico Luzzi, Fernando Vicente
+Mariano Zabaleta, Christian Ruud
+Ivan Ljubicic, Rainer Schuettler
+Alex Corretja, Fernando Gonzalez
+Yevgeny Kafelnikov, Sargis Sargsian
+Francisco Clavet, Albert Costa
+Nicolas Lapentti, Bohdan Ulihrach
+Emilio Benfele Alvarez, Adrian Voinea
+Alberto Martin, Nicolas Massu
+Agustin Calleri, Slava Dosedel
+Mariano Zabaleta, Federico Luzzi
+Alex Corretja, Ivan Ljubicic
+Francisco Clavet, Yevgeny Kafelnikov
+Emilio Benfele Alvarez, Nicolas Lapentti
+Agustin Calleri, Alberto Martin
+Alex Corretja, Mariano Zabaleta
+Emilio Benfele Alvarez, Francisco Clavet
+Alex Corretja, Agustin Calleri
+Alex Corretja, Emilio Benfele Alvarez
+Magnus Norman, Bjorn Phau
+Daniel Elsner, Francisco Clavet
+Fernando Meligeni, Markus Hantschk
+Jiri Novak, Dominik Hrbaty
+Younes El Aynaoui, Christian Vinck
+Karol Kucera, Slava Dosedel
+Marc Kevin Goellner, Jan Hernych
+Franco Squillari, Fernando Gonzalez
+Tommy Haas, David Miketa
+Rainer Schuettler, Fernando Vicente
+Andrew Ilie, Hicham Arazi
+Marat Safin, Andrei Pavel
+Karim Alami, Fredrik Jonsson
+Gaston Gaudio, Jacobo Diaz
+Andrei Medvedev, Bernd Karbacher
+Yevgeny Kafelnikov, Julien Boutter
+Daniel Elsner, Magnus Norman
+Jiri Novak, Fernando Meligeni
+Karol Kucera, Younes El Aynaoui
+Franco Squillari, Marc Kevin Goellner
+Rainer Schuettler, Tommy Haas
+Andrew Ilie, Marat Safin
+Gaston Gaudio, Karim Alami
+Andrei Medvedev, Yevgeny Kafelnikov
+Daniel Elsner, Jiri Novak
+Franco Squillari, Karol Kucera
+Andrew Ilie, Rainer Schuettler
+Gaston Gaudio, Andrei Medvedev
+Franco Squillari, Daniel Elsner
+Gaston Gaudio, Andrew Ilie
+Franco Squillari, Gaston Gaudio
+Mariano Puerta, Orlin Stanoytchev
+David Sanchez, Daniel Elsner
+Olivier Rochus, Juan Antonio Marin
+Alex Calatrava, Clemens Trimmel
+Galo Blanco, Sebastian Prieto
+Christophe Rochus, Marcelo Charpentier
+Juan Balcells, Alberto Berasategui
+Hernan Gumy, Stefan Koubek
+Alberto Martin, Fernando Meligeni
+Markus Hantschk, Mariano Hood
+Diego Nargiso, Adrian Voinea
+Francisco Clavet, Mikhail Youzhny
+Albert Portas, Andrea Gaudenzi
+Sergi Bruguera, Emilio Benfele Alvarez
+Stefano Tarallo, Federico Luzzi
+Stephane Huet, Fernando Vicente
+David Sanchez, Mariano Puerta
+Olivier Rochus, Alex Calatrava
+Christophe Rochus, Galo Blanco
+Juan Balcells, Hernan Gumy
+Alberto Martin, Markus Hantschk
+Diego Nargiso, Francisco Clavet
+Sergi Bruguera, Albert Portas
+Stephane Huet, Stefano Tarallo
+Olivier Rochus, David Sanchez
+Christophe Rochus, Juan Balcells
+Diego Nargiso, Alberto Martin
+Sergi Bruguera, Stephane Huet
+Olivier Rochus, Christophe Rochus
+Diego Nargiso, Sergi Bruguera
+Olivier Rochus, Diego Nargiso
+Alex Corretja, Gianluca Pozzi
+Alexander Popp, Stephane Huet
+Mikael Tillstrom, Nicolas Mahut
+Julien Boutter, Albert Costa
+Marcelo Rios, Fernando Vicente
+Karim Alami, Fabrice Santoro
+Stefan Koubek, Paul Henri Mathieu
+Juan Albert Viloca Puig, Alberto Martin
+Jan Michael Gambill, Francisco Clavet
+Hicham Arazi, Greg Rusedski
+Marc Rosset, Renzo Furlan
+Carlos Moya, Younes El Aynaoui
+Max Mirnyi, Diego Nargiso
+Andreas Vinciguerra, Arnaud Di Pasquale
+Nicolas Escude, Slava Dosedel
+Magnus Gustafsson, Juan Carlos Ferrero
+Alex Corretja, Alexander Popp
+Mikael Tillstrom, Julien Boutter
+Marcelo Rios, Karim Alami
+Juan Albert Viloca Puig, Stefan Koubek
+Jan Michael Gambill, Hicham Arazi
+Carlos Moya, Marc Rosset
+Max Mirnyi, Andreas Vinciguerra
+Nicolas Escude, Magnus Gustafsson
+Alex Corretja, Mikael Tillstrom
+Marcelo Rios, Juan Albert Viloca Puig
+Carlos Moya, Jan Michael Gambill
+Max Mirnyi, Nicolas Escude
+Alex Corretja, Marcelo Rios
+Carlos Moya, Max Mirnyi
+Alex Corretja, Carlos Moya
+Andrei Pavel, Stephane Huet
+Roger Federer, Tommy Haas
+Nicolas Thomann, Nicolas Escude
+Nicolas Lapentti, Marcelo Rios
+Lleyton Hewitt, Cyril Saulnier
+Andreas Vinciguerra, Younes El Aynaoui
+Greg Rusedski, Karim Alami
+Richard Krajicek, Juan Carlos Ferrero
+Davide Sanguinetti, Cedric Pioline
+Hicham Arazi, Michel Kratochvil
+Arnaud Clement, Alex Calatrava
+Tim Henman, Tommy Robredo
+George Bastl, Wayne Ferreira
+Dominik Hrbaty, Sebastien Grosjean
+Jerome Golmard, Gaston Gaudio
+Thomas Enqvist, Jan Michael Gambill
+Roger Federer, Andrei Pavel
+Nicolas Thomann, Nicolas Lapentti
+Lleyton Hewitt, Andreas Vinciguerra
+Greg Rusedski, Richard Krajicek
+Hicham Arazi, Davide Sanguinetti
+Tim Henman, Arnaud Clement
+Dominik Hrbaty, George Bastl
+Thomas Enqvist, Jerome Golmard
+Roger Federer, Nicolas Thomann
+Lleyton Hewitt, Greg Rusedski
+Tim Henman, Hicham Arazi
+Thomas Enqvist, Dominik Hrbaty
+Roger Federer, Lleyton Hewitt
+Thomas Enqvist, Tim Henman
+Thomas Enqvist, Roger Federer
+Nicolas Massu, Satoshi Iwabuchi
+Leander Paes, Fredrik Jonsson
+Andrea Gaudenzi, Christophe Rochus
+Karol Kucera, Paul Goldstein
+Leos Friedl, Davide Sanguinetti
+Laurence Tieleman, Joji Miyao
+Olivier Rochus, Chris Woodruff
+Takao Suzuki, Kevin Kim
+Jonas Bjorkman, Jeff Tarango
+Kalle Flygt, Mariano Zabaleta
+Andre Sa, Alex Calatrava
+Daniel Elsner, Gouichi Motomura
+Cecil Mamiit, Jason Stoltenberg
+Sergi Bruguera, Barry Cowan
+Sjeng Schalken, Paradorn Srichaphan
+David Prinosil, Mikhail Youzhny
+Yong Il Yoon, Christian Vinck
+Wayne Arthurs, Yaoki Ishii
+George Bastl, Andrei Stoliarov
+Eric Taino, Michihisa Onoda
+Vincent Spadea, Andrew Ilie
+Harel Levy, Jeff Salzenstein
+Hyung Taik Lee, Orlin Stanoytchev
+Wayne Black, Markus Hantschk
+Gustavo Kuerten, Nicolas Massu
+Andrea Gaudenzi, Leander Paes
+Karol Kucera, Leos Friedl
+Dominik Hrbaty, Laurence Tieleman
+Nicolas Lapentti, Olivier Rochus
+Jonas Bjorkman, Takao Suzuki
+Kalle Flygt, Andre Sa
+Byron Black, Daniel Elsner
+Cecil Mamiit, Michael Chang
+Sjeng Schalken, Sergi Bruguera
+Yong Il Yoon, David Prinosil
+Mark Philippoussis, Wayne Arthurs
+Hicham Arazi, George Bastl
+Eric Taino, Vincent Spadea
+Harel Levy, Hyung Taik Lee
+Wayne Black, Taylor Dent
+Gustavo Kuerten, Andrea Gaudenzi
+Dominik Hrbaty, Karol Kucera
+Nicolas Lapentti, Jonas Bjorkman
+Byron Black, Kalle Flygt
+Sjeng Schalken, Cecil Mamiit
+Mark Philippoussis, Yong Il Yoon
+Hicham Arazi, Eric Taino
+Wayne Black, Harel Levy
+Dominik Hrbaty, Gustavo Kuerten
+Nicolas Lapentti, Byron Black
+Sjeng Schalken, Mark Philippoussis
+Hicham Arazi, Wayne Black
+Nicolas Lapentti, Dominik Hrbaty
+Sjeng Schalken, Hicham Arazi
+Sjeng Schalken, Nicolas Lapentti
+Gustavo Kuerten, Vincent Spadea
+Sargis Sargsian, Dominik Hrbaty
+Jonas Bjorkman, Melvin Tong
+Patrick Rafter, Kristian Pless
+Mark Philippoussis, Byron Black
+Chris Woodruff, Giorgio Galimberti
+Sergi Bruguera, Jeff Tarango
+Marcelo Rios, David Prinosil
+Nicolas Lapentti, Hyung Taik Lee
+Kevin Kim, Phillip King
+Jason Stoltenberg, Vladimir Voltchkov
+Nicolas Kiefer, George Bastl
+Michael Chang, Andrew Ilie
+Sjeng Schalken, Nicolas Massu
+Mariano Zabaleta, Hicham Arazi
+Tim Henman, Harel Levy
+Gustavo Kuerten, Sargis Sargsian
+Patrick Rafter, Jonas Bjorkman
+Mark Philippoussis, Chris Woodruff
+Sergi Bruguera, Marcelo Rios
+Nicolas Lapentti, Kevin Kim
+Nicolas Kiefer, Jason Stoltenberg
+Michael Chang, Sjeng Schalken
+Tim Henman, Mariano Zabaleta
+Patrick Rafter, Gustavo Kuerten
+Mark Philippoussis, Sergi Bruguera
+Nicolas Kiefer, Nicolas Lapentti
+Tim Henman, Michael Chang
+Mark Philippoussis, Patrick Rafter
+Nicolas Kiefer, Tim Henman
+Nicolas Kiefer, Mark Philippoussis
+Nicolas Escude, Marat Safin
+Stefan Koubek, Cyril Saulnier
+Andrei Pavel, Thomas Johansson
+Cedric Pioline, Zbynek Mlynarik
+Slava Dosedel, Thomas Enqvist
+Jerome Golmard, Gianluca Pozzi
+Arnaud Clement, Jan Michael Gambill
+Tommy Haas, Alex Corretja
+Tim Henman, Marc Rosset
+Fabrice Santoro, Francisco Clavet
+Fernando Vicente, Sebastien Grosjean
+Greg Rusedski, Yevgeny Kafelnikov
+Richard Krajicek, Juan Carlos Ferrero
+Andreas Vinciguerra, Jiri Novak
+Max Mirnyi, Arnaud Di Pasquale
+Roger Federer, Magnus Norman
+Stefan Koubek, Nicolas Escude
+Cedric Pioline, Andrei Pavel
+Jerome Golmard, Slava Dosedel
+Tommy Haas, Arnaud Clement
+Tim Henman, Fabrice Santoro
+Fernando Vicente, Greg Rusedski
+Richard Krajicek, Andreas Vinciguerra
+Roger Federer, Max Mirnyi
+Cedric Pioline, Stefan Koubek
+Tommy Haas, Jerome Golmard
+Tim Henman, Fernando Vicente
+Roger Federer, Richard Krajicek
+Tommy Haas, Cedric Pioline
+Tim Henman, Roger Federer
+Tim Henman, Tommy Haas
+Francisco Clavet, Gustavo Kuerten
+Lleyton Hewitt, Sebastien Grosjean
+Daniel Vacek, Jean Rene Lisnard
+Adrian Voinea, Vincent Spadea
+Alex Corretja, Cedric Pioline
+Hicham Arazi, Felix Mantilla
+Slava Dosedel, Mark Woodforde
+Andrew Ilie, Albert Costa
+Karol Kucera, Martin Damm Sr
+Arnaud Clement, Mariano Zabaleta
+Ivan Ljubicic, Marat Safin
+Todd Martin, Andrei Medvedev
+Dominik Hrbaty, Kevin Ullyett
+Jason Stoltenberg, Jacobo Diaz
+Stefan Koubek, Fernando Meligeni
+Nicolas Lapentti, Younes El Aynaoui
+Lleyton Hewitt, Francisco Clavet
+Adrian Voinea, Daniel Vacek
+Alex Corretja, Hicham Arazi
+Slava Dosedel, Andrew Ilie
+Karol Kucera, Arnaud Clement
+Ivan Ljubicic, Todd Martin
+Jason Stoltenberg, Dominik Hrbaty
+Nicolas Lapentti, Stefan Koubek
+Lleyton Hewitt, Adrian Voinea
+Alex Corretja, Slava Dosedel
+Ivan Ljubicic, Karol Kucera
+Jason Stoltenberg, Nicolas Lapentti
+Lleyton Hewitt, Alex Corretja
+Jason Stoltenberg, Ivan Ljubicic
+Lleyton Hewitt, Jason Stoltenberg
+Thomas Enqvist, Arnaud Clement
+Roger Federer, Jens Knippschild
+Jan Michael Gambill, Wayne Arthurs
+Sebastien Grosjean, Andrew Ilie
+Magnus Norman, Scott Draper
+Richard Fromberg, Todd Woodbridge
+James Sekulov, Gianluca Pozzi
+Alberto Martin, Vincent Spadea
+Lleyton Hewitt, Mark Woodforde
+Dejan Petrovic, Stephane Huet
+Christian Vinck, Paul Goldstein
+Jason Stoltenberg, Dominik Hrbaty
+Nicolas Escude, Paul Baccanello
+Slava Dosedel, Ivan Ljubicic
+Jean Rene Lisnard, Michael Tebbutt
+Tim Henman, Juan Balcells
+Thomas Enqvist, Roger Federer
+Sebastien Grosjean, Jan Michael Gambill
+Magnus Norman, Richard Fromberg
+Alberto Martin, James Sekulov
+Lleyton Hewitt, Dejan Petrovic
+Jason Stoltenberg, Christian Vinck
+Nicolas Escude, Slava Dosedel
+Tim Henman, Jean Rene Lisnard
+Thomas Enqvist, Sebastien Grosjean
+Magnus Norman, Alberto Martin
+Lleyton Hewitt, Jason Stoltenberg
+Nicolas Escude, Tim Henman
+Thomas Enqvist, Magnus Norman
+Lleyton Hewitt, Nicolas Escude
+Lleyton Hewitt, Thomas Enqvist
+Chris Woodruff, Jiri Novak
+Julien Boutter, Byron Black
+Albert Costa, Alex Obrien
+Gianluca Pozzi, Karol Kucera
+Magnus Gustafsson, Jerome Golmard
+Dominik Hrbaty, Roger Federer
+David Prinosil, Gaston Gaudio
+Michael Chang, Arnaud Di Pasquale
+Jan Michael Gambill, Andrei Pavel
+Nicolas Lapentti, Mariano Puerta
+Marc Rosset, Fernando Vicente
+Fabrice Santoro, Carlos Moya
+Arnaud Clement, Greg Rusedski
+Max Mirnyi, Nicolas Escude
+Tommy Haas, Christophe Rochus
+George Bastl, Michael Llodra
+Gustavo Kuerten, Chris Woodruff
+Patrick Rafter, Julien Boutter
+Albert Costa, Tim Henman
+Gianluca Pozzi, Thomas Enqvist
+Yevgeny Kafelnikov, Magnus Gustafsson
+Mark Philippoussis, Dominik Hrbaty
+David Prinosil, Franco Squillari
+Michael Chang, Harel Levy
+Jan Michael Gambill, Stephane Huet
+Juan Carlos Ferrero, Nicolas Lapentti
+Marc Rosset, Cedric Pioline
+Fabrice Santoro, Magnus Norman
+Alex Corretja, Arnaud Clement
+Wayne Ferreira, Max Mirnyi
+Sebastien Grosjean, Tommy Haas
+Marat Safin, George Bastl
+Gustavo Kuerten, Patrick Rafter
+Albert Costa, Gianluca Pozzi
+Mark Philippoussis, Yevgeny Kafelnikov
+David Prinosil, Michael Chang
+Juan Carlos Ferrero, Jan Michael Gambill
+Fabrice Santoro, Marc Rosset
+Alex Corretja, Wayne Ferreira
+Marat Safin, Sebastien Grosjean
+Gustavo Kuerten, Albert Costa
+Mark Philippoussis, David Prinosil
+Juan Carlos Ferrero, Fabrice Santoro
+Marat Safin, Alex Corretja
+Mark Philippoussis, Gustavo Kuerten
+Marat Safin, Juan Carlos Ferrero
+Marat Safin, Mark Philippoussis
+Fabrice Santoro, Goran Ivanisevic
+Greg Rusedski, Jerome Golmard
+Albert Costa, Jiri Novak
+Richard Krajicek, Alberto Martin
+Marc Rosset, Rainer Schuettler
+Julien Boutter, Hicham Arazi
+Dominik Hrbaty, Carlos Moya
+Roger Federer, Jan Michael Gambill
+Wayne Ferreira, Christian Vinck
+Arnaud Clement, Andreas Vinciguerra
+Andrei Pavel, Gaston Gaudio
+Thomas Johansson, Francisco Clavet
+Michael Chang, Jens Knippschild
+Younes El Aynaoui, Karim Alami
+Sebastien Grosjean, Tommy Haas
+Nicolas Escude, Bjorn Phau
+Marat Safin, Fabrice Santoro
+Greg Rusedski, Mariano Puerta
+Tim Henman, Albert Costa
+Lleyton Hewitt, Richard Krajicek
+Magnus Norman, Marc Rosset
+Sjeng Schalken, Julien Boutter
+Franco Squillari, Dominik Hrbaty
+Yevgeny Kafelnikov, Roger Federer
+Wayne Ferreira, Thomas Enqvist
+Mark Philippoussis, Arnaud Clement
+Andrei Pavel, Patrick Rafter
+Andre Agassi, Thomas Johansson
+Michael Chang, Alex Corretja
+Younes El Aynaoui, Juan Carlos Ferrero
+Sebastien Grosjean, Nicolas Lapentti
+Gustavo Kuerten, Nicolas Escude
+Greg Rusedski, Marat Safin
+Lleyton Hewitt, Tim Henman
+Sjeng Schalken, Magnus Norman
+Yevgeny Kafelnikov, Franco Squillari
+Wayne Ferreira, Mark Philippoussis
+Andrei Pavel, Andre Agassi
+Michael Chang, Younes El Aynaoui
+Sebastien Grosjean, Gustavo Kuerten
+Lleyton Hewitt, Greg Rusedski
+Yevgeny Kafelnikov, Sjeng Schalken
+Wayne Ferreira, Andrei Pavel
+Sebastien Grosjean, Michael Chang
+Lleyton Hewitt, Yevgeny Kafelnikov
+Wayne Ferreira, Sebastien Grosjean
+Wayne Ferreira, Lleyton Hewitt
+Gustavo Kuerten, Sergi Bruguera
+Sebastian Prieto, Juan Balcells
+Markus Hantschk, Mauricio Hadad
+Hernan Gumy, Nicolas Massu
+Felix Mantilla, Galo Blanco
+Juan Ignacio Chela, Alex Lopez Moron
+Mariano Puerta, Jaime Cortes
+Davide Sanguinetti, Gaston Gaudio
+Arnaud Di Pasquale, Jacobo Diaz
+Tomas Zib, Bohdan Ulihrach
+Martin Rodriguez, Juan Antonio Marin
+Fernando Vicente, Laurence Tieleman
+Albert Portas, Guillermo Canas
+Orlin Stanoytchev, Ronald Agenor
+Gaston Etlis, Pablo Gonzalez
+Younes El Aynaoui, Jean Rene Lisnard
+Gustavo Kuerten, Sebastian Prieto
+Markus Hantschk, Hernan Gumy
+Felix Mantilla, Juan Ignacio Chela
+Mariano Puerta, Davide Sanguinetti
+Arnaud Di Pasquale, Tomas Zib
+Fernando Vicente, Martin Rodriguez
+Albert Portas, Orlin Stanoytchev
+Younes El Aynaoui, Gaston Etlis
+Gustavo Kuerten, Markus Hantschk
+Mariano Puerta, Felix Mantilla
+Fernando Vicente, Arnaud Di Pasquale
+Younes El Aynaoui, Albert Portas
+Mariano Puerta, Gustavo Kuerten
+Younes El Aynaoui, Fernando Vicente
+Mariano Puerta, Younes El Aynaoui
+Younes El Aynaoui, Albert Portas
+Laurence Tieleman, Orlin Stanoytchev
+Nicolas Coutelot, Jacobo Diaz
+Mariano Puerta, Markus Hantschk
+Sebastien Grosjean, Gianluca Pozzi
+Reginald Willems, Alexander Popp
+Hernan Gumy, Alberto Martin
+Sergi Bruguera, Marc Rosset
+Fernando Vicente, Mikhail Youzhny
+Herbert Wiltschnig, Thierry Guardiola
+Christophe Rochus, Mehdi Tahiri
+Hicham Arazi, Antony Dupuis
+Arnaud Di Pasquale, Mounir El Aarej
+Alex Lopez Moron, Lorenzo Manta
+Andreas Vinciguerra, Arnaud Clement
+Karim Alami, Tomas Behrend
+Younes El Aynaoui, Laurence Tieleman
+Mariano Puerta, Nicolas Coutelot
+Sebastien Grosjean, Reginald Willems
+Sergi Bruguera, Hernan Gumy
+Fernando Vicente, Herbert Wiltschnig
+Hicham Arazi, Christophe Rochus
+Arnaud Di Pasquale, Alex Lopez Moron
+Andreas Vinciguerra, Karim Alami
+Mariano Puerta, Younes El Aynaoui
+Sebastien Grosjean, Sergi Bruguera
+Fernando Vicente, Hicham Arazi
+Arnaud Di Pasquale, Andreas Vinciguerra
+Sebastien Grosjean, Mariano Puerta
+Fernando Vicente, Arnaud Di Pasquale
+Fernando Vicente, Sebastien Grosjean
+Gustavo Kuerten, Andrei Pavel
+Michael Llodra, Albert Costa
+Younes El Aynaoui, Andrew Ilie
+Patrick Rafter, Gaston Gaudio
+Thomas Enqvist, Sebastien Grosjean
+Jean Francois Bachelot, Karim Alami
+Hicham Arazi, Julien Boutter
+Mark Philippoussis, Wayne Ferreira
+Franco Squillari, Fabrice Santoro
+Arnaud Clement, Thierry Guardiola
+Mariano Puerta, Michael Chang
+Raemon Sluiter, Alex Corretja
+Karol Kucera, Cedric Pioline
+Roger Federer, Nicolas Escude
+Tommy Haas, Arnaud Di Pasquale
+Andre Agassi, Sargis Sargsian
+Gustavo Kuerten, Michael Llodra
+Patrick Rafter, Younes El Aynaoui
+Thomas Enqvist, Jean Francois Bachelot
+Hicham Arazi, Mark Philippoussis
+Arnaud Clement, Franco Squillari
+Raemon Sluiter, Mariano Puerta
+Karol Kucera, Roger Federer
+Andre Agassi, Tommy Haas
+Patrick Rafter, Gustavo Kuerten
+Hicham Arazi, Thomas Enqvist
+Arnaud Clement, Raemon Sluiter
+Andre Agassi, Karol Kucera
+Patrick Rafter, Hicham Arazi
+Arnaud Clement, Andre Agassi
+Arnaud Clement, Patrick Rafter
+Brian Macphie, Lorenzo Manta
+Tomas Zib, Markus Hantschk
+Paradorn Srichaphan, Cristiano Caratti
+Orlin Stanoytchev, Sebastien Lareau
+Andre Sa, Ronald Agenor
+Davide Sanguinetti, Antony Dupuis
+Harel Levy, James Sekulov
+Laurence Tieleman, Bob Bryan
+Axel Pretzsch, Mark Knowles
+Nicolas Massu, Gaston Etlis
+Martin Rodriguez, Justin Gimelstob
+Mark Woodforde, Julian Alonso
+Alexander Popp, Tomas Behrend
+Cecil Mamiit, Luke Jensen
+Richey Reneberg, Paul Goldstein
+Jeff Salzenstein, Fredrik Jonsson
+Mark Philippoussis, Brian Macphie
+Magnus Larsson, Tomas Zib
+Rainer Schuettler, Paradorn Srichaphan
+Jan Michael Gambill, Orlin Stanoytchev
+Andre Sa, Vincent Spadea
+Richard Fromberg, Davide Sanguinetti
+Sargis Sargsian, Harel Levy
+Laurence Tieleman, Jim Courier
+Michael Chang, Axel Pretzsch
+Hernan Gumy, Nicolas Massu
+Byron Black, Martin Rodriguez
+Chris Woodruff, Mark Woodforde
+Wayne Ferreira, Alexander Popp
+Cecil Mamiit, Max Mirnyi
+Mikael Tillstrom, Richey Reneberg
+Tommy Haas, Jeff Salzenstein
+Magnus Larsson, Mark Philippoussis
+Rainer Schuettler, Jan Michael Gambill
+Andre Sa, Richard Fromberg
+Sargis Sargsian, Laurence Tieleman
+Michael Chang, Hernan Gumy
+Byron Black, Chris Woodruff
+Wayne Ferreira, Cecil Mamiit
+Tommy Haas, Mikael Tillstrom
+Magnus Larsson, Rainer Schuettler
+Andre Sa, Sargis Sargsian
+Byron Black, Michael Chang
+Tommy Haas, Wayne Ferreira
+Magnus Larsson, Andre Sa
+Byron Black, Tommy Haas
+Magnus Larsson, Byron Black
+Andy Roddick, Fernando Vicente
+Andrei Pavel, Sargis Sargsian
+Sjeng Schalken, Markus Hipfl
+Max Mirnyi, Mikael Tillstrom
+Agustin Calleri, Marc Rosset
+Roger Federer, Justin Gimelstob
+Wayne Arthurs, Francisco Clavet
+Michael Chang, Juan Antonio Marin
+Richard Fromberg, Jeff Tarango
+Wayne Ferreira, Martin Damm Sr
+Christophe Rochus, Franco Squillari
+Michel Kratochvil, John Van Lottum
+Jiri Novak, Alberto Martin
+Gianluca Pozzi, Jonas Bjorkman
+Goran Ivanisevic, David Prinosil
+Arnaud Clement, Chris Woodruff
+Nicolas Massu, Arnaud Di Pasquale
+Jan Michael Gambill, Slava Dosedel
+Cyril Saulnier, Thomas Johansson
+Wayne Black, Alberto Berasategui
+Gaston Gaudio, Hernan Gumy
+Mardy Fish, Galo Blanco
+Paul Goldstein, Christian Ruud
+Guillermo Canas, Ivan Ljubicic
+Jim Courier, David Nalbandian
+George Bastl, Tuomas Ketola
+Jerome Golmard, Daniel Vacek
+Xavier Malisse, Magnus Larsson
+Byron Black, Rainer Schuettler
+Andrei Medvedev, Andrew Ilie
+Andreas Vinciguerra, Karol Kucera
+Carlos Moya, Juan Albert Viloca Puig
+Andre Agassi, Andy Roddick
+Andrei Pavel, Fabrice Santoro
+Sebastien Grosjean, Sjeng Schalken
+Patrick Rafter, Max Mirnyi
+Tim Henman, Agustin Calleri
+Mariano Zabaleta, Roger Federer
+Nicolas Escude, Wayne Arthurs
+Marcelo Rios, Michael Chang
+Richard Fromberg, Nicolas Kiefer
+Wayne Ferreira, Hicham Arazi
+Dominik Hrbaty, Christophe Rochus
+Michel Kratochvil, Albert Costa
+Jiri Novak, Alex Corretja
+Gianluca Pozzi, Stefan Koubek
+Goran Ivanisevic, Vincent Spadea
+Gustavo Kuerten, Arnaud Clement
+Magnus Norman, Nicolas Massu
+Jan Michael Gambill, Karim Alami
+Mark Philippoussis, Cyril Saulnier
+Cedric Pioline, Wayne Black
+Lleyton Hewitt, Gaston Gaudio
+Tommy Haas, Mardy Fish
+Fernando Meligeni, Paul Goldstein
+Yevgeny Kafelnikov, Guillermo Canas
+Thomas Enqvist, Jim Courier
+George Bastl, Juan Carlos Ferrero
+Felix Mantilla, Jerome Golmard
+Nicolas Lapentti, Xavier Malisse
+Byron Black, Younes El Aynaoui
+Greg Rusedski, Andrei Medvedev
+Andreas Vinciguerra, Marat Safin
+Pete Sampras, Carlos Moya
+Andre Agassi, Andrei Pavel
+Patrick Rafter, Sebastien Grosjean
+Tim Henman, Mariano Zabaleta
+Marcelo Rios, Nicolas Escude
+Wayne Ferreira, Richard Fromberg
+Dominik Hrbaty, Michel Kratochvil
+Gianluca Pozzi, Jiri Novak
+Gustavo Kuerten, Goran Ivanisevic
+Jan Michael Gambill, Magnus Norman
+Mark Philippoussis, Cedric Pioline
+Lleyton Hewitt, Tommy Haas
+Yevgeny Kafelnikov, Fernando Meligeni
+Thomas Enqvist, George Bastl
+Nicolas Lapentti, Felix Mantilla
+Greg Rusedski, Byron Black
+Pete Sampras, Andreas Vinciguerra
+Andre Agassi, Patrick Rafter
+Tim Henman, Marcelo Rios
+Wayne Ferreira, Dominik Hrbaty
+Gustavo Kuerten, Gianluca Pozzi
+Jan Michael Gambill, Mark Philippoussis
+Lleyton Hewitt, Yevgeny Kafelnikov
+Nicolas Lapentti, Thomas Enqvist
+Pete Sampras, Greg Rusedski
+Andre Agassi, Tim Henman
+Gustavo Kuerten, Wayne Ferreira
+Lleyton Hewitt, Jan Michael Gambill
+Pete Sampras, Nicolas Lapentti
+Gustavo Kuerten, Andre Agassi
+Pete Sampras, Lleyton Hewitt
+Pete Sampras, Gustavo Kuerten
+Hicham Arazi, Andre Agassi
+Slava Dosedel, Felix Mantilla
+Max Mirnyi, Taylor Dent
+Greg Rusedski, James Blake
+Nicolas Escude, Cedric Pioline
+Marat Safin, Fernando Meligeni
+Arnaud Di Pasquale, Jim Courier
+Nicolas Lapentti, Jonas Bjorkman
+Fabrice Santoro, Nicolas Kiefer
+Dominik Hrbaty, Younes El Aynaoui
+Alex Corretja, Karol Kucera
+Patrick Rafter, Marcos Ondruska
+Tim Henman, Karim Alami
+Sebastien Grosjean, Jiri Novak
+Michael Chang, Juan Carlos Ferrero
+Magnus Norman, Franco Squillari
+Gustavo Kuerten, Justin Gimelstob
+Tommy Haas, Cyril Saulnier
+Francisco Clavet, Andrew Ilie
+Mark Philippoussis, Chris Woodruff
+Albert Costa, Stefan Koubek
+Goran Ivanisevic, Paul Goldstein
+Sjeng Schalken, Jan Kroslak
+Yevgeny Kafelnikov, Vincent Spadea
+Marcelo Rios, Daniel Vacek
+Mariano Zabaleta, Fernando Vicente
+Thomas Johansson, Arnaud Clement
+Thomas Enqvist, Jerome Golmard
+Lleyton Hewitt, Carlos Moya
+Byron Black, Alberto Martin
+Wayne Ferreira, Jan Michael Gambill
+Pete Sampras, Andrei Medvedev
+Hicham Arazi, Slava Dosedel
+Max Mirnyi, Greg Rusedski
+Nicolas Escude, Marat Safin
+Nicolas Lapentti, Arnaud Di Pasquale
+Fabrice Santoro, Dominik Hrbaty
+Alex Corretja, Patrick Rafter
+Sebastien Grosjean, Tim Henman
+Magnus Norman, Michael Chang
+Tommy Haas, Gustavo Kuerten
+Mark Philippoussis, Francisco Clavet
+Albert Costa, Goran Ivanisevic
+Sjeng Schalken, Yevgeny Kafelnikov
+Mariano Zabaleta, Marcelo Rios
+Thomas Enqvist, Thomas Johansson
+Byron Black, Lleyton Hewitt
+Pete Sampras, Wayne Ferreira
+Hicham Arazi, Max Mirnyi
+Nicolas Lapentti, Nicolas Escude
+Alex Corretja, Fabrice Santoro
+Magnus Norman, Sebastien Grosjean
+Mark Philippoussis, Tommy Haas
+Sjeng Schalken, Albert Costa
+Thomas Enqvist, Mariano Zabaleta
+Pete Sampras, Byron Black
+Nicolas Lapentti, Hicham Arazi
+Alex Corretja, Magnus Norman
+Mark Philippoussis, Sjeng Schalken
+Thomas Enqvist, Pete Sampras
+Alex Corretja, Nicolas Lapentti
+Thomas Enqvist, Mark Philippoussis
+Alex Corretja, Thomas Enqvist
+Yevgeny Kafelnikov, Nicklas Kulti
+Nicolas Escude, David Prinosil
+Filip Dewulf, Goran Ivanisevic
+Greg Rusedski, Karol Kucera
+Jonas Bjorkman, Nicolas Lapentti
+Dominik Hrbaty, Marat Safin
+Fabrice Santoro, Karim Alami
+Tim Henman, Alberto Martin
+Jan Siemerink, Thomas Enqvist
+Jerome Golmard, Mariano Zabaleta
+Peter Wessels, Andrei Pavel
+Magnus Norman, Sjeng Schalken
+Cedric Pioline, Adrian Voinea
+Sebastien Grosjean, Andrei Medvedev
+Jiri Novak, Thomas Johansson
+Nicolas Kiefer, Daniel Vacek
+Yevgeny Kafelnikov, Nicolas Escude
+Greg Rusedski, Filip Dewulf
+Dominik Hrbaty, Jonas Bjorkman
+Tim Henman, Fabrice Santoro
+Jerome Golmard, Jan Siemerink
+Magnus Norman, Peter Wessels
+Cedric Pioline, Sebastien Grosjean
+Nicolas Kiefer, Jiri Novak
+Yevgeny Kafelnikov, Greg Rusedski
+Tim Henman, Dominik Hrbaty
+Jerome Golmard, Magnus Norman
+Cedric Pioline, Nicolas Kiefer
+Tim Henman, Yevgeny Kafelnikov
+Cedric Pioline, Jerome Golmard
+Cedric Pioline, Tim Henman
+Yevgeny Kafelnikov, Andrei Medvedev
+Daniel Vacek, Thomas Johansson
+Fabrice Santoro, Marat Safin
+Hicham Arazi, Jan Michael Gambill
+Mariano Zabaleta, Tim Henman
+Cyril Saulnier, Rainer Schuettler
+Jerome Golmard, Juan Carlos Ferrero
+Greg Rusedski, Arnaud Clement
+Cedric Pioline, Alberto Martin
+Jeff Tarango, Jonas Bjorkman
+Karol Kucera, Jiri Novak
+Thomas Enqvist, Adrian Voinea
+Dominik Hrbaty, Andrei Pavel
+Marc Rosset, Ivan Ljubicic
+Goran Ivanisevic, Wayne Black
+Roger Federer, Nicolas Kiefer
+Yevgeny Kafelnikov, Daniel Vacek
+Fabrice Santoro, Hicham Arazi
+Mariano Zabaleta, Cyril Saulnier
+Greg Rusedski, Jerome Golmard
+Cedric Pioline, Jeff Tarango
+Thomas Enqvist, Karol Kucera
+Marc Rosset, Dominik Hrbaty
+Roger Federer, Goran Ivanisevic
+Yevgeny Kafelnikov, Fabrice Santoro
+Greg Rusedski, Mariano Zabaleta
+Thomas Enqvist, Cedric Pioline
+Marc Rosset, Roger Federer
+Yevgeny Kafelnikov, Greg Rusedski
+Marc Rosset, Thomas Enqvist
+Marc Rosset, Yevgeny Kafelnikov
+Andre Agassi, Xavier Malisse
+Jiri Vanek, Justin Gimelstob
+Michal Tabara, Magnus Gustafsson
+Jeff Tarango, Andre Sa
+Magnus Larsson, Christian Ruud
+Jason Stoltenberg, Fredrik Jonsson
+Nicolas Massu, James Sekulov
+Sargis Sargsian, Eric Taino
+Chris Woodruff, Andrei Stoliarov
+Todd Woodbridge, Ronald Agenor
+Julian Alonso, Kevin Kim
+Michael Chang, Davide Sanguinetti
+Andrew Ilie, Tomas Zib
+Stephane Huet, Michael Russell
+Paul Goldstein, Levar Harper Griffith
+Stefan Koubek, Federico Browne
+Jiri Vanek, Andre Agassi
+Jeff Tarango, Michal Tabara
+Jason Stoltenberg, Magnus Larsson
+Nicolas Massu, Sargis Sargsian
+Chris Woodruff, Todd Woodbridge
+Michael Chang, Julian Alonso
+Andrew Ilie, Stephane Huet
+Stefan Koubek, Paul Goldstein
+Jeff Tarango, Jiri Vanek
+Jason Stoltenberg, Nicolas Massu
+Michael Chang, Chris Woodruff
+Andrew Ilie, Stefan Koubek
+Jason Stoltenberg, Jeff Tarango
+Andrew Ilie, Michael Chang
+Andrew Ilie, Jason Stoltenberg
+Yevgeny Kafelnikov, Daniel Vacek
+Dominik Hrbaty, Arnaud Di Pasquale
+Arnaud Clement, Goran Ivanisevic
+Mariano Zabaleta, Vincent Spadea
+Alex Corretja, Alberto Berasategui
+Fabrice Santoro, Orlin Stanoytchev
+Juan Ignacio Chela, Alex Lopez Moron
+Tim Henman, Marc Rosset
+Franco Squillari, Nicolas Lapentti
+Fernando Meligeni, Andrea Gaudenzi
+Juan Carlos Ferrero, Francisco Clavet
+Hicham Arazi, Tommy Haas
+Sargis Sargsian, Younes El Aynaoui
+Julien Boutter, Michael Chang
+Gaston Gaudio, Marat Safin
+Felix Mantilla, Marcelo Rios
+Thomas Enqvist, Cyril Saulnier
+Richard Krajicek, Fernando Vicente
+Jerome Golmard, Chris Woodruff
+Albert Costa, Rainer Schuettler
+Wayne Ferreira, Mark Philippoussis
+Christian Ruud, Andreas Vinciguerra
+Karim Alami, Thomas Johansson
+Magnus Norman, Albert Portas
+Cedric Pioline, Magnus Larsson
+Jiri Novak, Roger Federer
+Nicolas Escude, Stephane Huet
+Slava Dosedel, Greg Rusedski
+Carlos Moya, Stefan Koubek
+Sjeng Schalken, Jonas Bjorkman
+Andrei Medvedev, Sebastien Grosjean
+Karol Kucera, Gustavo Kuerten
+Dominik Hrbaty, Yevgeny Kafelnikov
+Arnaud Clement, Mariano Zabaleta
+Alex Corretja, Fabrice Santoro
+Juan Ignacio Chela, Tim Henman
+Franco Squillari, Fernando Meligeni
+Juan Carlos Ferrero, Hicham Arazi
+Julien Boutter, Sargis Sargsian
+Gaston Gaudio, Felix Mantilla
+Richard Krajicek, Thomas Enqvist
+Albert Costa, Jerome Golmard
+Christian Ruud, Wayne Ferreira
+Karim Alami, Magnus Norman
+Cedric Pioline, Jiri Novak
+Slava Dosedel, Nicolas Escude
+Sjeng Schalken, Carlos Moya
+Karol Kucera, Andrei Medvedev
+Dominik Hrbaty, Arnaud Clement
+Alex Corretja, Juan Ignacio Chela
+Juan Carlos Ferrero, Franco Squillari
+Gaston Gaudio, Julien Boutter
+Albert Costa, Richard Krajicek
+Karim Alami, Christian Ruud
+Cedric Pioline, Slava Dosedel
+Karol Kucera, Sjeng Schalken
+Dominik Hrbaty, Alex Corretja
+Gaston Gaudio, Juan Carlos Ferrero
+Karim Alami, Albert Costa
+Cedric Pioline, Karol Kucera
+Dominik Hrbaty, Gaston Gaudio
+Cedric Pioline, Karim Alami
+Cedric Pioline, Dominik Hrbaty
+Pete Sampras, Chris Woodruff
+Arnaud Di Pasquale, Slava Dosedel
+Andrei Pavel, Roger Federer
+Juan Carlos Ferrero, Carlos Moya
+Lleyton Hewitt, Mark Philippoussis
+Mariano Zabaleta, Gaston Gaudio
+Jerome Golmard, Marc Kevin Goellner
+Tim Henman, Hicham Arazi
+Magnus Norman, Thomas Johansson
+Rainer Schuettler, Vincent Spadea
+Alberto Martin, Daniel Vacek
+Younes El Aynaoui, Stephane Huet
+Wayne Ferreira, Patrick Rafter
+Richard Fromberg, Fernando Meligeni
+Sebastien Grosjean, Fabrice Santoro
+Gustavo Kuerten, Karim Alami
+Marc Rosset, Nicolas Lapentti
+Byron Black, Jeff Tarango
+Felix Mantilla, Sargis Sargsian
+Marat Safin, Albert Costa
+Andrei Medvedev, Dominik Hrbaty
+Jan Michael Gambill, Michael Chang
+Max Mirnyi, Adrian Voinea
+Cedric Pioline, Jiri Novak
+Thomas Enqvist, Karol Kucera
+Francisco Clavet, David Prinosil
+Todd Martin, Fernando Vicente
+Alex Corretja, Franco Squillari
+Michael Kohlmann, Tommy Haas
+Marcelo Rios, Nicolas Escude
+Mariano Puerta, Stefan Koubek
+Sjeng Schalken, Yevgeny Kafelnikov
+Arnaud Di Pasquale, Pete Sampras
+Andrei Pavel, Juan Carlos Ferrero
+Mariano Zabaleta, Lleyton Hewitt
+Tim Henman, Jerome Golmard
+Magnus Norman, Rainer Schuettler
+Younes El Aynaoui, Alberto Martin
+Wayne Ferreira, Richard Fromberg
+Gustavo Kuerten, Sebastien Grosjean
+Marc Rosset, Byron Black
+Marat Safin, Felix Mantilla
+Andrei Medvedev, Jan Michael Gambill
+Cedric Pioline, Max Mirnyi
+Francisco Clavet, Thomas Enqvist
+Alex Corretja, Todd Martin
+Marcelo Rios, Michael Kohlmann
+Mariano Puerta, Sjeng Schalken
+Andrei Pavel, Arnaud Di Pasquale
+Mariano Zabaleta, Tim Henman
+Magnus Norman, Younes El Aynaoui
+Gustavo Kuerten, Wayne Ferreira
+Marat Safin, Marc Rosset
+Cedric Pioline, Andrei Medvedev
+Francisco Clavet, Alex Corretja
+Marcelo Rios, Mariano Puerta
+Andrei Pavel, Mariano Zabaleta
+Gustavo Kuerten, Magnus Norman
+Marat Safin, Cedric Pioline
+Marcelo Rios, Francisco Clavet
+Gustavo Kuerten, Andrei Pavel
+Marat Safin, Marcelo Rios
+Gustavo Kuerten, Marat Safin
+Andre Agassi, Todd Martin
+Gaston Gaudio, Fernando Meligeni
+Franco Squillari, Slava Dosedel
+Dominik Hrbaty, Jeff Tarango
+Alex Corretja, Karol Kucera
+Jiri Novak, Tommy Haas
+Fabrice Santoro, Laurence Tieleman
+Tim Henman, Byron Black
+Gustavo Kuerten, Jerome Golmard
+Mark Philippoussis, Marc Rosset
+Mariano Zabaleta, Richard Krajicek
+Younes El Aynaoui, Vincent Spadea
+Bohdan Ulihrach, Patrick Rafter
+Albert Costa, Albert Portas
+Francisco Clavet, Goran Ivanisevic
+Nicolas Lapentti, Thomas Johansson
+Cedric Pioline, Chris Woodruff
+Andrei Pavel, Nicolas Escude
+Felix Mantilla, Juan Ignacio Chela
+Marat Safin, Marcelo Rios
+Fernando Vicente, Greg Rusedski
+Andrei Medvedev, Roger Federer
+Carlos Moya, Christian Ruud
+Magnus Norman, Sebastien Grosjean
+Thomas Enqvist, Daniel Vacek
+Michael Chang, Wayne Ferreira
+Arnaud Di Pasquale, Karim Alami
+Lleyton Hewitt, Stefan Koubek
+Juan Carlos Ferrero, Davide Sanguinetti
+Hicham Arazi, Sjeng Schalken
+Mariano Puerta, Renzo Furlan
+Yevgeny Kafelnikov, Andrea Gaudenzi
+Andre Agassi, Gaston Gaudio
+Dominik Hrbaty, Franco Squillari
+Alex Corretja, Jiri Novak
+Fabrice Santoro, Tim Henman
+Gustavo Kuerten, Mark Philippoussis
+Younes El Aynaoui, Mariano Zabaleta
+Albert Costa, Bohdan Ulihrach
+Francisco Clavet, Nicolas Lapentti
+Andrei Pavel, Cedric Pioline
+Felix Mantilla, Marat Safin
+Andrei Medvedev, Fernando Vicente
+Magnus Norman, Carlos Moya
+Thomas Enqvist, Michael Chang
+Lleyton Hewitt, Arnaud Di Pasquale
+Juan Carlos Ferrero, Hicham Arazi
+Mariano Puerta, Yevgeny Kafelnikov
+Dominik Hrbaty, Andre Agassi
+Alex Corretja, Fabrice Santoro
+Gustavo Kuerten, Younes El Aynaoui
+Albert Costa, Francisco Clavet
+Felix Mantilla, Andrei Pavel
+Magnus Norman, Andrei Medvedev
+Lleyton Hewitt, Thomas Enqvist
+Mariano Puerta, Juan Carlos Ferrero
+Alex Corretja, Dominik Hrbaty
+Gustavo Kuerten, Albert Costa
+Magnus Norman, Felix Mantilla
+Lleyton Hewitt, Mariano Puerta
+Gustavo Kuerten, Alex Corretja
+Magnus Norman, Lleyton Hewitt
+Magnus Norman, Gustavo Kuerten
+Fernando Meligeni, Juan Antonio Marin
+Jiri Vanek, Lars Burgsmuller
+Paul Goldstein, Julien Boutter
+Karol Kucera, Paul Harsanyi
+Kristian Capalik, Michael Russell
+Andy Roddick, Adrian Voinea
+Andre Sa, Arvind Parmar
+Laurence Tieleman, Bohdan Ulihrach
+David Prinosil, Martin Damm Sr
+Andrea Gaudenzi, Rainer Schuettler
+Ivan Ljubicic, Stephane Huet
+Davide Sanguinetti, Attila Savolt
+Alex Obrien, Marcos Ondruska
+Christophe Rochus, Bob Bryan
+Andrew Ilie, Ronald Agenor
+Fernando Gonzalez, Chris Woodruff
+Lorenzo Manta, Sargis Sargsian
+Guillermo Coria, George Bastl
+Wayne Arthurs, Mashiska Washington
+Galo Blanco, Mike Bryan
+Jerome Golmard, Jan Kroslak
+Paradorn Srichaphan, Jason Stoltenberg
+Barry Cowan, Ivo Heuberger
+Kevin Kim, David Caldwell
+Andre Agassi, Fernando Meligeni
+Paul Goldstein, Jiri Vanek
+Karol Kucera, Kristian Capalik
+Andy Roddick, Fabrice Santoro
+Andre Sa, Mark Philippoussis
+David Prinosil, Laurence Tieleman
+Ivan Ljubicic, Andrea Gaudenzi
+Byron Black, Davide Sanguinetti
+Jan Michael Gambill, Alex Obrien
+Christophe Rochus, Andrew Ilie
+Lorenzo Manta, Fernando Gonzalez
+Nicolas Kiefer, Guillermo Coria
+Wayne Arthurs, Dominik Hrbaty
+Jerome Golmard, Galo Blanco
+Paradorn Srichaphan, Barry Cowan
+Alex Corretja, Kevin Kim
+Andre Agassi, Paul Goldstein
+Andy Roddick, Karol Kucera
+David Prinosil, Andre Sa
+Byron Black, Ivan Ljubicic
+Jan Michael Gambill, Christophe Rochus
+Nicolas Kiefer, Lorenzo Manta
+Wayne Arthurs, Jerome Golmard
+Alex Corretja, Paradorn Srichaphan
+Andre Agassi, Andy Roddick
+David Prinosil, Byron Black
+Nicolas Kiefer, Jan Michael Gambill
+Alex Corretja, Wayne Arthurs
+Andre Agassi, David Prinosil
+Alex Corretja, Nicolas Kiefer
+Alex Corretja, Andre Agassi
+Todd Woodbridge, Jan Siemerink
+Taylor Dent, Francisco Clavet
+Jiri Novak, Gaston Etlis
+Wayne Ferreira, Arnaud Di Pasquale
+Paul Henri Mathieu, Jonas Bjorkman
+Xavier Malisse, Lior Mor
+Lionel Roux, Sjeng Schalken
+Carlos Moya, Hicham Arazi
+Todd Martin, Cecil Mamiit
+Albert Costa, Goran Ivanisevic
+Michel Kratochvil, Phillip King
+Stefan Koubek, David Wheaton
+Sebastien Lareau, Mark Knowles
+Wayne Black, Kevin Ullyett
+Sebastien Grosjean, Max Mirnyi
+Karim Alami, Cyril Saulnier
+Vladimir Voltchkov, Vincent Spadea
+Harel Levy, Mariano Zabaleta
+Alberto Martin, James Blake
+Nicolas Massu, Arnaud Clement
+Younes El Aynaoui, Thomas Johansson
+Gianluca Pozzi, Andrei Pavel
+James Sekulov, Roger Federer
+Mikael Tillstrom, Juan Ignacio Chela
+Gustavo Kuerten, Todd Woodbridge
+Taylor Dent, Jiri Novak
+Wayne Ferreira, Paul Henri Mathieu
+Xavier Malisse, Marcelo Rios
+Thomas Enqvist, Lionel Roux
+Carlos Moya, Todd Martin
+Albert Costa, Michel Kratochvil
+Lleyton Hewitt, Stefan Koubek
+Nicolas Lapentti, Sebastien Lareau
+Sebastien Grosjean, Wayne Black
+Karim Alami, Vladimir Voltchkov
+Marat Safin, Harel Levy
+Tim Henman, Alberto Martin
+Younes El Aynaoui, Nicolas Massu
+Gianluca Pozzi, James Sekulov
+Yevgeny Kafelnikov, Mikael Tillstrom
+Gustavo Kuerten, Taylor Dent
+Wayne Ferreira, Xavier Malisse
+Thomas Enqvist, Carlos Moya
+Lleyton Hewitt, Albert Costa
+Sebastien Grosjean, Nicolas Lapentti
+Marat Safin, Karim Alami
+Tim Henman, Younes El Aynaoui
+Yevgeny Kafelnikov, Gianluca Pozzi
+Gustavo Kuerten, Wayne Ferreira
+Lleyton Hewitt, Thomas Enqvist
+Marat Safin, Sebastien Grosjean
+Tim Henman, Yevgeny Kafelnikov
+Gustavo Kuerten, Lleyton Hewitt
+Marat Safin, Tim Henman
+Gustavo Kuerten, Marat Safin
+Jerome Golmard, Andre Agassi
+Paradorn Srichaphan, Chris Woodruff
+Arnaud Clement, Mariano Puerta
+Marcelo Rios, Tim Henman
+Stefan Koubek, Nicolas Lapentti
+Harel Levy, Martin Damm Sr
+Sebastien Grosjean, Cecil Mamiit
+Lleyton Hewitt, Roger Federer
+Gustavo Kuerten, Arnaud Di Pasquale
+Sebastien Lareau, Fabrice Santoro
+Karol Kucera, James Sekulov
+Patrick Rafter, Arvind Parmar
+Nicolas Kiefer, Todd Martin
+Jiri Novak, Slava Dosedel
+Andrew Ilie, Marc Rosset
+Thomas Enqvist, Sjeng Schalken
+Yevgeny Kafelnikov, Fernando Vicente
+Max Mirnyi, Frederic Niemeyer
+Gaston Gaudio, Jeff Tarango
+Juan Carlos Ferrero, Daniel Nestor
+Wayne Ferreira, Franco Squillari
+Thomas Johansson, Andreas Vinciguerra
+Michael Chang, Hicham Arazi
+Richard Krajicek, Magnus Norman
+Marat Safin, Jonas Bjorkman
+Andrei Pavel, Juan Ignacio Chela
+Cyril Saulnier, Emilio Benfele Alvarez
+Nicolas Escude, Mariano Zabaleta
+Sargis Sargsian, Mark Philippoussis
+Simon Larose, David Wheaton
+Karim Alami, Peter Tramacchi
+Pete Sampras, Michael Llodra
+Jerome Golmard, Paradorn Srichaphan
+Marcelo Rios, Arnaud Clement
+Harel Levy, Stefan Koubek
+Sebastien Grosjean, Lleyton Hewitt
+Sebastien Lareau, Gustavo Kuerten
+Patrick Rafter, Karol Kucera
+Jiri Novak, Nicolas Kiefer
+Thomas Enqvist, Andrew Ilie
+Yevgeny Kafelnikov, Max Mirnyi
+Juan Carlos Ferrero, Gaston Gaudio
+Wayne Ferreira, Thomas Johansson
+Richard Krajicek, Michael Chang
+Marat Safin, Andrei Pavel
+Nicolas Escude, Cyril Saulnier
+Sargis Sargsian, Simon Larose
+Pete Sampras, Karim Alami
+Jerome Golmard, Marcelo Rios
+Harel Levy, Sebastien Grosjean
+Patrick Rafter, Sebastien Lareau
+Jiri Novak, Thomas Enqvist
+Yevgeny Kafelnikov, Juan Carlos Ferrero
+Wayne Ferreira, Richard Krajicek
+Marat Safin, Nicolas Escude
+Pete Sampras, Sargis Sargsian
+Harel Levy, Jerome Golmard
+Jiri Novak, Patrick Rafter
+Wayne Ferreira, Yevgeny Kafelnikov
+Marat Safin, Pete Sampras
+Harel Levy, Jiri Novak
+Marat Safin, Wayne Ferreira
+Marat Safin, Harel Levy
+Andre Agassi, Wayne Ferreira
+Fernando Vicente, Bob Bryan
+Marcelo Rios, Marc Rosset
+Mark Philippoussis, Arnaud Di Pasquale
+Hicham Arazi, Nicolas Lapentti
+Max Mirnyi, Andreas Vinciguerra
+Harel Levy, Andrew Ilie
+Thomas Enqvist, Andrei Pavel
+Magnus Norman, Juan Ignacio Chela
+Slava Dosedel, Mardy Fish
+Jiri Novak, Lionel Roux
+Franco Squillari, Gaston Gaudio
+Arnaud Clement, Juan Carlos Ferrero
+Martin Damm Sr, Vincent Spadea
+Chris Woodruff, Dominik Hrbaty
+Yevgeny Kafelnikov, Richard Krajicek
+Jonas Bjorkman, Alex Corretja
+Carlos Moya, Karim Alami
+Sjeng Schalken, Michael Chang
+Todd Martin, Nicolas Kiefer
+Andrea Gaudenzi, Albert Costa
+Stefan Koubek, Thomas Johansson
+Gianluca Pozzi, Andy Roddick
+Gustavo Kuerten, Jerome Golmard
+Marat Safin, Neville Godwin
+Francisco Clavet, Roger Federer
+Sebastien Grosjean, Karol Kucera
+Fabrice Santoro, Lleyton Hewitt
+Tim Henman, Cecil Mamiit
+Mariano Puerta, Vladimir Voltchkov
+Taylor Dent, Jeff Tarango
+Pete Sampras, Mariano Zabaleta
+Fernando Vicente, Andre Agassi
+Mark Philippoussis, Marcelo Rios
+Max Mirnyi, Hicham Arazi
+Thomas Enqvist, Harel Levy
+Slava Dosedel, Magnus Norman
+Franco Squillari, Jiri Novak
+Arnaud Clement, Martin Damm Sr
+Yevgeny Kafelnikov, Chris Woodruff
+Jonas Bjorkman, Carlos Moya
+Todd Martin, Sjeng Schalken
+Stefan Koubek, Andrea Gaudenzi
+Gustavo Kuerten, Gianluca Pozzi
+Marat Safin, Francisco Clavet
+Fabrice Santoro, Sebastien Grosjean
+Tim Henman, Mariano Puerta
+Pete Sampras, Taylor Dent
+Fernando Vicente, Mark Philippoussis
+Thomas Enqvist, Max Mirnyi
+Franco Squillari, Slava Dosedel
+Arnaud Clement, Yevgeny Kafelnikov
+Todd Martin, Jonas Bjorkman
+Gustavo Kuerten, Stefan Koubek
+Fabrice Santoro, Marat Safin
+Tim Henman, Pete Sampras
+Thomas Enqvist, Fernando Vicente
+Arnaud Clement, Franco Squillari
+Gustavo Kuerten, Todd Martin
+Tim Henman, Fabrice Santoro
+Thomas Enqvist, Arnaud Clement
+Tim Henman, Gustavo Kuerten
+Thomas Enqvist, Tim Henman
+Lionel Roux, Taylor Dent
+Jan Kroslak, Cyril Saulnier
+Neville Godwin, Scott Draper
+Arnaud Clement, Marcos Ondruska
+Gouichi Motomura, Marcelo Rios
+Jason Stoltenberg, Bob Bryan
+Laurence Tieleman, Harel Levy
+Jan Michael Gambill, Cecil Mamiit
+Wayne Ferreira, Antony Dupuis
+Paradorn Srichaphan, Sebastien Lareau
+Kevin Ullyett, Ronald Agenor
+Michael Chang, Paul Kilderry
+Alex Obrien, Andrew Ilie
+Paul Goldstein, Lorenzo Manta
+Justin Gimelstob, James Sekulov
+Mark Philippoussis, Scott Humphries
+Lionel Roux, Jan Kroslak
+Arnaud Clement, Neville Godwin
+Jason Stoltenberg, Gouichi Motomura
+Jan Michael Gambill, Laurence Tieleman
+Wayne Ferreira, Paradorn Srichaphan
+Michael Chang, Kevin Ullyett
+Paul Goldstein, Alex Obrien
+Justin Gimelstob, Mark Philippoussis
+Arnaud Clement, Lionel Roux
+Jan Michael Gambill, Jason Stoltenberg
+Michael Chang, Wayne Ferreira
+Justin Gimelstob, Paul Goldstein
+Jan Michael Gambill, Arnaud Clement
+Michael Chang, Justin Gimelstob
+Michael Chang, Jan Michael Gambill
+Mark Woodforde, Scott Humphries
+Magnus Larsson, Martin Rodriguez
+Ville Liukko, Laurence Tieleman
+Wayne Ferreira, Jeff Salzenstein
+Michael Chang, Paradorn Srichaphan
+Cecil Mamiit, Julian Alonso
+Sargis Sargsian, John Van Lottum
+Mikael Tillstrom, Franco Squillari
+Jim Courier, Eric Taino
+Hernan Gumy, Todd Woodbridge
+Paul Goldstein, James Blake
+Xavier Malisse, Richard Fromberg
+Justin Gimelstob, Jan Michael Gambill
+Tomas Zib, Nicolas Massu
+Ronald Agenor, Phillip King
+Mark Philippoussis, Guillermo Canas
+Magnus Larsson, Mark Woodforde
+Wayne Ferreira, Ville Liukko
+Michael Chang, Cecil Mamiit
+Mikael Tillstrom, Sargis Sargsian
+Jim Courier, Hernan Gumy
+Paul Goldstein, Xavier Malisse
+Justin Gimelstob, Tomas Zib
+Mark Philippoussis, Ronald Agenor
+Wayne Ferreira, Magnus Larsson
+Mikael Tillstrom, Michael Chang
+Jim Courier, Paul Goldstein
+Mark Philippoussis, Justin Gimelstob
+Mikael Tillstrom, Wayne Ferreira
+Mark Philippoussis, Jim Courier
+Mark Philippoussis, Mikael Tillstrom
+Carlos Moya, Arnaud Clement
+Marc Rosset, Bohdan Ulihrach
+Hicham Arazi, Richard Fromberg
+Tommy Haas, Gaston Etlis
+Juan Antonio Marin, Albert Portas
+Karim Alami, Max Mirnyi
+Andrei Pavel, Franco Squillari
+Andreas Vinciguerra, Vincent Spadea
+Salvador Navarro, Sebastien Grosjean
+Juan Carlos Ferrero, Nicolas Escude
+Fernando Vicente, Hernan Gumy
+Fabrice Santoro, Galo Blanco
+Gaston Gaudio, Arnaud Di Pasquale
+Mariano Puerta, Julian Alonso
+Marat Safin, Mariano Zabaleta
+Dominik Hrbaty, Nicklas Kulti
+Alberto Berasategui, Tommy Robredo
+Felix Mantilla, Sjeng Schalken
+Francisco Clavet, Alberto Martin
+Sergi Bruguera, Roger Federer
+Sargis Sargsian, Albert Costa
+Fernando Meligeni, Christophe Rochus
+Richard Krajicek, Mikael Tillstrom
+Rainer Schuettler, Guillermo Canas
+Carlos Moya, Yevgeny Kafelnikov
+Marc Rosset, Hicham Arazi
+Tommy Haas, Juan Antonio Marin
+Greg Rusedski, Karim Alami
+Marcelo Rios, Andrei Pavel
+Andreas Vinciguerra, Salvador Navarro
+Juan Carlos Ferrero, Fernando Vicente
+Fabrice Santoro, German Puentes
+Gaston Gaudio, Alex Corretja
+Marat Safin, Mariano Puerta
+Dominik Hrbaty, Alberto Berasategui
+Nicolas Lapentti, Felix Mantilla
+Younes El Aynaoui, Francisco Clavet
+Sergi Bruguera, Sargis Sargsian
+Richard Krajicek, Fernando Meligeni
+Magnus Norman, Rainer Schuettler
+Carlos Moya, Marc Rosset
+Tommy Haas, Greg Rusedski
+Marcelo Rios, Andreas Vinciguerra
+Juan Carlos Ferrero, Fabrice Santoro
+Marat Safin, Gaston Gaudio
+Nicolas Lapentti, Dominik Hrbaty
+Younes El Aynaoui, Sergi Bruguera
+Magnus Norman, Richard Krajicek
+Carlos Moya, Tommy Haas
+Juan Carlos Ferrero, Marcelo Rios
+Marat Safin, Nicolas Lapentti
+Magnus Norman, Younes El Aynaoui
+Juan Carlos Ferrero, Carlos Moya
+Marat Safin, Magnus Norman
+Marat Safin, Juan Carlos Ferrero
+Magnus Norman, Christian Ruud
+Jan Michael Gambill, Max Mirnyi
+Andrew Ilie, Kevin Ullyett
+Sjeng Schalken, Harel Levy
+Thomas Johansson, Thomas Enqvist
+Christian Vinck, Leos Friedl
+Bohdan Ulihrach, Joachim Johansson
+Jonas Bjorkman, Jarkko Nieminen
+Sebastien Grosjean, Daniel Nestor
+Johan Ortegren, Fredrik Jonsson
+Rainer Schuettler, Jens Knippschild
+Adrian Voinea, Juan Carlos Ferrero
+Roger Federer, Mikhail Youzhny
+Andreas Vinciguerra, Marcus Sarstrand
+Jonas Froberg, Byron Black
+Yevgeny Kafelnikov, George Bastl
+Magnus Norman, Jan Michael Gambill
+Sjeng Schalken, Andrew Ilie
+Thomas Johansson, Christian Vinck
+Jonas Bjorkman, Bohdan Ulihrach
+Sebastien Grosjean, Johan Ortegren
+Rainer Schuettler, Adrian Voinea
+Andreas Vinciguerra, Roger Federer
+Yevgeny Kafelnikov, Jonas Froberg
+Magnus Norman, Sjeng Schalken
+Thomas Johansson, Jonas Bjorkman
+Sebastien Grosjean, Rainer Schuettler
+Yevgeny Kafelnikov, Andreas Vinciguerra
+Thomas Johansson, Magnus Norman
+Yevgeny Kafelnikov, Sebastien Grosjean
+Thomas Johansson, Yevgeny Kafelnikov
+Andre Agassi, Marcos Ondruska
+Francisco Clavet, Fernando Meligeni
+Carlos Moya, Mariano Zabaleta
+Juan Carlos Ferrero, Patrick Rafter
+Marcelo Rios, Vincent Spadea
+Alberto Martin, Sebastien Grosjean
+Chris Woodruff, Slava Dosedel
+Lleyton Hewitt, Daniel Vacek
+Tim Henman, Stefan Koubek
+Byron Black, Karim Alami
+Wayne Ferreira, Sjeng Schalken
+Nicolas Lapentti, Andrew Ilie
+Albert Costa, Paul Goldstein
+Andrei Pavel, Alex Calatrava
+Alex Corretja, James Blake
+Pete Sampras, Greg Rusedski
+Francisco Clavet, Andre Agassi
+Juan Carlos Ferrero, Carlos Moya
+Marcelo Rios, Alberto Martin
+Lleyton Hewitt, Chris Woodruff
+Tim Henman, Byron Black
+Nicolas Lapentti, Wayne Ferreira
+Albert Costa, Andrei Pavel
+Alex Corretja, Pete Sampras
+Juan Carlos Ferrero, Francisco Clavet
+Lleyton Hewitt, Marcelo Rios
+Tim Henman, Nicolas Lapentti
+Albert Costa, Alex Corretja
+Lleyton Hewitt, Juan Carlos Ferrero
+Tim Henman, Albert Costa
+Lleyton Hewitt, Tim Henman
+Marat Safin, Rainer Schuettler
+Gianluca Pozzi, Stefan Koubek
+Andrew Ilie, Bjorn Phau
+Vladimir Voltchkov, Fernando Vicente
+David Prinosil, Daniel Nestor
+Harel Levy, Christian Ruud
+Jonas Bjorkman, Tuomas Ketola
+Max Mirnyi, Kristian Pless
+Mikhail Youzhny, Fabrice Santoro
+Thomas Johansson, Albert Portas
+Magnus Gustafsson, Francisco Clavet
+Marc Rosset, Andrei Cherkasov
+Jiri Novak, Goran Ivanisevic
+Lars Burgsmuller, Martin Damm Sr
+Alberto Martin, Jan Kroslak
+Yevgeny Kafelnikov, Denis Golovanov
+Marat Safin, Gianluca Pozzi
+Vladimir Voltchkov, Andrew Ilie
+David Prinosil, Harel Levy
+Jonas Bjorkman, Max Mirnyi
+Mikhail Youzhny, Thomas Johansson
+Marc Rosset, Magnus Gustafsson
+Lars Burgsmuller, Jiri Novak
+Yevgeny Kafelnikov, Alberto Martin
+Marat Safin, Vladimir Voltchkov
+David Prinosil, Jonas Bjorkman
+Marc Rosset, Mikhail Youzhny
+Yevgeny Kafelnikov, Lars Burgsmuller
+David Prinosil, Marat Safin
+Yevgeny Kafelnikov, Marc Rosset
+Yevgeny Kafelnikov, David Prinosil
+Mariano Puerta, Julian Alonso
+Ivan Ljubicic, Lovro Zovko
+Sergi Bruguera, Jiri Vanek
+Martin Damm Sr, Dennis Peschek
+Albert Portas, Petr Kralert
+Bohdan Ulihrach, Markus Hipfl
+Wolfgang Schranz, Alex Lopez Moron
+Alberto Martin, Guillermo Canas
+Marzio Martelli, Jeff Tarango
+Roberto Carretero, Tomas Zib
+Juan Antonio Marin, Hernan Gumy
+Carlos Moya, Ivan Vajda
+Galo Blanco, Michal Tabara
+David Sanchez, Sargis Sargsian
+German Puentes, Felix Mantilla
+Marcelo Rios, Jan Kroslak
+Mariano Puerta, Ivan Ljubicic
+Martin Damm Sr, Sergi Bruguera
+Bohdan Ulihrach, Albert Portas
+Alberto Martin, Wolfgang Schranz
+Roberto Carretero, Marzio Martelli
+Carlos Moya, Juan Antonio Marin
+David Sanchez, Galo Blanco
+Marcelo Rios, German Puentes
+Mariano Puerta, Martin Damm Sr
+Bohdan Ulihrach, Alberto Martin
+Carlos Moya, Roberto Carretero
+Marcelo Rios, David Sanchez
+Mariano Puerta, Bohdan Ulihrach
+Marcelo Rios, Carlos Moya
+Marcelo Rios, Mariano Puerta
+Magnus Gustafsson, Jan Boruszewski
+Jan Siemerink, Thomas Johansson
+Martin Damm Sr, Orlin Stanoytchev
+Richard Krajicek, Raemon Sluiter
+Patrick Rafter, Dennis Van Scheppingen
+Sjeng Schalken, Marc Kevin Goellner
+Markus Hantschk, Christophe Rochus
+Karim Alami, Andrei Stoliarov
+Michael Chang, Paradorn Srichaphan
+Jerome Golmard, Lorenzo Manta
+Karsten Braasch, Julien Boutter
+Andrei Pavel, Rogier Wassen
+Francisco Clavet, Ivan Ljubicic
+Peter Wessels, Laurence Tieleman
+Mikhail Youzhny, Daniel Nestor
+Nicolas Escude, John Van Lottum
+Magnus Gustafsson, Jan Siemerink
+Martin Damm Sr, Richard Krajicek
+Patrick Rafter, Sjeng Schalken
+Karim Alami, Markus Hantschk
+Michael Chang, Jerome Golmard
+Karsten Braasch, Andrei Pavel
+Francisco Clavet, Peter Wessels
+Nicolas Escude, Mikhail Youzhny
+Martin Damm Sr, Magnus Gustafsson
+Patrick Rafter, Karim Alami
+Michael Chang, Karsten Braasch
+Nicolas Escude, Francisco Clavet
+Patrick Rafter, Martin Damm Sr
+Nicolas Escude, Michael Chang
+Patrick Rafter, Nicolas Escude
+Jonas Bjorkman, Max Mirnyi
+Eric Taino, Davide Sanguinetti
+Fernando Meligeni, Vincent Spadea
+Gianluca Pozzi, Fernando Vicente
+Carlos Moya, Albert Portas
+Thomas Johansson, Alberto Martin
+Bohdan Ulihrach, Mikael Tillstrom
+Alexander Popp, Dominik Hrbaty
+Andrei Pavel, Justin Gimelstob
+Francisco Clavet, Attila Savolt
+Nicolas Massu, Scott Humphries
+Paul Goldstein, Martin Damm Sr
+Stefan Koubek, Juan Ignacio Chela
+Byron Black, Jiri Vanek
+George Bastl, David Prinosil
+Karol Kucera, Andreas Vinciguerra
+Magnus Norman, Jonas Bjorkman
+Eric Taino, Karim Alami
+Fernando Meligeni, Albert Costa
+Younes El Aynaoui, Gianluca Pozzi
+Carlos Moya, Alex Corretja
+Jan Michael Gambill, Thomas Johansson
+Richard Krajicek, Bohdan Ulihrach
+Juan Carlos Ferrero, Alexander Popp
+Andrei Pavel, Cedric Pioline
+Fabrice Santoro, Francisco Clavet
+Nicolas Massu, Marc Rosset
+Thomas Enqvist, Paul Goldstein
+Patrick Rafter, Stefan Koubek
+Michael Chang, Byron Black
+Arnaud Clement, George Bastl
+Karol Kucera, Yevgeny Kafelnikov
+Magnus Norman, Eric Taino
+Younes El Aynaoui, Fernando Meligeni
+Carlos Moya, Jan Michael Gambill
+Richard Krajicek, Juan Carlos Ferrero
+Fabrice Santoro, Andrei Pavel
+Thomas Enqvist, Nicolas Massu
+Michael Chang, Patrick Rafter
+Arnaud Clement, Karol Kucera
+Magnus Norman, Younes El Aynaoui
+Richard Krajicek, Carlos Moya
+Thomas Enqvist, Fabrice Santoro
+Arnaud Clement, Michael Chang
+Magnus Norman, Richard Krajicek
+Thomas Enqvist, Arnaud Clement
+Magnus Norman, Thomas Enqvist
+Nicolas Kiefer, Jeff Tarango
+Cristiano Caratti, Ivo Heuberger
+Franco Squillari, Jan Siemerink
+Sjeng Schalken, Jacobo Diaz
+Fabrice Santoro, Lars Burgsmuller
+John Van Lottum, Galo Blanco
+Alberto Berasategui, Sultan Khalfan
+George Bastl, Jiri Novak
+Andrei Cherkasov, Hicham Arazi
+Mikael Tillstrom, Goran Ivanisevic
+Gaston Gaudio, Petr Luxa
+Younes El Aynaoui, Antony Dupuis
+Daniel Vacek, Fernando Vicente
+Rainer Schuettler, Javier Sanchez
+Max Mirnyi, Mariano Puerta
+Juan Antonio Marin, Felix Mantilla
+Nicolas Kiefer, Cristiano Caratti
+Sjeng Schalken, Franco Squillari
+Fabrice Santoro, John Van Lottum
+George Bastl, Alberto Berasategui
+Mikael Tillstrom, Andrei Cherkasov
+Younes El Aynaoui, Gaston Gaudio
+Rainer Schuettler, Daniel Vacek
+Max Mirnyi, Juan Antonio Marin
+Nicolas Kiefer, Sjeng Schalken
+Fabrice Santoro, George Bastl
+Younes El Aynaoui, Mikael Tillstrom
+Rainer Schuettler, Max Mirnyi
+Fabrice Santoro, Nicolas Kiefer
+Rainer Schuettler, Younes El Aynaoui
+Fabrice Santoro, Rainer Schuettler
+Francisco Clavet, Yevgeny Kafelnikov
+Juan Ignacio Chela, Bernardo Mota
+Juan Antonio Marin, Feliciano Lopez
+Nicolas Escude, Nuno Marques
+Nicolas Lapentti, Ivan Ljubicic
+Richard Fromberg, Andrei Pavel
+Franco Squillari, David Nalbandian
+Juan Carlos Ferrero, Mariano Zabaleta
+Andrei Medvedev, Albert Costa
+Markus Hipfl, Alberto Berasategui
+Gaston Gaudio, Guillermo Canas
+Tim Henman, Oscar Burrieza
+Felix Mantilla, Galo Blanco
+Bohdan Ulihrach, Rainer Schuettler
+Carlos Moya, Adrian Voinea
+Magnus Norman, Jerome Golmard
+Francisco Clavet, Juan Ignacio Chela
+Nicolas Escude, Juan Antonio Marin
+Nicolas Lapentti, Richard Fromberg
+Juan Carlos Ferrero, Franco Squillari
+Andrei Medvedev, Markus Hipfl
+Tim Henman, Gaston Gaudio
+Bohdan Ulihrach, Felix Mantilla
+Carlos Moya, Magnus Norman
+Francisco Clavet, Nicolas Escude
+Nicolas Lapentti, Juan Carlos Ferrero
+Andrei Medvedev, Tim Henman
+Carlos Moya, Bohdan Ulihrach
+Francisco Clavet, Nicolas Lapentti
+Carlos Moya, Andrei Medvedev
+Carlos Moya, Francisco Clavet
+Sergi Bruguera, Franco Squillari
+Tomas Zib, Olivier Malcor
+Andrea Gaudenzi, Michal Tabara
+Julian Alonso, Galo Blanco
+Karim Alami, Gaston Etlis
+Renzo Furlan, Raemon Sluiter
+Juan Antonio Marin, Edwin Kempes
+Diego Nargiso, Richard Fromberg
+Andrei Medvedev, Stefano Cobolli
+Attila Savolt, Marcelo Charpentier
+Jan Siemerink, Fredrik Jonsson
+Andrei Stoliarov, Gaston Gaudio
+Jiri Vanek, Hugo Armando
+Tomas Behrend, Jens Knippschild
+Christophe Rochus, Stephane Huet
+Alex Calatrava, Mariano Puerta
+Sergi Bruguera, Tomas Zib
+Julian Alonso, Andrea Gaudenzi
+Karim Alami, Renzo Furlan
+Diego Nargiso, Juan Antonio Marin
+Andrei Medvedev, Attila Savolt
+Jan Siemerink, Andrei Stoliarov
+Jiri Vanek, Tomas Behrend
+Alex Calatrava, Christophe Rochus
+Sergi Bruguera, Julian Alonso
+Diego Nargiso, Karim Alami
+Andrei Medvedev, Jan Siemerink
+Alex Calatrava, Jiri Vanek
+Sergi Bruguera, Diego Nargiso
+Alex Calatrava, Andrei Medvedev
+Alex Calatrava, Sergi Bruguera
+Marat Safin, Sebastien Lareau
+Jan Kroslak, Adrian Voinea
+Ivo Heuberger, Jamie Delgado
+Jonas Bjorkman, Antony Dupuis
+Rainer Schuettler, Lorenzo Manta
+Andreas Vinciguerra, Christophe Rochus
+Martin Damm Sr, Kristian Pless
+George Bastl, Mikael Tillstrom
+Goran Ivanisevic, David Prinosil
+Ivan Ljubicic, Petr Luxa
+Tomas Behrend, Marc Rosset
+Magnus Larsson, Wayne Arthurs
+Roger Federer, Filip Dewulf
+Fredrik Jonsson, Axel Pretzsch
+Gianluca Pozzi, Jan Siemerink
+Ville Liukko, Thomas Johansson
+Marat Safin, Jan Kroslak
+Jonas Bjorkman, Ivo Heuberger
+Andreas Vinciguerra, Rainer Schuettler
+Martin Damm Sr, George Bastl
+Ivan Ljubicic, Goran Ivanisevic
+Magnus Larsson, Tomas Behrend
+Roger Federer, Fredrik Jonsson
+Gianluca Pozzi, Ville Liukko
+Marat Safin, Jonas Bjorkman
+Andreas Vinciguerra, Martin Damm Sr
+Magnus Larsson, Ivan Ljubicic
+Roger Federer, Gianluca Pozzi
+Andreas Vinciguerra, Marat Safin
+Magnus Larsson, Roger Federer
+Andreas Vinciguerra, Magnus Larsson
+Nicolas Kiefer, Lars Burgsmuller
+Alberto Martin, Jeff Tarango
+Andrei Pavel, David Prinosil
+Jerome Golmard, Francisco Clavet
+Albert Costa, Alberto Berasategui
+Stefan Koubek, Juan Antonio Marin
+Galo Blanco, Sjeng Schalken
+Younes El Aynaoui, Andrew Ilie
+Felix Mantilla, Byron Black
+Wayne Black, Daniel Vacek
+Juan Carlos Ferrero, Martin Damm Sr
+Nicolas Lapentti, Oliver Gross
+Hicham Arazi, Rainer Schuettler
+Jiri Novak, Emilio Benfele Alvarez
+Fernando Vicente, Leander Paes
+Karim Alami, Magnus Norman
+Nicolas Kiefer, Alberto Martin
+Jerome Golmard, Andrei Pavel
+Albert Costa, Stefan Koubek
+Younes El Aynaoui, Galo Blanco
+Felix Mantilla, Wayne Black
+Juan Carlos Ferrero, Nicolas Lapentti
+Jiri Novak, Hicham Arazi
+Karim Alami, Fernando Vicente
+Nicolas Kiefer, Jerome Golmard
+Albert Costa, Younes El Aynaoui
+Juan Carlos Ferrero, Felix Mantilla
+Karim Alami, Jiri Novak
+Nicolas Kiefer, Albert Costa
+Juan Carlos Ferrero, Karim Alami
+Nicolas Kiefer, Juan Carlos Ferrero
+Yevgeny Kafelnikov, Gianluca Pozzi
+Ivan Ljubicic, Adrian Voinea
+Roger Federer, Antony Dupuis
+Thomas Johansson, George Bastl
+Jan Kroslak, Dominik Hrbaty
+Thierry Guardiola, Orlin Stanoytchev
+Jan Siemerink, Guillaume Raoux
+Fabrice Santoro, Peter Wessels
+Andreas Vinciguerra, Marat Safin
+Jacobo Diaz, Jonas Bjorkman
+Lionel Roux, Jens Knippschild
+Sebastien Grosjean, Arnaud Di Pasquale
+Arnaud Clement, Axel Pretzsch
+Marc Rosset, Wayne Arthurs
+Goran Ivanisevic, Cyril Saulnier
+Thomas Enqvist, Albert Portas
+Ivan Ljubicic, Yevgeny Kafelnikov
+Roger Federer, Thomas Johansson
+Thierry Guardiola, Jan Kroslak
+Fabrice Santoro, Jan Siemerink
+Andreas Vinciguerra, Jacobo Diaz
+Sebastien Grosjean, Lionel Roux
+Marc Rosset, Arnaud Clement
+Goran Ivanisevic, Thomas Enqvist
+Roger Federer, Ivan Ljubicic
+Fabrice Santoro, Thierry Guardiola
+Sebastien Grosjean, Andreas Vinciguerra
+Marc Rosset, Goran Ivanisevic
+Roger Federer, Fabrice Santoro
+Marc Rosset, Sebastien Grosjean
+Marc Rosset, Roger Federer
+Patrick Rafter, Hernan Gumy
+Markus Hipfl, Paradorn Srichaphan
+Paul Goldstein, Andrei Pavel
+Francisco Clavet, Mark Woodforde
+Alex Calatrava, Mariano Zabaleta
+Mike Bryan, Andrea Gaudenzi
+Laurence Tieleman, Andy Roddick
+Chris Woodruff, Michel Kratochvil
+Stefan Koubek, Byron Black
+Jan Michael Gambill, Julian Alonso
+Xavier Malisse, John Van Lottum
+Andre Sa, Jimy Szymanski
+Andrew Ilie, Michael Chang
+Richard Fromberg, Jonathan Stark
+Cecil Mamiit, Max Mirnyi
+Justin Gimelstob, Karim Alami
+Patrick Rafter, Markus Hipfl
+Paul Goldstein, Francisco Clavet
+Alex Calatrava, Mike Bryan
+Chris Woodruff, Laurence Tieleman
+Stefan Koubek, Jan Michael Gambill
+Andre Sa, Xavier Malisse
+Richard Fromberg, Andrew Ilie
+Justin Gimelstob, Cecil Mamiit
+Paul Goldstein, Patrick Rafter
+Alex Calatrava, Chris Woodruff
+Stefan Koubek, Andre Sa
+Richard Fromberg, Justin Gimelstob
+Alex Calatrava, Paul Goldstein
+Stefan Koubek, Richard Fromberg
+Stefan Koubek, Alex Calatrava
+Yevgeny Kafelnikov, Fernando Vicente
+Oscar Burrieza, Karim Alami
+Christian Vinck, Nicklas Kulti
+Nicolas Escude, Gabriel Trifu
+Nicolas Lapentti, Marc Kevin Goellner
+Carlos Moya, Cristiano Caratti
+David Prinosil, Thomas Johansson
+Ivan Ljubicic, Tommy Haas
+Andrei Medvedev, Rainer Schuettler
+Michael Chang, Mikael Tillstrom
+Roger Federer, Arnaud Clement
+Magnus Larsson, Juan Carlos Ferrero
+Patrick Rafter, Sjeng Schalken
+Richard Krajicek, Jeff Tarango
+Albert Portas, Christian Ruud
+Nicolas Kiefer, Jerome Golmard
+Yevgeny Kafelnikov, Oscar Burrieza
+Nicolas Escude, Christian Vinck
+Nicolas Lapentti, Carlos Moya
+David Prinosil, Ivan Ljubicic
+Michael Chang, Andrei Medvedev
+Roger Federer, Magnus Larsson
+Richard Krajicek, Patrick Rafter
+Nicolas Kiefer, Albert Portas
+Yevgeny Kafelnikov, Nicolas Escude
+David Prinosil, Nicolas Lapentti
+Michael Chang, Roger Federer
+Richard Krajicek, Nicolas Kiefer
+David Prinosil, Yevgeny Kafelnikov
+Richard Krajicek, Michael Chang
+David Prinosil, Richard Krajicek
+Gustavo Kuerten, Jean Rene Lisnard
+Orlin Stanoytchev, Markus Hantschk
+Emilio Benfele Alvarez, Jacobo Diaz
+Agustin Calleri, Sargis Sargsian
+Nicolas Massu, Fernando Meligeni
+Mariano Hood, Sergi Bruguera
+Albert Portas, Davide Sanguinetti
+Guillermo Canas, Arnaud Di Pasquale
+Mariano Puerta, Franco Squillari
+Juan Ignacio Chela, Juan Antonio Marin
+Tomas Zib, Alex Lopez Moron
+Fernando Vicente, Martin Rodriguez
+Gaston Gaudio, Martin Spottl
+Adrian Garcia, Galo Blanco
+Ronald Agenor, Fernando Gonzalez
+Bohdan Ulihrach, Marcelo Rios
+Gustavo Kuerten, Orlin Stanoytchev
+Agustin Calleri, Emilio Benfele Alvarez
+Mariano Hood, Nicolas Massu
+Albert Portas, Guillermo Canas
+Mariano Puerta, Juan Ignacio Chela
+Fernando Vicente, Tomas Zib
+Gaston Gaudio, Adrian Garcia
+Bohdan Ulihrach, Ronald Agenor
+Gustavo Kuerten, Agustin Calleri
+Albert Portas, Mariano Hood
+Mariano Puerta, Fernando Vicente
+Gaston Gaudio, Bohdan Ulihrach
+Gustavo Kuerten, Albert Portas
+Mariano Puerta, Gaston Gaudio
+Gustavo Kuerten, Mariano Puerta
+Andre Agassi, Antony Dupuis
+Karol Kucera, Oscar Serrano
+Jiri Vanek, Alberto Berasategui
+Franco Squillari, Alexander Popp
+Nicolas Massu, Jacobo Diaz
+Jason Stoltenberg, Jiri Novak
+Juan Ignacio Chela, Todd Martin
+Younes El Aynaoui, Jean Rene Lisnard
+Lleyton Hewitt, Jeff Tarango
+Markus Hantschk, David Prinosil
+Attila Savolt, Martin Rodriguez
+Stefan Koubek, Galo Blanco
+Albert Costa, Goran Ivanisevic
+Hernan Gumy, Carlos Moya
+Gaston Gaudio, Arnaud Di Pasquale
+Thomas Enqvist, Christophe Rochus
+Magnus Norman, Thierry Guardiola
+Fabrice Santoro, Magnus Gustafsson
+Sargis Sargsian, Sjeng Schalken
+Arnaud Clement, Nicolas Escude
+Andrei Medvedev, Mikael Tillstrom
+Marc Rosset, Byron Black
+Agustin Calleri, Felix Mantilla
+Dominik Hrbaty, Jonas Bjorkman
+Marat Safin, George Bastl
+Andrew Ilie, Guillaume Raoux
+Andrea Gaudenzi, John Van Lottum
+Tommy Haas, Marcelo Rios
+Juan Balcells, Sergi Bruguera
+Albert Portas, Andrei Pavel
+Patrick Rafter, Gianluca Pozzi
+Cedric Pioline, Davide Sanguinetti
+Gustavo Kuerten, Andreas Vinciguerra
+Marcelo Charpentier, Karim Alami
+Thomas Johansson, Christian Ruud
+Michael Chang, Adrian Voinea
+Wayne Ferreira, Rainer Schuettler
+Guillermo Coria, Michael Llodra
+Bohdan Ulihrach, Bjorn Phau
+Nicolas Lapentti, Julien Boutter
+Tim Henman, Vincent Spadea
+Christian Vinck, Tomas Behrend
+Fernando Vicente, Max Mirnyi
+Ronald Agenor, Paradorn Srichaphan
+Sebastien Grosjean, Richard Fromberg
+Federico Browne, Juan Antonio Marin
+Mariano Zabaleta, Harel Levy
+Yevgeny Kafelnikov, Ivan Ljubicic
+Jan Michael Gambill, Nicolas Kiefer
+Roger Federer, Wayne Arthurs
+Orlin Stanoytchev, Stephane Huet
+Michel Kratochvil, Justin Gimelstob
+Werner Eschauer, Cyril Saulnier
+Richard Krajicek, Tomas Zib
+Fernando Meligeni, Eric Prodon
+Alex Corretja, Alberto Martin
+Juan Carlos Ferrero, Jerome Golmard
+Slava Dosedel, Greg Rusedski
+Mariano Puerta, Martin Damm Sr
+Francisco Clavet, Guillermo Canas
+Hicham Arazi, Chris Woodruff
+Markus Hipfl, Nicolas Mahut
+Paul Goldstein, Andre Sa
+Mark Philippoussis, Pete Sampras
+Karol Kucera, Andre Agassi
+Franco Squillari, Jiri Vanek
+Jason Stoltenberg, Nicolas Massu
+Younes El Aynaoui, Juan Ignacio Chela
+Lleyton Hewitt, Markus Hantschk
+Attila Savolt, Stefan Koubek
+Albert Costa, Hernan Gumy
+Thomas Enqvist, Gaston Gaudio
+Magnus Norman, Fabrice Santoro
+Sargis Sargsian, Arnaud Clement
+Andrei Medvedev, Marc Rosset
+Agustin Calleri, Dominik Hrbaty
+Marat Safin, Andrew Ilie
+Tommy Haas, Andrea Gaudenzi
+Albert Portas, Juan Balcells
+Cedric Pioline, Patrick Rafter
+Gustavo Kuerten, Marcelo Charpentier
+Michael Chang, Thomas Johansson
+Wayne Ferreira, Guillermo Coria
+Nicolas Lapentti, Bohdan Ulihrach
+Tim Henman, Christian Vinck
+Fernando Vicente, Ronald Agenor
+Sebastien Grosjean, Federico Browne
+Yevgeny Kafelnikov, Mariano Zabaleta
+Roger Federer, Jan Michael Gambill
+Michel Kratochvil, Orlin Stanoytchev
+Richard Krajicek, Werner Eschauer
+Alex Corretja, Fernando Meligeni
+Juan Carlos Ferrero, Slava Dosedel
+Mariano Puerta, Francisco Clavet
+Hicham Arazi, Markus Hipfl
+Mark Philippoussis, Paul Goldstein
+Franco Squillari, Karol Kucera
+Younes El Aynaoui, Jason Stoltenberg
+Lleyton Hewitt, Attila Savolt
+Albert Costa, Thomas Enqvist
+Magnus Norman, Sargis Sargsian
+Andrei Medvedev, Agustin Calleri
+Marat Safin, Tommy Haas
+Cedric Pioline, Albert Portas
+Gustavo Kuerten, Michael Chang
+Nicolas Lapentti, Wayne Ferreira
+Fernando Vicente, Tim Henman
+Yevgeny Kafelnikov, Sebastien Grosjean
+Roger Federer, Michel Kratochvil
+Alex Corretja, Richard Krajicek
+Juan Carlos Ferrero, Mariano Puerta
+Mark Philippoussis, Hicham Arazi
+Franco Squillari, Younes El Aynaoui
+Albert Costa, Lleyton Hewitt
+Magnus Norman, Andrei Medvedev
+Marat Safin, Cedric Pioline
+Gustavo Kuerten, Nicolas Lapentti
+Yevgeny Kafelnikov, Fernando Vicente
+Alex Corretja, Roger Federer
+Juan Carlos Ferrero, Mark Philippoussis
+Franco Squillari, Albert Costa
+Magnus Norman, Marat Safin
+Gustavo Kuerten, Yevgeny Kafelnikov
+Juan Carlos Ferrero, Alex Corretja
+Magnus Norman, Franco Squillari
+Gustavo Kuerten, Juan Carlos Ferrero
+Gustavo Kuerten, Magnus Norman
+Pete Sampras, Jiri Vanek
+Karol Kucera, Wayne Black
+Michael Llodra, Karim Alami
+Justin Gimelstob, Barry Cowan
+Alberto Martin, Werner Eschauer
+Neville Godwin, Fernando Vicente
+Jonas Bjorkman, Andrei Medvedev
+Slava Dosedel, Nicolas Lapentti
+Thomas Enqvist, Markus Hantschk
+Francisco Clavet, Hernan Gumy
+Harel Levy, Jason Stoltenberg
+Christian Vinck, Nicolas Massu
+Paul Goldstein, Julien Boutter
+Jeff Tarango, Sebastien Grosjean
+Fabrice Santoro, Andrea Gaudenzi
+Jan Michael Gambill, Lleyton Hewitt
+Magnus Norman, Mark Woodforde
+Olivier Rochus, Richard Fromberg
+Gianluca Pozzi, Jiri Novak
+Alex Obrien, Ivan Ljubicic
+Dominik Hrbaty, Mariano Zabaleta
+Byron Black, Andrew Ilie
+Albert Portas, Tomas Zib
+Vincent Spadea, Greg Rusedski
+Richard Krajicek, Michael Kohlmann
+Wayne Ferreira, Wayne Arthurs
+Andrei Pavel, Alberto Berasategui
+Daniel Nestor, Miles Maclagan
+Martin Lee, Juan Antonio Marin
+Younes El Aynaoui, Felix Mantilla
+Vladimir Voltchkov, Juan Ignacio Chela
+Cedric Pioline, Christian Ruud
+Yevgeny Kafelnikov, Roger Federer
+Thomas Johansson, Fernando Meligeni
+Magnus Gustafsson, Paul Kilderry
+Max Mirnyi, Bohdan Ulihrach
+Rainer Schuettler, Carlos Moya
+Nicolas Escude, Guillermo Canas
+Todd Woodbridge, Jan Siemerink
+Patrick Rafter, Jamie Delgado
+Tommy Haas, Nicolas Kiefer
+Andreas Vinciguerra, Laurence Tieleman
+Marc Rosset, Franco Squillari
+Arvind Parmar, Andre Sa
+Alexander Popp, Ronald Agenor
+Michael Chang, Gaston Gaudio
+Justin Bower, Davide Sanguinetti
+Gustavo Kuerten, Chris Woodruff
+Tim Henman, Paradorn Srichaphan
+Arnaud Clement, Goran Ivanisevic
+Hicham Arazi, Igor Gaudi
+Sebastien Lareau, Michael Russell
+Sjeng Schalken, George Bastl
+Christophe Rochus, Mikael Tillstrom
+Arnaud Di Pasquale, Markus Hipfl
+Mark Philippoussis, Jurgen Melzer
+Marat Safin, Galo Blanco
+Martin Damm Sr, Dejan Petrovic
+David Prinosil, Sargis Sargsian
+Stephane Huet, Mahesh Bhupathi
+Jerome Golmard, Cyril Saulnier
+Stefan Koubek, Adrian Voinea
+Todd Martin, Fredrik Jonsson
+Andre Agassi, Taylor Dent
+Pete Sampras, Karol Kucera
+Justin Gimelstob, Michael Llodra
+Neville Godwin, Alberto Martin
+Jonas Bjorkman, Slava Dosedel
+Thomas Enqvist, Francisco Clavet
+Christian Vinck, Harel Levy
+Paul Goldstein, Jeff Tarango
+Jan Michael Gambill, Fabrice Santoro
+Olivier Rochus, Magnus Norman
+Gianluca Pozzi, Alex Obrien
+Byron Black, Dominik Hrbaty
+Albert Portas, Vincent Spadea
+Wayne Ferreira, Richard Krajicek
+Andrei Pavel, Daniel Nestor
+Younes El Aynaoui, Martin Lee
+Vladimir Voltchkov, Cedric Pioline
+Thomas Johansson, Yevgeny Kafelnikov
+Magnus Gustafsson, Max Mirnyi
+Rainer Schuettler, Nicolas Escude
+Patrick Rafter, Todd Woodbridge
+Tommy Haas, Andreas Vinciguerra
+Marc Rosset, Arvind Parmar
+Alexander Popp, Michael Chang
+Gustavo Kuerten, Justin Bower
+Tim Henman, Arnaud Clement
+Hicham Arazi, Sebastien Lareau
+Sjeng Schalken, Christophe Rochus
+Mark Philippoussis, Arnaud Di Pasquale
+Martin Damm Sr, Marat Safin
+David Prinosil, Stephane Huet
+Jerome Golmard, Stefan Koubek
+Andre Agassi, Todd Martin
+Pete Sampras, Justin Gimelstob
+Jonas Bjorkman, Neville Godwin
+Thomas Enqvist, Christian Vinck
+Jan Michael Gambill, Paul Goldstein
+Gianluca Pozzi, Olivier Rochus
+Byron Black, Albert Portas
+Wayne Ferreira, Andrei Pavel
+Vladimir Voltchkov, Younes El Aynaoui
+Thomas Johansson, Magnus Gustafsson
+Patrick Rafter, Rainer Schuettler
+Marc Rosset, Tommy Haas
+Alexander Popp, Gustavo Kuerten
+Tim Henman, Hicham Arazi
+Mark Philippoussis, Sjeng Schalken
+David Prinosil, Martin Damm Sr
+Andre Agassi, Jerome Golmard
+Pete Sampras, Jonas Bjorkman
+Jan Michael Gambill, Thomas Enqvist
+Byron Black, Gianluca Pozzi
+Vladimir Voltchkov, Wayne Ferreira
+Patrick Rafter, Thomas Johansson
+Alexander Popp, Marc Rosset
+Mark Philippoussis, Tim Henman
+Andre Agassi, David Prinosil
+Pete Sampras, Jan Michael Gambill
+Vladimir Voltchkov, Byron Black
+Patrick Rafter, Alexander Popp
+Andre Agassi, Mark Philippoussis
+Pete Sampras, Vladimir Voltchkov
+Patrick Rafter, Andre Agassi
+Pete Sampras, Patrick Rafter
+Andre Agassi, Alex Kim
+Arnaud Clement, Gaston Gaudio
+Hicham Arazi, Markus Hantschk
+Wayne Ferreira, Andrew Ilie
+Arnaud Di Pasquale, Cedric Kauffmann
+Andrei Pavel, Phillip King
+Jerome Golmard, Wayne Black
+Nicolas Lapentti, Bob Bryan
+Lleyton Hewitt, Andreas Vinciguerra
+Julien Boutter, Stephane Huet
+Jiri Novak, Alberto Martin
+Byron Black, Taylor Dent
+Marcelo Rios, Nicolas Massu
+Jens Knippschild, Barry Cowan
+Chris Woodruff, John Van Lottum
+Thomas Enqvist, Mariano Puerta
+Pete Sampras, Martin Damm Sr
+Justin Gimelstob, Christophe Rochus
+Agustin Calleri, Davide Sanguinetti
+Petr Kralert, David Sanchez
+Tommy Haas, Jamie Delgado
+Rainer Schuettler, Sebastien Lareau
+Hyung Taik Lee, Jeff Tarango
+Franco Squillari, Juan Antonio Marin
+Tim Henman, Fernando Vicente
+Fernando Gonzalez, Cecil Mamiit
+Richard Krajicek, Olivier Rochus
+Andre Sa, Michel Kratochvil
+Dominik Hrbaty, Goran Ivanisevic
+Karim Alami, Younes El Aynaoui
+Alexander Popp, Jiri Vanek
+Yevgeny Kafelnikov, Orlin Stanoytchev
+Marat Safin, Thierry Guardiola
+Gianluca Pozzi, Christian Ruud
+Stefan Koubek, Juan Ignacio Chela
+Sebastien Grosjean, Kevin Kim
+Daniel Nestor, Fabrice Santoro
+Roger Federer, Peter Wessels
+Hernan Gumy, Michael Russell
+Juan Carlos Ferrero, Fernando Meligeni
+Nicolas Kiefer, Andrea Gaudenzi
+Jonas Bjorkman, Bohdan Ulihrach
+Sjeng Schalken, Lars Burgsmuller
+Adrian Voinea, Markus Hipfl
+Max Mirnyi, Karol Kucera
+Albert Costa, Andy Roddick
+Cyril Saulnier, Attila Savolt
+Magnus Norman, Paul Goldstein
+Alex Corretja, Paradorn Srichaphan
+Marc Rosset, Christian Vinck
+Slava Dosedel, Francisco Clavet
+Carlos Moya, Mikael Tillstrom
+Todd Martin, Vincent Spadea
+Michael Chang, Harel Levy
+Greg Rusedski, Magnus Gustafsson
+Cedric Pioline, Sargis Sargsian
+Mark Philippoussis, Albert Portas
+Jan Michael Gambill, Mardy Fish
+Thomas Johansson, Ivan Ljubicic
+Galo Blanco, Patrick Rafter
+Xavier Malisse, David Prinosil
+Richard Fromberg, George Bastl
+Jason Stoltenberg, Jan Siemerink
+Wayne Arthurs, Gustavo Kuerten
+Arnaud Clement, Andre Agassi
+Hicham Arazi, Wayne Ferreira
+Andrei Pavel, Arnaud Di Pasquale
+Jerome Golmard, Nicolas Lapentti
+Lleyton Hewitt, Julien Boutter
+Jiri Novak, Byron Black
+Marcelo Rios, Jens Knippschild
+Thomas Enqvist, Chris Woodruff
+Pete Sampras, Justin Gimelstob
+Agustin Calleri, Petr Kralert
+Rainer Schuettler, Tommy Haas
+Hyung Taik Lee, Franco Squillari
+Tim Henman, Fernando Gonzalez
+Richard Krajicek, Andre Sa
+Dominik Hrbaty, Karim Alami
+Yevgeny Kafelnikov, Alexander Popp
+Marat Safin, Gianluca Pozzi
+Sebastien Grosjean, Stefan Koubek
+Roger Federer, Daniel Nestor
+Juan Carlos Ferrero, Hernan Gumy
+Nicolas Kiefer, Jonas Bjorkman
+Sjeng Schalken, Adrian Voinea
+Max Mirnyi, Albert Costa
+Magnus Norman, Cyril Saulnier
+Alex Corretja, Marc Rosset
+Carlos Moya, Slava Dosedel
+Todd Martin, Michael Chang
+Cedric Pioline, Greg Rusedski
+Jan Michael Gambill, Mark Philippoussis
+Thomas Johansson, Galo Blanco
+Richard Fromberg, Xavier Malisse
+Wayne Arthurs, Jason Stoltenberg
+Arnaud Clement, Hicham Arazi
+Andrei Pavel, Jerome Golmard
+Lleyton Hewitt, Jiri Novak
+Thomas Enqvist, Marcelo Rios
+Pete Sampras, Agustin Calleri
+Hyung Taik Lee, Rainer Schuettler
+Richard Krajicek, Tim Henman
+Dominik Hrbaty, Yevgeny Kafelnikov
+Marat Safin, Sebastien Grosjean
+Juan Carlos Ferrero, Roger Federer
+Nicolas Kiefer, Sjeng Schalken
+Magnus Norman, Max Mirnyi
+Carlos Moya, Alex Corretja
+Todd Martin, Cedric Pioline
+Thomas Johansson, Jan Michael Gambill
+Wayne Arthurs, Richard Fromberg
+Arnaud Clement, Andrei Pavel
+Lleyton Hewitt, Thomas Enqvist
+Pete Sampras, Hyung Taik Lee
+Richard Krajicek, Dominik Hrbaty
+Marat Safin, Juan Carlos Ferrero
+Nicolas Kiefer, Magnus Norman
+Todd Martin, Carlos Moya
+Thomas Johansson, Wayne Arthurs
+Lleyton Hewitt, Arnaud Clement
+Pete Sampras, Richard Krajicek
+Marat Safin, Nicolas Kiefer
+Todd Martin, Thomas Johansson
+Pete Sampras, Lleyton Hewitt
+Marat Safin, Todd Martin
+Marat Safin, Pete Sampras
+Marat Safin, Igor Kornienko
+Chris Woodruff, Tuomas Ketola
+Rainer Schuettler, Harel Levy
+David Prinosil, Gianluca Pozzi
+Andrei Stoliarov, Marc Rosset
+Jonas Bjorkman, Albert Portas
+Jared Palmer, Jiri Novak
+Sjeng Schalken, Goran Ivanisevic
+Mariano Zabaleta, Max Mirnyi
+Vladimir Voltchkov, Magnus Gustafsson
+Thomas Johansson, Alberto Martin
+Dominik Hrbaty, Nicolas Massu
+Markus Hantschk, Fernando Vicente
+Alex Calatrava, Stefan Koubek
+Christian Ruud, Andrei Cherkasov
+Yevgeny Kafelnikov, Bohdan Ulihrach
+Marat Safin, Chris Woodruff
+Rainer Schuettler, David Prinosil
+Jonas Bjorkman, Andrei Stoliarov
+Jared Palmer, Sjeng Schalken
+Vladimir Voltchkov, Mariano Zabaleta
+Dominik Hrbaty, Thomas Johansson
+Alex Calatrava, Markus Hantschk
+Yevgeny Kafelnikov, Christian Ruud
+Marat Safin, Rainer Schuettler
+Jonas Bjorkman, Jared Palmer
+Dominik Hrbaty, Vladimir Voltchkov
+Yevgeny Kafelnikov, Alex Calatrava
+Marat Safin, Jonas Bjorkman
+Dominik Hrbaty, Yevgeny Kafelnikov
+Marat Safin, Dominik Hrbaty
+Yevgeny Kafelnikov, Davide Sanguinetti
+Juan Ignacio Chela, Magnus Gustafsson
+Galo Blanco, Orlin Stanoytchev
+Jeff Tarango, Nicolas Coutelot
+Marat Safin, Adrian Voinea
+Christian Ruud, John Van Lottum
+Guillermo Coria, Christophe Rochus
+Carlos Moya, Marc Kevin Goellner
+Mariano Puerta, Markus Hipfl
+Juan Antonio Marin, Jacobo Diaz
+Alberto Martin, Sergi Bruguera
+Alberto Berasategui, Fernando Vicente
+Mikael Tillstrom, Francisco Clavet
+George Bastl, Martin Garcia
+Albert Portas, Andrea Gaudenzi
+Marcelo Rios, Juan Balcells
+Juan Ignacio Chela, Yevgeny Kafelnikov
+Galo Blanco, Jeff Tarango
+Marat Safin, Christian Ruud
+Carlos Moya, Guillermo Coria
+Mariano Puerta, Juan Antonio Marin
+Alberto Martin, Alberto Berasategui
+Mikael Tillstrom, George Bastl
+Albert Portas, Marcelo Rios
+Galo Blanco, Juan Ignacio Chela
+Marat Safin, Carlos Moya
+Mariano Puerta, Alberto Martin
+Mikael Tillstrom, Albert Portas
+Marat Safin, Galo Blanco
+Mikael Tillstrom, Mariano Puerta
+Marat Safin, Mikael Tillstrom
+Andre Agassi, Mariano Puerta
+Sjeng Schalken, Galo Blanco
+Mariano Zabaleta, Felix Mantilla
+Todd Woodbridge, Jan Siemerink
+Andrew Ilie, Jeff Tarango
+Jiri Novak, Markus Hipfl
+Raemon Sluiter, Andrea Gaudenzi
+Mark Philippoussis, Noam Okun
+Richard Krajicek, Fabrice Santoro
+Nicolas Escude, Jim Courier
+Leander Paes, Dejan Petrovic
+Andreas Vinciguerra, Hernan Gumy
+Fredrik Jonsson, Jacobo Diaz
+Hicham Arazi, Julian Alonso
+Fernando Vicente, Alberto Berasategui
+Todd Martin, Byron Black
+Pete Sampras, Wayne Arthurs
+Mikael Tillstrom, Sebastien Lareau
+Marc Rosset, Jamie Delgado
+Wayne Black, Jan Michael Gambill
+Franco Squillari, Joseph Sirianni
+Mark Woodforde, Davide Sanguinetti
+Slava Dosedel, Julien Boutter
+Paradorn Srichaphan, Karol Kucera
+Tim Henman, Jerome Golmard
+Rainer Schuettler, Juan Antonio Marin
+Michael Hill, Bernd Karbacher
+Sebastien Grosjean, Gouichi Motomura
+James Sekulov, Ivan Ljubicic
+Chris Woodruff, Martin Damm Sr
+Axel Pretzsch, Alex Obrien
+Richard Fromberg, Thomas Enqvist
+Albert Portas, Gustavo Kuerten
+Adrian Voinea, Vincent Spadea
+Lleyton Hewitt, Paul Goldstein
+Alex Corretja, Sargis Sargsian
+Jonas Bjorkman, Jason Stoltenberg
+Jiri Vanek, Peter Wessels
+Gianluca Pozzi, Tomas Zib
+Magnus Norman, Cecil Mamiit
+Goran Ivanisevic, Cedric Pioline
+Francisco Clavet, Dominik Hrbaty
+Wayne Ferreira, George Bastl
+Thomas Johansson, Nicklas Kulti
+Michael Llodra, Gaston Gaudio
+Karim Alami, Lorenzo Manta
+Tomas Behrend, Fernando Meligeni
+Nicolas Kiefer, Guillermo Canas
+Nicolas Lapentti, Andrei Medvedev
+Arnaud Clement, John Van Lottum
+Jan Kroslak, Alex Lopez Moron
+Roger Federer, Michael Chang
+Juan Carlos Ferrero, Scott Draper
+Laurence Tieleman, Alberto Martin
+Younes El Aynaoui, Arvind Parmar
+Tommy Haas, Cyril Saulnier
+Christophe Rochus, Albert Costa
+Kevin Ullyett, Michal Tabara
+Antony Dupuis, Martin Rodriguez
+Max Mirnyi, Ronald Agenor
+Stefan Koubek, Rodolphe Cadart
+Grant Stafford, Marat Safin
+Daniel Vacek, Orlin Stanoytchev
+Yevgeny Kafelnikov, Jens Knippschild
+Andre Agassi, Sjeng Schalken
+Mariano Zabaleta, Todd Woodbridge
+Andrew Ilie, Jiri Novak
+Mark Philippoussis, Raemon Sluiter
+Nicolas Escude, Richard Krajicek
+Andreas Vinciguerra, Leander Paes
+Hicham Arazi, Fredrik Jonsson
+Fernando Vicente, Todd Martin
+Pete Sampras, Mikael Tillstrom
+Wayne Black, Marc Rosset
+Franco Squillari, Mark Woodforde
+Slava Dosedel, Paradorn Srichaphan
+Tim Henman, Rainer Schuettler
+Sebastien Grosjean, Michael Hill
+Chris Woodruff, James Sekulov
+Richard Fromberg, Axel Pretzsch
+Adrian Voinea, Albert Portas
+Lleyton Hewitt, Alex Corretja
+Jonas Bjorkman, Jiri Vanek
+Magnus Norman, Gianluca Pozzi
+Francisco Clavet, Goran Ivanisevic
+Wayne Ferreira, Thomas Johansson
+Karim Alami, Michael Llodra
+Nicolas Kiefer, Tomas Behrend
+Arnaud Clement, Nicolas Lapentti
+Roger Federer, Jan Kroslak
+Juan Carlos Ferrero, Laurence Tieleman
+Younes El Aynaoui, Tommy Haas
+Christophe Rochus, Kevin Ullyett
+Max Mirnyi, Antony Dupuis
+Stefan Koubek, Grant Stafford
+Yevgeny Kafelnikov, Daniel Vacek
+Andre Agassi, Mariano Zabaleta
+Mark Philippoussis, Andrew Ilie
+Nicolas Escude, Andreas Vinciguerra
+Hicham Arazi, Fernando Vicente
+Pete Sampras, Wayne Black
+Slava Dosedel, Franco Squillari
+Tim Henman, Sebastien Grosjean
+Chris Woodruff, Richard Fromberg
+Lleyton Hewitt, Adrian Voinea
+Magnus Norman, Jonas Bjorkman
+Wayne Ferreira, Francisco Clavet
+Nicolas Kiefer, Karim Alami
+Arnaud Clement, Roger Federer
+Younes El Aynaoui, Juan Carlos Ferrero
+Christophe Rochus, Max Mirnyi
+Yevgeny Kafelnikov, Stefan Koubek
+Andre Agassi, Mark Philippoussis
+Hicham Arazi, Nicolas Escude
+Pete Sampras, Slava Dosedel
+Chris Woodruff, Tim Henman
+Magnus Norman, Lleyton Hewitt
+Nicolas Kiefer, Wayne Ferreira
+Younes El Aynaoui, Arnaud Clement
+Yevgeny Kafelnikov, Christophe Rochus
+Andre Agassi, Hicham Arazi
+Pete Sampras, Chris Woodruff
+Magnus Norman, Nicolas Kiefer
+Yevgeny Kafelnikov, Younes El Aynaoui
+Andre Agassi, Pete Sampras
+Yevgeny Kafelnikov, Magnus Norman
+Andre Agassi, Yevgeny Kafelnikov
+Pete Sampras, Alex Corretja
+Alex Corretja, Lleyton Hewitt
+Lleyton Hewitt, Pete Sampras
+Gustavo Kuerten, Pete Sampras
+Andre Agassi, Gustavo Kuerten
+Gustavo Kuerten, Magnus Norman
+Gustavo Kuerten, Yevgeny Kafelnikov
+Gustavo Kuerten, Andre Agassi
+Andre Agassi, Yevgeny Kafelnikov
+Andre Agassi, Magnus Norman
+Yevgeny Kafelnikov, Magnus Norman
+Andre Agassi, Marat Safin
+Pete Sampras, Marat Safin
+Marat Safin, Lleyton Hewitt
+Marat Safin, Alex Corretja
+Karol Kucera, Mikael Tillstrom
+Mikael Tillstrom, Vincent Spadea
+Karol Kucera, Vincent Spadea
+Karol Kucera, Marat Safin
+Dominik Hrbaty, Pete Sampras
+Pete Sampras, Magnus Norman
+Magnus Norman, Dominik Hrbaty
+Dominik Hrbaty, Yevgeny Kafelnikov
+Yevgeny Kafelnikov, Marcelo Rios
+Felix Mantilla, Yevgeny Kafelnikov
+Yevgeny Kafelnikov, Lleyton Hewitt
+Lleyton Hewitt, Albert Costa
+Lleyton Hewitt, Marcelo Rios
+Felix Mantilla, Patrick Rafter
+Felix Mantilla, Marcelo Rios
+Patrick Rafter, Nicolas Massu
+Tim Henman, Michal Tabara
+Raemon Sluiter, Jean Rene Lisnard
+Marc Kevin Goellner, Wayne Arthurs
+Chris Woodruff, Markus Hantschk
+Goran Ivanisevic, Gianluca Pozzi
+Hyung Taik Lee, James Sekulov
+Renzo Furlan, Christophe Rochus
+Paul Goldstein, Greg Rusedski
+Vladimir Voltchkov, Luke Milligan
+Diego Nargiso, Oliver Freelove
+Lee Childs, Sargis Sargsian
+Ivan Ljubicic, Fabrice Santoro
+Davide Sanguinetti, Jamie Delgado
+Barry Cowan, Martin Lee
+Alexander Popp, Jeff Tarango
+Dominik Hrbaty, Vincent Spadea
+Tim Henman, Raemon Sluiter
+Chris Woodruff, Marc Kevin Goellner
+Hyung Taik Lee, Goran Ivanisevic
+Renzo Furlan, Paul Goldstein
+Vladimir Voltchkov, Diego Nargiso
+Ivan Ljubicic, Lee Childs
+Davide Sanguinetti, Barry Cowan
+Dominik Hrbaty, Alexander Popp
+Tim Henman, Chris Woodruff
+Hyung Taik Lee, Renzo Furlan
+Vladimir Voltchkov, Ivan Ljubicic
+Dominik Hrbaty, Davide Sanguinetti
+Tim Henman, Hyung Taik Lee
+Dominik Hrbaty, Vladimir Voltchkov
+Tim Henman, Dominik Hrbaty
+Antony Dupuis, Andrew Ilie
+Fernando Gonzalez, Cecil Mamiit
+Paradorn Srichaphan, Sebastien Lareau
+Jan Siemerink, Justin Gimelstob
+Jason Stoltenberg, Alex Lopez Moron
+Jiri Vanek, Wayne Arthurs
+Martin Rodriguez, Lorenzo Manta
+Paul Goldstein, Ronald Agenor
+Nicolas Massu, Laurence Tieleman
+Jan Kroslak, Fredrik Jonsson
+Michael Russell, Hugo Armando
+Gianluca Pozzi, Alexander Popp
+Razvan Sabau, Andre Sa
+Markus Hantschk, Tomas Zib
+Xavier Malisse, Leander Paes
+Ramon Delgado, Jan Michael Gambill
+Fernando Gonzalez, Antony Dupuis
+Paradorn Srichaphan, Jan Siemerink
+Jiri Vanek, Jason Stoltenberg
+Martin Rodriguez, Paul Goldstein
+Nicolas Massu, Jan Kroslak
+Gianluca Pozzi, Michael Russell
+Markus Hantschk, Razvan Sabau
+Ramon Delgado, Xavier Malisse
+Fernando Gonzalez, Paradorn Srichaphan
+Martin Rodriguez, Jiri Vanek
+Nicolas Massu, Gianluca Pozzi
+Ramon Delgado, Markus Hantschk
+Fernando Gonzalez, Martin Rodriguez
+Nicolas Massu, Ramon Delgado
+Fernando Gonzalez, Nicolas Massu
+Yevgeny Kafelnikov, Lovro Zovko
+Davide Sanguinetti, Paradorn Srichaphan
+Justin Gimelstob, Jan Siemerink
+Harel Levy, Laurence Tieleman
+Julien Boutter, Younes El Aynaoui
+Jonathan Erlich, Vadim Kutsenko
+Mikhail Youzhny, John Van Lottum
+Jerome Golmard, Ivan Ljubicic
+Greg Rusedski, Sargis Sargsian
+Andrei Stoliarov, Paul Goldstein
+Antony Dupuis, Fredrik Jonsson
+George Bastl, Cedric Pioline
+Stephane Huet, Carlos Moya
+Jamie Delgado, Andre Sa
+Michel Kratochvil, Tomas Behrend
+Marat Safin, Oleg Ogorodov
+Davide Sanguinetti, Yevgeny Kafelnikov
+Justin Gimelstob, Harel Levy
+Julien Boutter, Jonathan Erlich
+Jerome Golmard, Mikhail Youzhny
+Andrei Stoliarov, Greg Rusedski
+George Bastl, Antony Dupuis
+Jamie Delgado, Stephane Huet
+Marat Safin, Michel Kratochvil
+Davide Sanguinetti, Justin Gimelstob
+Julien Boutter, Jerome Golmard
+George Bastl, Andrei Stoliarov
+Marat Safin, Jamie Delgado
+Davide Sanguinetti, Julien Boutter
+Marat Safin, George Bastl
+Marat Safin, Davide Sanguinetti
+Arvind Parmar, Cedric Pioline
+Barry Cowan, George Bastl
+Byron Black, Andre Sa
+Sargis Sargsian, Andrew Ilie
+Fabrice Santoro, Jared Palmer
+Jan Michael Gambill, Martin Lee
+Gianluca Pozzi, Davide Sanguinetti
+Arnaud Clement, Stefan Koubek
+Marc Rosset, Juan Ignacio Chela
+Wayne Ferreira, Justin Gimelstob
+Wayne Arthurs, Rainer Schuettler
+Sebastien Grosjean, Vincent Spadea
+Richard Fromberg, Roger Federer
+Nicolas Massu, Johan Landsberg
+Max Mirnyi, Alberto Martin
+Jonas Bjorkman, Tim Henman
+Arvind Parmar, Barry Cowan
+Byron Black, Sargis Sargsian
+Jan Michael Gambill, Fabrice Santoro
+Gianluca Pozzi, Arnaud Clement
+Wayne Ferreira, Marc Rosset
+Sebastien Grosjean, Wayne Arthurs
+Richard Fromberg, Nicolas Massu
+Jonas Bjorkman, Max Mirnyi
+Byron Black, Arvind Parmar
+Jan Michael Gambill, Gianluca Pozzi
+Sebastien Grosjean, Wayne Ferreira
+Jonas Bjorkman, Richard Fromberg
+Byron Black, Jan Michael Gambill
+Sebastien Grosjean, Jonas Bjorkman
+Sebastien Grosjean, Byron Black
+Mariano Puerta, Razvan Sabau
+Juan Balcells, Alexandre Simoni
+Sergi Bruguera, Gaston Etlis
+Albert Portas, Richard Fromberg
+Julian Alonso, Stefan Koubek
+Galo Blanco, Orlin Stanoytchev
+Marc Kevin Goellner, Daniel Elsner
+Magnus Gustafsson, Ion Moldovan
+Alberto Martin, Juan Antonio Marin
+Christophe Rochus, David Sanchez
+Markus Hantschk, Adrian Voinea
+Dinu Pescariu, Francisco Clavet
+Alex Calatrava, Hernan Gumy
+Jens Knippschild, Emilio Benfele Alvarez
+Michael Kohlmann, Jakub Herm Zahlava
+Fernando Meligeni, Karim Alami
+Juan Balcells, Mariano Puerta
+Albert Portas, Sergi Bruguera
+Galo Blanco, Julian Alonso
+Marc Kevin Goellner, Magnus Gustafsson
+Alberto Martin, Christophe Rochus
+Markus Hantschk, Dinu Pescariu
+Alex Calatrava, Jens Knippschild
+Fernando Meligeni, Michael Kohlmann
+Juan Balcells, Albert Portas
+Marc Kevin Goellner, Galo Blanco
+Markus Hantschk, Alberto Martin
+Alex Calatrava, Fernando Meligeni
+Juan Balcells, Marc Kevin Goellner
+Markus Hantschk, Alex Calatrava
+Juan Balcells, Markus Hantschk
+Gustavo Kuerten, Gaston Etlis
+Juan Ignacio Chela, Byron Black
+Markus Hantschk, Juan Antonio Marin
+Orlin Stanoytchev, Arnaud Di Pasquale
+Stefan Koubek, Albert Portas
+Richard Fromberg, Andre Sa
+Alejandro Hernandez, Laurence Tieleman
+Gaston Gaudio, Francisco Clavet
+Mariano Puerta, Fernando Vicente
+Hernan Gumy, Antony Dupuis
+Guillermo Canas, Nicolas Massu
+Fernando Meligeni, Sergi Bruguera
+Franco Squillari, Galo Blanco
+Ronald Agenor, Jacobo Diaz
+Sargis Sargsian, Juan Albert Viloca Puig
+Nicolas Lapentti, Bohdan Ulihrach
+Juan Ignacio Chela, Gustavo Kuerten
+Markus Hantschk, Orlin Stanoytchev
+Stefan Koubek, Richard Fromberg
+Gaston Gaudio, Alejandro Hernandez
+Mariano Puerta, Hernan Gumy
+Guillermo Canas, Fernando Meligeni
+Franco Squillari, Ronald Agenor
+Nicolas Lapentti, Sargis Sargsian
+Juan Ignacio Chela, Markus Hantschk
+Stefan Koubek, Gaston Gaudio
+Mariano Puerta, Guillermo Canas
+Franco Squillari, Nicolas Lapentti
+Juan Ignacio Chela, Stefan Koubek
+Mariano Puerta, Franco Squillari
+Juan Ignacio Chela, Mariano Puerta
+Magnus Norman, Andrea Gaudenzi
+Andre Sa, Paradorn Srichaphan
+Wayne Arthurs, Olivier Rochus
+Jonas Bjorkman, Davide Sanguinetti
+Michael Chang, Harel Levy
+Paul Goldstein, Yu Zhang
+Mikhail Youzhny, Christian Vinck
+Nicolas Massu, Mariano Zabaleta
+Andrei Stoliarov, Andrew Ilie
+Alex Calatrava, Markus Hantschk
+Laurence Tieleman, Daniel Elsner
+Byron Black, Ben Qiang Zhu
+Sjeng Schalken, Christophe Rochus
+Jason Stoltenberg, Cecil Mamiit
+George Bastl, Jeff Tarango
+Nicolas Lapentti, Orlin Stanoytchev
+Magnus Norman, Andre Sa
+Jonas Bjorkman, Wayne Arthurs
+Michael Chang, Paul Goldstein
+Nicolas Massu, Mikhail Youzhny
+Alex Calatrava, Andrei Stoliarov
+Byron Black, Laurence Tieleman
+Sjeng Schalken, Jason Stoltenberg
+Nicolas Lapentti, George Bastl
+Magnus Norman, Jonas Bjorkman
+Michael Chang, Nicolas Massu
+Alex Calatrava, Byron Black
+Sjeng Schalken, Nicolas Lapentti
+Magnus Norman, Michael Chang
+Sjeng Schalken, Alex Calatrava
+Magnus Norman, Sjeng Schalken
+Michal Tabara, Yevgeny Kafelnikov
+Lorenzo Manta, Tomas Zib
+Martin Damm Sr, Christophe Rochus
+Ronald Agenor, Sunil Kumar
+Jerome Golmard, Martin Spottl
+Fredrik Jonsson, Jan Kroslak
+Orlin Stanoytchev, Paul Kilderry
+Jamie Delgado, Byron Black
+Markus Hantschk, Laurence Tieleman
+Tomas Behrend, Alexander Popp
+Jiri Vanek, Yaoki Ishii
+Tuomas Ketola, Oleg Ogorodov
+Andreas Vinciguerra, Alex Lopez Moron
+Davide Sanguinetti, Adrian Voinea
+Leander Paes, Julien Boutter
+Cedric Pioline, Andy Ram
+Lorenzo Manta, Michal Tabara
+Martin Damm Sr, Ronald Agenor
+Jerome Golmard, Fredrik Jonsson
+Jamie Delgado, Orlin Stanoytchev
+Markus Hantschk, Tomas Behrend
+Tuomas Ketola, Jiri Vanek
+Davide Sanguinetti, Andreas Vinciguerra
+Cedric Pioline, Leander Paes
+Martin Damm Sr, Lorenzo Manta
+Jerome Golmard, Jamie Delgado
+Markus Hantschk, Tuomas Ketola
+Cedric Pioline, Davide Sanguinetti
+Jerome Golmard, Martin Damm Sr
+Markus Hantschk, Cedric Pioline
+Jerome Golmard, Markus Hantschk
+Fabrice Santoro, Marat Safin
+Fernando Vicente, Andrew Ilie
+Gianluca Pozzi, Jiri Novak
+Karim Alami, Franco Squillari
+Sebastien Lareau, Michael Chang
+Mikael Tillstrom, Leander Paes
+Roger Federer, David Prinosil
+Karol Kucera, Tim Henman
+Max Mirnyi, Lleyton Hewitt
+Jiri Vanek, Wayne Black
+Jeff Tarango, Diego Camacho
+Mariano Zabaleta, Marcelo Rios
+Tommy Haas, Wayne Ferreira
+Andreas Vinciguerra, Christian Ruud
+Arnaud Clement, Greg Rusedski
+Alex Corretja, Goran Ivanisevic
+Juan Carlos Ferrero, Hyung Taik Lee
+Nicolas Massu, Slava Dosedel
+Daniel Nestor, Barry Cowan
+Patrick Rafter, Vincent Spadea
+Arnaud Di Pasquale, Nicolas Kiefer
+Vladimir Voltchkov, Gaston Gaudio
+Paradorn Srichaphan, Attila Savolt
+Magnus Norman, Andrei Pavel
+Yevgeny Kafelnikov, Juan Antonio Marin
+Juan Ignacio Chela, Nicolas Escude
+Kristian Pless, Sargis Sargsian
+Mark Philippoussis, Thomas Johansson
+Kevin Ullyett, Albert Costa
+Ivan Ljubicic, Dominik Hrbaty
+Rainer Schuettler, Todd Martin
+Gustavo Kuerten, Christophe Pognon
+Fabrice Santoro, Fernando Vicente
+Karim Alami, Gianluca Pozzi
+Mikael Tillstrom, Sebastien Lareau
+Roger Federer, Karol Kucera
+Max Mirnyi, Jiri Vanek
+Mariano Zabaleta, Jeff Tarango
+Tommy Haas, Andreas Vinciguerra
+Alex Corretja, Arnaud Clement
+Juan Carlos Ferrero, Nicolas Massu
+Daniel Nestor, Patrick Rafter
+Arnaud Di Pasquale, Vladimir Voltchkov
+Magnus Norman, Paradorn Srichaphan
+Yevgeny Kafelnikov, Juan Ignacio Chela
+Mark Philippoussis, Kristian Pless
+Ivan Ljubicic, Kevin Ullyett
+Gustavo Kuerten, Rainer Schuettler
+Karim Alami, Fabrice Santoro
+Roger Federer, Mikael Tillstrom
+Max Mirnyi, Mariano Zabaleta
+Tommy Haas, Alex Corretja
+Juan Carlos Ferrero, Daniel Nestor
+Arnaud Di Pasquale, Magnus Norman
+Yevgeny Kafelnikov, Mark Philippoussis
+Gustavo Kuerten, Ivan Ljubicic
+Roger Federer, Karim Alami
+Tommy Haas, Max Mirnyi
+Arnaud Di Pasquale, Juan Carlos Ferrero
+Yevgeny Kafelnikov, Gustavo Kuerten
+Tommy Haas, Roger Federer
+Yevgeny Kafelnikov, Arnaud Di Pasquale
+Yevgeny Kafelnikov, Tommy Haas
+Arnaud Di Pasquale, Roger Federer
+Jiri Novak, Pete Sampras
+Andre Agassi, Slava Dosedel
+Andre Agassi, Jiri Novak
+Pete Sampras, Slava Dosedel
+Alex Corretja, Marat Safin
+Juan Carlos Ferrero, Yevgeny Kafelnikov
+Albert Costa, Yevgeny Kafelnikov
+Juan Carlos Ferrero, Marat Safin
+Dominik Hrbaty, Fernando Meligeni
+Gustavo Kuerten, Karol Kucera
+Dominik Hrbaty, Gustavo Kuerten
+Fernando Meligeni, Karol Kucera
+Lleyton Hewitt, Michael Kohlmann
+Wayne Arthurs, David Prinosil
+Rainer Schuettler, Lleyton Hewitt
+Michael Kohlmann, Wayne Arthurs
+Jimy Szymanski, Emilio Daniel Baez Britez
+Jose De Armas, Paulo Carvallo
+Yohny Romero, Paulo Carvallo
+Oscar Posada, Emilio Daniel Baez Britez
+Alejandro Hernandez, Luis Perez Chete
+Marco Osorio, Jacobo Chavez
+Alejandro Hernandez, Daniel Chavez Morales
+Marco Osorio, Alexander Vasquez
+Marcelo Rios, Hernan Gumy
+Nicolas Massu, Mariano Zabaleta
+Marcelo Rios, Mariano Zabaleta
+Nicolas Massu, Hernan Gumy
+Luis Horna, Giovanni Lapentti
+Nicolas Lapentti, Ivan Miranda
+Nicolas Lapentti, Luis Horna
+Luis Adrian Morejon, Americo Venero Montes
+Vadim Kutsenko, Mark Nielsen
+Oleg Ogorodov, Alistair Hunt
+Mark Nielsen, Oleg Ogorodov
+Dimitri Mazur, James Greenhalgh
+Leander Paes, Yong Il Yoon
+Hyung Taik Lee, Fazaluddin Syed
+Leander Paes, Hyung Taik Lee
+Fazaluddin Syed, Seung Hoon Lee
+Magnus Norman, Ville Liukko
+Tuomas Ketola, Mikael Tillstrom
+Magnus Norman, Tuomas Ketola
+Jarkko Nieminen, Mikael Tillstrom
+Andrei Pavel, Gergely Kisgyorgy
+Attila Savolt, Razvan Sabau
+Andrei Pavel, Attila Savolt
+Dinu Pescariu, Gergely Kisgyorgy
+Vladimir Voltchkov, Neville Godwin
+Max Mirnyi, Jeff Coetzee
+Max Mirnyi, Neville Godwin
+Vladimir Voltchkov, Jeff Coetzee
+Andrei Medvedev, Hicham Arazi
+Younes El Aynaoui, Andrey Dernovskiy
+Andrei Medvedev, Younes El Aynaoui
+Hicham Arazi, Orest Tereshchuk
+Albert Costa, Todd Martin
+Alex Corretja, Jan Michael Gambill
+Juan Carlos Ferrero, Vincent Spadea
+Juan Balcells, Jan Michael Gambill
+Patrick Rafter, Gustavo Kuerten
+Lleyton Hewitt, Fernando Meligeni
+Lleyton Hewitt, Andre Sa
+Patrick Rafter, Fernando Meligeni
+Paradorn Srichaphan, Yu Zhang
+Ben Qiang Zhu, Danai Udomchoke
+Paradorn Srichaphan, Ben Qiang Zhu
+Danai Udomchoke, Yu Zhang
+Yaoki Ishii, Jicham Zaatini
+Gouichi Motomura, Ali Hamadeh
+Gouichi Motomura, Jicham Zaatini
+Yaoki Ishii, Ali Hamadeh
+Y Wang, Ali Hamadeh
+Ben Qiang Zhu, Ali Hamadeh
+Ben Qiang Zhu, Jicham Zaatini
+Ali Hamadeh, Yu Zhang
+Alberto Brause, Manuel Tejada
+Federico Dondo, Yari Bernardo
+Federico Dondo, Manuel Tejada
+Marcel Felder, Augusto Sanabria
+Lazaro Navarro Batles, Rafael Avalos Brenes
+Juan Antonio Marin, Kerlin Leon Zamora
+Juan Antonio Marin, Lazaro Navarro Batles
+Ricardo Chile Fonte, Rafael Avalos Brenes
+Bing Chao Lin, Asim Shafik
+Aisam Ul Haq Qureshi, Chia Yen Tsai
+Bing Chao Lin, Aisam Ul Haq Qureshi
+Chia Yen Tsai, Aqeel Khan
+Suwandi Suwandi, Vasuthevan Ortchuan
+Febi Widhiyanto, Selvam Veerasingam
+Febi Widhiyanto, Mohammed Nazreen Fuzi Nasruddin
+Suwandi Suwandi, Adam Jaya
+Daniel Nestor, Juan Ignacio Chela
+Agustin Calleri, Sebastien Lareau
+Sebastien Lareau, Juan Ignacio Chela
+Daniel Nestor, Agustin Calleri
+Carlos Drada, Mark Knowles
+Mark Merklein, Eduardo Rincon
+Eduardo Rincon, Roger Smith
+Mark Merklein, Pablo Gonzalez
+Franco Squillari, Eduardo Rincon
+Mariano Puerta, Pablo Gonzalez
+Agustin Calleri, Pablo Gonzalez
+Michael Quintero, Martin Garcia
+Alejandro Hernandez, Jose De Armas
+Mariano Sanchez, Jimy Szymanski
+Alejandro Hernandez, Jimy Szymanski
+Mariano Sanchez, Jose De Armas
+Suwandi Suwandi, Wei Jen Cheng
+Hendri Susilo Pramono, Chia Yen Tsai
+Suwandi Suwandi, Chia Yen Tsai
+Wei Jen Cheng, Hendri Susilo Pramono
+Melvin Tong, Pavel Baranov
+Alexey Kedryuk, Wing Luen Wong
+Alexey Kedryuk, Melvin Tong
+Wing Luen Wong, Pavel Baranov
+Johnny Arcilla, Mohammed Reza Tavakoli
+Ramin Raziyani, Adelo Abadia
+Ramin Raziyani, Johnny Arcilla
+Anoosha Shahgholi, Rolando Ruel
+Goran Ivanisevic, Girts Dzelde
+Ivan Ljubicic, Andres Filimonov
+Mario Ancic, Raimonds Sproga
+Lovro Zovko, Ivo Lagzdins
+Scott Barron, Mike Scheidweiler
+Gilles Muller, Peter Clarke
+Peter Clarke, Mike Scheidweiler
+Gilles Muller, Sean Cooper
+Frederik Fetterlein, Erhan Oral
+Kristian Pless, Efe Ustundag
+Kristian Pless, Erhan Oral
+Baris Ergun, Bob Borella
+Claude Ngoran, Aivaras Balzekas
+Rolandas Murashka, Valentin Sanon
+Aivaras Balzekas, Valentin Sanon
+Claude Ngoran, Rolandas Murashka
+Karim Maamoun, Marko Tkalec
+Andrej Kracman, Amro Ghoneim
+Marko Tkalec, Amro Ghoneim
+Karim Maamoun, Miha Gregorc
+Rene Busch, Bartlomiej Dabrowski
+Krystian Pfeiffer, Mait Kunnap
+Bartlomiej Dabrowski, Alti Vahkal
+Marcin Matkowski, Rene Busch
+Ivaylo Traykov, Solon Peppas
+Orlin Stanoytchev, Vasilis Mazarakis
+Solon Peppas, Orlin Stanoytchev
+Vasilis Mazarakis, Milen Velev
+Christian Ruud, Eyal Ran
+Harel Levy, Jan Frode Andersen
+Harel Levy, Christian Ruud
+Jan Frode Andersen, Andy Ram
+Goran Ivanisevic, Owen Casey
+Mario Ancic, Scott Barron
+Ivo Karlovic, Conor Niland
+Lovro Zovko, Owen Casey
+Claude Ngoran, Kristian Pless
+Valentin Sanon, Frederik Fetterlein
+Patrik Langvardt, Valentin Sanon
+Bob Borella, Ilou Lonfo
+Marko Tkalec, Bartlomiej Dabrowski
+Krystian Pfeiffer, Andrej Kracman
+Marko Tkalec, Krystian Pfeiffer
+Andrej Kracman, Bartlomiej Dabrowski
+Solon Peppas, Helge Koll
+Jan Frode Andersen, Vasilis Mazarakis
+Solon Peppas, Jan Frode Andersen
+Konstantinos Economidis, Stian Boretti
+Goran Ivanisevic, Claude Ngoran
+Ivan Ljubicic, Valentin Sanon
+Mario Ancic, Valentin Sanon
+Ivo Karlovic, Claude Ngoran
+Marko Tkalec, Nikos Rovas
+Solon Peppas, Andrej Kracman
+Marko Tkalec, Solon Peppas
+Andrej Kracman, Konstantinos Economidis
+Gilles Muller, Girts Dzelde
+Pascal Schaul, Andres Filimonov
+Raimonds Sproga, Sacha Thoma
+Pascal Schaul, Ivo Lagzdins
+Rolandas Murashka, Efe Ustundag
+Mustafa Azkara, Aivaras Balzekas
+Efe Ustundag, Aivaras Balzekas
+Baris Ergun, Rolandas Murashka
+Gert Vilms, Karim Maamoun
+Andrei Luzgin, Hisham Hemeda
+Andrei Luzgin, Karim Maamoun
+Mait Kunnap, Marwan Zewar
+Harel Levy, Milen Velev
+Ivaylo Traykov, Lior Mor
+Harel Levy, Ivaylo Traykov
+Lior Mor, Todor Enev
+Lleyton Hewitt, Albert Costa
+Juan Carlos Ferrero, Patrick Rafter
+Juan Carlos Ferrero, Lleyton Hewitt
+Nicolas Escude, Jurgen Melzer
+Sebastien Grosjean, Stefan Koubek
+Jerome Golmard, Stefan Koubek
+Sebastien Grosjean, Jurgen Melzer
+Nicolas Lapentti, Greg Rusedski
+Tim Henman, Luis Adrian Morejon
+Tim Henman, Nicolas Lapentti
+Giovanni Lapentti, Arvind Parmar
+Olivier Rochus, Andrea Gaudenzi
+Davide Sanguinetti, Filip Dewulf
+Christophe Rochus, Davide Sanguinetti
+Filip Dewulf, Renzo Furlan
+Richard Krajicek, Oleg Ogorodov
+Sjeng Schalken, Vadim Kutsenko
+Paul Haarhuis, Vadim Kutsenko
+Oleg Ogorodov, Sjeng Schalken
+Andreas Vinciguerra, Harsh Mankad
+Mikael Tillstrom, Srinath Prahlad
+Andreas Vinciguerra, Srinath Prahlad
+Mikael Tillstrom, Harsh Mankad
+George Bastl, Max Mirnyi
+Roger Federer, Vladimir Voltchkov
+Michel Kratochvil, Alexander Shvec
+Lorenzo Manta, Vasilly Kazhera
+Byron Black, Razvan Sabau
+Andrei Pavel, Kevin Ullyett
+Andrei Pavel, Byron Black
+Wayne Black, Razvan Sabau
+Ville Liukko, Gergely Kisgyorgy
+Jarkko Nieminen, Attila Savolt
+Ville Liukko, Attila Savolt
+Jarkko Nieminen, Gergely Kisgyorgy
+Bernardo Mota, Justin Bower
+Wayne Ferreira, Emanuel Couto
+Wayne Ferreira, Bernardo Mota
+Emanuel Couto, Justin Bower
+Lleyton Hewitt, George Bastl
+Roger Federer, Mark Philippoussis
+Lleyton Hewitt, Roger Federer
+Mark Philippoussis, George Bastl
+Karol Kucera, Markus Hipfl
+Dominik Hrbaty, Stefan Koubek
+Stefan Koubek, Jan Kroslak
+Markus Hipfl, Ladislav Svarc
+Americo Venero Montes, Mark Knowles
+Luis Horna, Mark Merklein
+Luis Horna, Mark Knowles
+Ivan Miranda, Dentry Mortimer
+Yevgeny Kafelnikov, Filip Dewulf
+Marat Safin, Christophe Rochus
+Mikhail Youzhny, Olivier Rochus
+Filip Dewulf, Andrei Cherkasov
+Fernando Meligeni, Cedric Pioline
+Gustavo Kuerten, Jerome Golmard
+Nicolas Escude, Gustavo Kuerten
+Francisco Costa, Arnaud Clement
+Fernando Gonzalez, Sebastien Lareau
+Nicolas Massu, Simon Larose
+Frederic Niemeyer, Adrian Garcia
+Hermes Gamonal, Simon Larose
+Vadim Kutsenko, Ben Qiang Zhu
+Oleg Ogorodov, Yu Zhang
+Luis Adrian Morejon, Eduardo Rincon
+Nicolas Lapentti, Pablo Gonzalez
+Giovanni Lapentti, Ruben Torres
+Luis Adrian Morejon, Pablo Gonzalez
+Rafael Avalos Brenes, Marco Osorio
+Alejandro Hernandez, Luis Diego Nunez
+Alejandro Hernandez, Rafael Avalos Brenes
+Marco Osorio, Luis Diego Nunez
+Jacobo Chavez, Lazaro Navarro Batles
+Luis Perez Chete, Sandor Martinez Breijo
+Luis Perez Chete, Kerlin Leon Zamora
+Sandor Martinez Breijo, Jorge Tejada
+Tim Henman, Slava Dosedel
+Jiri Novak, Jamie Delgado
+Jiri Novak, Tim Henman
+Bohdan Ulihrach, Jamie Delgado
+Francisco Rodriguez, Manuel Tejada
+Paulo Carvallo, Yari Bernardo
+Paulo Carvallo, Manuel Tejada
+Francisco Rodriguez, Jose Baires
+Albert Costa, Davide Sanguinetti
+Alex Corretja, Andrea Gaudenzi
+Andrea Gaudenzi, Albert Costa
+Francisco Clavet, Vincenzo Santopadre
+Tommy Haas, John Van Lottum
+Sjeng Schalken, Rainer Schuettler
+Tommy Haas, Sjeng Schalken
+David Prinosil, John Van Lottum
+Melvin Tong, Asim Shafik
+Aisam Ul Haq Qureshi, Wing Luen Wong
+Aisam Ul Haq Qureshi, Melvin Tong
+Wing Luen Wong, Aqeel Khan
+Suwandi Suwandi, Johnny Arcilla
+Febi Widhiyanto, Adelo Abadia
+Johnny Arcilla, Febi Widhiyanto
+Suwandi Suwandi, Rolando Ruel
+Leander Paes, Ali Hamadeh
+Fazaluddin Syed, Jicham Zaatini
+Leander Paes, Jicham Zaatini
+Ali Hamadeh, Fazaluddin Syed
+Ramin Raziyani, Hazuan Hizan
+Selvam Veerasingam, Seyed Akbar Taheri Rahaghi
+Selvam Veerasingam, Ramin Raziyani
+Hazuan Hizan, Seyed Akbar Taheri Rahaghi
+Hyung Taik Lee, Yaoki Ishii
+Gouichi Motomura, Yong Il Yoon
+Hyung Taik Lee, Gouichi Motomura
+Yaoki Ishii, Hee Sung Chung
+Wei Jen Cheng, Pavel Baranov
+Bing Chao Lin, Alexey Kedryuk
+Alexey Kedryuk, Wei Jen Cheng
+Chia Yen Tsai, Dias Doskarayev
+Mark Nielsen, Danai Udomchoke
+Alistair Hunt, Paradorn Srichaphan
+Mark Nielsen, Ekkarin Pisuth Arnonth
+Danai Udomchoke, James Shortall
+Andrey Dernovskiy, Joao Cunha Silva
+Andrei Medvedev, Bernardo Mota
+Orest Tereshchuk, Joao Cunha Silva
+Bernardo Mota, Andrey Dernovskiy
+Maurice Ruah, Federico Dondo
+Jimy Szymanski, Alejandro Olivera
+Jose De Armas, Alberto Brause
+Yohny Romero, Alejandro Olivera
+Andre Agassi, Wayne Black
+Byron Black, Chris Woodruff
+Andre Agassi, Byron Black
+Chris Woodruff, Wayne Black
+Alberto Martin, Nicolas Massu
+Marat Safin, Richard Fromberg
+Dominik Hrbaty, Tommy Haas
+Karol Kucera, Rainer Schuettler
+Marat Safin, Alberto Martin
+Tommy Haas, Pete Sampras
+Rainer Schuettler, Vincent Spadea
+Marat Safin, Nicolas Massu
+Tommy Haas, Thomas Enqvist
+Mikael Tillstrom, Rainer Schuettler

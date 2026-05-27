@@ -1,0 +1,2580 @@
+Patricia Coleman, Helen Taylor
+Barbara Hawcroft, Cynthia Doerner
+Helen Gourlay, Vicki Lancaster Kerr
+Patti Hogan, Sandra Walsham
+Lesley Hunt, Adrienne Avis
+Jan Lehane, Dianne Fromholtz
+Norma Eastburn, Gail Sherriff
+Sandra Hole, Janet Fallis
+Norma Marsh, Marilyn Tesch
+Lesley Turner, Carol Sherriff
+Winnie Shaw, Janet Young
+Patricia Edwards, Kerry Harris
+Sharon Walsh Pete, Anne Coleman
+Helen Kayser, Kati Athorne
+Margaret Court, Patricia Coleman
+Helen Gourlay, Barbara Hawcroft
+Lesley Hunt, Patti Hogan
+Jan Lehane, Norma Eastburn
+Norma Marsh, Sandra Hole
+Winnie Shaw, Lesley Turner
+Sharon Walsh Pete, Patricia Edwards
+Evonne Goolagong, Helen Kayser
+Margaret Court, Helen Gourlay
+Lesley Hunt, Jan Lehane
+Winnie Shaw, Norma Marsh
+Evonne Goolagong, Sharon Walsh Pete
+Margaret Court, Lesley Hunt
+Evonne Goolagong, Winnie Shaw
+Margaret Court, Evonne Goolagong
+Linda Tuero, Virginia Wade
+Ingrid Bentzer, Kristy Pigeon
+Judith Szorenyi, Marie Pinterova
+Maria Teresa Nasuelli, Fiorella Bonicelli
+Julie Heldman, Sharon Van Brandis
+Becky Vest, Kerry Harris
+Marijke Jansen, Odile De Roubin
+Trudy Groenman, Lita Liem
+Evonne Goolagong, Joan Wilshere
+Wendy Gilchrist, Rosie Reyes
+Esme Emmanuel, Eva Szabo
+Lea Pericoli, Tory Ann Fretz
+Francoise Durr, Miroslava Holubova
+Pamela Austin, Sonja Pachta
+Valerie Ziegenfuss, Katalin Borka
+Betty Stove, Lany Kaligis
+Daniele Bouteleux, Fay Toyne
+Lesley Turner, Daniela Marzano
+Winnie Shaw, Daphne Pattison
+Aleksandra Ivanova, Helga Masthoff
+Laura Rossouw, Jill Cooper
+Katja Ebbinghaus, Christiane Spinoza
+Lesley Hunt, Francoise Repoux
+Nancy Richey, Isabel Fernandez De Soto
+Helen Gourlay, Cecilia Martinez
+Christina Sandberg, Marilyn Greenwood
+Kazuko Sawamatsu, Brenda Kirk
+Olga Morozova, Nathalie Fuchs
+Alena Palmeova West, Ana Maria Arias
+Gail Sherriff, Pam Teeguarden
+Kerry Reid, Raquel Giscafre
+Margaret Court, Eva Lundquist
+Linda Tuero, Ingrid Bentzer
+Maria Teresa Nasuelli, Judith Szorenyi
+Julie Heldman, Becky Vest
+Marijke Jansen, Trudy Groenman
+Evonne Goolagong, Wendy Gilchrist
+Lea Pericoli, Esme Emmanuel
+Francoise Durr, Pamela Austin
+Betty Stove, Valerie Ziegenfuss
+Lesley Turner, Daniele Bouteleux
+Winnie Shaw, Aleksandra Ivanova
+Laura Rossouw, Katja Ebbinghaus
+Nancy Richey, Lesley Hunt
+Helen Gourlay, Christina Sandberg
+Kazuko Sawamatsu, Olga Morozova
+Gail Sherriff, Alena Palmeova West
+Margaret Court, Kerry Reid
+Linda Tuero, Maria Teresa Nasuelli
+Marijke Jansen, Julie Heldman
+Evonne Goolagong, Lea Pericoli
+Francoise Durr, Betty Stove
+Lesley Turner, Winnie Shaw
+Nancy Richey, Laura Rossouw
+Helen Gourlay, Kazuko Sawamatsu
+Gail Sherriff, Margaret Court
+Marijke Jansen, Linda Tuero
+Evonne Goolagong, Francoise Durr
+Nancy Richey, Lesley Turner
+Helen Gourlay, Gail Sherriff
+Evonne Goolagong, Marijke Jansen
+Helen Gourlay, Nancy Richey
+Evonne Goolagong, Helen Gourlay
+Rosie Casals, Rosie Reyes
+Kerry Reid, Helen Gourlay
+Brenda Kirk, Anne Coleman
+Betty Stove, Andree Martin
+Katja Ebbinghaus, Helen Amos
+Christina Sandberg, Raquel Giscafre
+Jill Cooper, Heide Orth
+Mary Ann Eisel, Ana Maria Arias
+Virginia Wade, Patti Hogan
+Marilyn Greenwood, Odile De Roubin
+Laura Rossouw, Tory Ann Fretz
+Denise Carter, Marilyn Pryde
+Valerie Ziegenfuss, Maria Teresa Nasuelli
+Judy Tegart, Joyce Williams
+Olga Morozova, Esme Emmanuel
+Lea Pericoli, Ingrid Bentzer
+Nell Truman, Veronica Burton
+Zaiga Yansone, Fiorella Bonicelli
+Susan Alexander, Michelle Rodriguez
+Barbara Hawcroft, Sally Hudson Beck
+Janet Newberry, Glynis Coles
+Kazuko Sawamatsu, Vicki Lancaster Kerr
+Patricia Reese, Lany Kaligis
+Nancy Richey, Lita Liem
+Jackie Fayter, Corinne Molesworth
+Linda Tuero, Jane Ohara
+Lesley Hunt, Janice Townsend
+Kerry Harris, Birgitta Lindstrom
+Daphne Pattison, Marie Pinterova
+Julie Heldman, Kristy Pigeon
+Kristien Shaw, Peaches Bartkowicz
+Evonne Goolagong, Gail Hansen
+Margaret Court, Lorraine Coghlan
+Cecilia Martinez, Susan Minford
+Marijke Jansen, Shirley Bloomer
+Rita Bentley, Sally Holdsworth
+Helga Masthoff, Gail Sherriff
+Lesley Turner, Becky Vest
+Winnie Shaw, Isabel Fernandez De Soto
+Eliza Pande, Trudy Groenman
+Kerry Reid, Rosie Casals
+Brenda Kirk, Betty Stove
+Christina Sandberg, Katja Ebbinghaus
+Mary Ann Eisel, Jill Cooper
+Virginia Wade, Marilyn Greenwood
+Denise Carter, Laura Rossouw
+Judy Tegart, Valerie Ziegenfuss
+Olga Morozova, Lea Pericoli
+Zaiga Yansone, Nell Truman
+Barbara Hawcroft, Susan Alexander
+Kazuko Sawamatsu, Janet Newberry
+Nancy Richey, Patricia Reese
+Linda Tuero, Jackie Fayter
+Lesley Hunt, Kerry Harris
+Julie Heldman, Daphne Pattison
+Evonne Goolagong, Kristien Shaw
+Alena Palmeova West, Elizabeth Ernest
+Lindsey Beaven, Trish Mcclenaughan
+Ada Bakker, Marina Kroschina
+Francoise Durr, Miroslava Holubova
+Christine Truman, Fay Toyne
+Pam Teeguarden, Alex Cowie
+Daniele Bouteleux, Maria Eugenia Guzman
+Billie Jean King, Wendy Gilchrist
+Margaret Court, Cecilia Martinez
+Marijke Jansen, Rita Bentley
+Lesley Turner, Helga Masthoff
+Winnie Shaw, Eliza Pande
+Kerry Reid, Brenda Kirk
+Mary Ann Eisel, Christina Sandberg
+Virginia Wade, Denise Carter
+Judy Tegart, Olga Morozova
+Zaiga Yansone, Barbara Hawcroft
+Nancy Richey, Kazuko Sawamatsu
+Lesley Hunt, Linda Tuero
+Evonne Goolagong, Julie Heldman
+Lindsey Beaven, Alena Palmeova West
+Francoise Durr, Ada Bakker
+Christine Truman, Pam Teeguarden
+Billie Jean King, Daniele Bouteleux
+Margaret Court, Marijke Jansen
+Winnie Shaw, Lesley Turner
+Kerry Reid, Mary Ann Eisel
+Judy Tegart, Virginia Wade
+Nancy Richey, Zaiga Yansone
+Evonne Goolagong, Lesley Hunt
+Francoise Durr, Lindsey Beaven
+Billie Jean King, Christine Truman
+Margaret Court, Winnie Shaw
+Judy Tegart, Kerry Reid
+Evonne Goolagong, Nancy Richey
+Billie Jean King, Francoise Durr
+Margaret Court, Judy Tegart
+Evonne Goolagong, Billie Jean King
+Evonne Goolagong, Margaret Court
+Billie Jean King, Jeanne Arth
+Helen Gourlay, Kathy Kraft
+Pamela Austin, Sandy Stap
+Linda Tuero, Valerie Ziegenfuss
+Nancy Richey, Cecilia Martinez
+Elena Subirats, Sue Stap
+Laura Dupont, Farel Footman
+Christina Sandberg, Patti Hogan
+Wendy Gilchrist, Mona Guerrant
+Laurie Tenney, Louise Gonnerman
+Lesley Hunt, Raquel Giscafre
+Barbara Downs, Jill Cooper
+Francoise Durr, Carol Aucamp
+Lita Liem, Patricia Reese
+Mary Ann Eisel, Sally Holdsworth
+Chris Evert, Edda Buding
+Gail Sherriff, Junko Sawamatsu
+Marita Redondo, Lany Kaligis
+Janet Newberry, Kristy Pigeon
+Judy Tegart, Vicky Berner
+Eliza Pande, Janice Metcalf
+Kristien Shaw, Carole Graebner
+Pam Teeguarden, Corinne Molesworth
+Kerry Reid, Ada Bakker
+Winnie Shaw, Gail Hansen
+Joyce Williams, Betty Ann Grubb
+Nell Truman, Jane Ohara
+Julie Heldman, Marjorie Gengler
+Alena Palmeova West, Gussie Moran
+Kerry Harris, Stephanie Defina
+Wendy Overton, Marcie Louie
+Rosie Casals, Betty Stove
+Billie Jean King, Helen Gourlay
+Linda Tuero, Pamela Austin
+Nancy Richey, Elena Subirats
+Laura Dupont, Christina Sandberg
+Wendy Gilchrist, Laurie Tenney
+Lesley Hunt, Barbara Downs
+Francoise Durr, Lita Liem
+Chris Evert, Mary Ann Eisel
+Gail Sherriff, Marita Redondo
+Judy Tegart, Janet Newberry
+Eliza Pande, Kristien Shaw
+Kerry Reid, Pam Teeguarden
+Joyce Williams, Winnie Shaw
+Julie Heldman, Nell Truman
+Kerry Harris, Alena Palmeova West
+Rosie Casals, Wendy Overton
+Billie Jean King, Linda Tuero
+Laura Dupont, Nancy Richey
+Lesley Hunt, Wendy Gilchrist
+Chris Evert, Francoise Durr
+Judy Tegart, Gail Sherriff
+Kerry Reid, Eliza Pande
+Joyce Williams, Julie Heldman
+Rosie Casals, Kerry Harris
+Billie Jean King, Laura Dupont
+Chris Evert, Lesley Hunt
+Kerry Reid, Judy Tegart
+Rosie Casals, Joyce Williams
+Billie Jean King, Chris Evert
+Rosie Casals, Kerry Reid
+Billie Jean King, Rosie Casals
+Billie Jean King, Esme Emmanuel
+Francoise Durr, Judy Tegart
+Ann Jones, Kristy Pigeon
+Kerry Reid, Darlene Hard
+Peaches Bartkowicz, Denise Carter
+Nancy Richey, Valerie Ziegenfuss
+Mary Ann Eisel, Stephanie Johnson
+Rosie Casals, Karen Krantzcke
+Billie Jean King, Francoise Durr
+Ann Jones, Kerry Reid
+Nancy Richey, Peaches Bartkowicz
+Rosie Casals, Mary Ann Eisel
+Billie Jean King, Ann Jones
+Rosie Casals, Nancy Richey
+Ann Jones, Nancy Richey
+Billie Jean King, Rosie Casals
+Marilyn Pryde, Janine Whyte
+Marilyn Tesch, Patricia Reese
+Adrienne Avis, L Jowett
+Daniela Marzano, Norma Marsh
+Trudy Groenman, Jo Anne Faull
+Anne Coleman, Junko Sawamatsu
+Janet Young, Kerry Ballard
+Kayoko Fukuoka, Vicki Lancaster Kerr
+Sandra Walsham, Andree Martin
+Cynthia Doerner, Carol Sherriff
+Cheryl Norquay, Robyn Legge
+Barbara Hawcroft, Sue Hole
+Ines Roget, Lany Kaligis
+Raquel Giscafre, Chris Matison
+Maria Teresa Nasuelli, Kimiyo Hatanaka
+Ruia Morrison, Frances Luff
+Margaret Court, Marilyn Pryde
+Laura Rossouw, Marilyn Tesch
+Brenda Kirk, Adrienne Avis
+Sharon Walsh Pete, Daniela Marzano
+Helen Gourlay, Trudy Groenman
+Gail Sherriff, Anne Coleman
+Kristien Shaw, Janet Young
+Winnie Shaw, Kayoko Fukuoka
+Evonne Goolagong, Sandra Walsham
+Betty Stove, Cynthia Doerner
+Kerry Harris, Cheryl Norquay
+Olga Morozova, Barbara Hawcroft
+Lesley Hunt, Ines Roget
+Kazuko Sawamatsu, Raquel Giscafre
+Lita Liem, Maria Teresa Nasuelli
+Patti Hogan, Ruia Morrison
+Margaret Court, Laura Rossouw
+Brenda Kirk, Sharon Walsh Pete
+Gail Sherriff, Helen Gourlay
+Kristien Shaw, Winnie Shaw
+Betty Stove, Evonne Goolagong
+Olga Morozova, Kerry Harris
+Kazuko Sawamatsu, Lesley Hunt
+Patti Hogan, Lita Liem
+Margaret Court, Brenda Kirk
+Gail Sherriff, Kristien Shaw
+Olga Morozova, Betty Stove
+Kazuko Sawamatsu, Patti Hogan
+Margaret Court, Gail Sherriff
+Olga Morozova, Kazuko Sawamatsu
+Margaret Court, Olga Morozova
+Billie Jean King, Francoise Durr
+Stephanie Johnson, Darlene Hard
+Ann Jones, Kerry Reid
+Valerie Ziegenfuss, Judy Tegart
+Denise Carter, Betty Ann Grubb
+Nancy Richey, Kristy Pigeon
+Mary Ann Eisel, Peaches Bartkowicz
+Rosie Casals, Karen Krantzcke
+Billie Jean King, Stephanie Johnson
+Ann Jones, Valerie Ziegenfuss
+Nancy Richey, Denise Carter
+Rosie Casals, Mary Ann Eisel
+Billie Jean King, Ann Jones
+Rosie Casals, Nancy Richey
+Nancy Richey, Ann Jones
+Billie Jean King, Rosie Casals
+Billie Jean King, Kerry Reid
+Mary Ann Eisel, Judy Tegart
+Karen Krantzcke, Tory Ann Fretz
+Ann Jones, Peaches Bartkowicz
+Francoise Durr, Kristy Pigeon
+Valerie Ziegenfuss, Stephanie Johnson
+Denise Carter, Cecilia Martinez
+Rosie Casals, Esme Emmanuel
+Billie Jean King, Mary Ann Eisel
+Ann Jones, Karen Krantzcke
+Francoise Durr, Valerie Ziegenfuss
+Rosie Casals, Denise Carter
+Billie Jean King, Ann Jones
+Rosie Casals, Francoise Durr
+Billie Jean King, Rosie Casals
+Kerry Wilkinson, Andree Martin
+Kimiyo Hatanaka, Valerie Caulley
+Lynne Nette, H Branson
+Kristien Shaw, Frances Luff
+Vicki Lancaster Kerr, Daniela Marzano
+Kazuko Sawamatsu, Diane James
+Wendy Turnbull, Ines Roget
+Patricia Coleman, Helen Sheedy
+Beverley Rae, Robyn Legge
+Lita Liem, Julie Hunt
+Brenda Kirk, Barbara Hawcroft
+Cynthia Doerner, Sue Hole
+Laura Rossouw, Marilyn Tesch
+Ruia Morrison, Junko Sawamatsu
+Trudy Groenman, Patricia Reese
+Jo Anne Faull, Maria Teresa Nasuelli
+Lany Kaligis, Dianne Berkinshaw
+Raquel Giscafre, Lorraine Coghlan
+Marilyn Pryde, Norma Eastburn
+Margaret Court, Kerry Wilkinson
+Sharon Walsh Pete, Kimiyo Hatanaka
+Kristien Shaw, Lynne Nette
+Patti Hogan, Vicki Lancaster Kerr
+Kerry Harris, Patricia Coleman
+Kazuko Sawamatsu, Wendy Turnbull
+Helen Gourlay, Beverley Rae
+Olga Morozova, Lita Liem
+Winnie Shaw, Brenda Kirk
+Janet Young, Cynthia Doerner
+Laura Rossouw, Ruia Morrison
+Trudy Groenman, Lesley Hunt
+Gail Sherriff, Jo Anne Faull
+Janine Whyte, Lany Kaligis
+Betty Stove, Raquel Giscafre
+Evonne Goolagong, Marilyn Pryde
+Margaret Court, Sharon Walsh Pete
+Patti Hogan, Kristien Shaw
+Kazuko Sawamatsu, Kerry Harris
+Olga Morozova, Helen Gourlay
+Winnie Shaw, Janet Young
+Trudy Groenman, Laura Rossouw
+Gail Sherriff, Janine Whyte
+Evonne Goolagong, Betty Stove
+Margaret Court, Patti Hogan
+Kazuko Sawamatsu, Olga Morozova
+Winnie Shaw, Trudy Groenman
+Evonne Goolagong, Gail Sherriff
+Margaret Court, Kazuko Sawamatsu
+Evonne Goolagong, Winnie Shaw
+Evonne Goolagong, Margaret Court
+Billie Jean King, Valerie Ziegenfuss
+Kerry Reid, Esme Emmanuel
+Denise Carter, Peaches Bartkowicz
+Francoise Durr, Kristy Pigeon
+Ann Jones, Karen Krantzcke
+Tory Ann Fretz, Cecilia Martinez
+Mary Ann Eisel, Judy Tegart
+Rosie Casals, Stephanie Johnson
+Billie Jean King, Kerry Reid
+Francoise Durr, Denise Carter
+Ann Jones, Tory Ann Fretz
+Rosie Casals, Mary Ann Eisel
+Billie Jean King, Francoise Durr
+Rosie Casals, Ann Jones
+Billie Jean King, Rosie Casals
+Billie Jean King, Cecilia Martinez
+Peaches Bartkowicz, Denise Carter
+Karen Krantzcke, Tory Ann Fretz
+Francoise Durr, Mary Ann Eisel
+Ann Jones, Stephanie Johnson
+Kristy Pigeon, Judy Tegart
+Kerry Reid, Valerie Ziegenfuss
+Rosie Casals, Esme Emmanuel
+Billie Jean King, Peaches Bartkowicz
+Francoise Durr, Karen Krantzcke
+Ann Jones, Kristy Pigeon
+Kerry Reid, Rosie Casals
+Billie Jean King, Francoise Durr
+Ann Jones, Kerry Reid
+Billie Jean King, Ann Jones
+Billie Jean King, Mary Ann Eisel
+Tory Ann Fretz, Julie Heldman
+Francoise Durr, Valerie Ziegenfuss
+Denise Carter, Kristy Pigeon
+Kerry Reid, Peaches Bartkowicz
+Ann Jones, Stephanie Johnson
+Judy Tegart, Cecilia Martinez
+Rosie Casals, Karen Krantzcke
+Billie Jean King, Tory Ann Fretz
+Francoise Durr, Denise Carter
+Ann Jones, Kerry Reid
+Rosie Casals, Judy Tegart
+Francoise Durr, Billie Jean King
+Rosie Casals, Ann Jones
+Rosie Casals, Francoise Durr
+Billie Jean King, Kristy Pigeon
+Judy Tegart, Julie Heldman
+Ann Jones, Esme Emmanuel
+Kerry Reid, Laurie Fleming
+Francoise Durr, Stephanie Johnson
+Denise Carter, Chris Evert
+Valerie Ziegenfuss, Karen Krantzcke
+Rosie Casals, Tory Ann Fretz
+Billie Jean King, Judy Tegart
+Kerry Reid, Ann Jones
+Francoise Durr, Denise Carter
+Rosie Casals, Valerie Ziegenfuss
+Billie Jean King, Kerry Reid
+Francoise Durr, Rosie Casals
+Rosie Casals, Kerry Reid
+Francoise Durr, Billie Jean King
+Billie Jean King, Laurie Tenney
+Judy Tegart, Esme Emmanuel
+Ann Jones, Denise Carter
+Peaches Bartkowicz, Wendy Gilchrist
+Kristy Pigeon, Julie Heldman
+Francoise Durr, Cecilia Martinez
+Kerry Reid, Andrea Voikos
+Rosie Casals, Valerie Ziegenfuss
+Billie Jean King, Judy Tegart
+Ann Jones, Peaches Bartkowicz
+Francoise Durr, Kristy Pigeon
+Rosie Casals, Kerry Reid
+Billie Jean King, Ann Jones
+Rosie Casals, Francoise Durr
+Ann Jones, Francoise Durr
+Billie Jean King, Rosie Casals
+Margaret Court, Cecilie Fleming
+Marilyn Pryde, Elaine Stephan
+Patti Hogan, Beverley Vercoe
+Robyn Legge, Ruia Morrison
+Lesley Turner, Ann Stevens
+Winnie Shaw, Jill Fraser
+Sharon Walsh Pete, Jeanette Amer
+Evonne Goolagong, Shelley Monds
+Margaret Court, Marilyn Pryde
+Patti Hogan, Robyn Legge
+Winnie Shaw, Lesley Turner
+Evonne Goolagong, Sharon Walsh Pete
+Margaret Court, Patti Hogan
+Evonne Goolagong, Winnie Shaw
+Margaret Court, Evonne Goolagong
+Billie Jean King, Karen Krantzcke
+Valerie Ziegenfuss, Kerry Reid
+Tory Ann Fretz, Cecilia Martinez
+Ann Jones, Betty Ann Grubb
+Mary Ann Eisel, Francoise Durr
+Wendy Gilchrist, Kristy Pigeon
+Judy Tegart, Esme Emmanuel
+Rosie Casals, Peaches Bartkowicz
+Billie Jean King, Valerie Ziegenfuss
+Ann Jones, Tory Ann Fretz
+Mary Ann Eisel, Wendy Gilchrist
+Rosie Casals, Judy Tegart
+Billie Jean King, Ann Jones
+Rosie Casals, Mary Ann Eisel
+Billie Jean King, Rosie Casals
+Billie Jean King, Carole Graebner
+Julie Heldman, Betty Ann Grubb
+Kerry Reid, Kristy Pigeon
+Ann Jones, Nancy Richey
+Francoise Durr, Karen Krantzcke
+Cecilia Martinez, Tory Ann Fretz
+Peaches Bartkowicz, Valerie Ziegenfuss
+Rosie Casals, Judy Tegart
+Billie Jean King, Julie Heldman
+Ann Jones, Kerry Reid
+Francoise Durr, Cecilia Martinez
+Rosie Casals, Peaches Bartkowicz
+Billie Jean King, Ann Jones
+Rosie Casals, Francoise Durr
+Ann Jones, Francoise Durr
+Rosie Casals, Billie Jean King
+Ann Jones, Carole Graebner
+Wendy Gilchrist, Kristy Pigeon
+Tory Ann Fretz, Kristien Shaw
+Julie Heldman, Wendy Hitt
+Judy Tegart, Cecilia Martinez
+Betty Ann Grubb, Patricia Reese
+Nancy Richey, Maria Ayala
+Francoise Durr, Esme Emmanuel
+Denise Carter, Billie Jean King
+Mary Ann Eisel, Valerie Ziegenfuss
+Ann Jones, Wendy Gilchrist
+Tory Ann Fretz, Julie Heldman
+Judy Tegart, Betty Ann Grubb
+Nancy Richey, Francoise Durr
+Peaches Bartkowicz, Karen Krantzcke
+Rosie Casals, Kerry Reid
+Mary Ann Eisel, Denise Carter
+Ann Jones, Tory Ann Fretz
+Nancy Richey, Judy Tegart
+Peaches Bartkowicz, Rosie Casals
+Ann Jones, Mary Ann Eisel
+Nancy Richey, Peaches Bartkowicz
+Ann Jones, Nancy Richey
+Marlene Gerson, Sannie Gouws
+Patricia Walkden, Annette Steenkamp
+Winnie Shaw, Ann Phillips Moore
+Rowena Sanders, Marilyn Tesch
+Christine Marais, Daphne Pattison
+Helen Gourlay, Elizabeth Oosthuizen
+Kerry Harris, Lynn Mcdonald
+Joan Wilshere, Helen Liebenberg
+Linky Boshoff, Una Vakino
+Virginia Wade, C Stow
+Evonne Goolagong, Barbara Hambridge
+Barbara Hawcroft, C Gevers
+Nell Truman, Anne Coleman
+Greta Delport, Ilana Kloss
+Heide Orth, Laura Rossouw
+Elizabeth Vlotman, J Swart
+Marilyn Pryde, Sue Green
+Sharon Walsh Pete, Karin Boshoff
+Margaret Court, Gillian Van Der Merwe
+Alison Mcmillan, Cynthia Doerner
+Lesley Hunt, Sharon Van Brandis
+Patricia Walkden, Marlene Gerson
+Winnie Shaw, Rowena Sanders
+Helen Gourlay, Christine Marais
+Kerry Harris, Joan Wilshere
+Virginia Wade, Linky Boshoff
+Evonne Goolagong, Barbara Hawcroft
+Nell Truman, Greta Delport
+Heide Orth, Elizabeth Vlotman
+Sharon Walsh Pete, Marilyn Pryde
+Patti Hogan, Terisa Viljoen
+Brenda Kirk, P Welsh
+Maryna Godwin, Lyn Montgomery
+Helga Masthoff, Heloise Burger
+Margaret Court, Alison Mcmillan
+Lesley Hunt, Patricia Walkden
+Winnie Shaw, Helen Gourlay
+Virginia Wade, Kerry Harris
+Evonne Goolagong, Nell Truman
+Heide Orth, Sharon Walsh Pete
+Patti Hogan, Brenda Kirk
+Helga Masthoff, Maryna Godwin
+Margaret Court, Lesley Hunt
+Virginia Wade, Winnie Shaw
+Heide Orth, Evonne Goolagong
+Patti Hogan, Helga Masthoff
+Margaret Court, Virginia Wade
+Patti Hogan, Heide Orth
+Margaret Court, Patti Hogan
+Margaret Court, Gillian Van Der Merwe
+Sue Hole, Marlene Gerson
+Una Vakino, Lyn Montgomery
+Greta Delport, A Le Roux
+G Russell, Terisa Viljoen
+Kerry Harris, Heather Bucke
+Winnie Shaw, Jean Forbes
+Barbara Hawcroft, Elizabeth Vlotman
+Cynthia Doerner, J Smith
+Helen Gourlay, Melanie Muller
+Nell Truman, Annette Steenkamp
+Maryna Godwin, Rosamba Niciforovic
+Helga Masthoff, C Gevers
+Evonne Goolagong, Marion Lloyd Wronsley
+Nicky Kruger, Marilyn Pryde
+Laura Rossouw, Karin Boshoff
+Heide Orth, Franzie Alberts
+Elizabeth Oosthuizen, P Welsh
+Patricia Walkden, Glenda Tunmer
+Joan Wilshere, Mynie Van Zyl
+Anne Coleman, L Bank
+Patti Hogan, Rowena Sanders
+Marianna Brummer, Vicky Oosthuizen
+Margaret Hunt, Marilyn Tesch
+Alison Mcmillan, Ana Maria Arias
+Virginia Wade, Sannie Gouws
+Margaret Court, Sue Hole
+Una Vakino, Greta Delport
+Brenda Kirk, G Russell
+Kerry Harris, Susie Smit
+Winnie Shaw, Barbara Hawcroft
+Helen Gourlay, Cynthia Doerner
+Maryna Godwin, Nell Truman
+Helga Masthoff, Daphne Pattison
+Evonne Goolagong, Glenda Swan
+Laura Rossouw, Nicky Kruger
+Heide Orth, A Barrow
+Patricia Walkden, Elizabeth Oosthuizen
+Lesley Hunt, Joan Wilshere
+Patti Hogan, Anne Coleman
+Margaret Hunt, Marianna Brummer
+Virginia Wade, Alison Mcmillan
+Margaret Court, Una Vakino
+Kerry Harris, Brenda Kirk
+Winnie Shaw, Helen Gourlay
+Helga Masthoff, Maryna Godwin
+Evonne Goolagong, Laura Rossouw
+Patricia Walkden, Heide Orth
+Patti Hogan, Lesley Hunt
+Virginia Wade, Margaret Hunt
+Margaret Court, Kerry Harris
+Winnie Shaw, Helga Masthoff
+Evonne Goolagong, Patricia Walkden
+Virginia Wade, Patti Hogan
+Margaret Court, Winnie Shaw
+Evonne Goolagong, Virginia Wade
+Winnie Shaw, Virginia Wade
+Margaret Court, Evonne Goolagong
+Billie Jean King, Wendy Gilchrist
+Karen Krantzcke, Susan Vinton
+Judy Alvarez, Betty Ann Grubb
+Chris Evert, Francoise Durr
+Julie Heldman, Ann Jones
+Kerry Reid, Esme Emmanuel
+Judy Tegart, Kristy Pigeon
+Rosie Casals, Tory Ann Fretz
+Billie Jean King, Karen Krantzcke
+Chris Evert, Judy Alvarez
+Julie Heldman, Kerry Reid
+Rosie Casals, Judy Tegart
+Chris Evert, Billie Jean King
+Julie Heldman, Rosie Casals
+Chris Evert, Julie Heldman
+Billie Jean King, Kristien Shaw
+Nancy Richey, Denise Carter
+Julie Heldman, Kerry Reid
+Francoise Durr, Kristy Pigeon
+Ann Jones, Karen Krantzcke
+Mary Ann Eisel, Tory Ann Fretz
+Judy Tegart, Valerie Ziegenfuss
+Rosie Casals, Cecilia Martinez
+Billie Jean King, Nancy Richey
+Julie Heldman, Francoise Durr
+Ann Jones, Mary Ann Eisel
+Judy Tegart, Rosie Casals
+Billie Jean King, Julie Heldman
+Ann Jones, Judy Tegart
+Ann Jones, Billie Jean King
+Laura Dupont, Donna Floyd
+Eliza Pande, Beverly Cansler
+Janet Newberry, Sue Stap
+Laura Dupont, Eliza Pande
+Chris Evert, Janet Newberry
+Chris Evert, Laura Dupont
+Billie Jean King, Janet Newberry
+Esme Emmanuel, Wendy Gilchrist
+Kerry Reid, Kristien Shaw
+Julie Heldman, Karen Krantzcke
+Valerie Ziegenfuss, Patricia Reese
+Tory Ann Fretz, Francoise Durr
+Kristy Pigeon, Cecilia Martinez
+Rosie Casals, Judy Tegart
+Billie Jean King, Esme Emmanuel
+Julie Heldman, Kerry Reid
+Valerie Ziegenfuss, Tory Ann Fretz
+Rosie Casals, Kristy Pigeon
+Billie Jean King, Julie Heldman
+Rosie Casals, Valerie Ziegenfuss
+Julie Heldman, Valerie Ziegenfuss
+Billie Jean King, Rosie Casals
+Gail Sherriff, Shari Barman
+Marie Pinterova, Fiorella Bonicelli
+Brenda Kirk, Maria Teresa Nasuelli
+Miroslava Holubova, Fay Toyne
+Laura Rossouw, Ana Maria Arias
+Pam Teeguarden, Daniela Marzano
+Virginia Wade, Pamela Austin
+Gail Sherriff, Marie Pinterova
+Helga Schultze, Brenda Kirk
+Laura Rossouw, Miroslava Holubova
+Virginia Wade, Pam Teeguarden
+Gail Sherriff, Helga Schultze
+Virginia Wade, Laura Rossouw
+Virginia Wade, Gail Sherriff
+Helga Masthoff, Brenda Kirk
+Laura Rossouw, Maria Teresa Nasuelli
+Gail Sherriff, Pam Teeguarden
+Lea Pericoli, Miroslava Holubova
+Lesley Turner, Lucia Bassi
+Helga Schultze, Helen Gourlay
+Marie Pinterova, Monica Giorgi
+Virginia Wade, Daniela Marzano
+Helga Masthoff, Laura Rossouw
+Gail Sherriff, Lea Pericoli
+Helga Schultze, Lesley Turner
+Virginia Wade, Marie Pinterova
+Helga Masthoff, Gail Sherriff
+Virginia Wade, Helga Schultze
+Virginia Wade, Helga Masthoff
+Margaret Court, Valerie Ziegenfuss
+Janice Townsend, Christine Truman
+Julie Heldman, Lesley Hunt
+Kerry Reid, Esme Emmanuel
+Betty Stove, Jill Cooper
+Gail Sherriff, Karen Krantzcke
+Evonne Goolagong, Tory Ann Fretz
+Judy Tegart, Patricia Reese
+Patti Hogan, Cecilia Martinez
+Virginia Wade, Shirley Bloomer
+Winnie Shaw, Kristien Shaw
+Rosie Casals, Joyce Williams
+Mary Ann Eisel, Lesley Turner
+Francoise Durr, Helen Gourlay
+Nell Truman, Sharon Walsh Pete
+Billie Jean King, Wendy Gilchrist
+Margaret Court, Janice Townsend
+Julie Heldman, Kerry Reid
+Gail Sherriff, Betty Stove
+Judy Tegart, Evonne Goolagong
+Virginia Wade, Patti Hogan
+Rosie Casals, Winnie Shaw
+Francoise Durr, Mary Ann Eisel
+Nell Truman, Billie Jean King
+Margaret Court, Julie Heldman
+Gail Sherriff, Judy Tegart
+Virginia Wade, Rosie Casals
+Francoise Durr, Nell Truman
+Margaret Court, Gail Sherriff
+Francoise Durr, Virginia Wade
+Margaret Court, Francoise Durr
+Francoise Durr, Jane Ohara
+Rita Bentley, Jackie Fayter
+Sally Holdsworth, Corinne Molesworth
+Barbara Hawcroft, Lindsey Beaven
+Gail Sherriff, Lesley Hunt
+Tory Ann Fretz, Fay Toyne
+Janice Townsend, Veronica Burton
+Michelle Rodriguez, Maria Eugenia Guzman
+Lesley Turner, Sannie Gouws
+Kerry Harris, Patricia Cody
+Jill Cooper, Penny Moor
+Mary Ann Eisel, Frances Maclennan
+Nell Truman, Trish Mcclenaughan
+Susan Minford, Wendy Hall
+Betty Stove, Christine Truman
+Virginia Wade, Cecilie Fleming
+Margaret Court, Marilyn Greenwood
+Helen Gourlay, Alex Cowie
+Winnie Shaw, Daphne Pattison
+Ana Maria Arias, Elizabeth Ernest
+Francoise Durr, Rita Bentley
+Barbara Hawcroft, Sally Holdsworth
+Tory Ann Fretz, Gail Sherriff
+Janice Townsend, Michelle Rodriguez
+Lesley Turner, Kerry Harris
+Mary Ann Eisel, Jill Cooper
+Susan Minford, Nell Truman
+Betty Stove, Virginia Wade
+Judy Tegart, Patricia Reese
+Patti Hogan, Joyce Williams
+Wendy Gilchrist, Marilyn Pryde
+Evonne Goolagong, Kristien Shaw
+Margaret Court, Helen Gourlay
+Winnie Shaw, Ana Maria Arias
+Francoise Durr, Barbara Hawcroft
+Tory Ann Fretz, Janice Townsend
+Mary Ann Eisel, Lesley Turner
+Betty Stove, Susan Minford
+Patti Hogan, Judy Tegart
+Evonne Goolagong, Wendy Gilchrist
+Margaret Court, Winnie Shaw
+Francoise Durr, Tory Ann Fretz
+Mary Ann Eisel, Betty Stove
+Evonne Goolagong, Patti Hogan
+Margaret Court, Francoise Durr
+Evonne Goolagong, Mary Ann Eisel
+Margaret Court, Evonne Goolagong
+Heide Orth, Esme Emmanuel
+Christina Sandberg, Almut Sturm
+Helga Schultze, Judith Szorenyi
+Cecilia Martinez, Trudy Groenman
+Brenda Kirk, Karin Seltenreich
+Kerry Reid, Edith Winkens
+Kazuko Sawamatsu, Karen Krantzcke
+Marijke Jansen, Katja Ebbinghaus
+Pam Teeguarden, Dagmar Stoltenberg
+Rosie Casals, Junko Sawamatsu
+Valerie Ziegenfuss, Laura Rossouw
+Kora Schediwy, Miroslava Hobulova
+Billie Jean King, Marie Pinterova
+Heide Orth, Christina Sandberg
+Helga Schultze, Cecilia Martinez
+Kerry Reid, Brenda Kirk
+Kazuko Sawamatsu, Marijke Jansen
+Rosie Casals, Pam Teeguarden
+Valerie Ziegenfuss, Kora Schediwy
+Helga Masthoff, Eva Szabo
+Billie Jean King, Heide Orth
+Helga Schultze, Kerry Reid
+Rosie Casals, Kazuko Sawamatsu
+Helga Masthoff, Valerie Ziegenfuss
+Billie Jean King, Helga Schultze
+Helga Masthoff, Rosie Casals
+Billie Jean King, Helga Masthoff
+Mary Ann Eisel, Jeanne Evert
+Laura Dupont, Karin Benson
+Marcie Louie, Sue Stap
+Chris Evert, Kathy Kraft
+Mary Ann Eisel, Laura Dupont
+Chris Evert, Marcie Louie
+Chris Evert, Mary Ann Eisel
+Margaret Court, Evonne Goolagong
+Margaret Court, Virginia Wade
+Margaret Court, Francoise Durr
+Evonne Goolagong, Virginia Wade
+Evonne Goolagong, Francoise Durr
+Virginia Wade, Francoise Durr
+Rosie Casals, Helen Amos
+Valerie Ziegenfuss, Nell Truman
+Olga Morozova, Lany Kaligis
+Joyce Williams, Lesley Hunt
+Susan Alexander, Rita Bentley
+Katja Ebbinghaus, Lindsey Beaven
+Jill Cooper, Ada Bakker
+Heide Orth, Pam Teeguarden
+Christine Truman, Gail Hansen
+Marijke Jansen, Fay Toyne
+Wendy Gilchrist, Tory Ann Fretz
+Mary Ann Eisel, Marina Kroschina
+Kazuko Sawamatsu, Cecilia Martinez
+Julie Heldman, Trudy Groenman
+Denise Carter, Veronica Burton
+Virginia Wade, Barbara Hawcroft
+Margaret Court, Janice Townsend
+Shirley Bloomer, Esme Emmanuel
+Winnie Shaw, Jackie Fayter
+Kristy Pigeon, Lesley Turner
+Rosie Casals, Valerie Ziegenfuss
+Joyce Williams, Olga Morozova
+Susan Alexander, Katja Ebbinghaus
+Jill Cooper, Heide Orth
+Christine Truman, Marijke Jansen
+Wendy Gilchrist, Mary Ann Eisel
+Julie Heldman, Kazuko Sawamatsu
+Virginia Wade, Denise Carter
+Helen Gourlay, Zaiga Yansone
+Helga Masthoff, Patti Hogan
+Corinne Molesworth, Linda Tuero
+Billie Jean King, Lita Liem
+Margaret Court, Shirley Bloomer
+Kristy Pigeon, Winnie Shaw
+Rosie Casals, Joyce Williams
+Jill Cooper, Susan Alexander
+Christine Truman, Wendy Gilchrist
+Virginia Wade, Julie Heldman
+Helen Gourlay, Helga Masthoff
+Billie Jean King, Corinne Molesworth
+Margaret Court, Kristy Pigeon
+Rosie Casals, Jill Cooper
+Virginia Wade, Christine Truman
+Billie Jean King, Helen Gourlay
+Margaret Court, Rosie Casals
+Billie Jean King, Virginia Wade
+Margaret Court, Billie Jean King
+Francoise Durr, Fiorella Bonicelli
+Isabel Fernandez De Soto, Elizabeth Ernest
+Christina Sandberg, Michelle Rodriguez
+Eliza Pande, Miroslava Holubova
+Ana Maria Arias, Jane Ohara
+Betty Stove, Ann Phillips Moore
+Carol Ann Kalogeropoulos, Carmen Coronado
+Janet Newberry, Alex Cowie
+Marilyn Greenwood, Laura Rossouw
+Ingrid Bentzer, Marie Pinterova
+Judy Tegart, Birgitta Lindstrom
+Francoise Durr, Maria Eugenia Guzman
+Christina Sandberg, Isabel Fernandez De Soto
+Eliza Pande, Sally Holdsworth
+Gail Sherriff, Ana Maria Arias
+Betty Stove, Brenda Kirk
+Janet Newberry, Carol Ann Kalogeropoulos
+Kristien Shaw, Marilyn Greenwood
+Judy Tegart, Ingrid Bentzer
+Francoise Durr, Christina Sandberg
+Eliza Pande, Gail Sherriff
+Betty Stove, Janet Newberry
+Judy Tegart, Kristien Shaw
+Francoise Durr, Eliza Pande
+Judy Tegart, Betty Stove
+Bunny Smith, Hilda Priester
+Kathy Kraft, Betty White
+Tish Adams, Mary Mclean
+Judy Alvarez, Paulette Keene
+Roberta Alison, Ellen Hayes
+Jeanne Evert, Joan Kennedy
+Anne Mette Sorensen, Jeanne Blackmon
+Chris Evert, Bunny Smith
+Kathy Kraft, Tish Adams
+Judy Alvarez, Roberta Alison
+Jeanne Evert, Anne Mette Sorensen
+Chris Evert, Kathy Kraft
+Jeanne Evert, Judy Alvarez
+Chris Evert, Jeanne Evert
+Kathy Kraft, Pat Garcia
+Tish Adams, Jan Hasse
+Janice Metcalf, Roberta Alison
+Daryl Gralka, Bunny Smith
+Wendy Overton, Doreen Irish
+Tina Mochizuki, Mary Mclean
+Jeanne Evert, Kathy Blake
+Nancy Ornstein, Patricia Bostrom
+Chris Evert, Sherry Bedingfield
+Kathy Kraft, Tish Adams
+Janice Metcalf, Daryl Gralka
+Marjorie Gengler, Tina Mochizuki
+Jeanne Evert, Margaret Cooper
+Nancy Ornstein, Joan Lightfoot
+Laura Dupont, Susan Starrett
+Chris Evert, Kathy Kraft
+Wendy Overton, Marjorie Gengler
+Jeanne Evert, Janice Metcalf
+Laura Dupont, Nancy Ornstein
+Chris Evert, Wendy Overton
+Jeanne Evert, Laura Dupont
+Chris Evert, Jeanne Evert
+Evonne Goolagong, Paula Mullen
+Geraldine Barniville, Cecilie Fleming
+Betty Stove, Helen Lennon
+Susan Minford, Frances Candy
+Veronica Burton, Niamh Glenn
+Lesley Turner, Ann Keegan
+Tam Oshaughnessy, Nuala Mcmordie
+Margaret Court, Jennifer Cronin
+Evonne Goolagong, Geraldine Barniville
+Betty Stove, Susan Minford
+Lesley Turner, Veronica Burton
+Margaret Court, Tam Oshaughnessy
+Evonne Goolagong, Betty Stove
+Margaret Court, Lesley Turner
+Margaret Court, Evonne Goolagong
+Lita Liem, Daphne Pattison
+Kerry Harris, Jenny Helliar
+Lany Kaligis, Patti Hogan
+Elizabeth Ernest, M Richens
+Winnie Shaw, Hilary Hodge
+Barbara Hawcroft, Carolyn Camp
+Sally Holdsworth, Penny Moor
+Helen Gourlay, B Jones
+Patricia Reese, Joanne Haye
+Kristien Shaw, F Henniker
+Virginia Wade, Lita Liem
+Kerry Harris, Fay Toyne
+Elizabeth Ernest, Lany Kaligis
+Winnie Shaw, Barbara Hawcroft
+Helen Gourlay, Sally Holdsworth
+Gail Sherriff, Tory Ann Fretz
+Joyce Williams, Patricia Reese
+Judy Tegart, Kristien Shaw
+Virginia Wade, Kerry Harris
+Winnie Shaw, Elizabeth Ernest
+Helen Gourlay, Gail Sherriff
+Judy Tegart, Joyce Williams
+Virginia Wade, Winnie Shaw
+Judy Tegart, Helen Gourlay
+Virginia Wade, Judy Tegart
+Helga Masthoff, Ulla Sandulf
+Ana Maria Arias, Michelle Rodriguez
+Christina Sandberg, Raquel Giscafre
+Ann Charlotte Dahlberg, Maria Teresa Nasuelli
+Ingrid Bentzer, Nell Truman
+Heide Orth, Maria Strandberg
+Odile De Roubin, Eva Lundquist
+Linda Tuero, Katarina Frendelius
+Helga Masthoff, Ana Maria Arias
+Christina Sandberg, Ann Charlotte Dahlberg
+Ingrid Bentzer, Heide Orth
+Linda Tuero, Odile De Roubin
+Helga Masthoff, Christina Sandberg
+Ingrid Bentzer, Linda Tuero
+Helga Masthoff, Ingrid Bentzer
+Lesley Hunt, Isabel Fernandez De Soto
+Fiorella Bonicelli, Brenda Kirk
+Alena Palmeova West, Kristy Pigeon
+Laura Rossouw, I Sadion
+Marijke Jansen, Marilyn Pryde
+Silvia Gubler, Linda Tuero
+Lea Pericoli, Ann Phillips Moore
+Francoise Durr, Maria Teresa Nasuelli
+Lesley Hunt, Fiorella Bonicelli
+Alena Palmeova West, Laura Rossouw
+Marijke Jansen, Silvia Gubler
+Francoise Durr, Lea Pericoli
+Lesley Hunt, Alena Palmeova West
+Francoise Durr, Marijke Jansen
+Francoise Durr, Lesley Hunt
+Tory Ann Fretz, Fay Toyne
+Judy Tegart, Rita Bentley
+Shirley Bloomer, Lesley Boardman
+Rosie Casals, Daphne Pattison
+Kristien Shaw, Susan Waterworth
+Kristy Pigeon, Christine Hill
+Virginia Wade, Patricia Cody
+Patricia Reese, Esme Laing
+Billie Jean King, Jenny Helliar
+Betty Stove, Barbara Hawcroft
+Evonne Goolagong, Sally Holdsworth
+Patti Hogan, Tory Ann Fretz
+Judy Tegart, Shirley Bloomer
+Rosie Casals, Kristien Shaw
+Virginia Wade, Kristy Pigeon
+Billie Jean King, Patricia Reese
+Julie Heldman, Betty Stove
+Margaret Court, Marilyn Greenwood
+Patti Hogan, Evonne Goolagong
+Rosie Casals, Judy Tegart
+Billie Jean King, Virginia Wade
+Margaret Court, Julie Heldman
+Rosie Casals, Patti Hogan
+Billie Jean King, Margaret Court
+Billie Jean King, Rosie Casals
+Billie Jean King, Isabel Fernandez De Soto
+Heide Orth, Katja Ebbinghaus
+Helga Schultze, Katalin Borka
+Tory Ann Fretz, Fiorella Bonicelli
+Ana Maria Arias, Kazuko Sawamatsu
+Laura Rossouw, Helga Masthoff
+Brenda Kirk, Helen Amos
+Rosie Casals, Eva Szabo
+Billie Jean King, Heide Orth
+Helga Schultze, Tory Ann Fretz
+Laura Rossouw, Ana Maria Arias
+Rosie Casals, Brenda Kirk
+Billie Jean King, Helga Schultze
+Laura Rossouw, Rosie Casals
+Rosie Casals, Helga Schultze
+Billie Jean King, Laura Rossouw
+Lea Pericoli, Lany Kaligis
+Gail Sherriff, Kerry Harris
+Edda Buding, Nell Truman
+Rosie Casals, Marilyn Greenwood
+Tory Ann Fretz, Daniela Marzano
+Judy Tegart, Michelle Rodriguez
+Ingrid Bentzer, Patricia Reese
+Heide Orth, Lesley Hunt
+Julie Heldman, Fay Toyne
+Fiorella Bonicelli, Valerie Ziegenfuss
+Helga Masthoff, Monica Giorgi
+Kristy Pigeon, Kristien Shaw
+Lucia Bassi, Peaches Bartkowicz
+Lita Liem, Maria Teresa Nasuelli
+Francoise Durr, Lea Pericoli
+Gail Sherriff, Edda Buding
+Rosie Casals, Tory Ann Fretz
+Judy Tegart, Ingrid Bentzer
+Julie Heldman, Heide Orth
+Helga Masthoff, Fiorella Bonicelli
+Lucia Bassi, Kristy Pigeon
+Billie Jean King, Lita Liem
+Gail Sherriff, Francoise Durr
+Rosie Casals, Judy Tegart
+Helga Masthoff, Julie Heldman
+Billie Jean King, Lucia Bassi
+Rosie Casals, Gail Sherriff
+Helga Masthoff, Billie Jean King
+Helga Masthoff, Rosie Casals
+Billie Jean King, Nell Truman
+Mary Ann Eisel, Wendy Overton
+Nancy Richey, Valerie Ziegenfuss
+Julie Heldman, Christina Sandberg
+Judy Tegart, Peaches Bartkowicz
+Francoise Durr, Jill Cooper
+Kerry Reid, Lesley Hunt
+Rosie Casals, Kristy Pigeon
+Billie Jean King, Mary Ann Eisel
+Nancy Richey, Julie Heldman
+Judy Tegart, Francoise Durr
+Kerry Reid, Rosie Casals
+Billie Jean King, Nancy Richey
+Kerry Reid, Judy Tegart
+Nancy Richey, Judy Tegart
+Billie Jean King, Kerry Reid
+Virginia Wade, Wendy Appleby
+Tina Mochizuki, Doreen Irish
+Laura Dupont, Pam Farmer
+Nathalie Fuchs, Gail Hansen
+Gail Sherriff, Elena Subirats
+Pamela Austin, Barbara Mueller
+Margaret Cooper, Maria Teresa Nasuelli
+Sue Stap, Nancy Ornstein
+Susan Starrett, Tam Oshaughnessy
+Linda Tuero, Janice Metcalf
+Marjorie Gengler, Kathy Kraft
+Winnie Shaw, Patricia Bostrom
+Marion Proisy, Susanne Gray
+Kerry Harris, Pat Garcia
+Farel Footman, Jan Hasse
+Helen Gourlay, Sandy Stap
+Virginia Wade, Tina Mochizuki
+Nathalie Fuchs, Laura Dupont
+Gail Sherriff, Pamela Austin
+Sue Stap, Margaret Cooper
+Linda Tuero, Susan Starrett
+Winnie Shaw, Marjorie Gengler
+Kerry Harris, Marion Proisy
+Helen Gourlay, Farel Footman
+Virginia Wade, Nathalie Fuchs
+Gail Sherriff, Sue Stap
+Linda Tuero, Winnie Shaw
+Helen Gourlay, Kerry Harris
+Virginia Wade, Gail Sherriff
+Linda Tuero, Helen Gourlay
+Virginia Wade, Linda Tuero
+Evonne Goolagong, Elena Subirats
+Joyce Williams, Frances Maclennan
+Virginia Wade, Andree Martin
+Lesley Turner, Peggy Michel
+Peaches Bartkowicz, Jane Ohara
+Francoise Durr, Janice Kindle
+Valerie Ziegenfuss, Vicky Berner
+Rosie Casals, Christina Sandberg
+Evonne Goolagong, Joyce Williams
+Virginia Wade, Lesley Turner
+Francoise Durr, Peaches Bartkowicz
+Rosie Casals, Valerie Ziegenfuss
+Evonne Goolagong, Virginia Wade
+Francoise Durr, Rosie Casals
+Francoise Durr, Evonne Goolagong
+Billie Jean King, Tina Mochizuki
+Nathalie Fuchs, Tam Oshaughnessy
+Julie Heldman, Doreen Irish
+Nell Truman, Kristien Shaw
+Helen Gourlay, Marilyn Greenwood
+Pam Teeguarden, Corinne Molesworth
+Laura Dupont, Judy Tegart
+Kerry Harris, Nancy Ornstein
+Christine Truman, Margaret Cooper
+Kerry Reid, Farel Footman
+Jill Cooper, Lesley Hunt
+Gail Sherriff, Gail Hansen
+Wendy Overton, Maria Teresa Nasuelli
+Winnie Shaw, Marjorie Gengler
+Becky Vest, Edda Buding
+Linda Tuero, Janice Metcalf
+Billie Jean King, Nathalie Fuchs
+Julie Heldman, Nell Truman
+Helen Gourlay, Pam Teeguarden
+Kerry Harris, Laura Dupont
+Kerry Reid, Christine Truman
+Gail Sherriff, Jill Cooper
+Winnie Shaw, Wendy Overton
+Linda Tuero, Becky Vest
+Billie Jean King, Julie Heldman
+Helen Gourlay, Kerry Harris
+Gail Sherriff, Kerry Reid
+Linda Tuero, Winnie Shaw
+Billie Jean King, Helen Gourlay
+Linda Tuero, Gail Sherriff
+Billie Jean King, Linda Tuero
+Billie Jean King, Kerry Harris
+Lesley Hunt, Pam Teeguarden
+Nancy Richey, Jill Cooper
+Betty Ann Grubb, Kerry Reid
+Judy Tegart, Margaret Cooper
+Francoise Durr, Kristien Shaw
+Linda Tuero, Wendy Overton
+Rosie Casals, Becky Vest
+Billie Jean King, Lesley Hunt
+Nancy Richey, Betty Ann Grubb
+Francoise Durr, Judy Tegart
+Rosie Casals, Linda Tuero
+Billie Jean King, Nancy Richey
+Francoise Durr, Rosie Casals
+Nancy Richey, Rosie Casals
+Francoise Durr, Billie Jean King
+Billie Jean King, Cecilia Martinez
+Jill Cooper, Marilyn Greenwood
+Valerie Ziegenfuss, Farel Footman
+Christina Sandberg, Patricia Reese
+Kerry Reid, Edda Buding
+Betty Ann Grubb, Kerry Harris
+Kristien Shaw, Wendy Appleby
+Judy Tegart, Mona Guerrant
+Lesley Hunt, Wendy Overton
+Laura Dupont, Valerie Scott
+Corinne Molesworth, Linda Tuero
+Francoise Durr, Bonnie Logan
+Mary Ann Eisel, Patricia Cody
+Kristy Pigeon, Becky Vest
+Pam Teeguarden, Nancy Ornstein
+Rosie Casals, Margaret Cooper
+Billie Jean King, Jill Cooper
+Christina Sandberg, Valerie Ziegenfuss
+Kerry Reid, Betty Ann Grubb
+Judy Tegart, Kristien Shaw
+Lesley Hunt, Laura Dupont
+Francoise Durr, Corinne Molesworth
+Mary Ann Eisel, Kristy Pigeon
+Rosie Casals, Pam Teeguarden
+Billie Jean King, Christina Sandberg
+Kerry Reid, Judy Tegart
+Francoise Durr, Lesley Hunt
+Rosie Casals, Mary Ann Eisel
+Kerry Reid, Billie Jean King
+Francoise Durr, Rosie Casals
+Billie Jean King, Rosie Casals
+Kerry Reid, Francoise Durr
+Lesley Turner, Ann Kiyomura Hayashi
+Marcie Louie, Patricia Bostrom
+Nathalie Fuchs, Tam Oshaughnessy
+Janet Newberry, Lany Kaligis
+Helen Gourlay, Jan Hasse
+Barbara Downs, Kathy Welsh
+Laura Dupont, Gail Hansen
+Marita Redondo, Kathy Kraft
+Laurie Tenney, Elena Subirats
+Eliza Pande, Doreen Irish
+Marjorie Gengler, Junko Sawamatsu
+Betty Stove, Jenny Kincaid
+Lita Liem, Susan Starrett
+Jane Stratton, Janice Metcalf
+Pamela Austin, Sue Stap
+Gail Sherriff, Pam Farmer
+Lesley Turner, Marcie Louie
+Janet Newberry, Nathalie Fuchs
+Helen Gourlay, Barbara Downs
+Marita Redondo, Laura Dupont
+Eliza Pande, Laurie Tenney
+Betty Stove, Marjorie Gengler
+Lita Liem, Jane Stratton
+Gail Sherriff, Pamela Austin
+Lesley Turner, Janet Newberry
+Helen Gourlay, Marita Redondo
+Eliza Pande, Betty Stove
+Gail Sherriff, Lita Liem
+Lesley Turner, Helen Gourlay
+Eliza Pande, Gail Sherriff
+Eliza Pande, Lesley Turner
+Virginia Wade, Gail Hansen
+Winnie Shaw, Nathalie Fuchs
+Chris Evert, Betty Stove
+Lany Kaligis, Tam Oshaughnessy
+Lita Liem, Junko Sawamatsu
+Lesley Turner, Nell Truman
+Joyce Williams, Jane Ohara
+Helen Gourlay, Patti Hogan
+Winnie Shaw, Virginia Wade
+Chris Evert, Lany Kaligis
+Lita Liem, Lesley Turner
+Helen Gourlay, Joyce Williams
+Chris Evert, Winnie Shaw
+Helen Gourlay, Lita Liem
+Chris Evert, Helen Gourlay
+Kerry Reid, Jane Ohara
+Wendy Appleby, Alena Palmeova West
+Pam Teeguarden, Cathie Gagel
+Vicky Smouse, Cecilia Martinez
+Helen Gourlay, Kathy May
+Kathleen Harter, Maribeth Bunch
+Kristien Shaw, Sally Moore
+Joy Schwikert, Ana Maria Arias
+Janet Newberry, Patricia Bostrom
+Lita Liem, Maricaye Christenson
+Pamela Austin, Edda Buding
+Judy Tegart, Marita Redondo
+Patricia Cody, Gail Hansen
+Wendy Gilchrist, Mona Guerrant
+Laurie Tenney, Joy Harris
+Francoise Durr, Barbara Downs
+Billie Jean King, Nancy Ornstein
+Betty Ann Grubb, Sally Holdsworth
+Betty Stove, Becky Vest
+Wendy Overton, Lany Kaligis
+Kerry Reid, Wendy Appleby
+Pam Teeguarden, Vicky Smouse
+Helen Gourlay, Kathleen Harter
+Kristien Shaw, Joy Schwikert
+Janet Newberry, Lita Liem
+Judy Tegart, Pamela Austin
+Wendy Gilchrist, Patricia Cody
+Francoise Durr, Laurie Tenney
+Lesley Hunt, Sally Ride
+Valerie Ziegenfuss, Vicky Berner
+Kerry Harris, Marilyn Greenwood
+Rosie Casals, Ching Ling Chang
+Billie Jean King, Betty Ann Grubb
+Wendy Overton, Betty Stove
+Kerry Reid, Pam Teeguarden
+Helen Gourlay, Kristien Shaw
+Judy Tegart, Janet Newberry
+Francoise Durr, Wendy Gilchrist
+Lesley Hunt, Valerie Ziegenfuss
+Rosie Casals, Kerry Harris
+Billie Jean King, Wendy Overton
+Kerry Reid, Helen Gourlay
+Francoise Durr, Judy Tegart
+Rosie Casals, Lesley Hunt
+Billie Jean King, Kerry Reid
+Rosie Casals, Francoise Durr
+Rosie Casals, Billie Jean King
+Billie Jean King, Sally Holdsworth
+Wendy Overton, Lany Kaligis
+Lita Liem, Trish Mcclenaughan
+Betty Stove, Raquel Giscafre
+Kerry Reid, Cecilia Martinez
+Wendy Gilchrist, Marilyn Greenwood
+Alena Palmeova West, Jane Ohara
+Becky Vest, Judy Tegart
+Helen Gourlay, Edda Buding
+Kerry Harris, Teri Tafel
+Pam Teeguarden, Vicky Berner
+Rosie Casals, Patricia Reese
+Mona Guerrant, Lesley Hunt
+Margaret Cooper, Kristien Shaw
+Betty Ann Grubb, Nancy Ornstein
+Francoise Durr, Farel Footman
+Billie Jean King, Wendy Overton
+Lita Liem, Betty Stove
+Kerry Reid, Wendy Gilchrist
+Alena Palmeova West, Becky Vest
+Helen Gourlay, Kerry Harris
+Rosie Casals, Pam Teeguarden
+Margaret Cooper, Mona Guerrant
+Francoise Durr, Betty Ann Grubb
+Billie Jean King, Lita Liem
+Kerry Reid, Alena Palmeova West
+Rosie Casals, Helen Gourlay
+Francoise Durr, Margaret Cooper
+Billie Jean King, Kerry Reid
+Rosie Casals, Francoise Durr
+Billie Jean King, Rosie Casals
+Billie Jean King, Betty Ann Grubb
+Lita Liem, Mona Guerrant
+Wendy Overton, Caroline Lane
+Helen Gourlay, Becky Vest
+Judy Tegart, Stephanie Tolleson
+Betty Stove, Tam Oshaughnessy
+Valerie Ziegenfuss, Wendy Appleby
+Kerry Reid, Patricia Cody
+Francoise Durr, Sally Holdsworth
+Wendy Gilchrist, Jane Ohara
+Pam Teeguarden, Alena Palmeova West
+Nancy Richey, Marilyn Greenwood
+Mary Ann Eisel, Vicky Berner
+Lesley Hunt, Lany Kaligis
+Kerry Harris, Connie Pearson
+Rosie Casals, Nancy Ornstein
+Billie Jean King, Lita Liem
+Wendy Overton, Helen Gourlay
+Judy Tegart, Betty Stove
+Kerry Reid, Valerie Ziegenfuss
+Francoise Durr, Wendy Gilchrist
+Nancy Richey, Pam Teeguarden
+Lesley Hunt, Mary Ann Eisel
+Rosie Casals, Kerry Harris
+Billie Jean King, Wendy Overton
+Kerry Reid, Judy Tegart
+Nancy Richey, Francoise Durr
+Rosie Casals, Lesley Hunt
+Billie Jean King, Kerry Reid
+Rosie Casals, Nancy Richey
+Kerry Reid, Nancy Richey
+Billie Jean King, Rosie Casals
+Evonne Goolagong, Veronica Burton
+Winnie Shaw, Lindsey Beaven
+Francoise Durr, Corinne Molesworth
+Betty Stove, Jackie Fayter
+Virginia Wade, Nell Truman
+Rosie Casals, Julie Heldman
+Patti Hogan, Wendy Gilchrist
+Billie Jean King, Shirley Bloomer
+Evonne Goolagong, Winnie Shaw
+Francoise Durr, Betty Stove
+Rosie Casals, Virginia Wade
+Billie Jean King, Patti Hogan
+Francoise Durr, Evonne Goolagong
+Billie Jean King, Rosie Casals
+Rosie Casals, Evonne Goolagong
+Billie Jean King, Francoise Durr
+Jackie Fayter, Betty Stove
+Patti Hogan, Helen Kelly
+Virginia Wade, Susan Minford
+Julie Heldman, Nell Truman
+Evonne Goolagong, Corinne Molesworth
+Jackie Fayter, Patti Hogan
+Virginia Wade, Julie Heldman
+Francoise Durr, Winnie Shaw
+Evonne Goolagong, Jackie Fayter
+Francoise Durr, Virginia Wade
+Evonne Goolagong, Francoise Durr
+Evonne Goolagong, Susan Minford
+Betty Stove, Lesley Charles
+Julie Heldman, Nell Truman
+Cathy Lorrains, Penny Moor
+Winnie Shaw, Jackie Fayter
+Virginia Wade, Corinne Molesworth
+Patti Hogan, Wendy Slaughter
+Francoise Durr, Glynis Coles
+Evonne Goolagong, Betty Stove
+Julie Heldman, Cathy Lorrains
+Virginia Wade, Winnie Shaw
+Francoise Durr, Patti Hogan
+Julie Heldman, Evonne Goolagong
+Virginia Wade, Francoise Durr
+Virginia Wade, Julie Heldman
+Evonne Goolagong, Corinne Molesworth
+Wendy Gilchrist, Jackie Fayter
+Winnie Shaw, Penny Moor
+Julie Heldman, Glynis Coles
+Francoise Durr, Lesley Charles
+Patti Hogan, Susan Minford
+Betty Stove, Nell Truman
+Virginia Wade, Hilary Hodge
+Evonne Goolagong, Wendy Gilchrist
+Julie Heldman, Winnie Shaw
+Francoise Durr, Patti Hogan
+Virginia Wade, Betty Stove
+Evonne Goolagong, Julie Heldman
+Virginia Wade, Francoise Durr
+Virginia Wade, Evonne Goolagong
+Evonne Goolagong, M Dixon
+Sue Barker, Sue Garrett
+Susan Minford, Wendy Hall
+Jackie Fayter, Jane Mott
+Winnie Shaw, Penelope Hardgrave
+Corinne Molesworth, Nicola Salter
+Wendy Gilchrist, Hilary Hodge
+Julie Heldman, Jane Plackett
+Francoise Durr, Jenny Helliar
+Pam Teeguarden, Belinda Allen
+Penny Moor, Nuala Dwyer
+Patti Hogan, Pam Jones
+Betty Stove, A Mcpherson
+Nell Truman, Pepy Munslow
+Annette Coe, Nora Davies
+Virginia Wade, Janet Wheeler
+Evonne Goolagong, Sue Barker
+Jackie Fayter, Susan Minford
+Julie Heldman, Wendy Gilchrist
+Winnie Shaw, Corinne Molesworth
+Penny Moor, Patti Hogan
+Francoise Durr, Pam Teeguarden
+Betty Stove, Nell Truman
+Virginia Wade, Annette Coe
+Evonne Goolagong, Jackie Fayter
+Julie Heldman, Winnie Shaw
+Francoise Durr, Penny Moor
+Virginia Wade, Betty Stove
+Evonne Goolagong, Julie Heldman
+Francoise Durr, Virginia Wade
+Evonne Goolagong, Francoise Durr
+Evonne Goolagong, Patti Hogan
+Julie Heldman, Winnie Shaw
+Francoise Durr, Jackie Fayter
+Virginia Wade, Betty Stove
+Julie Heldman, Evonne Goolagong
+Virginia Wade, Francoise Durr
+Virginia Wade, Julie Heldman
+Billie Jean King, Cherry Armitage
+Kristien Shaw, Margie Rennie
+Judy Tegart, Mary Struthers
+Kerry Reid, Judy Langford
+Francoise Durr, Cecilie Fleming
+Lesley Hunt, Robyn Legge
+Valerie Ziegenfuss, Marilyn Pryde
+Rosie Casals, Susan Armstrong
+Billie Jean King, Kristien Shaw
+Kerry Reid, Judy Tegart
+Francoise Durr, Lesley Hunt
+Rosie Casals, Valerie Ziegenfuss
+Billie Jean King, Kerry Reid
+Francoise Durr, Rosie Casals
+Francoise Durr, Billie Jean King
+Billie Jean King, Patricia Hern
+Kristien Shaw, Marilyn Pryde
+Kerry Reid, Judy Chaloner
+Judy Tegart, Mary Struthers
+Rosie Casals, Beverley Vercoe
+Lesley Hunt, Cecilie Fleming
+Valerie Ziegenfuss, Robyn Legge
+Francoise Durr, Ching Ling Chang
+Billie Jean King, Kristien Shaw
+Kerry Reid, Judy Tegart
+Rosie Casals, Lesley Hunt
+Valerie Ziegenfuss, Francoise Durr
+Kerry Reid, Billie Jean King
+Rosie Casals, Valerie Ziegenfuss
+Kerry Reid, Rosie Casals
+Elaine Stephan, Shelley Monds
+Ann Stevens, Jill Fraser
+Elaine Stephan, Ann Stevens
+Tory Ann Fretz, Ilana Kloss
+Jenny Helliar, Daphne Pattison
+Lindsey Beaven, Lyn Montgomery
+Helen Amos, Vicky Oosthuizen
+Cecilia Martinez, Annette Steenkamp
+Tory Ann Fretz, Jenny Helliar
+Greta Delport, Lindsey Beaven
+Helen Amos, Alison Mcmillan
+Cecilia Martinez, Shari Barman
+Tory Ann Fretz, Greta Delport
+Cecilia Martinez, Helen Amos
+Tory Ann Fretz, Cecilia Martinez
+Gail Sherriff, Anne Coleman
+Kristien Shaw, Kyoko Hatanaka
+Kazuko Sawamatsu, Lita Liem
+Betty Stove, Kayoko Fukuoka
+Winnie Shaw, Patricia Coleman
+Kerry Harris, Patricia Reese
+Trudy Groenman, Brenda Kirk
+Barbara Hawcroft, Ines Roget
+Gail Sherriff, Kristien Shaw
+Kazuko Sawamatsu, Patti Hogan
+Helen Gourlay, Lany Kaligis
+Betty Stove, Laura Rossouw
+Kerry Harris, Winnie Shaw
+Trudy Groenman, Wendy Turnbull
+Lesley Hunt, Marilyn Pryde
+Barbara Hawcroft, Olga Morozova
+Gail Sherriff, Kazuko Sawamatsu
+Betty Stove, Helen Gourlay
+Kerry Harris, Trudy Groenman
+Lesley Hunt, Barbara Hawcroft
+Gail Sherriff, Betty Stove
+Kerry Harris, Lesley Hunt
+Gail Sherriff, Kerry Harris
+Kathleen Harter, Sue Blakely
+Beverley Vercoe, Barbara Wright
+Kathleen Harter, Beverley Vercoe
+Lindsey Beaven, Cecilia Martinez
+Tory Ann Fretz, L Sive
+Elizabeth Vlotman, Jenny Helliar
+Virginia Wade, R Nieforova
+Helen Amos, Rowena Sanders
+Lindsey Beaven, S Evans
+Virginia Wade, J Coulter
+Helen Amos, Daphne Pattison
+Lindsey Beaven, Lyn Montgomery
+Virginia Wade, Christine Marais
+Helen Amos, Greta Delport
+Elizabeth Vlotman, Gillian Van Der Merwe
+Lindsey Beaven, Alison Mcmillan
+Virginia Wade, Helen Amos
+Elizabeth Vlotman, Lindsey Beaven
+Virginia Wade, Elizabeth Vlotman
+Elena Subirats, Patricia Reyes
+Cecilia Rosado, Olga Montano
+Gina Diaz Ponce, Alina Balbiers
+Yola Ramirez, Susana Zenea
+Elena Subirats, Cecilia Rosado
+Yola Ramirez, Gina Diaz Ponce
+Yola Ramirez, Elena Subirats
+Kathleen Harter, Ann Stevens
+Cecilie Fleming, Elizabeth Terry
+Shelley Monds, Beverley Vercoe
+Jill Fraser, Elaine Stephan
+Kathleen Harter, Cecilie Fleming
+Shelley Monds, Jill Fraser
+Kathleen Harter, Shelley Monds
+Eva Llarena, Maria Menenzes
+Liz Snyder, Mary Turke
+Beatrice Chrystman, Rayni Fox
+Margaret Cooper, Lele Forood
+Toni Novack, Karen Seiferd
+Chris Evert, Eva Llarena
+Donna Ganz, Bunny Smith
+Becky Vest, Liz Snyder
+Sue Epstein, Beatrice Chrystman
+Mary Wisnieski, Lily Richard
+Margaret Cooper, Arlene Karasick
+Toni Novack, Christiane Spinoza
+Laurie Fleming, Andrea Menezes
+Chris Evert, Donna Ganz
+Becky Vest, Sue Epstein
+Margaret Cooper, Mary Wisnieski
+Laurie Fleming, Toni Novack
+Chris Evert, Becky Vest
+Laurie Fleming, Margaret Cooper
+Chris Evert, Laurie Fleming
+Beverley Vercoe, Patsy Stevens
+Shelley Monds, Elaine Stephan
+Cecilie Fleming, Beverly Ward
+Jill Fraser, J Chatfield
+Beverley Vercoe, Shelley Monds
+Jill Fraser, Cecilie Fleming
+Beverley Vercoe, Jill Fraser
+Evonne Goolagong, Ann Stevens
+Junko Sawamatsu, Cecilie Fleming
+Laura Rossouw, Beverley Vercoe
+Kathleen Harter, Ines Roget
+Anne Hodgson, Kayoko Fukuoka
+Trudy Groenman, Sharon Walsh Pete
+Gail Sherriff, Jeanette Amer
+Kazuko Sawamatsu, Marilyn Pryde
+Patricia Reese, Patti Hogan
+Brenda Kirk, Shelley Monds
+Lita Liem, Sue Blakely
+Evonne Goolagong, Junko Sawamatsu
+Laura Rossouw, Kimiyo Hatanaka
+Kathleen Harter, Lany Kaligis
+Trudy Groenman, Anne Hodgson
+Gail Sherriff, Kazuko Sawamatsu
+Patricia Reese, Jill Fraser
+Betty Stove, Brenda Kirk
+Winnie Shaw, Lita Liem
+Evonne Goolagong, Laura Rossouw
+Kathleen Harter, Trudy Groenman
+Gail Sherriff, Patricia Reese
+Betty Stove, Winnie Shaw
+Evonne Goolagong, Kathleen Harter
+Betty Stove, Gail Sherriff
+Evonne Goolagong, Betty Stove
+Nell Truman, Baerbel Wuestl
+Eva Lundquist, Heidi Reetmeyer
+Monique Van Haver, Ellen Grindvold
+Judith Salome, Dagmar Stoltenberg
+Heide Orth, Helen Amos
+Edith Winkens,  Bortscheller
+Birgitta Lindstrom, Corinne Molesworth
+Ingrid Bentzer, Laila Pirila
+Nell Truman, Eva Lundquist
+Monique Van Haver, Judith Salome
+Heide Orth, Edith Winkens
+Ingrid Bentzer, Birgitta Lindstrom
+Nell Truman, Monique Van Haver
+Heide Orth, Ingrid Bentzer
+Nell Truman, Heide Orth
+Christiane Spinoza, Mary Wisnieski
+Etta Harvey, Elizabeth Rankin
+Vicki Beggs, Helen Lusk
+Bunny Smith, Betty Rogers
+Christiane Spinoza, Etta Harvey
+Nancy Mendel, Mary Turke
+Betty Adler, Marge Kilgus
+Bunny Smith, Vicki Beggs
+Christiane Spinoza, Nancy Mendel
+Bunny Smith, Betty Adler
+Christiane Spinoza, Bunny Smith
+Elena Granaturovna, L Novoshinskaya
+Aleksandra Ivanova, Rauza Islanova
+Eugenia Birioukova, Anna Yeremeyeva
+Yevgenia Izopaitis, Yekaterina Kryuchkova
+Elena Granaturovna, Aleksandra Ivanova
+Yevgenia Izopaitis, Eugenia Birioukova
+Elena Granaturovna, Yevgenia Izopaitis
+Margaret Cooper, Mary Wisnieski
+Astrid Suurbeek, Bunny Smith
+Margaret Cooper, Astrid Suurbeek
+Evonne Goolagong, Patti Hogan
+Daniele Bouteleux, Florence Guedy
+Marilyn Greenwood, Janine Lieffrig
+Sylvie Rual, Christiane Sarrazin
+Odile De Roubin, Erica Prelle
+Marilyn Greenwood, Daniele Bouteleux
+Odile De Roubin, Sylvie Rual
+Marilyn Greenwood, Odile De Roubin
+Marina Kroschina, Eva Szabo
+L Novoshinskaya, Jill Cooper
+Eugenia Birioukova, Miroslava Holubova
+Olga Morozova,  Gishiyan
+Yekaterina Kryuchkova, Nina Tukhareli
+Elena Granaturovna, Judith Dibar
+Marina Kroschina, Yevgenia Izopaitis
+Maria Kull, L Novoshinskaya
+Eugenia Birioukova, A Kree
+Rauza Islanova,  Miklashevskaya
+Olga Morozova, Yekaterina Kryuchkova
+Elena Granaturovna, Marina Kroschina
+Maria Kull, Eugenia Birioukova
+Anna Yeremeyeva, Rauza Islanova
+Olga Morozova, Elena Granaturovna
+Maria Kull, Anna Yeremeyeva
+Olga Morozova, Maria Kull
+Trudy Groenman, Betty Stove
+Chris Matison, Kerryl Chute
+Marie Pinterova, Drahomira Matejkova
+Miroslava Holubova, Miroslava Kozeluhova
+Marie Pinterova, Miroslava Holubova
+Odile De Roubin, Janine Lieffrig
+Maria Teresa Nasuelli, Penny Moor
+Trudy Groenman, Judith Dibar
+Pamela Austin, Barbara Walsh
+Erzsebet Polgar, Veronica Burton
+Daniela Marzano, Jacqueline Venturino
+Gabriele Lutteken, Heidi Reetmeyer
+Jill Cooper, Gabriele Lutteken
+Heide Orth,  Beust
+Judith Salome, Jackie Fayter
+Judith Szorenyi, Becky Vest
+Marilyn Greenwood, Maria Hollingsworth
+Trudy Groenman, Pamela Austin
+Eva Szabo, Shari Barman
+Christina Sandberg, Jenny Helliar
+Jacqueline Rees Lewis, Nora Blom
+Helga Masthoff, Sarah Huntington
+Judith Salome, Heide Orth
+Judith Szorenyi, Marilyn Greenwood
+Corinne Molesworth, Maria Teresa Nasuelli
+Trudy Groenman, Erzsebet Polgar
+Jill Cooper, Daniela Marzano
+Marijke Jansen, Sally Holdsworth
+Christina Sandberg, Eva Szabo
+Helga Masthoff, Jacqueline Rees Lewis
+Judith Szorenyi, Judith Salome
+Corinne Molesworth, Trudy Groenman
+Jill Cooper, Marijke Jansen
+Helga Masthoff, Christina Sandberg
+Corinne Molesworth, Judith Szorenyi
+Helga Masthoff, Jill Cooper
+Helga Masthoff, Corinne Molesworth
+Olga Morozova, Andree Martin
+Alena Palmeova West, Alice Tym
+Katalin Borka, Odile De Roubin
+Lea Pericoli, Clelia Gaeta
+Olga Morozova, Alena Palmeova West
+Lea Pericoli, Katalin Borka
+Olga Morozova, Lea Pericoli
+Susan Vinton, Bunny Smith
+Judy Alvarez, Mary Wisnieski
+Judy Alvarez, Susan Vinton
+Marianne Kindler, Helen Amos
+Edith Winkens, Becky Vest
+Judith Szorenyi, Ann Phillips Moore
+Veronica Burton, Wendy Appleby
+Penny Moor, Jacqueline Rees Lewis
+Heidi Reetmeyer, Marilyn Greenwood
+Maria Teresa Nasuelli,  Walsh
+Nora Blom, Anne Marie Studer
+Daniela Marzano, Sally Holdsworth
+Jackie Fayter, Susanne Korpas
+Gaby Tremus, Maria Hollingsworth
+Jacqueline Venturino, Gabriele Lutteken
+Pam Teeguarden, Judith Dibar
+Erzsebet Polgar, Marianne Kindler
+Jill Cooper, Edith Winkens
+Marijke Jansen, Jackie Fayter
+Trudy Groenman, Shari Barman
+Heide Orth, Jacqueline Bimes
+Monique Salfati, Veronica Burton
+Betty Stove, Penny Moor
+Maria Teresa Nasuelli, Heidi Reetmeyer
+Daniela Marzano, Corinne Molesworth
+Ingrid Bentzer, Jacqueline Venturino
+Helga Masthoff, D Hugard
+Pam Teeguarden, Erzsebet Polgar
+Jill Cooper, Marijke Jansen
+Trudy Groenman, Heide Orth
+Monique Salfati, Judith Szorenyi
+Betty Stove, Pamela Austin
+Maria Teresa Nasuelli, Christina Sandberg
+Judith Salome, Daniela Marzano
+Helga Masthoff, Ingrid Bentzer
+Jill Cooper, Pam Teeguarden
+Trudy Groenman, Monique Salfati
+Betty Stove, Maria Teresa Nasuelli
+Helga Masthoff, Judith Salome
+Jill Cooper, Trudy Groenman
+Betty Stove, Helga Masthoff
+Betty Stove, Jill Cooper
+Alena Palmeova West, Mrs Gad
+Elena Granaturovna, Alice Tym
+Katalin Borka, Andree Martin
+Alena Palmeova West, R Horsa
+Elena Granaturovna, Katalin Borka
+Alena Palmeova West, Elena Granaturovna
+Eva Szabo, Betty Stove
+Daniele Bouteleux, Judith Szorenyi
+Corinne Molesworth, Becky Vest
+Daniela Marzano, Odile De Roubin
+Janine Lieffrig, Katja Ebbinghaus
+Christina Sandberg, Lucia Bassi
+Trudy Groenman, Pam Teeguarden
+Marijke Jansen, Pamela Austin
+Eva Szabo, Daniele Bouteleux
+Daniela Marzano, Corinne Molesworth
+Christina Sandberg, Janine Lieffrig
+Trudy Groenman, Ingrid Bentzer
+Jill Cooper, Marie Pinterova
+Gail Sherriff, Miroslava Holubova
+Marijke Jansen, Lea Pericoli
+Eva Szabo, Daniela Marzano
+Trudy Groenman, Christina Sandberg
+Jill Cooper, Gail Sherriff
+Jill Cooper, Trudy Groenman
+Marijke Jansen, Eva Szabo
+Jill Cooper, Marijke Jansen
+Gail Sherriff, Becky Vest
+Lucia Bassi, Eva Szabo
+Christina Sandberg, Marijke Jansen
+Marie Pinterova, Judith Szorenyi
+Betty Stove, Pamela Austin
+Katalin Borka, Corinne Molesworth
+Odile De Roubin, Jill Cooper
+Lea Pericoli, Pam Teeguarden
+Gail Sherriff, Lucia Bassi
+Christina Sandberg, Marie Pinterova
+Betty Stove, Katalin Borka
+Odile De Roubin, Lea Pericoli
+Gail Sherriff, Christina Sandberg
+Betty Stove, Odile De Roubin
+Gail Sherriff, Betty Stove
+Gina Diaz Ponce, Beverly Buckley
+Elena Subirats, Lourdes Diaz Ponce
+Gina Diaz Ponce, Olga Montano
+Patricia Montano, Cecilia Rosado
+Lucia Gongora, Maria Teresa Salvidea Diaz
+Elena Subirats, Gina Diaz Ponce
+Lucia Gongora, Patricia Montano
+Elena Subirats, Lucia Gongora
+Alena Palmeova West, Barbara Wright
+Andree Martin, Valeria Balai
+Alena Palmeova West, Andree Martin
+Shirley Bloomer, Lindsey Beaven
+Helga Schultze, Marion Proisy
+Pamela Austin, Ana Maria Arias
+Marie Pinterova, Ann Phillips Moore
+Pam Teeguarden, Frances Maclennan
+Daniela Marzano, Sandra Dron
+Miroslava Holubova, Shari Barman
+Fiorella Bonicelli, Becky Vest
+Helga Schultze, Pamela Austin
+Pam Teeguarden, Marie Pinterova
+Miroslava Holubova, Daniela Marzano
+Gail Sherriff, Fiorella Bonicelli
+Helga Schultze, Pam Teeguarden
+Gail Sherriff, Miroslava Holubova
+Helga Schultze, Gail Sherriff
+Christine Truman, Wendy Appleby
+Cecilie Fleming, Mrs S Johnston
+Sally Holdsworth, Ziggy Cornish
+Jenny Helliar, L Brooks
+Lindsey Beaven, Mrs S Dalton
+Lesley Charles, Di Riste
+Johanne Venturino, Mrs G R Bone
+Nuala Dwyer, Jenny Stapleton
+Sandra Okin, Patricia Ahern
+Corinne Molesworth, Mrs M Rowley
+Glynis Coles, Barbara Walsh
+Penny Moor, Marilyn Bevan
+Rita Bentley, Valerie Leiper
+Shirley Bloomer, Wendy Slaughter
+Janice Townsend, Linda Mottram
+Veronica Burton, Joanne Haye
+Susan Minford, Denise Staniszewski
+Vicki Lancaster Kerr, Averil Morris
+Alex Cowie, F Donnelly
+Jill Cooper, Elizabeth Ernest
+Corinne Molesworth, Mrs C T Linnig
+Glynis Coles, Penny Moor
+Rita Bentley, Hilary Hodge
+Shirley Bloomer, Linda Geeves
+Janice Townsend, Clare Colman
+Susan Minford, Nicky Phelan
+Alex Cowie, Frances Candy
+Jill Cooper, Lesley Wellerman
+Vicki Lancaster Kerr, Jackie Fayter
+Sally Holdsworth, Mary Mcanally
+Christine Truman, Cecilie Fleming
+Jenny Hellier, Lindsey Beaven
+Nuala Dwyer,  Sokin
+Corinne Molesworth, Glynis Coles
+Rita Bentley, Cherry Panton
+Christine Truman, Sally Holdsworth
+Jenny Helliar, Nuala Dwyer
+Vicki Lancaster Kerr, Marilyn Greenwood
+Jill Cooper, Alex Cowie
+Janice Townsend, Susan Minford
+Shirley Bloomer, Veronica Burton
+Corinne Molesworth, Rita Bentley
+Christine Truman, Jenny Helliar
+Jill Cooper, Vicki Lancaster Kerr
+Shirley Bloomer, Janice Townsend
+Christine Truman, Corinne Molesworth
+Jill Cooper, Shirley Bloomer
+Christine Truman, Jill Cooper
+Maria Eugenia Guzman, A J Williams
+Mrs G E Marshall, Mrs A Howes
+Shirley Bloomer, Penny Moor
+Veronica Burton, Glynis Coles
+Sally Holdsworth, Sue Mappin
+Cecilie Fleming, Barbara Walsh
+Denise Staniszewski, A Watts
+Corinne Molesworth, Jackie Fayter
+Janice Townsend, Wendy Slaughter
+Lindsey Beaven, Vicki Lancaster Kerr
+Sandra Okin, Cynthia Doerner
+Shirley Bloomer, Veronica Burton
+Sally Holdsworth, Mrs G E Marshall
+Lesley Charles, Cecilie Fleming
+Denise Staniszewski, Corinne Molesworth
+Maria Eugenia Guzman, Janice Townsend
+Marilyn Greenwood, Sue Hole
+Lindsey Beaven, Johanne Venturino
+Barbara Hawcroft, Sandra Okin
+Shirley Bloomer, Sally Holdsworth
+Lesley Charles, Denise Staniszewski
+Maria Eugenia Guzman, Marilyn Greenwood
+Lindsey Beaven, Barbara Hawcroft
+Lesley Charles, Shirley Bloomer
+Lindsey Beaven, Maria Eugenia Guzman
+Lindsey Beaven, Lesley Charles
+Evonne Goolagong, Alison Fraser Black
+Lesley Charles, C Williams
+Veronica Burton, Lesley Wellerman
+Barbara Hawcroft, Sandra Okin
+Janice Townsend, J Matthews
+Alex Cowie, Maria Eugenia Guzman
+Jill Cooper, Celeste Behrmann
+Sarah Huntington, Patricia Ahern
+Marilyn Pryde, K A Richards
+Marilyn Bevan, K Dougan
+Nell Truman, L Jowett
+Cecilie Fleming, Jenny Helliar
+Vicki Lancaster Kerr, Barbara Cleary
+Gwen Armstrong, Nicky Phelan
+Shirley Bloomer, Barbara Wanke
+Jackie Fayter, Marilyn Greenwood
+Johanne Venturino, Ziggy Cornish
+Barbara Walsh, C Roberts
+Susan Minford, Denise Staniszewski
+Penny Moor, Mrs R Howes
+Sally Holdsworth, Lindsey Beaven
+Marilyn Tesch, J F H Hove
+Frances Maclennan, Mrs J A Johnston
+E Armstrong, Anne Coleman
+Joyce Williams, Glynis Coles
+Evonne Goolagong, Lesley Charles
+Veronica Burton, Sue Hole
+Barbara Hawcroft, Sannie Gouws
+Janice Townsend, Alex Cowie
+Jill Cooper, Sarah Huntington
+Marilyn Pryde, Marilyn Bevan
+Nell Truman, Cecilie Fleming
+Vicki Lancaster Kerr, Gwen Armstrong
+Shirley Bloomer, Jackie Fayter
+Johanne Venturino, Barbara Walsh
+Susan Minford, Cynthia Doerner
+Penny Moor, Linda Geeves
+Sally Holdsworth, Hilary Hodge
+Marilyn Tesch, Annika Nydeus
+Frances Maclennan, Elizabeth Clark
+Joyce Williams, E Armstrong
+Evonne Goolagong, Veronica Burton
+Barbara Hawcroft, Janice Townsend
+Jill Cooper, Marilyn Pryde
+Nell Truman, Vicki Lancaster Kerr
+Shirley Bloomer, Johanne Venturino
+Susan Minford, Penny Moor
+Sally Holdsworth, Marilyn Tesch
+Joyce Williams, Frances Maclennan
+Evonne Goolagong, Barbara Hawcroft
+Jill Cooper, Nell Truman
+Shirley Bloomer, Susan Minford
+Joyce Williams, Sally Holdsworth
+Evonne Goolagong, Jill Cooper
+Joyce Williams, Shirley Bloomer
+Evonne Goolagong, Joyce Williams
+Raquel Giscafre, Gladys Barboza
+Graciela Moran, Elvira Weisenberger
+Marta Fernandez Ruiz, Maria Cavadini
+Betty Stove, Patricia Bianchi
+Raquel Giscafre, Mabel Vrancovich
+Graciela Moran, Michelle Rodriguez
+Olga Morozova, Marta Fernandez Ruiz
+Betty Stove, Raquel Giscafre
+Beatriz Araujo, Ines Roget
+Maria Teresa Nasuelli, Graciela Moran
+Olga Morozova, Betty Stove
+Maria Teresa Nasuelli, Beatriz Araujo
+Olga Morozova, Maria Teresa Nasuelli
+Helga Schultze, Wendy Appleby
+Laura Rossouw, Odile De Roubin
+Daniele Bouteleux, Kerry Harris
+Pam Teeguarden, Lesley Hunt
+Ana Maria Arias, Nicole Bimes
+Brenda Kirk, Nathalie Fuchs
+Helga Schultze, Laura Rossouw
+Gail Sherriff, Daniele Bouteleux
+Pam Teeguarden, Ana Maria Arias
+Brenda Kirk, Rosie Reyes
+Helga Schultze, Gail Sherriff
+Brenda Kirk, Pam Teeguarden
+Helga Schultze, Brenda Kirk
+Cecilia Martinez, Stephanie Defina
+Tory Ann Fretz, Esme Emmanuel
+Valerie Ziegenfuss, Cecilia Martinez
+Mary Ann Eisel, Tory Ann Fretz
+Valerie Ziegenfuss, Mary Ann Eisel
+Evonne Goolagong, Kumarani Ranga Rao
+Anne Coleman, J Matthews
+Veronica Burton, K Dugan
+Cecilie Fleming, K A Richards
+Janice Townsend, Wendy Appleby
+Marilyn Tesch, Marilyn Bevan
+Daphne Pattison, Patricia Cody
+Lesley Wellerman, Mrs R Howes
+Annika Nydeus, Patricia Ahern
+Alex Cowie, Di Riste
+Barbara Hawcroft, Barbara Wanke
+Corinne Molesworth, L A Leach
+Sue Hole, Sarah Huntington
+Shirley Bloomer, Penelope Hardgrave
+Sannie Gouws, Hilary Hodge
+Jenny Helliar, A M Rogers
+Patti Hogan, Celeste Behrmann
+Judy Congdon, P Welsh
+Marilyn Greenwood, Ziggy Cornish
+Vicki Lancaster Kerr, Cynthia Doerner
+Susan Minford, L Jowett
+Sharon Walsh Pete, Andree Martin
+Sandra Okin, Barbara Walsh
+Penny Moor, A Watts
+Jackie Fayter, M Dixon
+Sally Holdsworth, Denise Staniszewski
+Frances Candy, Joanne Haye
+Jill Cooper, C Williams
+Evonne Goolagong, Anne Coleman
+Veronica Burton, Cecilie Fleming
+Janice Townsend, Marilyn Tesch
+Daphne Pattison, Lesley Wellerman
+Joyce Williams, Annika Nydeus
+Alex Cowie, E Shearing
+Barbara Hawcroft, Judy Harris
+Corinne Molesworth, Sue Hole
+Shirley Bloomer, Sannie Gouws
+Marilyn Pryde, Jenny Helliar
+Patti Hogan, Judy Congdon
+Marilyn Greenwood, Vicki Lancaster Kerr
+Susan Minford, Sharon Walsh Pete
+Sandra Okin, Penny Moor
+Jackie Fayter, Sally Holdsworth
+Jill Cooper, Frances Candy
+Evonne Goolagong, Veronica Burton
+Janice Townsend, Daphne Pattison
+Joyce Williams, Alex Cowie
+Barbara Hawcroft, Corinne Molesworth
+Shirley Bloomer, Marilyn Pryde
+Patti Hogan, Marilyn Greenwood
+Susan Minford, Sandra Okin
+Jill Cooper, Jackie Fayter
+Evonne Goolagong, Janice Townsend
+Joyce Williams, Barbara Hawcroft
+Shirley Bloomer, Patti Hogan
+Jill Cooper, Susan Minford
+Evonne Goolagong, Joyce Williams
+Jill Cooper, Shirley Bloomer
+Evonne Goolagong, Jill Cooper
+Kerry Harris, Jennifer Staley
+Susan Alexander, Leyla Musalem
+Winnie Shaw, Carmen Coronado
+Nell Truman, Michelle Rodriguez
+Kerry Harris, Susan Alexander
+Lesley Hunt, Ana Maria Estalella Manso
+Winnie Shaw, Nell Truman
+Lesley Hunt, Kerry Harris
+Winnie Shaw, Lesley Hunt
+Isabel Fernandez De Soto, Ana Maria Arias
+Penny Moor, Alison Fraser Black
+Annika Nydeus, L Jowett
+Janice Townsend, Vicki Lancaster Kerr
+Kristien Shaw, Lesley Charles
+Andree Martin, Sarah Huntington
+Alex Cowie, Anne Coleman
+Patricia Cody, Cecilie Fleming
+Gail Hansen, Anne Lloyd
+Wendy Appleby, Sandra Okin
+Patricia Reese, Judy Congdon
+Christine Truman, L Ling
+Jenny Helliar, Stephanie Grant
+Judy Harris, Nicky Phelan
+Susan Minford, Elizabeth Joy
+Rita Bentley, P Welsh
+Joyce Williams, Veronica Burton
+Judy Tegart, Frances Candy
+Penny Moor, Annika Nydeus
+Janice Townsend, Kristien Shaw
+Andree Martin, Sannie Gouws
+Shirley Bloomer, Marilyn Pryde
+Sue Hole, Jackie Fayter
+Nell Truman, Alex Cowie
+Patricia Cody, Penelope Hardgrave
+Barbara Hawcroft, Gail Hansen
+Wendy Appleby, Patricia Reese
+Eliza Pande, Corinne Molesworth
+Patti Hogan, Marilyn Tesch
+Christine Truman, Jenny Helliar
+Judy Harris, Di Riste
+Susan Minford, Rita Bentley
+Joyce Williams, Jane Ohara
+Judy Tegart, Penny Moor
+Janice Townsend, Andree Martin
+Shirley Bloomer, Sue Hole
+Nell Truman, Patricia Cody
+Barbara Hawcroft, Wendy Appleby
+Eliza Pande, Patti Hogan
+Christine Truman, Judy Harris
+Joyce Williams, Susan Minford
+Judy Tegart, Janice Townsend
+Shirley Bloomer, Nell Truman
+Barbara Hawcroft, Eliza Pande
+Joyce Williams, Christine Truman
+Judy Tegart, Shirley Bloomer
+Joyce Williams, Barbara Hawcroft
+Judy Tegart, Joyce Williams
+Maria Eugenia Guzman, Trish Mcclenaughan
+Helga Schultze,  Irmler
+Katja Ebbinghaus, Almut Sturm
+Heide Orth, Kora Schediwy
+Helga Masthoff, Inge Kubina
+Katja Ebbinghaus, Helga Schultze
+Helga Masthoff, Heide Orth
+Helga Masthoff, Katja Ebbinghaus
+Sharon Van Brandis, Marilyn Bevan
+Trish Mcclenaughan, Patricia Cody
+Patti Hogan, Barbara Wadsworth
+Nell Truman, Mrs M A T Walker
+Patricia Reese, Ching Ling Chang
+Cecilie Fleming, B R Thompson
+Christina Sandberg, Sharon Van Brandis
+Laura Rossouw, Sally Holdsworth
+Marilyn Greenwood, Lesley Wellerman
+Brenda Kirk, Trish Mcclenaughan
+Cecilia Martinez, Wendy Hitt
+Kristien Shaw, Rita Bentley
+Patti Hogan, Sue Hole
+Nell Truman, Patricia Reese
+Esme Emmanuel, Cecilie Fleming
+Christina Sandberg, Pam Teeguarden
+Laura Rossouw, Stephanie Grant
+Tory Ann Fretz, Marilyn Greenwood
+Brenda Kirk, Corinne Molesworth
+Kristien Shaw, Cecilia Martinez
+Patti Hogan, Nell Truman
+Esme Emmanuel, Christina Sandberg
+Laura Rossouw, Tory Ann Fretz
+Kristien Shaw, Brenda Kirk
+Patti Hogan, Esme Emmanuel
+Kristien Shaw, Laura Rossouw
+Patti Hogan, Kristien Shaw
+Barbara Hawcroft, Yuen Yuen Ling
+Barbara Walsh, Sue Imhoff
+Kristy Pigeon, Kerry Wilkinson
+Wendy Appleby, Valerie Leiper
+Maricaye Christenson, C Beaven
+Sarah Huntington, Carolyn Camp
+Eliza Pande, Denise Staniszewski
+Susan Minford, Shirley Stapleton
+Annika Nydeus, Alice Valentine
+Wendy Gilchrist, Pamela Austin
+Marilyn Pryde, Sally Hudson Beck
+Di Riste, Anne Lloyd
+Jackie Fayter, Mary Struthers
+O King, Joan Wooley
+Judy Tegart, L Maxwell
+Vicki Lancaster Kerr, P Welsh
+Barbara Hawcroft, Barbara Walsh
+Kristy Pigeon, Wendy Appleby
+Maricaye Christenson, Sarah Huntington
+Eliza Pande, Sandra Okin
+Susan Minford, Annika Nydeus
+Isabel Fernandez De Soto, Alex Cowie
+Hilary Hodge, C Williams
+Marilyn Pryde, Di Riste
+Lesley Charles, Ana Maria Arias
+Jackie Fayter, Penelope Hardgrave
+Janet Newberry, Penny Moor
+Judy Tegart, Vicki Lancaster Kerr
+Barbara Hawcroft, Nirupama Vasant
+Kristy Pigeon, Maricaye Christenson
+Eliza Pande, Susan Minford
+Isabel Fernandez De Soto, Alex Cowie
+Wendy Gilchrist, Hilary Hodge
+Marilyn Pryde, Lesley Charles
+Janet Newberry, Jackie Fayter
+Judy Tegart, Barbara Hawcroft
+Kristy Pigeon, Eliza Pande
+Isabel Fernandez De Soto, Wendy Gilchrist
+Janet Newberry, Marilyn Pryde
+Judy Tegart, Kristy Pigeon
+Janet Newberry, Isabel Fernandez De Soto
+Judy Tegart, Janet Newberry
+Kazuko Sawamatsu, Janice Townsend
+Lita Liem, Isabel Fernandez De Soto
+Helen Amos, Raquel Giscafre
+Pamela Austin, Annika Nydeus
+Trish Mcclenaughan, Ana Maria Arias
+Fiorella Bonicelli, Rita Felix
+Katja Ebbinghaus, Lany Kaligis
+Laura Rossouw, Mrs B Bancroft
+Judy Congdon, Yaeko Matsuda
+Julie Heldman, Sally Hudson Beck
+Brenda Kirk, Lita Liem
+Helen Amos, Pamela Austin
+Michelle Rodriguez, A Purek
+Trish Mcclenaughan, Fiorella Bonicelli
+Laura Rossouw, Judy Congdon
+Julie Heldman, Brenda Kirk
+Helen Amos, Michelle Rodriguez
+Barbara Hawcroft, Trish Mcclenaughan
+Laura Rossouw, Madeleine Pegel
+Julie Heldman, Helen Amos
+Barbara Hawcroft, Laura Rossouw
+Julie Heldman, Barbara Hawcroft
+Wendy Gilchrist, Sally Holdsworth
+Fay Toyne, Marilyn Pryde
+Susan Minford, Pam Teeguarden
+Patricia Reese, Winnie Shaw
+Cecilia Martinez, Patricia Cody
+Betty Stove, Sharon Van Brandis
+Marina Kroschina, Cecilie Fleming
+Patti Hogan, Zaiga Yansone
+Corinne Molesworth, Linda Tuero
+Kristien Shaw, Helen Gourlay
+Shirley Bloomer, Maricaye Christenson
+Kerry Reid, Sue Hole
+Gail Hansen, Lindsey Beaven
+Christine Truman, Christina Sandberg
+Eliza Pande, Veronica Burton
+Wendy Gilchrist, Fay Toyne
+Susan Minford, Patricia Reese
+Betty Stove, Cecilia Martinez
+Joyce Williams, Marina Kroschina
+Patti Hogan, Andree Martin
+Nell Truman, Penny Moor
+Janet Newberry, Corinne Molesworth
+Kristien Shaw, Shirley Bloomer
+Jill Cooper, Nirupama Vasant
+Olga Morozova, Kerry Harris
+Kerry Reid, Gail Hansen
+Christine Truman, Eliza Pande
+Wendy Gilchrist, Susan Minford
+Betty Stove, Joyce Williams
+Patti Hogan, Nell Truman
+Janet Newberry, Kristien Shaw
+Tam Oshaughnessy, Jill Cooper
+Kristy Pigeon, Olga Morozova
+Kristy Pigeon, Tam Oshaughnessy
+Patti Hogan, Janet Newberry
+Wendy Gilchrist, Betty Stove
+Kerry Reid, Christine Truman
+Kristy Pigeon, Patti Hogan
+Kerry Reid, Wendy Gilchrist
+Kerry Reid, Kristy Pigeon
+Janice Townsend, Maria Eugenia Guzman
+Lesley Turner, Lesley Hunt
+Louise Gonnerman, Nadine Netter
+Trish Mcclenaughan, Patricia Reese
+Ana Maria Arias, Michelle Rodriguez
+Janet Newberry, Elizabeth Ernest
+Kristien Shaw, Marilyn Greenwood
+Veronica Burton, Maria Eugenia Guzman
+Lany Kaligis, Gail Hansen
+Corinne Molesworth, Susan Alexander
+Jackie Fayter, Susan Minford
+Jane Ohara, Daphne Pattison
+Janice Townsend, Glynis Coles
+Betty Stove, Marilyn Pryde
+Lita Liem, Trish Mcclenaughan
+Janet Newberry, Ana Maria Arias
+Veronica Burton, Kristien Shaw
+Alex Cowie, Lany Kaligis
+Sally Holdsworth, Tory Ann Fretz
+Jackie Fayter, Corinne Molesworth
+Janice Townsend, Jane Ohara
+Betty Stove, Lita Liem
+Janet Newberry, Veronica Burton
+Sally Holdsworth, Alex Cowie
+Janice Townsend, Jackie Fayter
+Betty Stove, Janet Newberry
+Janice Townsend, Sally Holdsworth
+Janice Townsend, Betty Stove
+Helga Masthoff, Ellen Grindvold
+Judith Szorenyi, Kazuko Sawamatsu
+Birgitta Lindstrom, Almut Sturm
+Lesley Hunt,  Witta
+Helga Masthoff, Judith Szorenyi
+Birgitta Lindstrom, Lesley Hunt
+Helga Masthoff, Birgitta Lindstrom
+Marie Pinterova, Miroslava Holubova
+Judith Szorenyi, Eva Szabo
+Helga Schultze,  Duson
+Junko Sawamatsu, K Vihko
+Raquel Giscafre, Heidrun Scholze
+Birgitta Lindstrom,  Schuebel
+Katja Ebbinghaus, Susanne Korpas
+Joan Wilshere, Yaeko Matsuda
+Kora Schediwy, Helen Amos
+Valerie Ziegenfuss, Baerbel Wuestl
+Helga Schultze, Junko Sawamatsu
+Birgitta Lindstrom, Raquel Giscafre
+Joan Wilshere, Katja Ebbinghaus
+Valerie Ziegenfuss, Kora Schediwy
+Helga Schultze, Birgitta Lindstrom
+Valerie Ziegenfuss, Joan Wilshere
+Helga Schultze, Valerie Ziegenfuss
+Janice Townsend, Lesley Charles
+Penelope Hardgrave, Sandra Okin
+Alex Cowie, Lindsay Blachford
+Jackie Fayter, Wendy Slaughter
+Lindsey Beaven, L Hulten
+Sally Hudson Beck, Nuala Dwyer
+Sue Hole, Lesley Wellerman
+Jill Cooper, Penelope Hardgrave
+Alex Cowie, Jackie Fayter
+Lindsey Beaven, Sally Hudson Beck
+Corinne Molesworth, Sue Hole
+Jill Cooper, Alex Cowie
+Corinne Molesworth, Lindsey Beaven
+Jill Cooper, Corinne Molesworth
+Daniele Bouteleux, Alex Rotas
+Laura Rossouw, R Thomas
+Yaeko Matsuda, Carol Ann Kalogeropoulos
+Isabel Fernandez De Soto, C Thomas
+Brenda Kirk, G Ruiz
+Edda Buding, Marilyn Pryde
+Odile De Roubin, Madeleine Pegel
+Fiorella Bonicelli, Daniele Bouteleux
+Laura Rossouw, Yaeko Matsuda
+Isabel Fernandez De Soto, Brenda Kirk
+Odile De Roubin, Edda Buding
+Fiorella Bonicelli, Laura Rossouw
+Odile De Roubin, Isabel Fernandez De Soto
+Fiorella Bonicelli, Odile De Roubin
+Corinne Molesworth, Sandra Okin
+Veronica Burton, Pepy Munslow
+V Fraayenhoven, Jill Cooper
+Nell Truman, Sally Hudson Beck
+Lindsey Beaven, Penny Moor
+Jackie Fayter, Sue Imhoff
+Wendy Slaughter, Mary Mcanally
+Kerry Harris, Corinne Molesworth
+Lindsay Blachford, Di Riste
+Christine Truman, Veronica Burton
+Alex Cowie, V Fraayenhoven
+Nell Truman, Penelope Hardgrave
+Lindsey Beaven, Jackie Fayter
+Wendy Slaughter, Mary Otoole
+Helen Gourlay, Linda Geeves
+Kerry Harris, Lindsay Blachford
+Christine Truman, Alex Cowie
+Nell Truman, Lindsey Beaven
+Helen Gourlay, Wendy Slaughter
+Kerry Harris, Christine Truman
+Helen Gourlay, Nell Truman
+Kerry Harris, Helen Gourlay
+Lesley Charles, Vicki Lancaster Kerr
+Lita Liem, Lany Kaligis
+Kora Schediwy, Marianne Kindler
+Helen Amos, Ana Maria Arias
+Heide Orth, Joan Wilshere
+Katja Ebbinghaus, Kora Schediwy
+Betty Stove, Almut Sturm
+Laura Rossouw, Helen Amos
+Heide Orth, Junko Sawamatsu
+Helga Masthoff, Susanne Korpas
+Helga Schultze, Brenda Kirk
+Betty Stove, Katja Ebbinghaus
+Laura Rossouw, Heide Orth
+Helga Masthoff, Trudy Groenman
+Betty Stove, Helga Schultze
+Helga Masthoff, Laura Rossouw
+Helga Masthoff, Betty Stove
+Olga Morozova, Galina Baksheeva
+Yulia Berberian, Judith Dibar
+Joyce Williams, Winnie Shaw
+Evonne Goolagong, Maria Eugenia Guzman
+Kristien Shaw, Ching Ling Chang
+Helen Gourlay, Daphne Pattison
+Kerry Harris, Sue Hole
+Patti Hogan, Wendy Appleby
+Barbara Hawcroft, Cecilie Fleming
+Fay Toyne, Patricia Reese
+Judy Tegart, Sally Hudson Beck
+Evonne Goolagong, Kristien Shaw
+Helen Gourlay, Kerry Harris
+Patti Hogan, Barbara Hawcroft
+Judy Tegart, Fay Toyne
+Evonne Goolagong, Helen Gourlay
+Patti Hogan, Judy Tegart
+Evonne Goolagong, Patti Hogan
+Lesley Hunt, Michelle Rodriguez
+Lesley Hunt, Daniela Marzano
+Alena Palmeova West, Raquel Giscafre
+Lesley Hunt, Marilyn Tesch
+Alena Palmeova West, Kristy Pigeon
+Lesley Hunt, Alena Palmeova West
+Evonne Goolagong, Alice Valentine
+Joan Wilshere, Judith Salome
+Trudy Groenman, Carol Ann Kalogeropoulos
+Kora Schediwy, Anneloes Schothorst
+Marijke Jansen, Carolyn Camp
+Brenda Kirk, Hetty Taphoorn Baas
+Ada Bakker, Nirupama Vasant
+Laura Rossouw, Elsie Spruyt
+Alena Palmeova West, Ching Ling Chang
+Raquel Giscafre, Nora Blom
+Katja Ebbinghaus, Ann Phillips Moore
+Judith Dibar, Dorien Falkenburg
+Christina Sandberg, Ana Maria Arias
+Evonne Goolagong, Joan Wilshere
+Trudy Groenman, Junko Sawamatsu
+Kora Schediwy, Marijke Jansen
+Brenda Kirk, Hetty Taphoorn Baas
+Betty Stove, Laura Rossouw
+Alena Palmeova West, Raquel Giscafre
+Katja Ebbinghaus, Isabel Fernandez De Soto
+Christina Sandberg, Judith Dibar
+Evonne Goolagong, Trudy Groenman
+Kora Schediwy, Brenda Kirk
+Betty Stove, Alena Palmeova West
+Christina Sandberg, Katja Ebbinghaus
+Evonne Goolagong, Kora Schediwy
+Christina Sandberg, Betty Stove
+Evonne Goolagong, Christina Sandberg
+Geraldine Barniville, Maria Eugenia Guzman
+Daphne Pattison, Fay Toyne
+Fiorella Bonicelli, Ada Bakker
+Fiorella Bonicelli, Daphne Pattison
+Zaiga Yansone, Katalin Borka
+Eugenia Birioukova, Marie Pinterova
+Marina Kroschina, Maria Tcharakova
+Olga Morozova, Judith Szorenyi
+Eugenia Birioukova, Zaiga Yansone
+Olga Morozova, Marina Kroschina
+Olga Morozova, Eugenia Birioukova
+Carmen Bustamante, Carol Ann Kalogeropoulos
+Raquel Giscafre, Ana Maria Estalella Manso
+Isabel Fernandez De Soto, Carmen Bustamante
+Isabel Fernandez De Soto, Raquel Giscafre
+Fiorella Bonicelli, Carolyn Camp
+Daphne Pattison, Fay Toyne
+Fiorella Bonicelli, Daphne Pattison
+Barbara Kral, Marina Kroschina
+Elena Granaturovna, Katalin Borka
+Anna Yeremeyeva, Olga Morozova
+D Vechorek, Yevgenia Izopaitis
+Galina Baksheeva, Barbara Kral
+Maria Kull, Elena Granaturovna
+Anna Yeremeyeva, D Vechorek
+Maria Kull, Galina Baksheeva
+Anna Yeremeyeva, Maria Kull
+Helga Masthoff, Heide Orth
+Chris Evert, Winnie Shaw
+Virginia Wade, Julie Heldman
+Joyce Williams, Kristy Pigeon
+Valerie Ziegenfuss, Winnie Shaw
+Chris Evert, Virginia Wade
+Joan Wilshere, Raquel Giscafre
+Fiorella Bonicelli, Lindsey Beaven
+Daniele Bouteleux, Barbara Hawcroft
+Brigitte Hoffmann, Veronika Koch
+Brenda Kirk, Fiorella Bonicelli
+Ada Bakker, Lany Kaligis
+Jane Ohara, Mary Mclean
+Laurie Tenney, Edda Buding
+Farel Footman, Mona Guerrant
+Lita Liem, Vicky Berner
+Sally Holdsworth, Louise Gonnerman
+Cecilia Martinez, Gail Hansen
+Betty Stove, Ada Bakker
+Jane Ohara, Laurie Tenney
+Farel Footman, Lita Liem
+Cecilia Martinez, Sally Holdsworth
+Betty Stove, Jane Ohara
+Cecilia Martinez, Farel Footman
+Betty Stove, Cecilia Martinez
+Marilyn Pryde, Totta Zehden
+Barbara Downs, Pamela Austin
+Marcie Louie, Laurie Tenney
+Marcie Louie, Barbara Downs
+Margareta Strandberg,  Lupo
+Renata Tomanova, Ann Charlotte Dahlberg
+Margaret Tesch, Jana Simonova
+Brenda Kirk,  Scimone
+Margareta Strandberg, Renata Tomanova
+Margaret Tesch, Brenda Kirk
+Margaret Tesch, Margareta Strandberg
+Marilyn Pryde, Celeste Behrmann
+Gillian Kay, Sally Hudson Beck
+Marilyn Pryde, Gillian Kay
+Lesley Turner, Patricia Coleman
+Marilyn Pryde, Gillian Kay
+Sally Hudson Beck, Roni Kodler
+Tova Epstein, Celeste Behrmann
+Vicki Lancaster Kerr, Esther Rosengarten
+Marilyn Pryde, Sally Hudson Beck
+Vicki Lancaster Kerr, Tova Epstein
+Marilyn Pryde, Vicki Lancaster Kerr
+Marilyn Pryde, Celeste Behrmann
+Vicki Lancaster Kerr, Sally Hudson Beck
+Marilyn Pryde, Vicki Lancaster Kerr
+Ana Maria Arias, Carmen Coronado
+Monique Van Haver, Susan Alexander
+Helga Schultze, Jennifer Staley
+Ana Maria Arias, Jean Forbes
+Michele Gurdal, Monique Van Haver
+Ana Maria Estalella Manso, Dorothy Knode
+Helga Schultze, Carmen Bustamante
+Helga Schultze, Ana Maria Arias
+Patricia Walkden, Ilana Kloss
+Helga Masthoff, Heide Orth
+Wendy Gilchrist, Michele Gurdal
+Ana Maria Arias, Leyla Musalem
+Barbara Hawcroft, Marilyn Tesch
+Evonne Goolagong, Robyn Knobel
+Mona Guerrant, Janet Young
+Evonne Goolagong, Mona Guerrant
+Patricia Coleman, Barbara Hawcroft
+Kerry Harris, Wendy Turnbull
+Helen Gourlay, Marilyn Tesch
+Evonne Goolagong, Patricia Coleman
+Helen Gourlay, Kerry Harris
+Evonne Goolagong, Helen Gourlay
+Ilana Kloss, Jenny Helliar
+Jackie Fayter, Sharon Walsh Pete
+E Reinach, Patti Hogan
+Christine Marais, Susan Minford
+Ilana Kloss, Lyn Montgomery
+Elizabeth Vlotman, Jackie Fayter
+Rowena Sanders, E Reinach
+Daphne Pattison, Laura Rossouw
+Patricia Walkden, Ilana Kloss
+Linda Tuero, Elizabeth Vlotman
+Greta Delport, Rowena Sanders
+Brenda Kirk, Daphne Pattison
+Patricia Walkden, Linda Tuero
+Brenda Kirk, Greta Delport
+Patricia Walkden, Brenda Kirk
+Evonne Goolagong, Patricia Coleman
+Mona Guerrant, Barbara Hawcroft
+Evonne Goolagong, Mona Guerrant
+Jackie Fayter, Marion Lloyd Wronsley
+Sharon Walsh Pete, Heather Bucke
+Carol Ann Kalogeropoulos, M Figueirido
+Christine Marais, Margot Schultze
+Lyn Montgomery, Jenny Helliar
+Elizabeth Vlotman, Jackie Fayter
+Janine Lieffrig, J Mills
+Patti Hogan, C Gevers
+Linda Tuero, Linky Boshoff
+Sharon Walsh Pete, Daphne Pattison
+Brenda Kirk, Carol Ann Kalogeropoulos
+Elizabeth Vlotman, Janine Lieffrig
+Brigette Cuypers, Patti Hogan
+Linda Tuero, Susan Minford
+Ilana Kloss, Sharon Walsh Pete
+Greta Delport, Patricia Walkden
+Brenda Kirk, Elizabeth Vlotman
+Linda Tuero, Brigette Cuypers
+Ilana Kloss, Greta Delport
+Linda Tuero, Brenda Kirk
+Ilana Kloss, Linda Tuero

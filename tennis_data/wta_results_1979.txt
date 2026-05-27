@@ -1,0 +1,2273 @@
+Chris Evert, Kate Latham
+Laura Dupont, Barbara Jordan
+Patricia Medrado, Ivanna Madruga
+Mima Jausovec, Anne Chevalier
+Ilana Kloss, Nathalie Fuchs
+Ruta Gerulaitis, Chris Oneil
+Brigitte Simon Glinel, Caroline Stoll
+Betty Stove, Viviana Gonzalez
+Dianne Fromholtz, Rayni Fox
+Emilse Raponi Longo, Cynthia Doerner
+Bettina Bunge, Kay Mcdaniel
+Marise Kruger, Rene Blount
+Iva Budarova, Zenda Liess
+Sharon Walsh Pete, Frederique Thibault
+Anne Hobbs, Yvonne Vermaak
+Virginia Ruzici, Petra Delhees Jauch
+Sue Barker, Heidi Eisterlehner
+Hana Mandlikova, Mariana Simionescu
+Betty Ann Grubb, Adriana Villagran Reami
+Hana Strachonova, Rosie Casals
+Leslie Allen, Marita Redondo
+Elly Appel, Janet Newberry
+Jeanne Duvall, Sylvia Hanika
+Wendy Turnbull, Paula Smith
+Regina Marsikova, Pam Teeguarden
+Lele Forood, Linda Siegel
+Sherry Acker, Diane Desfor
+Anne Smith, Francoise Durr
+Kathy May, Daniela Marzano
+Lucia Romanov, Jane Stratton
+Renata Tomanova, Dominique Beillan
+Virginia Wade, Gail Sherriff
+Chris Evert, Laura Dupont
+Patricia Medrado, Mima Jausovec
+Ruta Gerulaitis, Ilana Kloss
+Betty Stove, Brigitte Simon Glinel
+Dianne Fromholtz, Emilse Raponi Longo
+Bettina Bunge, Marise Kruger
+Iva Budarova, Sharon Walsh Pete
+Virginia Ruzici, Anne Hobbs
+Hana Mandlikova, Sue Barker
+Betty Ann Grubb, Hana Strachonova
+Leslie Allen, Elly Appel
+Wendy Turnbull, Jeanne Duvall
+Regina Marsikova, Lele Forood
+Anne Smith, Sherry Acker
+Lucia Romanov, Kathy May
+Renata Tomanova, Virginia Wade
+Chris Evert, Patricia Medrado
+Ruta Gerulaitis, Betty Stove
+Dianne Fromholtz, Bettina Bunge
+Virginia Ruzici, Iva Budarova
+Hana Mandlikova, Betty Ann Grubb
+Wendy Turnbull, Leslie Allen
+Regina Marsikova, Anne Smith
+Renata Tomanova, Lucia Romanov
+Chris Evert, Ruta Gerulaitis
+Dianne Fromholtz, Virginia Ruzici
+Wendy Turnbull, Hana Mandlikova
+Regina Marsikova, Renata Tomanova
+Chris Evert, Dianne Fromholtz
+Wendy Turnbull, Regina Marsikova
+Chris Evert, Wendy Turnbull
+Martina Navratilova, Tanya Harford
+Rosie Casals, Heidi Eisterlehner
+Ruta Gerulaitis, Anthea Stewart
+Glynis Coles, Marise Kruger
+Betty Stove, Jeanne Duvall
+Kay Mcdaniel, Katja Ebbinghaus
+Daniela Marzano, Kate Latham
+Dianne Fromholtz, Barbara Hallquist
+Brigette Cuypers, Elly Appel
+Betty Ann Grubb, Dianne Evers
+Mimi Wikstedt, Sharon Walsh Pete
+Sandy Collins, Iva Budarova
+Anne Hobbs, Lesley Charles
+Hana Mandlikova, Diane Morrison
+Mima Jausovec, Sabina Simmonds
+Billie Jean King, Yvonne Vermaak
+Virginia Wade, Mareen Louie Harper
+Sylvia Hanika, Barbara Potter
+Iris Riedel Kuhn, Frederique Thibault
+Ivanna Madruga, Sue Barker
+Bettina Bunge, Mariette Pakker
+Pam Teeguarden, Renata Tomanova
+Cynthia Doerner, Emilse Raponi Longo
+Evonne Goolagong, Marcie Louie
+Lele Forood, Dana Gilbert
+Mary Carillo, Ann Kiyomura Hayashi
+Rayni Fox, Gail Sherriff
+Kerry Reid, Rene Blount
+Pam Shriver, Patricia Medrado
+Stacy Margolin, Joanne Russell
+Alycia Moulton, Michelle Tyler
+Chris Evert, Marita Redondo
+Martina Navratilova, Jo Durie
+Rosie Casals, Francoise Durr
+Ruta Gerulaitis, Viviana Gonzalez
+Greer Stevens, Glynis Coles
+Betty Stove, Chris Oneil
+Kay Mcdaniel, Marie Pinterova
+Marcella Mesker, Daniela Marzano
+Dianne Fromholtz, Marjorie Blackwood
+Tracy Austin, Brigette Cuypers
+Betty Ann Grubb, Ilana Kloss
+Mimi Wikstedt, Anne Smith
+Virginia Ruzici, Sandy Collins
+Regina Marsikova, Anne Hobbs
+Hana Mandlikova, Anna Maria Fernandez
+Diane Desfor, Mima Jausovec
+Billie Jean King, Linda Siegel
+Virginia Wade, Barbara Jordan
+Sylvia Hanika, Lea Antonoplis
+Deborah Jevans, Iris Riedel Kuhn
+Amanda Tobin, Ivanna Madruga
+Kathy Jordan, Bettina Bunge
+Hana Strachonova, Pam Teeguarden
+Cynthia Doerner, Belinda Thompson
+Evonne Goolagong, Sherry Acker
+Wendy Turnbull, Lele Forood
+Mary Carillo, Betsy Nagelsen
+Rayni Fox, Mariana Simionescu
+Kerry Reid, Carrie Meyer
+Laura Dupont, Pam Shriver
+Wendy White, Stacy Margolin
+Kathy May, Alycia Moulton
+Chris Evert, Andrea Whitmore
+Martina Navratilova, Rosie Casals
+Greer Stevens, Ruta Gerulaitis
+Betty Stove, Kay Mcdaniel
+Dianne Fromholtz, Marcella Mesker
+Tracy Austin, Betty Ann Grubb
+Virginia Ruzici, Mimi Wikstedt
+Hana Mandlikova, Regina Marsikova
+Billie Jean King, Diane Desfor
+Virginia Wade, Sylvia Hanika
+Deborah Jevans, Amanda Tobin
+Kathy Jordan, Hana Strachonova
+Evonne Goolagong, Cynthia Doerner
+Wendy Turnbull, Mary Carillo
+Kerry Reid, Rayni Fox
+Laura Dupont, Wendy White
+Chris Evert, Kathy May
+Martina Navratilova, Greer Stevens
+Dianne Fromholtz, Betty Stove
+Tracy Austin, Virginia Ruzici
+Billie Jean King, Hana Mandlikova
+Virginia Wade, Deborah Jevans
+Evonne Goolagong, Kathy Jordan
+Wendy Turnbull, Kerry Reid
+Chris Evert, Laura Dupont
+Martina Navratilova, Dianne Fromholtz
+Tracy Austin, Billie Jean King
+Evonne Goolagong, Virginia Wade
+Chris Evert, Wendy Turnbull
+Martina Navratilova, Tracy Austin
+Chris Evert, Evonne Goolagong
+Martina Navratilova, Chris Evert
+Chris Evert, Iris Riedel Kuhn
+Renee Richards, Mary Carillo
+Sherry Acker, Dana Gilbert
+Kelly Henry, Emilse Raponi Longo
+Julie Harrington, Pam Shriver
+Jeanne Duvall, Bettina Bunge
+Trey Lewis, Rene Blount
+Evonne Goolagong, Kay Mcdaniel
+Virginia Wade, Paula Smith
+Diane Morrison, Linda Siegel
+Barbara Jordan, Susan Mascarin
+Mima Jausovec, Elly Appel
+Billie Jean King, Zenda Liess
+Tanya Harford, Marita Redondo
+Kathy May, Heather Ludloff
+Wendy Turnbull, Marie Pinterova
+Dianne Fromholtz, Dianne Evers
+Leslie Allen, Sandy Collins
+Sylvia Hanika, Betsy Nagelsen
+Ann Kiyomura Hayashi, Beth Norton
+Kathy Jordan, Betty Ann Grubb
+Florenta Mihai, Mimi Wikstedt
+Kate Latham, Pam Teeguarden
+Tracy Austin, Ivanna Madruga
+Kerry Reid, Rosie Casals
+Ilana Kloss, Cynthia Doerner
+Anne Smith, Gail Sherriff
+Barbara Potter, Diane Desfor
+Rosalyn Fairbank, Marcie Louie
+Terry Holladay, Sharon Walsh Pete
+Hana Mandlikova, Francoise Durr
+Alycia Moulton, Brigette Cuypers
+Chris Evert, Joanne Russell
+Renee Richards, Yvonne Vermaak
+Sherry Acker, Lele Forood
+Kelly Henry, Betty Stove
+Julie Harrington, Mareen Louie Harper
+Jeanne Duvall, Nancy Yeargin
+Sabina Simmonds, Trey Lewis
+Evonne Goolagong, Rayni Fox
+Virginia Wade, Janet Newberry
+Diane Morrison, Amanda Tobin
+Barbara Jordan, Julie Anthony
+Regina Marsikova, Mima Jausovec
+Billie Jean King, Chris Oneil
+Stacy Margolin, Tanya Harford
+Kathy May, Daniela Marzano
+Wendy Turnbull, Anna Maria Fernandez
+Dianne Fromholtz, Kathy Horvath
+Leslie Allen, Ruta Gerulaitis
+Sylvia Hanika, Lea Antonoplis
+Laura Dupont, Ann Kiyomura Hayashi
+Kathy Jordan, Andrea Whitmore
+Wendy White, Florenta Mihai
+Kate Latham, Karen Susman
+Tracy Austin, Andrea Jaeger
+Kerry Reid, Anne Hobbs
+Mary Lou Piatek, Ilana Kloss
+Anne Smith, Renata Tomanova
+Barbara Potter, Sue Barker
+Greer Stevens, Rosalyn Fairbank
+Terry Holladay, Barbara Hallquist
+Caroline Stoll, Hana Mandlikova
+Martina Navratilova, Alycia Moulton
+Chris Evert, Renee Richards
+Sherry Acker, Kelly Henry
+Jeanne Duvall, Julie Harrington
+Evonne Goolagong, Sabina Simmonds
+Virginia Wade, Diane Morrison
+Regina Marsikova, Barbara Jordan
+Billie Jean King, Stacy Margolin
+Kathy May, Wendy Turnbull
+Dianne Fromholtz, Leslie Allen
+Sylvia Hanika, Laura Dupont
+Kathy Jordan, Wendy White
+Tracy Austin, Kate Latham
+Kerry Reid, Mary Lou Piatek
+Anne Smith, Barbara Potter
+Greer Stevens, Terry Holladay
+Martina Navratilova, Caroline Stoll
+Chris Evert, Sherry Acker
+Evonne Goolagong, Jeanne Duvall
+Virginia Wade, Regina Marsikova
+Billie Jean King, Kathy May
+Sylvia Hanika, Dianne Fromholtz
+Tracy Austin, Kathy Jordan
+Kerry Reid, Anne Smith
+Martina Navratilova, Greer Stevens
+Chris Evert, Evonne Goolagong
+Billie Jean King, Virginia Wade
+Tracy Austin, Sylvia Hanika
+Martina Navratilova, Kerry Reid
+Chris Evert, Billie Jean King
+Tracy Austin, Martina Navratilova
+Tracy Austin, Chris Evert
+Martina Navratilova, Renee Richards
+Ann Kiyomura Hayashi, Kay Mcdaniel
+Virginia Wade, Betty Stove
+Kerry Reid, Carrie Meyer
+Billie Jean King, Sylvia Hanika
+Marise Kruger, Jeanne Duvall
+Evonne Goolagong, Laura Dupont
+Betty Ann Grubb, Lele Forood
+Mary Carillo, Anne Smith
+Dianne Fromholtz, Ilana Kloss
+Lucia Romanov, Kate Latham
+Tracy Austin, Rosie Casals
+Sherry Acker, Yvonne Vermaak
+Wendy Turnbull, Bettina Bunge
+Greer Stevens, Barbara Potter
+Chris Evert, Caroline Stoll
+Martina Navratilova, Ann Kiyomura Hayashi
+Virginia Wade, Kerry Reid
+Marise Kruger, Billie Jean King
+Evonne Goolagong, Betty Ann Grubb
+Dianne Fromholtz, Mary Carillo
+Tracy Austin, Lucia Romanov
+Wendy Turnbull, Sherry Acker
+Chris Evert, Greer Stevens
+Martina Navratilova, Virginia Wade
+Evonne Goolagong, Marise Kruger
+Tracy Austin, Dianne Fromholtz
+Wendy Turnbull, Chris Evert
+Martina Navratilova, Evonne Goolagong
+Wendy Turnbull, Tracy Austin
+Martina Navratilova, Wendy Turnbull
+Caroline Stoll, Wendy Turnbull
+Jeanne Duvall, Zenda Liess
+Marie Pinterova, Janet Newberry
+Mima Jausovec, Barbara Jordan
+Virginia Ruzici, Bettina Bunge
+Iris Riedel Kuhn, Hana Mandlikova
+Sylvia Hanika, Helga Masthoff
+Sue Barker, Ilana Kloss
+Marise Kruger, Laura Dupont
+Renata Tomanova, Kay Mcdaniel
+Yvonne Vermaak, Lele Forood
+Evonne Goolagong, Pam Teeguarden
+Regina Marsikova, Dianne Evers
+Betty Ann Grubb, Michelle Tyler
+Viviana Gonzalez, Sherry Acker
+Kerry Reid, Iva Budarova
+Caroline Stoll, Jeanne Duvall
+Mima Jausovec, Marie Pinterova
+Virginia Ruzici, Iris Riedel Kuhn
+Sylvia Hanika, Sue Barker
+Renata Tomanova, Marise Kruger
+Evonne Goolagong, Yvonne Vermaak
+Regina Marsikova, Betty Ann Grubb
+Kerry Reid, Viviana Gonzalez
+Caroline Stoll, Mima Jausovec
+Virginia Ruzici, Sylvia Hanika
+Evonne Goolagong, Renata Tomanova
+Regina Marsikova, Kerry Reid
+Caroline Stoll, Virginia Ruzici
+Regina Marsikova, Evonne Goolagong
+Caroline Stoll, Regina Marsikova
+Chris Evert, Pam Teeguarden
+Kathy May, Renata Tomanova
+Marise Kruger, Mima Jausovec
+Sue Barker, Terry Holladay
+Greer Stevens, Mareen Louie Harper
+Lesley Hunt, Ilana Kloss
+Virginia Wade, Mary Lou Piatek
+Rosie Casals, Jeanne Duvall
+Linda Siegel, Sandy Collins
+Kerry Reid, Renee Richards
+Carrie Meyer, Caroline Stoll
+Wendy Turnbull, Diane Desfor
+Betsy Nagelsen, Patricia Medrado
+Marita Redondo, Ann Kiyomura Hayashi
+Betty Stove, Anne Smith
+Dianne Fromholtz, Kate Latham
+Chris Evert, Kathy May
+Sue Barker, Marise Kruger
+Greer Stevens, Lesley Hunt
+Virginia Wade, Rosie Casals
+Kerry Reid, Linda Siegel
+Wendy Turnbull, Carrie Meyer
+Marita Redondo, Betsy Nagelsen
+Dianne Fromholtz, Betty Stove
+Sue Barker, Chris Evert
+Virginia Wade, Greer Stevens
+Wendy Turnbull, Kerry Reid
+Dianne Fromholtz, Marita Redondo
+Sue Barker, Virginia Wade
+Dianne Fromholtz, Wendy Turnbull
+Dianne Fromholtz, Sue Barker
+Wendy Turnbull, Virginia Wade
+Martina Navratilova, Florenta Mihai
+Jo Durie, Daniela Marzano
+Ilana Kloss, Sabina Simmonds
+Marita Redondo, Ann Kiyomura Hayashi
+Billie Jean King, Pam Teeguarden
+Barbara Potter, Nina Bohm
+Glynis Coles, Laura Dupont
+Betsy Nagelsen, Betty Stove
+Sylvia Hanika, Anne Smith
+Iva Budarova, Brigette Cuypers
+Stacy Margolin, Anne Hobbs
+Virginia Wade, Lea Antonoplis
+Virginia Ruzici, Helena Anliot
+Mima Jausovec, Elisabeth Ekblom
+Terry Holladay, Michelle Tyler
+Chris Evert, Brigitte Simon Glinel
+Martina Navratilova, Jo Durie
+Ilana Kloss, Marita Redondo
+Billie Jean King, Barbara Potter
+Glynis Coles, Betsy Nagelsen
+Sylvia Hanika, Iva Budarova
+Virginia Wade, Stacy Margolin
+Virginia Ruzici, Mima Jausovec
+Chris Evert, Terry Holladay
+Martina Navratilova, Ilana Kloss
+Billie Jean King, Glynis Coles
+Sylvia Hanika, Virginia Wade
+Chris Evert, Virginia Ruzici
+Martina Navratilova, Billie Jean King
+Chris Evert, Sylvia Hanika
+Martina Navratilova, Chris Evert
+Martina Navratilova, Stacy Margolin
+Betty Stove, Betsy Nagelsen
+Anne Smith, Ilana Kloss
+Yvonne Vermaak, Carrie Meyer
+Wendy Turnbull, Rosie Casals
+Marise Kruger, Anthea Stewart
+Ann Kiyomura Hayashi, Pam Shriver
+Greer Stevens, Caroline Stoll
+Sharon Walsh Pete, Diane Desfor
+Mima Jausovec, Virginia Wade
+Pam Teeguarden, Isabel Fernandez De Soto
+Kerry Reid, Ruta Gerulaitis
+Sue Barker, Kate Latham
+Virginia Ruzici, Marita Redondo
+Mary Lou Piatek, Sherry Acker
+Tracy Austin, Renee Richards
+Martina Navratilova, Betty Stove
+Anne Smith, Yvonne Vermaak
+Marise Kruger, Wendy Turnbull
+Greer Stevens, Ann Kiyomura Hayashi
+Mima Jausovec, Sharon Walsh Pete
+Kerry Reid, Pam Teeguarden
+Sue Barker, Virginia Ruzici
+Tracy Austin, Mary Lou Piatek
+Martina Navratilova, Anne Smith
+Greer Stevens, Marise Kruger
+Kerry Reid, Mima Jausovec
+Tracy Austin, Sue Barker
+Martina Navratilova, Greer Stevens
+Tracy Austin, Kerry Reid
+Martina Navratilova, Tracy Austin
+Kerry Reid, Greer Stevens
+Martina Navratilova, Linda Siegel
+Lele Forood, Marita Redondo
+Brigette Cuypers, Betsy Nagelsen
+Billie Jean King, Anne Hobbs
+Pam Teeguarden, Dianne Fromholtz
+Rosie Casals, Sherry Acker
+Yvonne Vermaak, Marise Kruger
+Evonne Goolagong, Barbara Potter
+Kathy May, Betty Ann Grubb
+Kate Latham, Ilana Kloss
+Lea Antonoplis, Michelle Tyler
+Sue Barker, Rayni Fox
+Pam Shriver, Joanne Russell
+Barbara Jordan, Diane Desfor
+Tanya Harford, Anthea Stewart
+Virginia Wade, Laura Dupont
+Martina Navratilova, Lele Forood
+Billie Jean King, Brigette Cuypers
+Pam Teeguarden, Rosie Casals
+Evonne Goolagong, Yvonne Vermaak
+Kate Latham, Kathy May
+Sue Barker, Lea Antonoplis
+Pam Shriver, Barbara Jordan
+Tanya Harford, Virginia Wade
+Billie Jean King, Martina Navratilova
+Evonne Goolagong, Pam Teeguarden
+Sue Barker, Kate Latham
+Tanya Harford, Pam Shriver
+Evonne Goolagong, Billie Jean King
+Sue Barker, Tanya Harford
+Evonne Goolagong, Sue Barker
+Martina Navratilova, Betsy Nagelsen
+Kay Mcdaniel, Janet Newberry
+Kate Latham, Marita Redondo
+Caroline Stoll, Regina Marsikova
+Marise Kruger, Laura Dupont
+Jeanne Duvall, Mareen Louie Harper
+Francoise Durr, Anne Smith
+Stacy Margolin, Sue Stap
+Tracy Austin, Hana Strachonova
+Rayni Fox, Rene Blount
+Mima Jausovec, Ruta Gerulaitis
+Nancy Yeargin, Lisa Doherty
+Linda Siegel, Kerry Reid
+Renata Tomanova, Lesley Hunt
+Terry Holladay, Hana Mandlikova
+Iva Budarova, Julie Harrington
+Carrie Meyer, Anthea Stewart
+Mary Lou Piatek, Kathy Jordan
+Lea Antonoplis, Barbara Jordan
+Virginia Wade, Betty Ann Grubb
+Jean Hepner, Kim Sands
+Rosie Casals, Renee Richards
+Diane Desfor, Patricia Medrado
+Dianne Fromholtz, Marcie Louie
+Bettina Bunge, Laurie Fleming
+Sue Barker, Yvonne Vermaak
+Marjorie Blackwood, Barbara Hallquist
+Kathy May, Sharon Walsh Pete
+Nina Bohm, Isabel Fernandez De Soto
+Ilana Kloss, Dana Gilbert
+Leslie Allen, Sandy Stap
+Chris Evert, Wendy Barlow
+Martina Navratilova, Kay Mcdaniel
+Caroline Stoll, Kate Latham
+Marise Kruger, Jeanne Duvall
+Stacy Margolin, Francoise Durr
+Tracy Austin, Rayni Fox
+Mima Jausovec, Nancy Yeargin
+Renata Tomanova, Linda Siegel
+Terry Holladay, Iva Budarova
+Carrie Meyer, Mary Lou Piatek
+Virginia Wade, Lea Antonoplis
+Rosie Casals, Jean Hepner
+Dianne Fromholtz, Diane Desfor
+Sue Barker, Bettina Bunge
+Kathy May, Marjorie Blackwood
+Ilana Kloss, Nina Bohm
+Chris Evert, Leslie Allen
+Martina Navratilova, Caroline Stoll
+Stacy Margolin, Marise Kruger
+Tracy Austin, Mima Jausovec
+Renata Tomanova, Terry Holladay
+Virginia Wade, Carrie Meyer
+Dianne Fromholtz, Rosie Casals
+Sue Barker, Kathy May
+Chris Evert, Ilana Kloss
+Martina Navratilova, Stacy Margolin
+Tracy Austin, Renata Tomanova
+Virginia Wade, Dianne Fromholtz
+Chris Evert, Sue Barker
+Martina Navratilova, Tracy Austin
+Chris Evert, Virginia Wade
+Martina Navratilova, Chris Evert
+Tracy Austin, Virginia Wade
+Martina Navratilova, Rene Blount
+Kate Latham, Kay Mcdaniel
+Anne Smith, Jeanne Duvall
+Marita Redondo, Leslie Allen
+Greer Stevens, Terry Holladay
+Mima Jausovec, Nina Bohm
+Wendy Turnbull, Regina Marsikova
+Marcie Louie, Betty Stove
+Renee Richards, Hana Mandlikova
+Ann Kiyomura Hayashi, Betty Ann Grubb
+Rosie Casals, Barbara Jordan
+Virginia Wade, Diane Desfor
+Carrie Meyer, Pam Teeguarden
+Virginia Ruzici, Iva Budarova
+Sue Barker, Barbara Potter
+Dianne Fromholtz, Renata Tomanova
+Martina Navratilova, Kate Latham
+Anne Smith, Marita Redondo
+Mima Jausovec, Greer Stevens
+Wendy Turnbull, Marcie Louie
+Ann Kiyomura Hayashi, Renee Richards
+Rosie Casals, Virginia Wade
+Virginia Ruzici, Carrie Meyer
+Dianne Fromholtz, Sue Barker
+Martina Navratilova, Anne Smith
+Wendy Turnbull, Mima Jausovec
+Rosie Casals, Ann Kiyomura Hayashi
+Virginia Ruzici, Dianne Fromholtz
+Wendy Turnbull, Martina Navratilova
+Virginia Ruzici, Rosie Casals
+Wendy Turnbull, Virginia Ruzici
+Martina Navratilova, Rosie Casals
+Martina Navratilova, Marise Kruger
+Jo Durie, Mima Jausovec
+Anne Hobbs, Michelle Tyler
+Joanne Russell, Hana Strachonova
+Greer Stevens, Viviana Gonzalez
+Sherry Acker, Amanda Tobin
+Sylvia Hanika, Lele Forood
+Wendy Turnbull, Barbara Hallquist
+Tracy Austin, Glynis Coles
+Betsy Nagelsen, Diane Desfor
+Kate Latham, Kathy May
+Kathy Jordan, Yvonne Vermaak
+Ann Kiyomura Hayashi, Mary Carillo
+Ilana Kloss, Renata Tomanova
+Barbara Potter, Stacy Margolin
+Virginia Ruzici, Marie Pinterova
+Rayni Fox, Elly Appel
+Deborah Jevans, Dana Gilbert
+Betty Ann Grubb, Sharon Walsh Pete
+Bettina Bunge, Sue Barker
+Regina Marsikova, Ivanna Madruga
+Laura Dupont, Anthea Stewart
+Pam Teeguarden, Silvana Urroz
+Virginia Wade, Jeanne Duvall
+Kerry Reid, Marita Redondo
+Hana Mandlikova, Anna Maria Fernandez
+Kay Mcdaniel, Lea Antonoplis
+Billie Jean King, Barbara Jordan
+Betty Stove, Cynthia Doerner
+Francoise Durr, Rosie Casals
+Anne Smith, Linda Siegel
+Chris Evert, Carrie Meyer
+Martina Navratilova, Jo Durie
+Anne Hobbs, Joanne Russell
+Greer Stevens, Sherry Acker
+Wendy Turnbull, Sylvia Hanika
+Tracy Austin, Betsy Nagelsen
+Kathy Jordan, Kate Latham
+Ilana Kloss, Ann Kiyomura Hayashi
+Virginia Ruzici, Barbara Potter
+Rayni Fox, Deborah Jevans
+Bettina Bunge, Betty Ann Grubb
+Regina Marsikova, Laura Dupont
+Virginia Wade, Pam Teeguarden
+Kerry Reid, Hana Mandlikova
+Billie Jean King, Kay Mcdaniel
+Betty Stove, Francoise Durr
+Chris Evert, Anne Smith
+Martina Navratilova, Anne Hobbs
+Wendy Turnbull, Greer Stevens
+Tracy Austin, Kathy Jordan
+Ilana Kloss, Virginia Ruzici
+Bettina Bunge, Rayni Fox
+Virginia Wade, Regina Marsikova
+Kerry Reid, Billie Jean King
+Chris Evert, Betty Stove
+Martina Navratilova, Wendy Turnbull
+Tracy Austin, Ilana Kloss
+Virginia Wade, Bettina Bunge
+Chris Evert, Kerry Reid
+Martina Navratilova, Tracy Austin
+Chris Evert, Virginia Wade
+Chris Evert, Martina Navratilova
+Martina Navratilova, Rosie Casals
+Barbara Jordan, Beth Norton
+Mima Jausovec, Zenda Liess
+Sylvia Hanika, Dana Gilbert
+Kerry Reid, Lesley Hunt
+Linda Siegel, Anna Maria Fernandez
+Regina Marsikova, Anne Smith
+Lele Forood, Betsy Nagelsen
+Bettina Bunge, Renata Tomanova
+Betty Stove, Joanne Russell
+Renee Richards, Stacy Margolin
+Evonne Goolagong, Caroline Stoll
+Laura Dupont, Barbara Potter
+Pam Shriver, Francoise Durr
+Jeanne Duvall, Carrie Meyer
+Tracy Austin, Diane Desfor
+Martina Navratilova, Barbara Jordan
+Mima Jausovec, Sylvia Hanika
+Kerry Reid, Linda Siegel
+Lele Forood, Regina Marsikova
+Betty Stove, Bettina Bunge
+Evonne Goolagong, Renee Richards
+Laura Dupont, Pam Shriver
+Tracy Austin, Jeanne Duvall
+Martina Navratilova, Mima Jausovec
+Kerry Reid, Lele Forood
+Evonne Goolagong, Betty Stove
+Tracy Austin, Laura Dupont
+Kerry Reid, Martina Navratilova
+Tracy Austin, Evonne Goolagong
+Tracy Austin, Kerry Reid
+Martina Navratilova, Evonne Goolagong
+Greer Stevens, Chris Evert
+Janet Newberry, Nancy Yeargin
+Kathy May, Renee Richards
+Carrie Meyer, Ruta Gerulaitis
+Wendy Turnbull, Kathy Jordan
+Marise Kruger, Diane Desfor
+Kate Latham, Rosie Casals
+Terry Holladay, Sharon Walsh Pete
+Barbara Jordan, Laurie Fleming
+Dianne Fromholtz, Linda Siegel
+Sue Barker, Mareen Louie Harper
+Tracy Austin, Caroline Stoll
+Betty Ann Grubb, Ilana Kloss
+Virginia Ruzici, Yvonne Vermaak
+Betsy Nagelsen, Lesley Hunt
+Virginia Wade, Mima Jausovec
+Greer Stevens, Janet Newberry
+Carrie Meyer, Kathy May
+Marise Kruger, Wendy Turnbull
+Terry Holladay, Kate Latham
+Dianne Fromholtz, Barbara Jordan
+Sue Barker, Tracy Austin
+Virginia Ruzici, Betty Ann Grubb
+Virginia Wade, Betsy Nagelsen
+Greer Stevens, Carrie Meyer
+Marise Kruger, Terry Holladay
+Dianne Fromholtz, Sue Barker
+Virginia Wade, Virginia Ruzici
+Greer Stevens, Marise Kruger
+Dianne Fromholtz, Virginia Wade
+Greer Stevens, Dianne Fromholtz
+Virginia Wade, Marise Kruger
+Martina Navratilova, Renee Richards
+Marise Kruger, Regina Marsikova
+Virginia Ruzici, Yvonne Vermaak
+Anne Smith, Greer Stevens
+Betty Ann Grubb, Betty Stove
+Stacy Margolin, Jeanne Duvall
+Dianne Fromholtz, Caroline Stoll
+Lesley Hunt, Marita Redondo
+Kate Latham, Sue Barker
+Rosie Casals, Francoise Durr
+Terry Holladay, Linda Siegel
+Wendy Turnbull, Janet Newberry
+Mima Jausovec, Florenta Mihai
+Kathy Jordan, Pam Shriver
+Carrie Meyer, Brigette Cuypers
+Virginia Wade, Barbara Jordan
+Martina Navratilova, Marise Kruger
+Virginia Ruzici, Anne Smith
+Stacy Margolin, Betty Ann Grubb
+Dianne Fromholtz, Lesley Hunt
+Rosie Casals, Kate Latham
+Wendy Turnbull, Terry Holladay
+Kathy Jordan, Mima Jausovec
+Virginia Wade, Carrie Meyer
+Martina Navratilova, Virginia Ruzici
+Dianne Fromholtz, Stacy Margolin
+Wendy Turnbull, Rosie Casals
+Virginia Wade, Kathy Jordan
+Martina Navratilova, Dianne Fromholtz
+Virginia Wade, Wendy Turnbull
+Martina Navratilova, Virginia Wade
+Martina Navratilova, Rosie Casals
+Marita Redondo, Betty Stove
+Kerry Reid, Stephanie Tolleson
+Barbara Potter, Renata Tomanova
+Tracy Austin, Betty Ann Grubb
+Mima Jausovec, Hana Mandlikova
+Ann Kiyomura Hayashi, Stacy Margolin
+Kathy Jordan, Bettina Bunge
+Kathy May, Anne Smith
+Wendy Turnbull, Carrie Meyer
+Kay Mcdaniel, Kate Latham
+Greer Stevens, Sue Barker
+Terry Holladay, Pam Teeguarden
+Virginia Ruzici, Leslie Allen
+Jeanne Duvall, Renee Richards
+Chris Evert, Regina Marsikova
+Martina Navratilova, Marita Redondo
+Barbara Potter, Kerry Reid
+Tracy Austin, Mima Jausovec
+Ann Kiyomura Hayashi, Kathy Jordan
+Wendy Turnbull, Kathy May
+Greer Stevens, Kay Mcdaniel
+Virginia Ruzici, Terry Holladay
+Chris Evert, Jeanne Duvall
+Martina Navratilova, Barbara Potter
+Tracy Austin, Ann Kiyomura Hayashi
+Greer Stevens, Wendy Turnbull
+Chris Evert, Virginia Ruzici
+Martina Navratilova, Tracy Austin
+Chris Evert, Greer Stevens
+Chris Evert, Martina Navratilova
+Tracy Austin, Greer Stevens
+Chris Evert, Yvonne Vermaak
+Mima Jausovec, Kathy May
+Sue Barker, Kate Latham
+Betty Ann Grubb, Pam Shriver
+Ann Kiyomura Hayashi, Virginia Wade
+Ivanna Madruga, Zenda Liess
+Billie Jean King, Sylvia Hanika
+Betty Stove, Renee Richards
+Hana Mandlikova, Bettina Bunge
+Virginia Ruzici, Pam Teeguarden
+Terry Holladay, Lele Forood
+Jeanne Duvall, Dianne Fromholtz
+Leslie Allen, Ilana Kloss
+Regina Marsikova, Barbara Potter
+Marita Redondo, Linda Siegel
+Tracy Austin, Janet Newberry
+Chris Evert, Mima Jausovec
+Sue Barker, Betty Ann Grubb
+Ivanna Madruga, Ann Kiyomura Hayashi
+Betty Stove, Billie Jean King
+Virginia Ruzici, Hana Mandlikova
+Terry Holladay, Jeanne Duvall
+Regina Marsikova, Leslie Allen
+Tracy Austin, Marita Redondo
+Chris Evert, Sue Barker
+Betty Stove, Ivanna Madruga
+Virginia Ruzici, Terry Holladay
+Tracy Austin, Regina Marsikova
+Chris Evert, Betty Stove
+Tracy Austin, Virginia Ruzici
+Chris Evert, Tracy Austin
+Evonne Goolagong, Sharon Walsh Pete
+Mimi Wikstedt, Dianne Evers
+Rene Blount, Renata Tomanova
+Susan Leo, Kerry Reid
+Dianne Fromholtz, Bettina Bunge
+Betty Ann Grubb, Naoko Sato
+Ilana Kloss, Marcella Mesker
+Hana Mandlikova, Roberta Mccallum
+Sue Barker, Diane Desfor
+Anne Smith, Barbara Hallquist
+Diane Morrison, Chris Oneil
+Wendy Turnbull, Regina Marsikova
+Virginia Ruzici, Cynthia Doerner
+Rosalyn Fairbank, Sherry Acker
+Pam Shriver, Janet Newberry
+Billie Jean King, Rayni Fox
+Mimi Wikstedt, Evonne Goolagong
+Rene Blount, Susan Leo
+Dianne Fromholtz, Betty Ann Grubb
+Hana Mandlikova, Ilana Kloss
+Sue Barker, Anne Smith
+Wendy Turnbull, Diane Morrison
+Virginia Ruzici, Rosalyn Fairbank
+Billie Jean King, Pam Shriver
+Rene Blount, Mimi Wikstedt
+Hana Mandlikova, Dianne Fromholtz
+Wendy Turnbull, Sue Barker
+Virginia Ruzici, Billie Jean King
+Hana Mandlikova, Rene Blount
+Wendy Turnbull, Virginia Ruzici
+Hana Mandlikova, Wendy Turnbull
+Martina Navratilova, Anne Smith
+Yvonne Vermaak, Lesley Hunt
+Kathy May, Renata Tomanova
+Betty Ann Grubb, Brigette Cuypers
+Betty Stove, Michelle Tyler
+Mima Jausovec, Jeanne Duvall
+Rosie Casals, Ilana Kloss
+Ann Kiyomura Hayashi, Florenta Mihai
+Kate Latham, Lele Forood
+Virginia Ruzici, Stacy Margolin
+Caroline Stoll, Laura Dupont
+Dianne Fromholtz, Janet Newberry
+Marise Kruger, Isabel Fernandez De Soto
+Marita Redondo, Mareen Louie Harper
+Renee Richards, Francoise Durr
+Chris Evert, Barbara Jordan
+Martina Navratilova, Yvonne Vermaak
+Kathy May, Betty Ann Grubb
+Mima Jausovec, Betty Stove
+Ann Kiyomura Hayashi, Rosie Casals
+Virginia Ruzici, Kate Latham
+Dianne Fromholtz, Caroline Stoll
+Marita Redondo, Marise Kruger
+Chris Evert, Renee Richards
+Martina Navratilova, Kathy May
+Ann Kiyomura Hayashi, Mima Jausovec
+Dianne Fromholtz, Virginia Ruzici
+Chris Evert, Marita Redondo
+Martina Navratilova, Ann Kiyomura Hayashi
+Chris Evert, Dianne Fromholtz
+Martina Navratilova, Chris Evert
+Dianne Fromholtz, Ann Kiyomura Hayashi
+Kathy Jordan, Tracy Austin
+Rosie Casals, Marise Kruger
+Ann Kiyomura Hayashi, Nina Bohm
+Terry Holladay, Iva Budarova
+Wendy Turnbull, Rayni Fox
+Patricia Medrado, Pam Teeguarden
+Pam Shriver, Kerry Reid
+Mima Jausovec, Caroline Stoll
+Sherry Acker, Rene Blount
+Virginia Wade, Betty Stove
+Renee Richards, Sharon Walsh Pete
+Greer Stevens, Betty Ann Grubb
+Barbara Potter, Renata Tomanova
+Kathy May, Virginia Ruzici
+Sue Barker, Stacy Margolin
+Dianne Fromholtz, Ilana Kloss
+Rosie Casals, Kathy Jordan
+Terry Holladay, Ann Kiyomura Hayashi
+Wendy Turnbull, Patricia Medrado
+Pam Shriver, Mima Jausovec
+Virginia Wade, Sherry Acker
+Greer Stevens, Renee Richards
+Kathy May, Barbara Potter
+Sue Barker, Dianne Fromholtz
+Rosie Casals, Terry Holladay
+Wendy Turnbull, Pam Shriver
+Virginia Wade, Greer Stevens
+Sue Barker, Kathy May
+Wendy Turnbull, Rosie Casals
+Virginia Wade, Sue Barker
+Wendy Turnbull, Virginia Wade
+Sue Barker, Rosie Casals
+Martina Navratilova, Terry Holladay
+Mary Carillo, Stacy Margolin
+Laura Dupont, Virginia Ruzici
+Bettina Bunge, Anne Smith
+Dianne Fromholtz, Tanya Harford
+Kate Latham, Renata Tomanova
+Kerry Reid, Rosie Casals
+Renee Richards, Sylvia Hanika
+Betty Ann Grubb, Marise Kruger
+Caroline Stoll, Greer Stevens
+Betty Stove, Lele Forood
+Wendy Turnbull, Pam Shriver
+Ann Kiyomura Hayashi, Trey Lewis
+Ilana Kloss, Regina Marsikova
+Mima Jausovec, Barbara Jordan
+Chris Evert, Yvonne Vermaak
+Martina Navratilova, Mary Carillo
+Laura Dupont, Bettina Bunge
+Kate Latham, Dianne Fromholtz
+Kerry Reid, Renee Richards
+Caroline Stoll, Betty Ann Grubb
+Wendy Turnbull, Betty Stove
+Ann Kiyomura Hayashi, Ilana Kloss
+Chris Evert, Mima Jausovec
+Martina Navratilova, Laura Dupont
+Kate Latham, Kerry Reid
+Wendy Turnbull, Caroline Stoll
+Chris Evert, Ann Kiyomura Hayashi
+Martina Navratilova, Kate Latham
+Chris Evert, Wendy Turnbull
+Martina Navratilova, Chris Evert
+Kate Latham, Wendy Turnbull
+Martina Navratilova, Marita Redondo
+Sue Barker, Pam Shriver
+Regina Marsikova, Lele Forood
+Anne Smith, Yvonne Vermaak
+Wendy Turnbull, Betty Stove
+Stacy Margolin, Caroline Stoll
+Kerry Reid, Jeanne Duvall
+Rosie Casals, Wendy White
+Kathy Jordan, Renee Richards
+Ann Kiyomura Hayashi, Billie Jean King
+Kate Latham, Ilana Kloss
+Dianne Fromholtz, Terry Holladay
+Diane Morrison, Anna Maria Fernandez
+Greer Stevens, Ivanna Madruga
+Mima Jausovec, Barbara Potter
+Virginia Wade, Linda Siegel
+Martina Navratilova, Sue Barker
+Anne Smith, Regina Marsikova
+Wendy Turnbull, Stacy Margolin
+Kerry Reid, Rosie Casals
+Kathy Jordan, Ann Kiyomura Hayashi
+Kate Latham, Dianne Fromholtz
+Greer Stevens, Diane Morrison
+Virginia Wade, Mima Jausovec
+Martina Navratilova, Anne Smith
+Wendy Turnbull, Kerry Reid
+Kathy Jordan, Kate Latham
+Virginia Wade, Greer Stevens
+Martina Navratilova, Wendy Turnbull
+Kathy Jordan, Virginia Wade
+Martina Navratilova, Kathy Jordan
+Chris Evert, Joanne Russell
+Janet Newberry, Betty Ann Grubb
+Ivanna Madruga, Linda Siegel
+Regina Marsikova, Greer Stevens
+Virginia Ruzici, Kerry Reid
+Caroline Stoll, Sabina Simmonds
+Yvonne Vermaak, Terry Holladay
+Tracy Austin, Mima Jausovec
+Dianne Fromholtz, Daniela Marzano
+Betty Stove, Sherry Acker
+Sylvia Hanika, Barbara Potter
+Renata Tomanova, Wendy Turnbull
+Evonne Goolagong, Jeanne Duvall
+Lele Forood, Anne Smith
+Rosie Casals, Ilana Kloss
+Iris Riedel Kuhn, Virginia Wade
+Chris Evert, Janet Newberry
+Ivanna Madruga, Regina Marsikova
+Virginia Ruzici, Caroline Stoll
+Tracy Austin, Yvonne Vermaak
+Dianne Fromholtz, Betty Stove
+Sylvia Hanika, Renata Tomanova
+Evonne Goolagong, Lele Forood
+Iris Riedel Kuhn, Rosie Casals
+Chris Evert, Ivanna Madruga
+Tracy Austin, Virginia Ruzici
+Sylvia Hanika, Dianne Fromholtz
+Evonne Goolagong, Iris Riedel Kuhn
+Tracy Austin, Chris Evert
+Sylvia Hanika, Evonne Goolagong
+Tracy Austin, Sylvia Hanika
+Martina Navratilova, Jeanne Duvall
+Betty Ann Grubb, Stacy Margolin
+Laura Dupont, Anna Maria Fernandez
+Anne Smith, Barbara Jordan
+Virginia Wade, Brigette Cuypers
+Lele Forood, Leslie Allen
+Kerry Reid, Dana Gilbert
+Pam Teeguarden, Mareen Louie Harper
+Barbara Hallquist, Rosie Casals
+Kathy Jordan, Zenda Liess
+Diane Desfor, Viviana Gonzalez
+Marita Redondo, Wendy Turnbull
+Sharon Walsh Pete, Kate Latham
+Ann Kiyomura Hayashi, Betsy Nagelsen
+Terry Holladay, Renee Richards
+Tracy Austin, Lea Antonoplis
+Martina Navratilova, Betty Ann Grubb
+Anne Smith, Laura Dupont
+Virginia Wade, Lele Forood
+Kerry Reid, Pam Teeguarden
+Kathy Jordan, Barbara Hallquist
+Marita Redondo, Diane Desfor
+Ann Kiyomura Hayashi, Sharon Walsh Pete
+Tracy Austin, Terry Holladay
+Martina Navratilova, Anne Smith
+Virginia Wade, Kerry Reid
+Kathy Jordan, Marita Redondo
+Tracy Austin, Ann Kiyomura Hayashi
+Martina Navratilova, Virginia Wade
+Tracy Austin, Kathy Jordan
+Tracy Austin, Martina Navratilova
+Kathy Jordan, Virginia Wade
+Martina Navratilova, Sylvia Hanika
+Tanya Harford, Betsy Nagelsen
+Ilana Kloss, Iva Budarova
+Kerry Reid, Pam Teeguarden
+Billie Jean King, Helena Anliot
+Nina Bohm, Ann Kiyomura Hayashi
+Stacy Margolin, Betty Stove
+Mima Jausovec, Virginia Ruzici
+Regina Marsikova, Rene Blount
+Laura Dupont, Terry Holladay
+Hana Mandlikova, Iris Riedel Kuhn
+Tracy Austin, Leslie Allen
+Wendy Turnbull, Barbara Potter
+Bettina Bunge, Sharon Walsh Pete
+Anne Smith, Renata Tomanova
+Chris Evert, Marita Redondo
+Martina Navratilova, Tanya Harford
+Kerry Reid, Ilana Kloss
+Nina Bohm, Billie Jean King
+Mima Jausovec, Stacy Margolin
+Regina Marsikova, Laura Dupont
+Tracy Austin, Hana Mandlikova
+Wendy Turnbull, Bettina Bunge
+Chris Evert, Anne Smith
+Martina Navratilova, Kerry Reid
+Mima Jausovec, Nina Bohm
+Tracy Austin, Regina Marsikova
+Chris Evert, Wendy Turnbull
+Martina Navratilova, Mima Jausovec
+Tracy Austin, Chris Evert
+Tracy Austin, Martina Navratilova
+Sharon Walsh Pete, Dianne Evers
+Diane Desfor, Rayni Fox
+Anne Smith, Ilana Kloss
+Virginia Ruzici, Barbara Hallquist
+Dianne Fromholtz, Pam Shriver
+Rosalyn Fairbank, Roberta Mccallum
+Renata Tomanova, Barbara Jordan
+Hana Mandlikova, Marcella Mesker
+Sue Barker, Sherry Acker
+Chris Oneil, Mimi Wikstedt
+Diane Morrison, Cynthia Doerner
+Wendy Turnbull, Petra Delhees Jauch
+Regina Marsikova, Kym Ruddell
+Naoko Sato, Janet Newberry
+Betty Ann Grubb, Debbie Freeman
+Billie Jean King, Bettina Bunge
+Diane Desfor, Sharon Walsh Pete
+Virginia Ruzici, Anne Smith
+Rosalyn Fairbank, Dianne Fromholtz
+Hana Mandlikova, Renata Tomanova
+Sue Barker, Chris Oneil
+Wendy Turnbull, Diane Morrison
+Regina Marsikova, Naoko Sato
+Betty Ann Grubb, Billie Jean King
+Diane Desfor, Virginia Ruzici
+Rosalyn Fairbank, Hana Mandlikova
+Sue Barker, Wendy Turnbull
+Regina Marsikova, Betty Ann Grubb
+Rosalyn Fairbank, Diane Desfor
+Sue Barker, Regina Marsikova
+Sue Barker, Rosalyn Fairbank
+Chris Evert, Mareen Louie Harper
+Yvonne Vermaak, Sue Barker
+Virginia Ruzici, Kathy Horvath
+Lele Forood, Ilana Kloss
+Caroline Stoll, Dianne Fromholtz
+Regina Marsikova, Mima Jausovec
+Virginia Wade, Renata Tomanova
+Rosie Casals, Barbara Potter
+Wendy White, Greer Stevens
+Wendy Turnbull, Renee Richards
+Laura Dupont, Jeanne Duvall
+Evonne Goolagong, Tanya Harford
+Betty Ann Grubb, Marise Kruger
+Kerry Reid, Bettina Bunge
+Anne Smith, Zenda Liess
+Tracy Austin, Anne Hobbs
+Chris Evert, Yvonne Vermaak
+Virginia Ruzici, Lele Forood
+Regina Marsikova, Caroline Stoll
+Virginia Wade, Rosie Casals
+Wendy Turnbull, Wendy White
+Evonne Goolagong, Laura Dupont
+Kerry Reid, Betty Ann Grubb
+Tracy Austin, Anne Smith
+Chris Evert, Virginia Ruzici
+Virginia Wade, Regina Marsikova
+Evonne Goolagong, Wendy Turnbull
+Tracy Austin, Kerry Reid
+Virginia Wade, Chris Evert
+Evonne Goolagong, Tracy Austin
+Evonne Goolagong, Virginia Wade
+Dana Gilbert, Virginia Wade
+Terry Holladay, Barbara Hallquist
+Ann Kiyomura Hayashi, Kathy Jordan
+Sherry Acker, Leslie Allen
+Evonne Goolagong, Linda Siegel
+Anne Smith, Barbara Potter
+Kerry Reid, Diane Desfor
+Kate Latham, Carrie Meyer
+Mareen Louie Harper, Betsy Nagelsen
+Billie Jean King, Julie Harrington
+Sharon Walsh Pete, Naoko Sato
+Wendy Turnbull, Barbara Jordan
+Zenda Liess, Stacy Margolin
+Betty Stove, Rayni Fox
+Laura Dupont, Jeanne Duvall
+Dianne Fromholtz, Brigette Cuypers
+Terry Holladay, Dana Gilbert
+Ann Kiyomura Hayashi, Sherry Acker
+Evonne Goolagong, Anne Smith
+Kerry Reid, Kate Latham
+Billie Jean King, Mareen Louie Harper
+Wendy Turnbull, Sharon Walsh Pete
+Betty Stove, Zenda Liess
+Dianne Fromholtz, Laura Dupont
+Ann Kiyomura Hayashi, Terry Holladay
+Evonne Goolagong, Kerry Reid
+Billie Jean King, Wendy Turnbull
+Dianne Fromholtz, Betty Stove
+Evonne Goolagong, Ann Kiyomura Hayashi
+Billie Jean King, Dianne Fromholtz
+Billie Jean King, Evonne Goolagong
+Dianne Fromholtz, Ann Kiyomura Hayashi
+Chris Evert, Paula Smith
+Renata Tomanova, Lele Forood
+Sherry Acker, Mimi Wikstedt
+Mima Jausovec, Rene Blount
+Joyce Portman, Mareen Louie Harper
+Joanne Russell, Ruta Gerulaitis
+Kaye Hallam, Lisa Doherty
+Stacy Margolin, Sue Saliba
+Caroline Stoll, Judy Chaloner
+Anne Smith, Chris Oneil
+Laura Dupont, Mary Carillo
+Evonne Goolagong, Trey Lewis
+Kate Latham, Janet Newberry
+Emilse Raponi Longo, Leslie Allen
+Viviana Gonzalez, Nancy Yeargin
+Diane Desfor, Linda Tuero
+Chris Evert, Wendy White
+Renata Tomanova, Barbara Jordan
+Sherry Acker, Barbara Hallquist
+Mima Jausovec, Kathy Jordan
+Virginia Ruzici, Joyce Portman
+Joanne Russell, Mary Lou Piatek
+Kaye Hallam, Linda Siegel
+Renee Richards, Stacy Margolin
+Caroline Stoll, Dianne Evers
+Anne Smith, Ivanna Madruga
+Dana Gilbert, Laura Dupont
+Evonne Goolagong, Betsy Nagelsen
+Regina Marsikova, Kate Latham
+Emilse Raponi Longo, Zenda Liess
+Jeanne Duvall, Viviana Gonzalez
+Kerry Reid, Diane Desfor
+Chris Evert, Renata Tomanova
+Mima Jausovec, Sherry Acker
+Virginia Ruzici, Joanne Russell
+Renee Richards, Kaye Hallam
+Anne Smith, Caroline Stoll
+Evonne Goolagong, Dana Gilbert
+Regina Marsikova, Emilse Raponi Longo
+Jeanne Duvall, Kerry Reid
+Chris Evert, Mima Jausovec
+Renee Richards, Virginia Ruzici
+Evonne Goolagong, Anne Smith
+Regina Marsikova, Jeanne Duvall
+Chris Evert, Renee Richards
+Evonne Goolagong, Regina Marsikova
+Chris Evert, Evonne Goolagong
+Martina Navratilova, Dana Gilbert
+Mary Carillo, Julie Anthony
+Wendy Turnbull, Glynis Coles
+Ann Kiyomura Hayashi, Marise Kruger
+Billie Jean King, Terry Holladay
+Greer Stevens, Rosie Casals
+Dianne Fromholtz, Pam Shriver
+Lele Forood, Caroline Stoll
+Betty Ann Grubb, Sherry Acker
+Virginia Wade, Yvonne Vermaak
+Betty Stove, Mima Jausovec
+Evonne Goolagong, Renee Richards
+Anne Smith, Carrie Meyer
+Kerry Reid, Sylvia Hanika
+Stacy Margolin, Ilana Kloss
+Tracy Austin, Barbara Potter
+Martina Navratilova, Mary Carillo
+Ann Kiyomura Hayashi, Wendy Turnbull
+Billie Jean King, Greer Stevens
+Dianne Fromholtz, Lele Forood
+Virginia Wade, Betty Ann Grubb
+Evonne Goolagong, Betty Stove
+Kerry Reid, Anne Smith
+Tracy Austin, Stacy Margolin
+Martina Navratilova, Ann Kiyomura Hayashi
+Dianne Fromholtz, Billie Jean King
+Evonne Goolagong, Virginia Wade
+Tracy Austin, Kerry Reid
+Dianne Fromholtz, Martina Navratilova
+Evonne Goolagong, Tracy Austin
+Evonne Goolagong, Dianne Fromholtz
+Tracy Austin, Martina Navratilova
+Chris Evert, Frederique Thibault
+Zenda Liess, Bettina Bunge
+Betty Ann Grubb, Sherry Acker
+Yvonne Vermaak, Marise Kruger
+Kerry Reid, Daniela Marzano
+Renata Tomanova, Ilana Kloss
+Janet Newberry, Barbara Potter
+Regina Marsikova, Jeanne Duvall
+Virginia Ruzici, Ruta Gerulaitis
+Pam Teeguarden, Andrea Pesak
+Michelle Tyler, Lele Forood
+Wendy Turnbull, Lesley Hunt
+Mima Jausovec, Uschi Ulrich
+Caroline Stoll, Iva Budarova
+Ivanna Madruga, Viviana Gonzalez
+Dianne Fromholtz, Anne Smith
+Chris Evert, Zenda Liess
+Yvonne Vermaak, Betty Ann Grubb
+Kerry Reid, Renata Tomanova
+Regina Marsikova, Janet Newberry
+Virginia Ruzici, Pam Teeguarden
+Wendy Turnbull, Michelle Tyler
+Caroline Stoll, Mima Jausovec
+Dianne Fromholtz, Ivanna Madruga
+Chris Evert, Yvonne Vermaak
+Regina Marsikova, Kerry Reid
+Virginia Ruzici, Wendy Turnbull
+Caroline Stoll, Dianne Fromholtz
+Chris Evert, Regina Marsikova
+Caroline Stoll, Virginia Ruzici
+Chris Evert, Caroline Stoll
+Martina Navratilova, Lea Antonoplis
+Ruta Gerulaitis, Dana Gilbert
+Mima Jausovec, Nancy Ornstein
+Ann Kiyomura Hayashi, Jeanne Duvall
+Dianne Fromholtz, Joanne Russell
+Mareen Louie Harper, Viviana Gonzalez
+Renee Richards, Virginia Ruzici
+Pam Teeguarden, Yvonne Vermaak
+Ilana Kloss, Laura Dupont
+Rosie Casals, Sharon Walsh Pete
+Janet Newberry, Caroline Stoll
+Anne Smith, Betty Stove
+Hana Strachonova, Stephanie Tolleson
+Pam Shriver, Francoise Durr
+Diane Desfor, Julie Anthony
+Tracy Austin, Barbara Hallquist
+Martina Navratilova, Ruta Gerulaitis
+Ann Kiyomura Hayashi, Mima Jausovec
+Dianne Fromholtz, Mareen Louie Harper
+Pam Teeguarden, Renee Richards
+Ilana Kloss, Rosie Casals
+Anne Smith, Janet Newberry
+Pam Shriver, Hana Strachonova
+Tracy Austin, Diane Desfor
+Martina Navratilova, Ann Kiyomura Hayashi
+Dianne Fromholtz, Pam Teeguarden
+Ilana Kloss, Anne Smith
+Tracy Austin, Pam Shriver
+Martina Navratilova, Dianne Fromholtz
+Tracy Austin, Ilana Kloss
+Tracy Austin, Martina Navratilova
+Sabina Simmonds, Suthasini Sirikaya
+Daniela Marzano, Chalada Wattana
+Lena Sandin, Hagit Zubary
+Helena Anliot, Paulina Peisachov
+Monica Alvarez, Renata Sasak
+Mima Jausovec, Carmen Perea Alcala
+Wendy Turnbull, Elly Appel
+Dianne Fromholtz, Betty Stove
+Wendy Turnbull, Nina Bland
+Dianne Fromholtz, Marjorie Blackwood
+Irina Shevchenko, Rita Krombach
+Olga Morozova, Simone Wolter
+Lucia Romanov, Maluca Llamas
+Mariana Simionescu, Alejandra Vallejo
+Hsiu Tsuan Wen, Rita Krombach
+Simone Wolter, Chiu Mei Ho
+Elly Appel, Kiyoko Nomura
+Betty Stove, Sonoe Yonezawa
+Naoko Sato, Bente Kjolstad
+Sonoe Yonezawa, Ellen Grindvold
+Nam Sook Kim, Patricia Alvarenga
+Duk Hee Lee, Deborah Fiuza
+Nam Sook Kim, Chris Newton
+Brenda Perry, Duk Hee Lee
+Emilse Raponi Longo, Anna Nemeth
+Ivanna Madruga, Judith Szorenyi
+Emilse Raponi Longo, Carmen Perea Alcala
+Adriana Villagran Reami, Monica Alvarez
+Regina Marsikova, Judith Szorenyi
+Hana Mandlikova, Anna Nemeth
+Kerry Reid, Hana Mandlikova
+Dianne Fromholtz, Regina Marsikova
+Kerry Reid, Lea Degen
+Dianne Fromholtz, Mima Jausovec
+Christiane Jolissaint, Birgitte Hermansen
+Petra Delhees Jauch, Dorte Ekner
+Tracy Austin, Kerry Reid
+Chris Evert, Dianne Fromholtz
+Elly Appel, Emilse Raponi Longo
+Betty Stove, Ivanna Madruga
+Sue Barker, Chris Newton
+Virginia Wade, Brenda Perry
+Daniela Marzano, Frederique Thibault
+Francoise Durr, Sabina Simmonds
+Frederique Thibault, Lita Liem
+Brigitte Simon Glinel, Yolanda Sumarno
+Tracy Austin, Frederique Thibault
+Chris Evert, Brigitte Simon Glinel
+Hana Mandlikova, Lena Sandin
+Regina Marsikova, Helena Anliot
+Iris Riedel Kuhn, Nam Sook Kim
+Sylvia Hanika, Duk Hee Lee
+Tracy Austin, Iris Riedel Kuhn
+Chris Evert, Sylvia Hanika
+Hana Mandlikova, Sue Barker
+Regina Marsikova, Virginia Wade
+Sue Barker, Monique Van Haver
+Virginia Wade, Michele Gurdal
+Lucia Romanov, Christiane Jolissaint
+Petra Delhees Jauch, Mariana Simionescu
+Monique Van Haver, Bernadette Davy
+Michele Gurdal, Helen Lennon
+Monica Alvarez, Chalada Wattana
+Carmen Perea Alcala, Suthasini Sirikaya
+Natasha Chmyreva, Claudia Pasquale
+Petra Delhees Jauch, Olga Morozova
+Tracy Austin, Natasha Chmyreva
+Chris Evert, Olga Morozova
+Monica Alvarez, Nam Sook Kim
+Carmen Perea Alcala, Duk Hee Lee
+Hsiu Tsuan Wen, Leonora Peralta
+Deborah Fiuza, Chiu Mei Ho
+Natasha Chmyreva, Leonora Peralta
+Olga Morozova, Deborah Fiuza
+Monica Alvarez, Bente Kjolstad
+Carmen Perea Alcala, Ellen Grindvold
+Tracy Austin, Martina Navratilova
+Tracy Austin, Billie Jean King
+Billie Jean King, Dianne Fromholtz
+Martina Navratilova, Dianne Fromholtz
+Chris Evert, Yvonne Vermaak
+Mareen Louie Harper, Nancy Yeargin
+Marita Redondo, Francoise Durr
+Kathy Jordan, Janet Newberry
+Kerry Reid, Barbara Potter
+Julie Harrington, Betsy Nagelsen
+Virginia Ruzici, Maria Fernandez
+Hana Strachonova, Kate Latham
+Renee Richards, Lesley Hunt
+Sherry Acker, Sandy Stap
+Diane Desfor, Mima Jausovec
+Wendy Turnbull, Sharon Walsh Pete
+Betty Stove, Lisa Doherty
+Sue Barker, Bettina Bunge
+Jeanne Duvall, Rosie Casals
+Ann Kiyomura Hayashi, Ruta Gerulaitis
+Chris Evert, Mareen Louie Harper
+Kathy Jordan, Marita Redondo
+Kerry Reid, Julie Harrington
+Virginia Ruzici, Hana Strachonova
+Renee Richards, Sherry Acker
+Wendy Turnbull, Diane Desfor
+Betty Stove, Sue Barker
+Jeanne Duvall, Ann Kiyomura Hayashi
+Chris Evert, Kathy Jordan
+Kerry Reid, Virginia Ruzici
+Renee Richards, Wendy Turnbull
+Jeanne Duvall, Betty Stove
+Chris Evert, Kerry Reid
+Renee Richards, Jeanne Duvall
+Kerry Reid, Jeanne Duvall
+Chris Evert, Renee Richards
+Kathy Jordan, Rene Blount
+Betty Ann Grubb, Sherry Acker
+Barbara Potter, Sharon Walsh Pete
+Regina Marsikova, Sylvia Hanika
+Regina Marsikova, Barbara Potter
+Sharon Walsh Pete, Sylvia Hanika
+Kathy Jordan, Betty Ann Grubb
+Sherry Acker, Rene Blount
+Betty Ann Grubb, Sharon Walsh Pete
+Sherry Acker, Barbara Potter
+Sylvia Hanika, Rene Blount
+Sharon Walsh Pete, Barbara Potter
+Kathy Jordan, Sherry Acker
+Regina Marsikova, Betty Ann Grubb
+Betty Ann Grubb, Sherry Acker
+Kathy Jordan, Regina Marsikova
+Evonne Goolagong, Brenda Perry
+Diane Desfor, Mimi Wikstedt
+Lisa Doherty, Mariana Simionescu
+Chris Oneil, Ruta Gerulaitis
+Zenda Liess, Joanne Russell
+Lea Antonoplis, Lisette Senn
+Laura Dupont, Rene Blount
+Rayni Fox, Betsy Nagelsen
+Janet Newberry, Marjorie Blackwood
+Brigette Cuypers, Julie Harrington
+Kay Mcdaniel, Brigitte Simon Glinel
+Dana Gilbert, Tanya Harford
+Pam Teeguarden, Barbara Jordan
+Dianne Evers, Amanda Tobin
+Mary Carillo, Florenta Mihai
+Nina Bland, Renata Tomanova
+Diane Desfor, Evonne Goolagong
+Chris Oneil, Lisa Doherty
+Lea Antonoplis, Zenda Liess
+Laura Dupont, Rayni Fox
+Brigette Cuypers, Janet Newberry
+Kay Mcdaniel, Dana Gilbert
+Pam Teeguarden, Dianne Evers
+Mary Carillo, Nina Bland
+Diane Desfor, Chris Oneil
+Laura Dupont, Lea Antonoplis
+Brigette Cuypers, Kay Mcdaniel
+Pam Teeguarden, Mary Carillo
+Laura Dupont, Diane Desfor
+Brigette Cuypers, Pam Teeguarden
+Laura Dupont, Brigette Cuypers
+Billie Jean King, Hana Strachonova
+Rene Blount, Dana Gilbert
+Petra Delhees Jauch, Florenta Mihai
+Hana Mandlikova, Lea Antonoplis
+Virginia Ruzici, Sabina Simmonds
+Betsy Nagelsen, Daniela Marzano
+Pam Teeguarden, Ilana Kloss
+Anne Smith, Yvona Brzakova
+Mima Jausovec, Renata Tomanova
+Laura Dupont, Tanya Harford
+Lena Sandin, Iva Budarova
+Regina Marsikova, Helena Anliot
+Betty Stove, Elisabeth Ekblom
+Frederique Thibault, Sharon Walsh Pete
+Brigette Cuypers, Nina Bohm
+Wendy Turnbull, Stacy Margolin
+Billie Jean King, Rene Blount
+Hana Mandlikova, Petra Delhees Jauch
+Virginia Ruzici, Betsy Nagelsen
+Anne Smith, Pam Teeguarden
+Mima Jausovec, Laura Dupont
+Lena Sandin, Regina Marsikova
+Betty Stove, Frederique Thibault
+Brigette Cuypers, Wendy Turnbull
+Billie Jean King, Hana Mandlikova
+Virginia Ruzici, Anne Smith
+Lena Sandin, Mima Jausovec
+Betty Stove, Brigette Cuypers
+Billie Jean King, Virginia Ruzici
+Betty Stove, Lena Sandin
+Billie Jean King, Betty Stove
+Sue Barker, Cynthia Doerner
+Kym Ruddell, Jill Davis
+Barbara Jordan, Chris Oneil
+Janet Newberry, Sharon Walsh Pete
+Hana Mandlikova, Judy Chaloner
+Roberta Mccallum, Susan Leo
+Petra Delhees Jauch, Diane Desfor
+Rosalyn Fairbank, Brenda Perry
+Renata Tomanova, Rene Blount
+Dianne Evers, Barbara Hallquist
+Anne Hobbs, Elizabeth Little
+Leanne Harrison Austin, Karen Gulley
+Bettina Bunge, Jenny Dimond
+Mimi Wikstedt, Brenda Catton
+Sue Saliba, Marcella Mesker
+Diane Morrison, Pam Whytcross
+Sue Barker, Kym Ruddell
+Janet Newberry, Barbara Jordan
+Hana Mandlikova, Roberta Mccallum
+Rosalyn Fairbank, Petra Delhees Jauch
+Renata Tomanova, Dianne Evers
+Leanne Harrison Austin, Anne Hobbs
+Bettina Bunge, Mimi Wikstedt
+Diane Morrison, Sue Saliba
+Sue Barker, Janet Newberry
+Hana Mandlikova, Rosalyn Fairbank
+Renata Tomanova, Leanne Harrison Austin
+Bettina Bunge, Diane Morrison
+Hana Mandlikova, Sue Barker
+Bettina Bunge, Renata Tomanova
+Hana Mandlikova, Bettina Bunge
+Mary Sawyer, Virginia Ruzici
+Naoko Sato, Elizabeth Little
+Judy Chaloner, Linda Cassell
+Janet Newberry, Dianne Evers
+Sharon Walsh Pete, Marcella Mesker
+Jutta Diesslin, Jenny Dimond
+Keryn Pratt, Chris Newton
+Michele Gurdal, Cathy Griffiths
+Cynthia Doerner, Kym Ruddell
+Sue Saliba, Susan Leo
+Pam Whytcross, Mimi Wikstedt
+Renata Tomanova, Nerida Gregory
+Barbara Jordan, Kaye Hallam
+Anne Minter, Brenda Catton
+Leanne Harrison Austin, Bernadette Randall
+Hana Mandlikova, Jenny Walker
+Mary Sawyer, Naoko Sato
+Janet Newberry, Judy Chaloner
+Sharon Walsh Pete, Jutta Diesslin
+Michele Gurdal, Keryn Pratt
+Cynthia Doerner, Sue Saliba
+Renata Tomanova, Pam Whytcross
+Barbara Jordan, Anne Minter
+Hana Mandlikova, Leanne Harrison Austin
+Mary Sawyer, Janet Newberry
+Sharon Walsh Pete, Michele Gurdal
+Renata Tomanova, Cynthia Doerner
+Barbara Jordan, Hana Mandlikova
+Sharon Walsh Pete, Mary Sawyer
+Barbara Jordan, Renata Tomanova
+Barbara Jordan, Sharon Walsh Pete
+Pam Whytcross, Brenda Perry
+Anne Chevalier, Tine Zwaan
+Katja Ebbinghaus, Jutta Diesslin
+Annina Von Planta,  Speidel
+Sabina Simmonds, Birthe Glatzel
+Elisabeth Ekblom, Andrea Steinegger
+Monica Simmen, Kerstin Seelbach
+Edith Winkens, Helene Brywe
+Petra Delhees Jauch, Anke Wiedenhorn
+Sylvia Hanika, Claudia Kohde Kilsch
+Irene Schultz, Anne Chevalier
+Katja Ebbinghaus, Annina Von Planta
+Sabina Simmonds, Agnes Figueras
+Elisabeth Ekblom, Monica Simmen
+Petra Delhees Jauch, Edith Winkens
+Lena Jacobsson,  Thompson
+Heidi Eisterlehner, Lena Sandin
+Sylvia Hanika, Irene Schultz
+Sabina Simmonds, Katja Ebbinghaus
+Petra Delhees Jauch, Elisabeth Ekblom
+Heidi Eisterlehner, Lena Jacobsson
+Sylvia Hanika, Sabina Simmonds
+Heidi Eisterlehner, Petra Delhees Jauch
+Sylvia Hanika, Heidi Eisterlehner
+Martina Navratilova, Greer Stevens
+Virginia Wade, Dianne Fromholtz
+Chris Evert, Sue Barker
+Tracy Austin, Wendy Turnbull
+Martina Navratilova, Virginia Wade
+Tracy Austin, Chris Evert
+Dianne Fromholtz, Greer Stevens
+Sue Barker, Wendy Turnbull
+Dianne Fromholtz, Chris Evert
+Sue Barker, Virginia Wade
+Martina Navratilova, Sue Barker
+Tracy Austin, Dianne Fromholtz
+Martina Navratilova, Tracy Austin
+Sue Barker, Dianne Fromholtz
+Dianne Fromholtz, Martina Navratilova
+Chris Evert, Tracy Austin
+Chris Evert, Dianne Fromholtz
+Tracy Austin, Kerry Reid
+Kerry Reid, Beth Norton
+Kym Ruddell, Nancy Ornstein
+Barbara Hallquist, Marita Redondo
+Renata Tomanova, Marcie Louie
+Karen Susman, Stacy Margolin
+Jean Hepner, Kathy Obrien
+Terry Holladay, Renee Richards
+Laura Dupont, Alycia Moulton
+Betsy Nagelsen, Rene Blount
+Sandy Stap, Marjorie Blackwood
+Valerie Ziegenfuss, Heidi Eisterlehner
+Sue Barker, Kate Latham
+Diane Desfor, Mary Struthers
+Maria Fernandez, Dana Gilbert
+Mareen Louie Harper, Paula Smith
+Regina Marsikova, Diane Morrison
+Kerry Reid, Kym Ruddell
+Barbara Hallquist, Renata Tomanova
+Karen Susman, Jean Hepner
+Laura Dupont, Terry Holladay
+Betsy Nagelsen, Sandy Stap
+Sue Barker, Valerie Ziegenfuss
+Maria Fernandez, Diane Desfor
+Regina Marsikova, Mareen Louie Harper
+Kerry Reid, Barbara Hallquist
+Karen Susman, Laura Dupont
+Sue Barker, Betsy Nagelsen
+Maria Fernandez, Regina Marsikova
+Kerry Reid, Karen Susman
+Sue Barker, Maria Fernandez
+Kerry Reid, Sue Barker
+Helga Masthoff, Christiane Jolissaint
+Pam Whytcross, Brenda Perry
+Chris Oneil, Carmen Perea Alcala
+Marcella Mesker, Deborah Jevans
+Daniela Marzano, Brigitte Simon Glinel
+Iris Riedel Kuhn, Anne Chevalier
+Petra Delhees Jauch, Jean Nachand
+Gail Sherriff, Maria Victoria Baldovinos Cibeira
+Sabina Simmonds, Caroline Franch
+Jutta Diesslin, Elisabeth Ekblom
+Michele Gurdal, Dominique Beillan
+Anne Hobbs, Elly Appel
+Katja Ebbinghaus, Michelle Tyler
+Jo Durie, Lea Antonoplis
+Frederique Thibault, Kate Brasher
+Helga Masthoff, Pam Whytcross
+Chris Oneil, Marcella Mesker
+Daniela Marzano, Iris Riedel Kuhn
+Petra Delhees Jauch, Gail Sherriff
+Sabina Simmonds, Jutta Diesslin
+Michele Gurdal, Pascale Bonneteau
+Anne Hobbs, Katja Ebbinghaus
+Frederique Thibault, Jo Durie
+Helga Masthoff, Chris Oneil
+Petra Delhees Jauch, Daniela Marzano
+Sabina Simmonds, Michele Gurdal
+Frederique Thibault, Anne Hobbs
+Helga Masthoff, Petra Delhees Jauch
+Frederique Thibault, Sabina Simmonds
+Helga Masthoff, Frederique Thibault
+Helga Masthoff, Lea Antonoplis
+Frederique Thibault, Daniela Marzano
+Brigitte Simon Glinel, Iris Riedel Kuhn
+Elena Granaturovna, Katja Ebbinghaus
+Michelle Tyler, Anne Chevalier
+Helga Masthoff, Frederique Thibault
+Brigitte Simon Glinel, Michele Gurdal
+Petra Delhees Jauch, Elena Granaturovna
+Sabina Simmonds, Michelle Tyler
+Helga Masthoff, Brigitte Simon Glinel
+Sabina Simmonds, Petra Delhees Jauch
+Helga Masthoff, Sabina Simmonds
+Linda Mottram, Debbie Parker
+Corinne Molesworth, Anthea Stewart
+Belinda Thompson, Veronica Burton
+Jo Durie, Deborah Jevans
+Linda Mottram, Corinne Molesworth
+Jo Durie, Belinda Thompson
+Jo Durie, Linda Mottram
+Jo Durie, Jackie Fayter
+Mary Carillo, Belinda Thompson
+Tine Zwaan, Anthea Stewart
+Wendy Gilchrist, Linda Mottram
+Mary Carillo, Jo Durie
+Tine Zwaan, Wendy Gilchrist
+Mary Carillo, Tine Zwaan
+Jackie Reardon, Linda Mottram
+Veronica Burton, Debbie Morgan
+Joyce Williams, B Harris
+Pascale Bonneteau, Anne Chevalier
+Belinda Thompson, Sonia Davies
+Jenny Walker, Cathy Griffiths
+Martine Bureau, Cathy Drury
+Jo Durie, Brenda Perry
+Sue Saliba, Kiyoko Nomura
+Elizabeth Little, Keryn Pratt
+Emilse Raponi Longo, Corinne Molesworth
+Mary Carillo, Rosalyn Fairbank
+Deborah Jevans, Kate Brasher
+Diane Morrison, Wendy Gilchrist
+Lisette Senn, Leanne Harrison Austin
+Kaye Hallam, Mary Sawyer
+Veronica Burton, Jackie Reardon
+Joyce Williams, Pascale Bonneteau
+Jenny Walker, Belinda Thompson
+Jo Durie, Martine Bureau
+Sue Saliba, Elizabeth Little
+Mary Carillo, Emilse Raponi Longo
+Deborah Jevans, Diane Morrison
+Kaye Hallam, Lisette Senn
+Joyce Williams, Veronica Burton
+Jenny Walker, Jo Durie
+Mary Carillo, Sue Saliba
+Deborah Jevans, Kaye Hallam
+Joyce Williams, Jenny Walker
+Deborah Jevans, Mary Carillo
+Deborah Jevans, Joyce Williams
+Martina Navratilova, Terry Holladay
+Kathy May, Rosie Casals
+Betty Stove, Stacy Margolin
+Tracy Austin, Laura Dupont
+Martina Navratilova, Kathy May
+Tracy Austin, Betty Stove
+Martina Navratilova, Tracy Austin
+Mary Carillo, Lesley Charles
+Pascale Bonneteau, Linda Geeves
+Lisette Senn, Gail Joss
+Diane Morrison, Wendy Gilchrist
+Deborah Jevans, Kate Brasher
+Anne Chevalier, Fumiko Furuhashi
+Corinne Molesworth, Keryn Pratt
+Veronica Burton, Kiyoko Nomura
+Rosalyn Fairbank, Agnes Figueras
+Brenda Perry, Cathy Drury
+Florence Guedy, Cathy Griffiths
+Jane Preyer, Martine Bureau
+Jenny Walker, Tina Heath
+Emilse Raponi Longo, Belinda Thompson
+Elizabeth Little, Penny Moor
+Jo Durie, Kaye Hallam
+Mary Carillo, Pascale Bonneteau
+Diane Morrison, Lisette Senn
+Deborah Jevans, Anne Chevalier
+Corinne Molesworth, Veronica Burton
+Rosalyn Fairbank, Brenda Perry
+Jane Preyer, Florence Guedy
+Jenny Walker, Emilse Raponi Longo
+Elizabeth Little, Jo Durie
+Diane Morrison, Mary Carillo
+Corinne Molesworth, Deborah Jevans
+Rosalyn Fairbank, Jane Preyer
+Jenny Walker, Elizabeth Little
+Diane Morrison, Corinne Molesworth
+Rosalyn Fairbank, Jenny Walker
+Diane Morrison, Rosalyn Fairbank
+Mary Carillo, Cathy Griffiths
+Martine Bureau, Tina Heath
+Kiyoko Nomura, Anne Chevalier
+Elizabeth Little, Linda Geeves
+Jenny Walker, Belinda Thompson
+Nina Bland, Debbie Parker
+Brenda Perry, Jenny Walpole
+Jo Durie, Penny Moor
+Corinne Molesworth, Agnes Figueras
+Keryn Pratt, Karen Feldman
+Cathy Drury, Lisette Senn
+Diane Morrison, Fumiko Furuhashi
+Rosalyn Fairbank, Pascale Bonneteau
+Jane Preyer, Wendy Gilchrist
+Florence Guedy, Kaye Hallam
+Veronica Burton, Deborah Jevans
+Mary Carillo, Martine Bureau
+Kiyoko Nomura, Elizabeth Little
+Jenny Walker, Nina Bland
+Jo Durie, Brenda Perry
+Corinne Molesworth, Keryn Pratt
+Diane Morrison, Cathy Drury
+Rosalyn Fairbank, Jane Preyer
+Veronica Burton, Florence Guedy
+Mary Carillo, Kiyoko Nomura
+Jo Durie, Jenny Walker
+Corinne Molesworth, Diane Morrison
+Rosalyn Fairbank, Veronica Burton
+Jo Durie, Mary Carillo
+Rosalyn Fairbank, Corinne Molesworth
+Jo Durie, Rosalyn Fairbank
+Susan Mascarin, Bunny Bruning
+Susan Mascarin, Renee Richards
+Mary Carillo, Brenda Perry
+Corinne Molesworth, Kiyoko Nomura
+Deborah Jevans, Kaye Hallam
+Jenny Walker, Florence Guedy
+Belinda Thompson, Veronica Burton
+Keryn Pratt, Rosalyn Fairbank
+Pascale Bonneteau, Elizabeth Little
+Wendy Gilchrist, Lisette Senn
+Mary Carillo, Corinne Molesworth
+Deborah Jevans, Jenny Walker
+Wendy Gilchrist, Pascale Bonneteau
+Belinda Thompson, Keryn Pratt
+Mary Carillo, Deborah Jevans
+Belinda Thompson, Wendy Gilchrist
+Mary Carillo, Belinda Thompson
+Cathy Drury, S Martin
+Judy Erskine, A Rolleston
+Helen Luscombe, Jill Hamilton
+Susan Leo, Barb Francis
+Debbie Freeman, S Burton
+Jenny Walpole, Sheila Moodie
+Susan Tebbutt, Kathy Keating
+Clare Harrison, Pamela Bailey
+Florenta Mihai, Nancy Harris
+Margaret Redfearn, J Bland
+Annette Coe, D Dimmer
+Cilla Van Der Walt, L Miller
+Cindy Ursich, Leanne Harrison Austin
+Iris Thompson, Ann Paul
+Cathy Drury, Judy Erskine
+Susan Leo, Helen Luscombe
+Jenny Walpole, Debbie Freeman
+Clare Harrison, Susan Tebbutt
+B Harris, Wendy Pearson
+Nina Bland, L Munro
+Sue Chancellor, Ruth Seeman
+Marjorie Love, Gail Joss
+Kaye Hallam, K Avis
+Lesley Charles, E Robb
+Florenta Mihai, Margaret Redfearn
+Cilla Van Der Walt, Annette Coe
+Cindy Ursich, Iris Thompson
+Susan Leo, Cathy Drury
+Jenny Walpole, Clare Harrison
+Nina Bland, B Harris
+Marjorie Love, Sue Chancellor
+Lesley Charles, Kaye Hallam
+Florenta Mihai, Cilla Van Der Walt
+Susan Leo, Cindy Ursich
+Nina Bland, Jenny Walpole
+Lesley Charles, Marjorie Love
+Susan Leo, Florenta Mihai
+Nina Bland, Lesley Charles
+Susan Leo, Nina Bland
+Evonne Goolagong, Nancy Weigel
+Rosalyn Fairbank, Belinda Thompson
+Claudia Casabianca, Elizabeth Locke
+Florenta Mihai, Lisette Senn
+Kate Latham, Amreeta Ahluwalia
+Raquel Giscafre, Nerida Gregory
+Sabina Simmonds, Lucia Romanov
+Jean Nachand, Cathy Griffiths
+Yvonne Vermaak, Jane Stratton
+Kiyoko Nomura, Karen Feldman
+Diane Parker, Jane Preyer
+Naoko Sato, Patricia Bostrom
+Lea Antonoplis, Birgitte Hermansen
+Mariette Pakker, Jo Durie
+Anthea Stewart, Mary Sawyer
+Elizabeth Little, Kaye Hallam
+Mary Carillo, Brenda Perry
+Sue Saliba, Leanne Harrison Austin
+Tanya Harford, Penny Moor
+Viviana Gonzalez, Glaucia Langela
+Jackie Fayter, Suthasini Sirikaya
+Diane Morrison, Deborah Jevans
+Andrea Whitmore, Michele Gurdal
+Michelle Tyler, Marjorie Blackwood
+Kay Mcdaniel, Jenny Walker
+Judy Chaloner, Wendy Gilchrist
+Brigette Cuypers, Lesley Charles
+Betsy Nagelsen, Kym Ruddell
+Keryn Pratt, Adriana Villagran Reami
+Silvana Urroz, Glynis Coles
+Nancy Yeargin, Amanda Tobin
+Pam Shriver, Kim Sands
+Evonne Goolagong, Rosalyn Fairbank
+Florenta Mihai, Claudia Casabianca
+Kate Latham, Raquel Giscafre
+Sabina Simmonds, Jean Nachand
+Yvonne Vermaak, Kiyoko Nomura
+Naoko Sato, Diane Parker
+Lea Antonoplis, Mariette Pakker
+Anthea Stewart, Elizabeth Little
+Mary Carillo, Sue Saliba
+Tanya Harford, Viviana Gonzalez
+Diane Morrison, Jackie Fayter
+Michelle Tyler, Andrea Whitmore
+Kay Mcdaniel, Judy Chaloner
+Betsy Nagelsen, Brigette Cuypers
+Keryn Pratt, Silvana Urroz
+Pam Shriver, Nancy Yeargin
+Evonne Goolagong, Florenta Mihai
+Kate Latham, Sabina Simmonds
+Yvonne Vermaak, Naoko Sato
+Lea Antonoplis, Anthea Stewart
+Tanya Harford, Mary Carillo
+Michelle Tyler, Diane Morrison
+Betsy Nagelsen, Kay Mcdaniel
+Pam Shriver, Keryn Pratt
+Evonne Goolagong, Kate Latham
+Yvonne Vermaak, Lea Antonoplis
+Tanya Harford, Michelle Tyler
+Pam Shriver, Betsy Nagelsen
+Evonne Goolagong, Yvonne Vermaak
+Pam Shriver, Tanya Harford
+Evonne Goolagong, Pam Shriver
+Fiona Moffitt, S Burton
+Annette Coe, B Chapman
+D Gale, Barb Francis
+Anne Chevalier, Susan Tebbutt
+Iris Thompson, Margaret Redfearn
+Marcella Mesker, Dominique Beillan
+Chris Newton, Barbara Downs
+V Zahri, Helen Luscombe
+Cathy Drury, B Harris
+Jeske Van Erven, Gail Joss
+Kaye Hallam, Nancy Harris
+Jennifer Fenwick, K Avis
+Sue Barker, Fiona Moffitt
+Annette Coe, Pamela Bailey
+Anne Chevalier, D Gale
+Cynthia Doerner, Jane Plackett
+Ivanna Madruga, Iris Thompson
+Clare Harrison, Cindy Ursich
+Cilla Van Der Walt, S Martin
+Pam Whytcross, Linda Geeves
+Marcella Mesker, Julie Harrington
+Chris Newton, Denise Parnell
+Corinne Molesworth, Judy Rich
+Sharon Walsh Pete, Kathy Keating
+Tine Zwaan, V Zahri
+Cathy Drury, Jeske Van Erven
+Kaye Hallam, Jennifer Fenwick
+Anne Hobbs, Lucia Romanov
+Sue Barker, Annette Coe
+Cynthia Doerner, Anne Chevalier
+Clare Harrison, Ivanna Madruga
+Cilla Van Der Walt, Pam Whytcross
+Marcella Mesker, Chris Newton
+Sharon Walsh Pete, Corinne Molesworth
+Tine Zwaan, Cathy Drury
+Anne Hobbs, Kaye Hallam
+Sue Barker, Cynthia Doerner
+Clare Harrison, Cilla Van Der Walt
+Sharon Walsh Pete, Marcella Mesker
+Anne Hobbs, Tine Zwaan
+Sue Barker, Clare Harrison
+Anne Hobbs, Sharon Walsh Pete
+Sue Barker, Anne Hobbs
+Cynthia Doerner, Christiane Jolissaint
+Chris Newton, Cathy Griffiths
+Lesley Charles, Nerida Gregory
+Patti Hogan, Fiona Moffitt
+Judy Chaloner, Jennifer Mundel
+Jean Nachand, Nancy Harris
+Mary Sawyer, J Bland
+Winnie Shaw, Nina Bland
+Cathy Drury, Susan Rollinson
+Kym Ruddell, Amreeta Ahluwalia
+Sue Saliba, V Zahri
+Pam Whytcross, Isabelle Villiger
+Corinne Molesworth, Jeske Van Erven
+Silvana Urroz, Clare Harrison
+Leanne Harrison Austin, Susan Tebbutt
+Amanda Tobin, Micky Albers
+Cynthia Doerner, Chris Newton
+Lesley Charles, Patti Hogan
+Judy Chaloner, Jean Nachand
+Mary Sawyer, Winnie Shaw
+Kym Ruddell, Cathy Drury
+Sue Saliba, Pam Whytcross
+Corinne Molesworth, Silvana Urroz
+Leanne Harrison Austin, Amanda Tobin
+Cynthia Doerner, Lesley Charles
+Judy Chaloner, Mary Sawyer
+Kym Ruddell, Sue Saliba
+Corinne Molesworth, Leanne Harrison Austin
+Cynthia Doerner, Judy Chaloner
+Kym Ruddell, Corinne Molesworth
+Cynthia Doerner, Kym Ruddell
+Genevieve Greiwe, Maria Rothschild
+Nancy Ornstein, Kim Jones
+Barbara Hambridge, Julie Filkoff
+Kathy Obrien, Nancy Ornstein
+Kathy Obrien, Barbara Hambridge
+Sue Barker, Tanya Harford
+Andrea Whitmore, Raquel Giscafre
+Barbara Jordan, Debbie Parker
+Betsy Nagelsen, Belinda Thompson
+Barbara Hallquist, Naoko Sato
+Anthea Stewart, Alycia Moulton
+Kate Latham, Jane Stratton
+Judy Chaloner, Dana Gilbert
+Brigette Cuypers, Hana Strachonova
+Corinne Molesworth, Kaye Hallam
+Kay Mcdaniel, Lea Antonoplis
+Michelle Tyler, Kym Ruddell
+Lesley Charles, Rene Blount
+Leslie Allen, Jackie Fayter
+Dianne Evers, Nancy Yeargin
+Sue Barker, Patricia Bostrom
+Pam Whytcross, Andrea Whitmore
+Wendy White, Barbara Jordan
+Anne Hobbs, Betsy Nagelsen
+Yvonne Vermaak, Barbara Hallquist
+Brenda Perry, Mariette Pakker
+Jo Louis, Anthea Stewart
+Kate Latham, Kim Sands
+Diane Morrison, Judy Chaloner
+Sabina Simmonds, Brigette Cuypers
+Corinne Molesworth, Nerida Gregory
+Kay Mcdaniel, Marjorie Blackwood
+Silvana Urroz, Michelle Tyler
+Jo Durie, Lesley Charles
+Diane Desfor, Leslie Allen
+Stacy Margolin, Dianne Evers
+Sue Barker, Pam Whytcross
+Anne Hobbs, Wendy White
+Yvonne Vermaak, Brenda Perry
+Kate Latham, Jo Louis
+Sabina Simmonds, Diane Morrison
+Kay Mcdaniel, Corinne Molesworth
+Jo Durie, Silvana Urroz
+Stacy Margolin, Diane Desfor
+Sue Barker, Anne Hobbs
+Kate Latham, Yvonne Vermaak
+Sabina Simmonds, Kay Mcdaniel
+Jo Durie, Stacy Margolin
+Sue Barker, Kate Latham
+Sabina Simmonds, Jo Durie
+Sue Barker, Sabina Simmonds
+Helena Anliot, Sandy Collins
+Helga Masthoff, Nina Bohm
+Cathy Drury, Mary Sawyer
+Pam Whytcross, Naoko Sato
+Pam Whytcross, Cathy Drury
+Susan Hagey, Trey Lewis
+Petra Delhees Jauch, Patricia Medrado
+Dianne Evers, Karin Stampfli
+Heidi Eisterlehner, Silvana Urroz
+Yvona Brzakova, Hana Strachonova
+Petra Delhees Jauch, Dianne Evers
+Yvona Brzakova, Heidi Eisterlehner
+Petra Delhees Jauch, Yvona Brzakova
+Nancy Ornstein, Felicia Hutnick
+Maria Rothschild, Lisa Doherty
+Nancy Ornstein, Maria Rothschild
+Winnie Shaw, Jenny Walpole
+A Arnott, J Leach
+Linda Geeves, C Lindsay
+Sheila Moodie, Ruth Pullar Lothian
+D Boothman, A Brotherston
+J Mcmurtrie, I Stadele
+Debbie Parker, Jane Plackett
+Jean Nachand, K Allen
+Lea Antonoplis, P Henry
+Judy Erskine, Mrs Mcintosh
+Winnie Shaw, A Arnott
+Linda Geeves, Sheila Moodie
+J Mcmurtrie, D Boothman
+Debbie Parker, Jean Nachand
+Anne Tripp, G Livingstone
+Joyce Williams, A Douglas
+Lea Antonoplis, Judy Erskine
+Winnie Shaw, Linda Geeves
+Debbie Parker, J Mcmurtrie
+Joyce Williams, Anne Tripp
+Lea Antonoplis, Winnie Shaw
+Joyce Williams, Debbie Parker
+Lea Antonoplis, Joyce Williams
+Lea Plchova, Katerina Bohmova
+Andrea Jaeger, Wendy Barlow
+Susie Jaeger, Andrea Jaeger
+Mary Sawyer, Sheila Mcinerney
+Paula Smith, Susie Jaeger
+Paula Smith, Mary Sawyer
+Sabina Simmonds, Sandy Collins
+Jenny Langstaff, R Jafarey
+M Obrien, W Wamaiwa
+Julia Lloyd, H Haddon
+Kim Hotston, J Lonsdale
+A Rolleston, Karen Garman
+Allison Hill, H Soobryan
+Julie Willson, D Gale
+Ann Birchall, J Baldwin
+Ellinore Lightbody, Helen Luscombe
+S Wall, Kate Turton
+Lesley Romley, Iris Thompson
+D Littleton, S Martin
+S Gooch Harris, S Matthews
+Annette Coe, Sue Smedley
+Julie Walpole, Denise Parnell
+P Bland, M Burrows
+T Cliff, E Lonsdale
+Cathy Drury, J Wakhungu
+Corinne Molesworth, Pamela Yates
+J Cox, Suthasini Sirikaya
+Judy Rich, Anne Tripp
+Jenny Langstaff, M Obrien
+Julia Lloyd, Kim Hotston
+Allison Hill, A Rolleston
+Julie Willson, Ann Birchall
+Ellinore Lightbody, S Wall
+Lesley Romley, D Littleton
+Annette Coe, S Gooch Harris
+Julie Walpole, P Bland
+Cathy Drury, T Cliff
+A Steiger, E Rushoy
+Jill Cottrell, Jo Smedley
+Elizabeth Locke, Jenny Blezzard
+Ann Jones, A Bradley
+Corinne Molesworth, J Cox
+Judy Rich, Jenny Langstaff
+Julia Lloyd, Allison Hill
+Ellinore Lightbody, Julie Willson
+Annette Coe, Lesley Romley
+Cathy Drury, Julie Walpole
+Jill Cottrell, A Steiger
+Ann Jones, Elizabeth Locke
+Corinne Molesworth, Judy Rich
+Julia Lloyd, Ellinore Lightbody
+Annette Coe, Cathy Drury
+Ann Jones, Jill Cottrell
+Corinne Molesworth, Julia Lloyd
+Annette Coe, Ann Jones
+Corinne Molesworth, Annette Coe
+Elisabeth Ekblom, Dominique Beillan
+Nina Bohm, Helena Anliot
+Lena Sandin, Chris Oneil
+Elly Appel, Mimi Wikstedt
+Elisabeth Ekblom, Nina Bohm
+Lena Sandin, Elly Appel
+Elisabeth Ekblom, Lena Sandin
+Lea Plchova, Hana Kopeckova
+Virginia Ruzici, Dianne Evers
+Helena Anliot, Iris Riedel Kuhn
+Hana Mandlikova, Heidi Eisterlehner
+Sylvia Hanika, Yvona Brzakova
+Helena Anliot, Virginia Ruzici
+Hana Mandlikova, Elly Appel
+Sylvia Hanika, Iva Budarova
+Regina Marsikova, Irene Schultz
+Hana Mandlikova, Helena Anliot
+Sylvia Hanika, Regina Marsikova
+Hana Mandlikova, Sylvia Hanika
+Billie Jean King, Ivanna Madruga
+Evonne Goolagong, Emilse Raponi Longo
+Virginia Wade, Viviana Gonzalez
+Martina Navratilova, Claudia Casabianca
+Martina Navratilova, Evonne Goolagong
+Billie Jean King, Virginia Wade
+Martina Navratilova, Billie Jean King
+Evonne Goolagong, Virginia Wade
+Sheila Mcinerney, Kate Brasher
+Trey Lewis, Felicia Hutnick
+Trey Lewis, Sheila Mcinerney
+Brigitte Simon Glinel, Sandy Collins
+Lea Plchova, Frederique Thibault
+Brigitte Simon Glinel, V Brown
+Sandy Collins, Susana Maria Villaverde
+Maria Teresa Nasuelli, Carmen Perea Alcala
+Liliana Giussani, Maria Victoria Baldovinos Cibeira
+Sabina Simmonds, Marcella Mesker
+Mimi Wikstedt, Jeske Van Erven
+Chris Oneil, Nora Blom
+Adriana Villagran Reami, Anne Marie Ruegg
+Brigitte Simon Glinel, Sandy Collins
+Liliana Giussani, Maria Teresa Nasuelli
+Sabina Simmonds, Mimi Wikstedt
+Adriana Villagran Reami, Chris Oneil
+Brigitte Simon Glinel, Liliana Giussani
+Adriana Villagran Reami, Sabina Simmonds
+Brigitte Simon Glinel, Isabelle Villiger
+Janet Newberry, Kym Ruddell
+Nancy Ornstein, Mary Sawyer
+Joanne Russell, Jenny Gardiner
+Laurie Fleming, Paula Smith
+Janet Newberry, Nancy Ornstein
+Joanne Russell, Laurie Fleming
+Joanne Russell, Janet Newberry
+Manuela Zoni, Lea Plchova
+Olga Morozova, Lucia Romanov
+Hana Mandlikova, Natasha Chmyreva
+Olga Morozova, Hana Mandlikova
+Sylvia Hanika, Iris Riedel Kuhn
+Sabina Simmonds, Carmen Perea Alcala
+Elly Appel, Marcella Mesker
+Kay Mcdaniel, Deborah Jevans
+Glynis Coles, Rene Blount
+Roberta Mccallum, Lele Forood
+Paula Smith, Joanne Russell
+Florenta Mihai, Janet Newberry
+Paula Smith, Glynis Coles
+Roberta Mccallum, Mimi Wikstedt
+Sue Barker, Mary Carillo
+Jane Stratton, Florenta Mihai
+Roberta Mccallum, Kay Mcdaniel
+Renee Richards, Paula Smith
+Sue Barker, Jane Stratton
+Renee Richards, Roberta Mccallum
+Sue Barker, Renee Richards
+Lena Sandin, Belinda Thompson
+Shirley Bloomer, Belinda Thompson
+Betsy Nagelsen, Jean Nachand
+Mary Sawyer, Kayoko Fukuoka
+Yu Li Chiao, Manako Tanguchi
+Michele Gurdal, Paula Coulter
+Cynthia Doerner, Sonoe Yonezawa
+Betsy Nagelsen, Kiyoko Nomura
+Mary Sawyer, Sue Saliba
+Naoko Sato, Yu Li Chiao
+Cynthia Doerner, Michele Gurdal
+Betsy Nagelsen, Mary Sawyer
+Naoko Sato, Cynthia Doerner
+Betsy Nagelsen, Naoko Sato
+Lena Sandin, Iva Budarova
+Betsy Nagelsen, Kiyoko Nomura
+Jean Nachand, Michele Gurdal
+Fumiko Furuhashi, Andrea Whitmore
+Sue Saliba, Michiko Saji
+Yu Li Chiao, Mary Sawyer
+Chen Chuan, C Teshima
+Marcie Louie, Nasayo Horio
+Kym Ruddell, Paula Coulter
+Yolanda Sumarno, R Chlongbian
+Penny Johnson, Ikuko Shibata
+Cynthia Doerner, Lili Bell
+Betsy Nagelsen, Jean Nachand
+Sue Saliba, Fumiko Furuhashi
+Sonoe Yonezawa, Yolanda Sumarno
+Naoko Sato, Cynthia Doerner
+Betsy Nagelsen, Sue Saliba
+Naoko Sato, Sonoe Yonezawa
+Betsy Nagelsen, Naoko Sato
+Chris Evert, Sue Barker
+Kathy Jordan, Anne Hobbs
+Tracy Austin, Virginia Wade
+Tracy Austin, Sue Barker
+Chris Evert, Virginia Wade
+Marise Kruger, Francoise Durr
+Bettina Bunge, Greer Stevens
+Andrea Jaeger, Bettina Bunge
+Marise Kruger, Gail Joss
+Helen Moore, Marion Lloyd Wronsley
+Rene Uys, Alana Bakos
+Lesley Charles, Wilma Smit
+Alison Mcmillan, Ianthe Cunningham
+Susan Rollinson, Belinda Thompson
+Gwynn Sammel, Lise Gregory
+Brigette Cuypers, Niekle Scheepers
+Tanya Harford, Anita Summers
+Pat Rollinson, Silvana Urroz
+Lorna Zietsman, Ingrid Reynecke
+Elizabeth Vlotman, Michelle Depalmer
+Francoise Durr, Marion De Witte
+Jennifer Mundel, Elana Smukler
+Annelise Muller, Lana Marks
+Yvonne Vermaak, Estelle Montgomery
+Marise Kruger, Helen Moore
+Lesley Charles, Rene Uys
+Alison Mcmillan, Pat Rollinson
+Brigette Cuypers, Gwynn Sammel
+Tanya Harford, Pat Rollinson
+Elizabeth Vlotman, Lorna Zietsman
+Jennifer Mundel, Francoise Durr
+Yvonne Vermaak, Annelise Muller
+Marise Kruger, Lesley Charles
+Brigette Cuypers, Alison Mcmillan
+Tanya Harford, Elizabeth Vlotman
+Yvonne Vermaak, Jennifer Mundel
+Brigette Cuypers, Marise Kruger
+Tanya Harford, Yvonne Vermaak
+Brigette Cuypers, Tanya Harford
+Nina Bohm, Lena Jacobsson
+Elisabeth Ekblom, Vivicca Andersson
+Anne Chevalier, Berit Bjork
+Iva Budarova, Lotta Stenberg
+Nina Bohm, Elisabeth Ekblom
+Iva Budarova, Anne Chevalier
+Iva Budarova, Nina Bohm
+Iva Budarova, Catarina Lindqvist Ryan
+Elisabeth Ekblom, Asa Flodin
+Marcela Skuherska, Anne Chevalier
+Nina Bohm, Vivicca Andersson
+Iva Budarova, Elisabeth Ekblom
+Nina Bohm, Marcela Skuherska
+Iva Budarova, Nina Bohm
+Iva Budarova, Lotta Stenberg
+Elisabeth Ekblom, Helena Anliot
+Marcela Skuherska, Catrin Jexell
+Corinne Vanier, Nina Bohm
+Iva Budarova, Elisabeth Ekblom
+Corinne Vanier, Marcela Skuherska
+Iva Budarova, Corinne Vanier
+Lesley Charles, Michelle Depalmer
+Sue Barker, Sue Saliba
+Anne Hobbs, Dianne Evers
+Janet Newberry, Cynthia Doerner
+Pam Shriver, Judy Chaloner
+Hana Mandlikova, Diane Morrison
+Jill Davis, Rene Blount
+Susan Leo, Naoko Sato
+Renata Tomanova, Mimi Wikstedt
+Roberta Mccallum, Sherry Acker
+Barbara Jordan, Sharon Walsh Pete
+Marcella Mesker, Barbara Hallquist
+Betty Ann Grubb, Rosalyn Fairbank
+Bettina Bunge, Christiane Jolissaint
+Diane Desfor, Petra Delhees Jauch
+Chris Oneil, Nerida Gregory
+Virginia Ruzici, Rayni Fox
+Sue Barker, Anne Hobbs
+Pam Shriver, Janet Newberry
+Hana Mandlikova, Jill Davis
+Susan Leo, Renata Tomanova
+Roberta Mccallum, Barbara Jordan
+Betty Ann Grubb, Marcella Mesker
+Diane Desfor, Bettina Bunge
+Virginia Ruzici, Chris Oneil
+Sue Barker, Pam Shriver
+Hana Mandlikova, Susan Leo
+Betty Ann Grubb, Roberta Mccallum
+Virginia Ruzici, Diane Desfor
+Hana Mandlikova, Sue Barker
+Virginia Ruzici, Betty Ann Grubb
+Hana Mandlikova, Virginia Ruzici
+Iva Budarova, Vivicca Andersson
+Elisabeth Ekblom, Anne Chevalier
+Marcela Skuherska, Corinne Vanier
+Nina Bohm, Catrin Jexell
+Iva Budarova, Elisabeth Ekblom
+Nina Bohm, Marcela Skuherska
+Marcela Skuherska, Elisabeth Ekblom
+Nina Bohm, Iva Budarova
